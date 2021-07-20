@@ -2,6 +2,18 @@
 
 I am a former teacher working my way into software development. I am learning Ruby, Rails, and a healthy dose of computer science.
 
+## Overview
+
+- [Objections](#objections) ✅
+- [Preliminaries](#preliminaries) ✅
+- [Frontend basics](#frontend-basics) ✅
+- [Ruby](#ruby) ✅
+- [Rails](#rails) *(just started)*
+- [Other essentials](#other-essentials)
+- [Polish up my Ruby](#polish-up-my-ruby)
+- [Meanwhile, computer science](#meanwhile-computer-science) *(~30%)*
+- [Other programming/CS resource lists](#other-programmingcs-resource-lists)
+
 ## Objections
 
 *Why Ruby?? Isn't JavaScript the obvious choice for web development?* Ruby is a good first language to master because its ecosystem is stable, the community is experienced, and for me Ruby is very enjoyable to write. Not convinced? [Read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
@@ -57,10 +69,11 @@ So without further ado, here are my recommendations from what I studied. Resourc
   - [ ] A Rails API + a separate frontend, maybe React so that I'm familiar with it.
 - [ ] **Deployment:** [Deployment from Scratch](https://deploymentfromscratch.com/) and [Deploying Rails Applications](https://leanpub.com/deploying_rails_applications).
 
-## Other essentials:
+## Other essentials
 
 - [ ] **Git:** [Introduction to Git and GitHub](https://launchschool.com/books/git) and [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] **Linux:** [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [ ] **Intro to professional experience:**
   - [ ] Contribute to open source projects. ⭐[First Timers Only](https://www.firsttimersonly.com/) is a good place to start.
   - [ ] Volunteer through ⭐[Ruby for Good](https://rubyforgood.org/)?
@@ -107,7 +120,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
 - [ ] **Software architecture:** [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [ ] **Databases:** ⭐[Readings in Database Systems](http://www.redbook.io/)
 - [ ] **Compilers:** ⭐[Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] **Math:** [Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, to be outlined in a future post.
+- [ ] **Math:** [Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
 - [ ] **Algorithms II:** [The Algorithm Design Manual (Skiena)](https://www.algorist.com/)
   - [ ] for even more: [Algorithm Design (Kleinberg & Tardos)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [ ] **??:** ⭐[Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). I'm still not sure what exactly this book is about (reading the first few pages only discouraged me from looking further) but it is an often-recommended introductory text on "programming". So, maybe someday I will learn this "programming", after I've learned the less intimidating stuff (all of the above).
