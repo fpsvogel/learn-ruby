@@ -8,10 +8,10 @@ I am a former teacher working my way into software development. I am learning Ru
 - [Preliminaries](#preliminaries) ✅
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
-- [Rails](#rails) *(just started)*
+- [Rails](#rails) *(~5% finished)*
 - [Other essentials](#other-essentials)
-- [Polish up my Ruby](#polish-up-my-ruby)
-- [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
+- [Ruby 'casts](#ruby-casts)
+- [Meanwhile, computer science](#meanwhile-computer-science) *(~35% finished)*
 - [Other programming/CS resource lists](#other-programmingcs-resource-lists)
 
 ## Objections
@@ -46,48 +46,73 @@ So without further ado, here are my recommendations from what I studied. Resourc
   - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
   - Join a local [Ruby meetup](https://www.meetup.com/topics/ruby/all/) and/or [Rails meetup](https://www.meetup.com/topics/ruby-on-rails/all/)
 - [x] **Basics:** [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) or ⭐[The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
-- [x] **Guided practice:** ⭐[Exercism](https://exercism.io/my/tracks/ruby), then ⭐[CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and [write up a reflection](https://fpsvogel.com/posts/2020/exercism-ruby) at the end.
-- [x] **OOP:** [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then [99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other books, these are worth the price tag.
-- [x] **Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
+- [x] **Guided practice:** ⭐[Exercism](https://exercism.io/my/tracks/ruby), then ⭐[CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+- [x] **OOP:** [Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then [99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
+- [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
 - [x] **Design patterns:** [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/). Also ⭐[Refactoring.Guru](https://refactoring.guru/) for a catalog of code smells, refactoring recipes, and design patterns.
-- [x] **Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with ⭐[Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join their Discord server](https://discord.gg/Cugms94QFM).
+- [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with ⭐[Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join their Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
 ## Rails
 
-Needless to say, I'm building toy Rails apps as I go through the resources below.
+Here's a way to avoid "tutorial hell": in addition to following the steps in each tutorial to copy their app, take some time after each tutorial to turn that new knowledge into skill by building or expanding a Rails app of your own design.
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/rails)
   - [Discord](https://discord.gg/AuDNwjsyfm)
   - [Slack](https://www.rubyonrails.link/)
-- [ ] **Basics:**
-  - [ ] ⭐[Rails for Beginners](https://gorails.com/series/rails-for-beginners)
-  - [ ] ⭐[The official Rails guides](https://guides.rubyonrails.org/)
-  - [ ] [A general Rails course on Udemy](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/) (or [find a newer one](https://www.udemy.com/courses/search/?duration=extraLong&q=ruby+on+rails&ratings=4.0&sort=newest&src=ukw) if that one is of date by the time you read this)
+  - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex)
+- **Basics:**
+  - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
+  - [x] ⭐[Rails Guides - Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+  - [ ] ⭐[Web-Crunch - Ruby on Rails Crash Course](https://youtu.be/B3Fbujmgo60)
+  - [ ] ⭐[Ruby on Rails Friend List App](https://youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF)
   - [ ] [Ruby on Rails Tutorial](https://www.railstutorial.org)
+  - [ ] The rest of the ⭐[Rails Guides](https://guides.rubyonrails.org/)
+- **Bigger code-alongs:**
   - [ ] ⭐[Rails Code Along](https://www.railscodealong.com/)
   - [ ] ⭐[Web-Crunch Let's Build](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
-  - [ ] ⭐[Demystifying Rails](https://launchschool.com/books/demystifying_rails)
-- [ ] **Dig deeper:**
-  - [ ] [Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
-  - [ ] [Rebuilding Rails](http://rebuilding-rails.com/)
-  - [ ] [Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
-- [ ] **Reactive frontend with StimulusReflex:**
+  - [ ] [Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
+- **Design patterns:** ⭐[Ruby Science](https://github.com/thoughtbot/ruby-science)
+- **Reactive frontend with StimulusReflex:**
   - [ ] ⭐[Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] ⭐[Join the Discord server](https://discord.com/invite/stimulus-reflex)
   - [ ] [Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
   - [ ] [StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
   - [ ] ⭐[Better StimulusJS](https://www.betterstimulus.com/)
   - [ ] ⭐[Stimulus components](https://stimulus-components.netlify.app/)
   - [ ] ⭐[Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
-- [ ] **Deployment:** [Deployment from Scratch](https://deploymentfromscratch.com/) and [Deploying Rails Applications](https://leanpub.com/deploying_rails_applications).
+- **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from.
+  - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
+  - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
+  - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse)
+  - [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
+  - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage)
+  - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
+  - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
+  - [ ] [github.com/forem/forem](https://github.com/forem/forem)
+  - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
+  - For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
+- **Rails internals:**
+  - [ ] ⭐[Demystifying Rails](https://launchschool.com/books/demystifying_rails)
+  - [ ] [Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
+  - [ ] [Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
+  - [ ] [Rebuilding Rails](http://rebuilding-rails.com/)
+- **Architecture:**
+  - [ ] [Maintainable Rails](https://leanpub.com/maintain-rails)
+  - [ ] [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
+- **Deployment:**
+  - [ ] [Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] [Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
+- **Performance:**
+  - [ ] [The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] [The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+- [ ] **Build another Rails app.** This time use [Hotwire](https://hotwired.dev/) for the reactive frontend, and make it a mobile app too.
 
 ## Other essentials
 
+- [ ] **Learn another Ruby app framework:** Namely [Hanami](https://hanamirb.org/). Jobs in Ruby are almost all in Rails, but it's still valuable to broaden my horizons and learn different approaches. Even my work in Rails will benefit from this.
 - [ ] **Git:** [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git)), then [Pro Git](https://git-scm.com/book/en/v2). Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1).
 - [ ] **Linux:** ⭐[The Linux Command Line](https://linuxcommand.org/tlcl.php)
-- [ ] **HTTP:** ⭐[MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] **HTTP:** ⭐[MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Intro to professional experience:**
   - [ ] Contribute to open source projects. ⭐[First Timers Only](https://www.firsttimersonly.com/) is a good place to start.
   - [ ] Volunteer through ⭐[Ruby for Good](https://rubyforgood.org/)?
@@ -97,41 +122,43 @@ Needless to say, I'm building toy Rails apps as I go through the resources below
   - [ ] [Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
   - [ ] [The Tech Resume Inside Out](https://thetechresume.com/)
 
-## Polish up my Ruby
+## Ruby 'casts
 
-- [ ] **Books:**
-  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science)
-  - [ ] [Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
-  - [ ] [The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] [The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- [ ] **Screencasts and courses:**
+- **Screencasts:**
   - [ ] ⭐[Web-Crunch Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] ⭐[Upcase](https://thoughtbot.com/blog/announcing-upcase-is-free)
   - [ ] [GoRails](https://gorails.com)
   - [ ] [Drifting Ruby](https://www.driftingruby.com/)
   - [ ] [RubyTapas](https://www.rubytapas.com/)
   - [ ] [Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
-- [ ] ⭐**Podcasts:**
+- ⭐**Podcasts:**
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/)
   - [ ] [Ruby Rogues](https://devchat.tv/show/ruby-rogues/)
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
-  - [ ] [Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/)
+  - [ ] [Code with Jason](https://www.codewithjason.com/code-with-jason-podcast/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
 ## Meanwhile, computer science
 
-- [x] **How computers work:** [Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/code/)
-  - [ ] for hands-on learning: [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) plus ⭐[the site](https://www.nand2tetris.org/) and accompanying course: ⭐[part 1](https://www.coursera.org/learn/build-a-computer, ⭐[part 2](https://www.coursera.org/learn/nand2tetris2))
+- **How computers work:**
+  - [x] [Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/code/)
+  - [x] for hands-on learning: ⭐*From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)) along with the textbook [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
   - [ ] going deeper: [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
-- [x] **Algorithms:** [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
-  - [ ] for reinforcement: [Algorithms (Sedgewick & Wayne)](https://algs4.cs.princeton.edu/home/) and the accompanying course: ⭐[part 1](https://www.coursera.org/learn/algorithms-part1), ⭐[part 2](https://www.coursera.org/learn/algorithms-part2)
+- **Algorithms:**
+  - [x] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+  - [ ] for reinforcement: ⭐*Algorithms* course by Sedgewick & Wayne (⭐[Part 1](https://www.coursera.org/learn/algorithms-part1), ⭐[Part 2](https://www.coursera.org/learn/algorithms-part2)) along with the textbook [Algorithms](https://algs4.cs.princeton.edu/home/)
   - [ ] going deeper: [The Algorithm Design Manual (Skiena)](https://www.algorist.com/)
   - [ ] and deeper again: [Algorithm Design (Kleinberg & Tardos)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
   - [ ] for practice: ⭐[Project Euler](https://projecteuler.net/)
-- [x] **Usability:** [Don't Make Me Think](https://sensible.com/dont-make-me-think/), [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/), and [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+- **Usability and UI:**
+  - [x] [Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+  - [x] [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+  - [ ] ⭐[50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+  - [ ] [Refactoring UI](https://www.refactoringui.com/book)
 - [x] **Operating systems:** [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [x] **Networks:** [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- **Networks:**
+  - [x] [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
   - [ ] for reinforcement: read it again!
 - [ ] **Software architecture:** [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [ ] **Databases:** ⭐[Readings in Database Systems](http://www.redbook.io/)
