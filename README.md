@@ -54,7 +54,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
 
 ## Rails
 
-My app that I'm currently working on is [Plain Reading](https://plain-reading.herokuapp.com/).
+My app that I'm currently working on is [Plain Reading](https://plainreading.herokuapp.com/).
 
 It's my way of avoiding "tutorial hell": in addition to following the steps in each tutorial for myself (i.e. making my own copy of their app), I take some time after each tutorial to turn that new knowledge into skill by working on my own Rails app.
 
