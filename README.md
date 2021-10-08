@@ -11,7 +11,7 @@ I am a former teacher working my way into software development. I am learning Ru
 - [Rails](#rails) *(~10% finished)*
 - [Other essentials](#other-essentials)
 - [Ruby 'casts](#ruby-casts)
-- [Meanwhile, computer science](#meanwhile-computer-science) *(~35% finished)*
+- [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
 - [Other programming/CS resource lists](#other-programmingcs-resource-lists)
 
 ## Objections
@@ -76,13 +76,6 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [ ] [Upcase](https://thoughtbot.com/upcase)
   - [ ] 💲[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
   - [ ] 💲[The Rails 6 Way](https://leanpub.com/therails6way)
-- **Reactive frontend with StimulusReflex:**
-  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-  - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
-  - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
-  - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
-  - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
 - **Architecture:**
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
@@ -102,14 +95,24 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
   - For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
-- **Deployment:**
-  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
+- **Hotwire:**
+  - [ ] [Read the docs](https://hotwired.dev/)
+  - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
+  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+  - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+- **StimulusReflex:**
+  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
+  - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
+  - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
+  - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
+  - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
+  - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- **Learn Hotwire:** then make another app, this time with mobile versions via Hotwire's Strada.
-  - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+- **Deployment:**
+  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
 
 ## Other essentials
 
@@ -167,6 +170,7 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
 - **Networks:**
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
   - [ ] for reinforcement: read it again!
+  - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
 - [ ] **Software architecture:** 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [ ] **Databases:** [Readings in Database Systems](http://www.redbook.io/)
 - [ ] **Compilers:** [Crafting Interpreters](https://craftinginterpreters.com/)
