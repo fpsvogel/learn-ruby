@@ -95,6 +95,10 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
   - For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
+- **Testing:** Minitest is familiar up to this point. Now it's time to learn RSpec and how to test Rails apps.
+  - [ ] Jason Swett's many free testing guides, such as the [Ruby Testing Micro-Course](https://www.codewithjason.com/ruby-testing-micro-course-lesson-1/) and the [Beginner's Guide to Rails Testing](https://www.codewithjason.com/rails-testing-guide/)
+  - [ ] [An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018) by Jason Swett
+  - [ ] 💲[Everyday Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
