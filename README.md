@@ -16,7 +16,7 @@ I am a former teacher working my way into software development. I am learning Ru
 
 ## Objections
 
-*Why Ruby?? Isn't JavaScript the obvious choice for web development?* Ruby is a good first language to master because its ecosystem is stable, the community is experienced, and for me Ruby is very enjoyable to write. Not convinced? [Read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
+*Why Ruby?? Isn't JavaScript the obvious choice for web development?* Ruby is an especially good choice for self-taught developers like me because (a) it's enjoyable to write, and (b) it's optimized for speed of development. Not convinced? [Here's a piece that I wrote](https://fpsvogel.com/posts/2021/why-learn-ruby) covering those two points and answering the most common objections to Ruby. Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
 
 *OK, but why so many books and courses?? Isn't practice more important than reading?* Yes, you should be spending more time coding than reading, but starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the larger space devoted to books and courses here. Besides the obvious reasons to undertake serious study (to learn from others so that I don't have to learn the hard way, and of course the bragging rights), I also simply enjoy knowing how things work under the hood.
 
@@ -24,8 +24,8 @@ I am a former teacher working my way into software development. I am learning Ru
 
 - If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)). I studied some computer science in high school, so I had a bit of a head start.
 - If you are a working adult, make sure your day job is conducive to part-time studying. Last year I was a first-year schoolteacher. That meant hours of grading in the evenings and on weekends, which would have made studying impossible. For this and other reasons I switched to a remote tech support job, which freed up my evenings and weekends (and early mornings, with no commute).
-- Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use a simple text file ([similar to this](https://illdoitlater.xyz/t/plaintext)), which is more effortless than any knowledge base app that I've tried.
-- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from computer use, act swiftly: get an ergonomic mouse and keyboard, do daily RSI stretches, and start using a break app such as [Workrave](https://workrave.org/).
+- Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
+- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic mouse and keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), do daily RSI stretches, and start using a break app such as [Workrave](https://workrave.org/).
 
 So without further ado, here are my recommendations from what I studied. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library or more dubious sources) but be sure to buy them when you can, to support the authors. 🙂
 
@@ -54,9 +54,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
 
 ## Rails
 
-My app that I'm currently working on is [Plain Reading](https://plainreading.herokuapp.com/).
-
-It's my way of avoiding "tutorial hell": in addition to following the steps in each tutorial for myself (i.e. making my own copy of their app), I take some time after each tutorial to turn that new knowledge into skill by working on my own Rails app.
+My app that I'm currently working on is [Plain Reading](https://plainreading.herokuapp.com/). [Here's how I built it.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) It's my way of avoiding "tutorial hell": in addition to following the steps in each tutorial for myself (i.e. making my own copy of their app), I take some time after each tutorial to turn that new knowledge into skill by working on my own Rails app.
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/rails)
@@ -65,13 +63,9 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex)
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
-  - [ ] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
+  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
 - **Intermediate:**
-  - [ ] [Rails Code Along](https://www.railscodealong.com/)
-  - [ ] [Web-Crunch Let's Build](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
-  - [ ] [SupeRails Code Along](https://superails.com/)
-  - [ ] [Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
   - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase)
   - [ ] 💲[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
@@ -79,12 +73,19 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
 - **Architecture:**
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
+- **Code-alongs:**
+  - [ ] [Rails Code Along](https://www.railscodealong.com/)
+  - [ ] [Web-Crunch - Let's Build](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
+  - [ ] [CJ Avilla - clearbnb](https://youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
+  - [ ] [CJ Avilla - Stock App](https://youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
+  - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
+  - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
 - **Rails internals:**
   - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
-- **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from.
+- **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
   - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse)
@@ -94,9 +95,8 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
-  - For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
-- **Testing:** Minitest is familiar up to this point. Now it's time to learn RSpec and how to test Rails apps.
-  - [ ] Jason Swett's many free testing guides, such as the [Ruby Testing Micro-Course](https://www.codewithjason.com/ruby-testing-micro-course-lesson-1/) and the [Beginner's Guide to Rails Testing](https://www.codewithjason.com/rails-testing-guide/)
+- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
+  - [ ] Jason Swett's free testing guides, such as the [Ruby Testing Micro-Course](https://www.codewithjason.com/ruby-testing-micro-course-lesson-1/) and the [Beginner's Guide to Rails Testing](https://www.codewithjason.com/rails-testing-guide/)
   - [ ] [An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018) by Jason Swett
   - [ ] 💲[Everyday Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 - **Hotwire:**
@@ -140,7 +140,7 @@ It's my way of avoiding "tutorial hell": in addition to following the steps in e
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [Upcase](https://thoughtbot.com/blog/announcing-upcase-is-free)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
-  - [ ] [Phil Smy - Ruby on Rails](https://www.youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
+  - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] 💲[GoRails](https://gorails.com)
   - [ ] 💲[Drifting Ruby](https://www.driftingruby.com/)
   - [ ] 💲[RubyTapas](https://www.rubytapas.com/)
