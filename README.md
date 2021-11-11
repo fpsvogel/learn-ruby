@@ -45,7 +45,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
   - Join a local [Ruby meetup](https://www.meetup.com/topics/ruby/all/) and/or [Rails meetup](https://www.meetup.com/topics/ruby-on-rails/all/)
-- [x] **Basics:** 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) or [The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
+- [x] **Basics:** 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) or [the Ruby Programming course at The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
 - [x] **Guided practice:** [Exercism](https://exercism.io/my/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
@@ -60,14 +60,15 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - [Reddit](https://www.reddit.com/r/rails)
   - [Discord](https://discord.gg/AuDNwjsyfm)
   - [Slack](https://www.rubyonrails.link/)
-  - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex)
+  - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
 - **Basics:**
-  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
-  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
+  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
+  - [x] 💲[The Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [ ] [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) is a good review of everything so far and may fill in some gaps.
 - **Intermediate:**
   - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
-  - [ ] [Upcase](https://thoughtbot.com/upcase)
+  - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
   - [ ] 💲[The Rails 6 Way](https://leanpub.com/therails6way)
 - **Architecture:**
@@ -107,6 +108,7 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
+  - [ ] 💲[An upcoming book by David Colby](https://twitter.com/davidcolbyatx/status/1458171481029021704)
   - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
   - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
   - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
@@ -136,14 +138,12 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 
 ## Ruby 'casts
 
-- **Screencasts:**
+- **Screencasts:** Checking one of these off means "I've watched all the episodes that interest me from the past three years or so, and I'm keeping an eye out for new episodes that would help me, or old unwatched episodes when they become relevant to me."
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
-  - [ ] [Upcase](https://thoughtbot.com/blog/announcing-upcase-is-free)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] 💲[GoRails](https://gorails.com)
   - [ ] 💲[Drifting Ruby](https://www.driftingruby.com/)
-  - [ ] 💲[RubyTapas](https://www.rubytapas.com/)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
