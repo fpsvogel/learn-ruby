@@ -44,7 +44,6 @@ So without further ado, here are my recommendations from what I studied. Resourc
   - [Discord](https://discord.gg/tSFdeuVfpc)
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
-  - Join a local [Ruby meetup](https://www.meetup.com/topics/ruby/all/) and/or [Rails meetup](https://www.meetup.com/topics/ruby-on-rails/all/)
 - [x] **Basics:** 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) or [the Ruby Programming course at The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
 - [x] **Guided practice:** [Exercism](https://exercism.io/my/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
@@ -61,6 +60,7 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - [Discord](https://discord.gg/AuDNwjsyfm)
   - [Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
+  - Join a Ruby meetup. These days they're mostly online, so I joined several in my region of the US: [Atlanta Ruby](https://www.meetup.com/atlantaruby), [Columbus Ruby Brigade](https://www.meetup.com/columbusrb), and [Nash.rb](https://www.meetup.com/nashrb).
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
   - [x] 💲[The Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
