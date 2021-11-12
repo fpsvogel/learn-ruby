@@ -57,13 +57,12 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/rails)
-  - [Discord](https://discord.gg/AuDNwjsyfm)
   - [Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
   - Join a Ruby meetup. These days they're mostly online, so I joined several in my region of the US: [Atlanta Ruby](https://www.meetup.com/atlantaruby), [Columbus Ruby Brigade](https://www.meetup.com/columbusrb), and [Nash.rb](https://www.meetup.com/nashrb).
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
-  - [x] 💲[The Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
+  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) is a good review of everything so far and may fill in some gaps.
 - **Intermediate:**
@@ -142,6 +141,7 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
+  - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] 💲[GoRails](https://gorails.com)
   - [ ] 💲[Drifting Ruby](https://www.driftingruby.com/)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
