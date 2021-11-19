@@ -63,7 +63,7 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
-  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [x] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) is a good review of everything so far and may fill in some gaps.
 - **Intermediate:**
   - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
@@ -127,8 +127,8 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - [ ] **Learn another Ruby app framework:** Probably [Roda](https://roda.jeremyevans.net/) given its increasing [connection with Bridgetown](https://github.com/bridgetownrb/bridgetown/issues/379), but I should also learn how [Hanami](https://hanamirb.org/) works. Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
 - [ ] **Intro to professional experience:**
-  - [ ] Contribute to open source projects. [First Timers Only](https://www.firsttimersonly.com/) is a good place to start.
-  - [ ] Volunteer through [Ruby for Good](https://rubyforgood.org/)?
+  - [ ] Contribute to open source projects. [First Timers Only](https://www.firsttimersonly.com/) is one place to start, but you could also consider (a) what open source projects do you use yourself? or (b) are there any codebases that you have studied and are familiar with?
+  - [ ] Volunteer through [Ruby for Good](https://rubyforgood.org/). I've got my eye on their project [Circulate](https://github.com/rubyforgood/circulate).
   - [ ] Do a few contract jobs on Upwork?
 - [ ] **The arcane arts of getting hired:**
   - [ ] 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
