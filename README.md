@@ -1,6 +1,6 @@
 # Ruby and computer science: a self-learning curriculum
 
-I am a former teacher working my way into software development. I am learning Ruby, Rails, and a healthy dose of computer science.
+Hi! I'm a former teacher working my way into software development. I'm learning Ruby, Rails, and a healthy dose of computer science. If you have a favorite resource that's missing below, let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby-and-cs/issues/new/choose)!
 
 ## Overview
 
@@ -16,16 +16,16 @@ I am a former teacher working my way into software development. I am learning Ru
 
 ## Objections
 
-*Why Ruby?? Isn't JavaScript the obvious choice for web development?* Ruby is an especially good choice for self-taught developers like me because (a) it's enjoyable to write, and (b) it's optimized for speed of development. Not convinced? [Here's a piece that I wrote](https://fpsvogel.com/posts/2021/why-learn-ruby) covering those two points and answering the most common objections to Ruby. Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
+*Why Ruby?? Isn't JavaScript the obvious choice for web development?* JavaScript is definitely more popular, but Ruby is a good choice for self-taught developers like me because (a) it's enjoyable to write, and (b) it's optimized for speed of development. Not convinced? [Here's a piece that I wrote](https://fpsvogel.com/posts/2021/why-learn-ruby) which goes into more detail and answers common objections to Ruby. Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
 
-*OK, but why so many books and courses?? Isn't practice more important than reading?* Yes, you should be spending more time coding than reading, but starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the larger space devoted to books and courses here. Besides the obvious reasons to undertake serious study (to learn from others so that I don't have to learn the hard way, and of course the bragging rights), I also simply enjoy knowing how things work under the hood.
+*OK, but why so many books and courses?? Isn't practice more important than reading?* Yes, you should be spending more time coding than reading, but starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the larger space devoted to books and courses here. Also, by learning from more experienced developers, you'll actually save time because you can avoid lots of mistakes and dead ends without having to learn those lessons the hard way.
 
 ## Preliminaries
 
 - If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)). I studied some computer science in high school, so I had a bit of a head start.
-- If you are a working adult, make sure your day job is conducive to part-time studying. Last year I was a first-year schoolteacher. That meant hours of grading in the evenings and on weekends, which would have made studying impossible. For this and other reasons I switched to a remote tech support job, which freed up my evenings and weekends (and early mornings, with no commute).
+- If you are a working adult, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying impossible. For this and other reasons I switched to a remote tech support job, which freed up my schedule.
 - Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
-- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic mouse and keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), do daily RSI stretches, and start using a break app such as [Workrave](https://workrave.org/).
+- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), do daily RSI stretches, and start using a break app such as [Workrave](https://workrave.org/).
 
 So without further ado, here are my recommendations from what I studied. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library or more dubious sources) but be sure to buy them when you can, to support the authors. 🙂
 
@@ -53,7 +53,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
 
 ## Rails
 
-My app that I'm currently working on is [Plain Reading](https://plainreading.herokuapp.com/). [Here's how I built it.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) It's my way of avoiding "tutorial hell": in addition to following the steps in each tutorial for myself (i.e. making my own copy of their app), I take some time after each tutorial to turn that new knowledge into skill by working on my own Rails app.
+Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first app early on.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/rails)
@@ -62,9 +62,9 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - Join a Ruby meetup. These days they're mostly online, so I joined several in my region of the US: [Atlanta Ruby](https://www.meetup.com/atlantaruby), [Columbus Ruby Brigade](https://www.meetup.com/columbusrb), and [Nash.rb](https://www.meetup.com/nashrb).
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
-  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build a more complete authentication (user login) system from scratch.
+  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) is a good review of everything so far and may fill in some gaps.
+  - [ ] For a review of everything so far: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
 - **Intermediate:**
   - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
@@ -88,7 +88,6 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 - **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
-  - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse)
   - [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
   - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage)
   - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
@@ -97,7 +96,8 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [ ] Jason Swett's free testing guides, such as the [Ruby Testing Micro-Course](https://www.codewithjason.com/ruby-testing-micro-course-lesson-1/) and the [Beginner's Guide to Rails Testing](https://www.codewithjason.com/rails-testing-guide/)
-  - [ ] [An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018) by Jason Swett
+  - [ ] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [ ] 💲[Jason Swett - An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
   - [ ] 💲[Everyday Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
@@ -121,16 +121,21 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
 
 ## Other essentials
 
+- **Open source:**
+  - [x] Contribute to open source projects. I've written [a short guide on how to get started with this](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+  - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
 - [ ] **Git:** [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git)), then [Pro Git](https://git-scm.com/book/en/v2). Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1).
 - [ ] **Linux:** [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - [ ] **Learn another Ruby app framework:** Probably [Roda](https://roda.jeremyevans.net/) given its increasing [connection with Bridgetown](https://github.com/bridgetownrb/bridgetown/issues/379), but I should also learn how [Hanami](https://hanamirb.org/) works. Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-- [ ] **Intro to professional experience:**
-  - [ ] Contribute to open source projects. [First Timers Only](https://www.firsttimersonly.com/) is one place to start, but you could also consider (a) what open source projects do you use yourself? or (b) are there any codebases that you have studied and are familiar with?
-  - [ ] Volunteer through [Ruby for Good](https://rubyforgood.org/). I've got my eye on their project [Circulate](https://github.com/rubyforgood/circulate).
+- **Intro to professional experience:**
+  - [ ] Join [Year One](https://www.joinyearone.io/).
+  - [ ] Get involved in [Product Hunt](https://www.producthunt.com/).
   - [ ] Do a few contract jobs on Upwork?
-- [ ] **The arcane arts of getting hired:**
+- **The arcane arts of getting hired:**
+  - [ ] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
+  - [ ] Browse the tips on [Learn to Code with Me](https://learntocodewith.me/)
   - [ ] 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
   - [ ] 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
@@ -143,7 +148,7 @@ My app that I'm currently working on is [Plain Reading](https://plainreading.her
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] 💲[GoRails](https://gorails.com)
-  - [ ] 💲[Drifting Ruby](https://www.driftingruby.com/)
+  - [x] 💲[Drifting Ruby](https://www.driftingruby.com/)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
