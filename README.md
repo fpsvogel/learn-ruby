@@ -134,7 +134,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Intro to professional experience:**
   - [ ] Join [Year One](https://www.joinyearone.io/).
   - [ ] Get involved in [Product Hunt](https://www.producthunt.com/).
-  - [ ] Do a few contract jobs on Upwork?
+  - [ ] Do a few contract jobs on [Upwork](https://www.upwork.com/) or [Freelancer](https://www.freelancer.com/).
 - **The arcane arts of getting hired:**
   - [ ] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
   - [ ] Browse the tips on [Learn to Code with Me](https://learntocodewith.me/)
