@@ -82,7 +82,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
 - **Rails internals:**
   - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
-  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
@@ -112,6 +111,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
   - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
   - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
+- **Advanced Ruby:**
+  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
+  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
