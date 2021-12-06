@@ -175,7 +175,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Usability and UI:**
   - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
   - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
-  - [ ] [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+  - [ ] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips)
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 - [x] **Operating systems:** 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - **Networks:**
