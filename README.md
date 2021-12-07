@@ -142,8 +142,11 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
 
-## Ruby 'casts
+## Ruby blogs and 'casts
 
+- **Blogs:**
+  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
+  - [ ] [Code with Jason](https://www.codewithjason.com/articles/)
 - **Screencasts:** Checking one of these off means "I've watched all the episodes that interest me from the past three years or so, and I'm keeping an eye out for new episodes that would help me, or old unwatched episodes when they become relevant to me."
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
