@@ -96,6 +96,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [ ] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [ ] 💲[Jason Swett - An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
+  - [ ] [Better Specs](https://www.betterspecs.org/)
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
