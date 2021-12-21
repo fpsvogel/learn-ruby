@@ -68,6 +68,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Intermediate:**
   - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
+  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)
   - [ ] 💲[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
   - [ ] 💲[The Rails 6 Way](https://leanpub.com/therails6way)
 - **Architecture:**
@@ -95,8 +96,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [ ] 💲[Jason Swett - An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
-  - [ ] [Better Specs](https://www.betterspecs.org/)
+  - [ ] 💲[Jason Swett - An upcoming (2022) Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
+  - [x] [Better Specs](https://www.betterspecs.org/)
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
