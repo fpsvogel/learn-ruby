@@ -53,7 +53,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
 
 ## Rails
 
-Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first app early on.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first Rails app right from the beginning.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/rails)
@@ -65,6 +65,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] For a review of everything so far: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
+- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
+  - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [ ] 💲[Jason Swett - An upcoming (2022) Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
 - **Intermediate:**
   - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
@@ -94,10 +97,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
-- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
-  - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [ ] 💲[Jason Swett - An upcoming (2022) Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
-  - [x] [Better Specs](https://www.betterspecs.org/)
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
