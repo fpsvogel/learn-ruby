@@ -59,7 +59,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [Reddit](https://www.reddit.com/r/rails)
   - [Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
-  - Join a Ruby meetup. These days they're mostly online, so I joined several in my region of the US: [Atlanta Ruby](https://www.meetup.com/atlantaruby), [Columbus Ruby Brigade](https://www.meetup.com/columbusrb), and [Nash.rb](https://www.meetup.com/nashrb).
+  - Join a [Ruby meetup](https://www.meetup.com/find/?keywords=ruby).
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
