@@ -111,6 +111,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
   - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
 - **Advanced Ruby:**
+  - [ ] 💲[Jeremy Evans - Polished Ruby Programming](https://www.packtpub.com/product/polished-ruby-programming/9781801072724)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Performance:**
