@@ -44,7 +44,7 @@ So without further ado, here are my recommendations from what I studied. Resourc
   - [Discord](https://discord.gg/tSFdeuVfpc)
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
-- [x] **Basics:** 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) or [the Ruby Programming course at The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
+- [x] **Basics:** 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) (definitely one to re-read later, as it covers some advanced Ruby) or [the Ruby Programming course on The Odin Project](https://www.theodinproject.com/courses/ruby-programming).
 - [x] **Guided practice:** [Exercism](https://exercism.io/my/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
@@ -84,6 +84,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [CJ Avilla - Stock App](https://youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
   - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
   - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
+    - By the way, you can get any Udemy course for less than $20 if you use a discount code, which you can get either by signing up for their email updates, or by leaving a course in your cart for a few days.
 - **Rails internals:**
   - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
   - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
