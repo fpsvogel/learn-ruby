@@ -102,6 +102,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+  - [ ] [Turbo Rails tutorial](https://www.hotrails.dev/)
   - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
