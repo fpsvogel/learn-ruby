@@ -72,7 +72,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)
-  - [ ] 💲[Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
+  - [ ] 💲[Agile Web Development with Rails 7](https://www.pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
   - [ ] 💲[The Rails 6 Way](https://leanpub.com/therails6way)
 - **Architecture:**
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
