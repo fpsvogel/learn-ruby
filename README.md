@@ -62,7 +62,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [Reddit](https://www.reddit.com/r/rails)
   - [Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
-  - Join a [Ruby meetup](https://www.meetup.com/find/?keywords=ruby).
 - **Basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is amazing for getting started quickly.
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
@@ -142,11 +141,11 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] Get involved in [Product Hunt](https://www.producthunt.com/).
   - [ ] Do a few contract jobs on [Upwork](https://www.upwork.com/) or [Freelancer](https://www.freelancer.com/).
 - **The arcane arts of getting hired:**
+  - [x] [How to find your first Rails job](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job), notes from my own job search.
   - [x] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
-  - [ ] Browse the tips on [Learn to Code with Me](https://learntocodewith.me/)
-  - [ ] 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
-  - [ ] 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
+  - [x] Attend some [Ruby meetups](https://www.meetup.com/find/?keywords=ruby), where you might find job leads.
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
+  - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
 ## Ruby blogs and 'casts
 
