@@ -88,6 +88,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
   - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
     - By the way, you can get any Udemy course for less than $20 if you use a discount code, which you can get either by signing up for their email updates, or by leaving a course in your cart for a few days.
+- **Performance:**
+  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Rails internals:**
   - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
   - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
@@ -118,9 +121,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
-- **Performance:**
-  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Deployment:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
