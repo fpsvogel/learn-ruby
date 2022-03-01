@@ -72,6 +72,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Jason Swett - An upcoming (2022) Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
   - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Intermediate:**
+  - [ ] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
   - [ ] [Upcase](https://thoughtbot.com/upcase), especially [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch)
