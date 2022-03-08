@@ -127,9 +127,11 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
-- **Deployment:**
+- **Deployment/DevOps:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
+  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
+  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
 ## Other essentials
 
