@@ -81,7 +81,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Upcase](https://thoughtbot.com/upcase)
   - [ ] 💲[Agile Web Development with Rails 7](https://www.pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
   - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
-  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication) (and the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
 - **Architecture:**
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
