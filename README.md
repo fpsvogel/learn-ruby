@@ -70,10 +70,14 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [ ] 💲[An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
   - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-- **SQL and Active Record:**
+- **SQL:**
   - [ ] (coming soon) resources for learning SQL
-  - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
+  - [ ] 💲[The Art of SQL](https://www.oreilly.com/library/view/the-art-of/0596008945/)
+- **Active Record:**
+  - [ ] Rails with Active Record and Action Pack, [Week 1](https://youtu.be/NaVR420c5eg) and [Week 2](https://youtu.be/H0o5lca6eh0)
   - [ ] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
+  - [ ] 💲[Ruby on Rails: Get More from Active Record](https://www.linkedin.com/learning/ruby-on-rails-get-more-from-activerecord) (free if you do the 1-month trial)
+  - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
 - **Intermediate:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
@@ -199,9 +203,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] for reinforcement: read it again!
   - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
 - [ ] **Software architecture:** 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- **Databases:**
-  - [ ] [Readings in Database Systems](http://www.redbook.io/)
-  - [ ] [The Art of SQL](https://www.oreilly.com/library/view/the-art-of/0596008945/)
+- [ ] **Databases:** [Readings in Database Systems](http://www.redbook.io/)
 - [ ] **Compilers:** [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] **Math:** 💲[Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
 - [ ] **??:** [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). I'm still not sure what exactly this book is about (even after reading the first few pages) but it is an often-recommended introductory text on "programming". So, maybe someday I will learn this "programming", after I've learned the less intimidating stuff (all of the above).
