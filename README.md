@@ -71,12 +71,13 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
   - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **SQL:**
-  - [ ] (coming soon) resources for learning SQL
-  - [ ] 💲[The Art of SQL](https://www.oreilly.com/library/view/the-art-of/0596008945/)
+  - [x] The Odin Project's [course on databases](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
+  - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+  - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
+  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **Active Record:**
-  - [ ] Rails with Active Record and Action Pack, [Week 1](https://youtu.be/NaVR420c5eg) and [Week 2](https://youtu.be/H0o5lca6eh0)
-  - [ ] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[Ruby on Rails: Get More from Active Record](https://www.linkedin.com/learning/ruby-on-rails-get-more-from-activerecord) (free if you do the 1-month trial)
+  - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
 - **Intermediate:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
