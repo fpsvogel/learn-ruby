@@ -68,7 +68,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] For a review of everything so far: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [ ] 💲[An upcoming Rails testing course](https://twitter.com/JasonSwett/status/1446497878093013018)
   - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Intermediate:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
