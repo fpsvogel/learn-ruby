@@ -76,7 +76,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Upcase](https://thoughtbot.com/upcase)
   - [ ] 💲[Agile Web Development with Rails 7](https://www.pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
   - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
-  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication) (and the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
 - **SQL:**
   - [x] The Odin Project's [course on databases](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -128,6 +127,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
   - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
   - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
+- **Authentication:**
+  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
