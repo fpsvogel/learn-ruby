@@ -98,10 +98,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- **Rails internals:**
-  - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
-  - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
-  - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
@@ -132,6 +128,10 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
+- **Rails internals:**
+  - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
+  - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
+  - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Deployment/DevOps:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
