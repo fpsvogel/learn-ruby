@@ -77,7 +77,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Agile Web Development with Rails 7](https://www.pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
   - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
 - **SQL:**
-  - [x] The Odin Project's [course on databases](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
