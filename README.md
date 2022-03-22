@@ -8,7 +8,7 @@ Hi! I'm a former teacher working my way into software development. I'm learning 
 - [Preliminaries](#preliminaries) ✅
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
-- [Rails](#rails) *(~10% finished)*
+- [Rails](#rails) *(~20% finished)*
 - [Other essentials](#other-essentials)
 - [Ruby 'casts](#ruby-casts)
 - [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
@@ -62,20 +62,15 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [Reddit](https://www.reddit.com/r/rails)
   - [Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
-- **Basics:**
+- **General:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
-  - [x] For a review of everything so far: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
+  - [x] If you need a review: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
+  - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
+  - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-- **Intermediate:**
-  - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
-  - [x] [Thoughtbot - Ruby Science](https://github.com/thoughtbot/ruby-science) (design patterns)
-  - [x] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Upcase](https://thoughtbot.com/upcase)
-  - [ ] 💲[Agile Web Development with Rails 7](https://www.pragprog.com/titles/rails7/agile-web-development-with-rails-7/)
-  - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
 - **SQL:**
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
@@ -85,8 +80,11 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
 - **Architecture:**
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
+  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+- **Performance:**
+  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Code-alongs:**
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
   - [ ] [Web-Crunch - Let's Build](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
@@ -95,9 +93,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
   - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
     - By the way, you can get any Udemy course for less than $20 if you use a discount code, which you can get either by signing up for their email updates, or by leaving a course in your cart for a few days.
-- **Performance:**
-  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
@@ -143,8 +138,14 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Open source:**
   - [x] Contribute to open source projects. I've written [a short guide on how to get started with this](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
   - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
-- [ ] **Git:** [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git)), then [Pro Git](https://git-scm.com/book/en/v2). Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1).
-- [ ] **Linux:** [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- **Git:**
+  - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
+  - [ ] [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+  - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+  - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
+- **Linux:**
+  - [ ] [Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - [ ] **Learn another Ruby app framework:** Probably [Roda](https://roda.jeremyevans.net/) given its increasing [connection with Bridgetown](https://github.com/bridgetownrb/bridgetown/issues/379), but I should also learn how [Hanami](https://hanamirb.org/) works. Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
@@ -173,7 +174,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/)
   - [ ] [Ruby Rogues](https://devchat.tv/show/ruby-rogues/)
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
-  - [ ] [Code with Jason](https://www.codewithjason.com/code-with-jason-podcast/)
+  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
 ## Meanwhile, computer science
