@@ -11,7 +11,7 @@ Hi! I'm a former teacher working my way into software development. I'm learning 
 - [Rails](#rails) *(~20% finished)*
 - [Other essentials](#other-essentials)
 - [Ruby 'casts](#ruby-casts)
-- [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
+- [Computer science](#computer-science) *(~30% finished)*
 - [Other programming/CS resource lists](#other-programmingcs-resource-lists)
 
 ## Objections
@@ -148,7 +148,10 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- [ ] **Learn another Ruby app framework:** Probably [Roda](https://roda.jeremyevans.net/) given its increasing [connection with Bridgetown](https://github.com/bridgetownrb/bridgetown/issues/379), but I should also learn how [Hanami](https://hanamirb.org/) works. Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
+- **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
+  - [ ] [Roda](https://roda.jeremyevans.net/) which will soon be easier than ever to get started with [via Bridgetown](https://www.bridgetownrb.com/docs/routes)
+  - [ ] [Hanami](https://hanamirb.org/)
+  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it sort of is 😉
 - **The arcane arts of getting hired:**
   - [x] [How to find your first Rails job](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job), notes from my own job search.
   - [x] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
