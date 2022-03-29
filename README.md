@@ -78,8 +78,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Active Record:**
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
-- **Architecture:**
-  - [ ] 💲[Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
