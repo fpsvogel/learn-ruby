@@ -97,6 +97,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
 - <a name="rails-hotwire"></a>**Hotwire:** If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource.
   - [ ] [Read the docs](https://hotwired.dev/)
+  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/), [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [GoRails screencasts](https://gorails.com/series/hotwire-rails)
