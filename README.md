@@ -100,21 +100,23 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
-- **Hotwire:**
+- **Hotwire:** If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource.
   - [ ] [Read the docs](https://hotwired.dev/)
-  - [ ] [GoRails screencast](https://gorails.com/episodes/hotwire-rails)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Turbo Rails tutorial](https://www.hotrails.dev/)
-  - [ ] [Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
+  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [GoRails screencasts](https://gorails.com/series/hotwire-rails)
+  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
+  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
+  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
+  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
+  - [ ] 💲[Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
   - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
+  - [ ] [Videos by Nate Hopkins](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
+  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
   - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-  - [ ] 💲[An upcoming book by David Colby](https://twitter.com/davidcolbyatx/status/1458171481029021704)
   - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
-  - [ ] [Better StimulusJS](https://www.betterstimulus.com/)
-  - [ ] [Stimulus components](https://stimulus-components.netlify.app/)
-  - [ ] [Stimulus Use](https://stimulus-use.github.io/stimulus-use/#/)
 - **Authentication:**
   - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
   - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
