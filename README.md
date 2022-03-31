@@ -109,8 +109,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] [Videos by StimulusReflex creator Nate Hopkins](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
+  - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
   - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
+  - [ ] [Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
   - [ ] [Screencasts on making an Instagram clone with Rails and StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
   - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
