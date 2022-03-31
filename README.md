@@ -146,6 +146,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+- **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for when people refer to them in design discussions.
+  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  - [x] [Refactoring.Guru](https://refactoring.guru/)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [ ] [Roda](https://roda.jeremyevans.net/) which will soon be easier than ever to get started with [via Bridgetown](https://www.bridgetownrb.com/docs/routes)
   - [ ] [Hanami](https://hanamirb.org/)
