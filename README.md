@@ -1,10 +1,9 @@
-# Ruby and computer science: a self-learning curriculum
+# Learning Ruby: a resource list
 
-Hi! I'm a former teacher working my way into software development. I'm learning Ruby, Rails, and a healthy dose of computer science. If you have a favorite resource that's missing below, let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby-and-cs/issues/new/choose)!
+Hi! As a second-career developer who didn't go through a bootcamp, I've found it helpful to keep notes on learning resources—building my own curriculum, in a way. If you have a favorite resource that's missing below, let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby-and-cs/issues/new/choose)!
 
 ## Overview
 
-- [Objections](#objections) ✅
 - [Preliminaries](#preliminaries) ✅
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
@@ -14,20 +13,16 @@ Hi! I'm a former teacher working my way into software development. I'm learning 
 - [Computer science](#computer-science) *(~30% finished)*
 - [Other programming/CS resource lists](#other-programmingcs-resource-lists)
 
-## Objections
-
-*Why Ruby?? Isn't JavaScript the obvious choice for web development?* JavaScript is definitely more popular, but Ruby is a good choice for self-taught developers like me because (a) it's enjoyable to write, and (b) it's optimized for speed of development. Not convinced? [Here's a piece that I wrote](https://fpsvogel.com/posts/2021/why-learn-ruby) which goes into more detail and answers common objections to Ruby. Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
-
-*OK, but why so many books and courses?? Isn't practice more important than reading?* Yes, you should be spending more time coding than reading, but starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the larger space devoted to books and courses here. Also, by learning from more experienced developers, you'll actually save time because you can avoid lots of mistakes and dead ends without having to learn those lessons the hard way.
-
 ## Preliminaries
 
+- If you're wondering why I chose Ruby and not full-stack JS, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
+- I list *a lot* of books and courses below, and hardly any hands-on projects. Let me be clear: you should be spending more time coding than reading about coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
 - If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)). I studied some computer science in high school, so I had a bit of a head start.
-- If you are a working adult, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying impossible. For this and other reasons I switched to a remote tech support job, which freed up my schedule.
+- If you are a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote tech support job, which freed up my schedule.
 - Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
 - Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), [do daily RSI stretches](https://youtu.be/fdD7CgN5FGg), and start using a break app such as [Workrave](https://workrave.org/).
 
-So without further ado, here are my recommendations from what I studied. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library or more dubious sources) but be sure to buy them when you can, to support the authors. 🙂
+So without further ado, here is my learning path. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but be sure to buy them when you can, to support the authors. 🙂
 
 ## Frontend basics
 
