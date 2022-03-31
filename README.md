@@ -100,7 +100,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
-  - [ ] [GoRails screencasts on Hotwire](https://gorails.com/series/hotwire-rails)
+  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
   - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
@@ -112,7 +112,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
   - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
   - [ ] [Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
-  - [ ] [Screencasts on making an Instagram clone with Rails and StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
+  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
   - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
 - **Authentication:**
