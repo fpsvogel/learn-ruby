@@ -59,7 +59,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **General:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
-  - [x] If you need a review: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
+  - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec, Rails-specific testing techniques, and more Minitest.
@@ -202,8 +202,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 - [x] **Operating systems:** 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - **Networks:**
+  - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
-  - [ ] for reinforcement: read it again!
   - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
 - [ ] **Software architecture:** 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [ ] **Databases:** [Readings in Database Systems](http://www.redbook.io/)
