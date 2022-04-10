@@ -106,8 +106,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
+  - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
   - [ ] 💲[Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
-  - [ ] 💲[Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
@@ -153,7 +153,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [ ] [Roda](https://roda.jeremyevans.net/) which will soon be easier than ever to get started with [via Bridgetown](https://www.bridgetownrb.com/docs/routes)
   - [ ] [Hanami](https://hanamirb.org/)
-  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it sort of is 😉
+  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉
 - **The arcane arts of getting hired:**
   - [x] [How to find your first Rails job](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job), notes from my own job search.
   - [x] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
@@ -198,7 +198,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
   - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
   - [ ] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
-  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips)
+  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 - [x] **Operating systems:** 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - **Networks:**
