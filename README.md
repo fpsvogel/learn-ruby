@@ -86,7 +86,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
   - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
     - By the way, you can get any Udemy course for less than $20 if you use a discount code, which you can get either by signing up for their email updates, or by leaving a course in your cart for a few days.
-- **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [OpenSourceRails](https://opensourcerails.org/) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
+- **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
   - [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
