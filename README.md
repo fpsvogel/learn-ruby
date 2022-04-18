@@ -164,8 +164,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 ## Ruby blogs and 'casts
 
 - **Blogs:**
-  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
+  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
+  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
 - **Screencasts:** Checking one of these off means "I've watched all the episodes that interest me from the past three years or so, and I'm keeping an eye out for new episodes that would help me, or old unwatched episodes when they become relevant to me."
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
@@ -175,11 +176,11 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com/)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
+  - [ ] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/)
-  - [ ] [Ruby Rogues](https://devchat.tv/show/ruby-rogues/)
-  - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
+  - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
 ## Meanwhile, computer science
