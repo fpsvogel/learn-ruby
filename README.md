@@ -9,7 +9,7 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - [Ruby](#ruby) ✅
 - [Rails](#rails) *(~20% finished)*
 - [Other essentials](#other-essentials)
-- [Ruby 'casts](#ruby-casts)
+- [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Computer science](#computer-science) *(~30% finished)*
 - [Other programming/CS resource lists](#other-programmingcs-resource-lists)
 
@@ -36,7 +36,6 @@ So without further ado, here is my learning path. Resources that cost money are 
 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/ruby)
-  - [Discord](https://discord.gg/tSFdeuVfpc)
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
 - [x] **Basics:** There a few good options here.
@@ -147,7 +146,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for when people refer to them in design discussions.
+- **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
@@ -161,19 +160,21 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
-## Ruby blogs and 'casts
+## Ruby blogs, podcasts, screencasts
+
+Checking one of these off means "I've read/watched/listened to all the posts/episodes that interest me from the past few years, and I'm keeping an eye out for new posts/episodes that would help me, or old posts/episodes when they become relevant to me."
 
 - **Blogs:**
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
   - [ ] [Thoughtbot](https://thoughtbot.com/blog)
-- **Screencasts:** Checking one of these off means "I've watched all the episodes that interest me from the past three years or so, and I'm keeping an eye out for new episodes that would help me, or old unwatched episodes when they become relevant to me."
+- **Screencasts:**
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] 💲[GoRails](https://gorails.com)
-  - [x] 💲[Drifting Ruby](https://www.driftingruby.com/)
+  - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
   - [ ] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
