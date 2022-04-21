@@ -137,6 +137,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] Contribute to open source projects. I've written [a short guide on how to get started with this](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
   - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
 - **Git:**
+  - [ ] [Oh My Git!](https://ohmygit.org/)
+  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
   - [ ] [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
