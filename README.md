@@ -174,6 +174,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
+  - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] 💲[GoRails](https://gorails.com)
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
