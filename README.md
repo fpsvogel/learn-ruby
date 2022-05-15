@@ -37,7 +37,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 - **Community:**
   - [Reddit](https://www.reddit.com/r/ruby)
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
-  - [Ruby Radar newsletter](https://rubyradar.mailchimpsites.com/)
+  - [Ruby Radar newsletter](https://rubyradar.dev/)
 - [x] **Basics:** There a few good options here.
   - [The Ruby Programming course on The Odin Project](https://www.theodinproject.com/courses/ruby-programming)
   - [Ruby Is For Fun](https://github.com/ro31337/rubyisforfun)
