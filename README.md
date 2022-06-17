@@ -190,7 +190,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 ## Meanwhile, computer science
 
 - **How computers work:**
-  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/code/)
+  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
   - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)) along with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
   - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
