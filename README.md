@@ -181,7 +181,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Podcasts:**
   - [ ] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
-  - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/)
+  - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
   - [ ] [Maintainable](https://www.maintainable.fm/) (not Ruby-specific)
   - [ ] [DevDiscuss](https://devpods.dev/podcasts/devdiscuss) (not Ruby-specific)
