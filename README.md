@@ -30,7 +30,7 @@ So without further ado, here is my learning path. Resources that cost money are 
   - [Hacker Newsletter](https://hackernewsletter.com/)
   - [DEV newsletter](https://dev.to/t/newsletter)
 - [x] Treehouse's 💲[Frontend Web Development](https://teamtreehouse.com/tracks/front-end-web-development) track, or The Odin Project's [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) + [HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/html-and-css) + [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-- [x] **Build a blog from scratch:** I have rebuilt it by now, but [here is that first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). I am also posting some of my learnings on Twitter, where—confession—[I sometimes talk to myself](https://twitter.com/fpsvogel/status/1389915714098802692).
+- [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn. There are other ways to do that too: I also post some of my learnings on Twitter, where—confession—[I sometimes talk to myself](https://twitter.com/fpsvogel/status/1389915714098802692).
 
 ## Ruby
 
