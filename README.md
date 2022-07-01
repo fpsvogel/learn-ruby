@@ -179,8 +179,9 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
-  - [ ] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
+  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
+  - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
   - [ ] [Maintainable](https://www.maintainable.fm/) (not Ruby-specific)
