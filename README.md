@@ -76,14 +76,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- **Code-alongs:**
-  - [ ] [Rails Code Along](https://www.railscodealong.com/)
-  - [ ] [Web-Crunch - Let's Build](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
-  - [ ] [CJ Avilla - clearbnb](https://youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
-  - [ ] [CJ Avilla - Stock App](https://youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
-  - [ ] [SupeRails Code Along](https://youtube.com/playlist?list=PLdTytUiloS14ejJJeuUkf8ZRhzdzYCJMh)
-  - [ ] 💲[Ruby on Rails 6: Learn 25+ gems and build a Startup MVP](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
-    - By the way, you can get any Udemy course for less than $20 if you use a discount code, which you can get either by signing up for their email updates, or by leaving a course in your cart for a few days.
 - **Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
@@ -133,7 +125,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 ## Other essentials
 
 - **Open source:**
-  - [x] Contribute to open source projects. I've written [a short guide on how to get started with this](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+  - [x] Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
   - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
 - **Git:**
   - [ ] [Oh My Git!](https://ohmygit.org/)
@@ -171,7 +163,9 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Thoughtbot](https://thoughtbot.com/blog)
 - **Screencasts:**
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
-  - [ ] [Web-Crunch - Ruby on Rails](https://web-crunch.com/collections/ruby-on-rails) and [an older collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
+  - [ ] [Rails Code Along](https://www.railscodealong.com/)
+  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
+  - [ ] Web-Crunch collections ([1](https://web-crunch.com/collections/ruby-on-rails), [2](https://web-crunch.com/collections/lets-build-with-ruby-on-rails), [3](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers))
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
   - [x] 💲[GoRails](https://gorails.com)
