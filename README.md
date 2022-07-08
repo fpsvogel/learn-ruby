@@ -61,10 +61,9 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) [App Academy Open](https://www.appacademy.io/course/app-academy-open).
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
-- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec, Rails-specific testing techniques, and more Minitest.
+- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-  - [ ] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **SQL:**
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [Select Star SQL](https://selectstarsql.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
