@@ -63,7 +63,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec, Rails-specific testing techniques, and more Minitest.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [ ] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
   - [ ] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **SQL:**
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [Select Star SQL](https://selectstarsql.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
