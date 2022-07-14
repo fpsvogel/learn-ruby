@@ -122,6 +122,12 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
   - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
+## JavaScript
+
+Because try as you might, you can't avoid it. Note: there are *so* many JS books out there and I haven't surveyed the landscape yet. These are just books that have been personally recommended to me.
+
+- 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## Other essentials
 
 - **Open source:**
