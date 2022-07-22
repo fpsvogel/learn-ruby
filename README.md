@@ -212,11 +212,14 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
   - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
-- [ ] **Software architecture:** 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- **Software architecture:** [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- **Program design:** different from software architecture in ways that I don't yet fully understand.
+  - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
+  - [ ] [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+  - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). So far I've had trouble figuring out exactly what this book is about. It is an often-recommended introductory text on "programming", funnily enough.
 - [ ] **Databases:** [Readings in Database Systems](http://www.redbook.io/)
 - [ ] **Compilers:** [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] **Math:** 💲[Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
-- [ ] **??:** [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). I'm still not sure what exactly this book is about (even after reading the first few pages) but it is an often-recommended introductory text on "programming". So, maybe someday I will learn this "programming", after I've learned the less intimidating stuff (all of the above).
 
 ## Other programming/CS resource lists
 
