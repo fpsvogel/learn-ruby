@@ -179,6 +179,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
   - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
+  - [x] [Ruby for All](https://www.rubyforall.com/)
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
