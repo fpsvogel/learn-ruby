@@ -137,6 +137,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [Oh My Git!](https://ohmygit.org/)
   - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
+  - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
   - [ ] [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
