@@ -39,7 +39,7 @@ So without further ado, here is my learning path. Resources that cost money are 
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.dev/)
 - [x] **Basics:** There a few good options here.
-  - [The Ruby Programming course on The Odin Project](https://www.theodinproject.com/courses/ruby-programming)
+  - [The Ruby Programming course on The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
   - [Ruby Is For Fun](https://github.com/ro31337/rubyisforfun)
   - 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) (worth re-reading later, as it covers some advanced Ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
