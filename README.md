@@ -71,7 +71,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **Active Record:**
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[An upcoming Active Record course](https://twitter.com/jmcharnes/status/1499760253440860161)
+  - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
 - **Performance:**
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
