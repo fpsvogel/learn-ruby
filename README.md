@@ -69,6 +69,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - **Active Record:**
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
