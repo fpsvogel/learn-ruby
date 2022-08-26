@@ -65,7 +65,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **SQL:**
-  - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [Select Star SQL](https://selectstarsql.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+  - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQL Tutorial](https://www.sqltutorial.org/), [Select Star SQL](https://selectstarsql.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
