@@ -70,6 +70,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
 - **Active Record:**
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
