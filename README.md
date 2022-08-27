@@ -128,6 +128,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 
 Because try as you might, you can't avoid it. Note: there are *so* many JS books out there and I haven't surveyed the landscape yet. These are just books that have been personally recommended to me.
 
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Other essentials
