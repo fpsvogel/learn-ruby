@@ -164,6 +164,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 - **Mentorship**
   - [ ] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
+  - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is also a good place to find a mentor.
 
 ## Ruby blogs, podcasts, screencasts
 
