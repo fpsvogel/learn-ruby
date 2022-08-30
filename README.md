@@ -35,7 +35,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 ## Ruby
 
 - **Community:**
-  - [Reddit](https://www.reddit.com/r/ruby)
+  - [Ruby subreddit](https://www.reddit.com/r/ruby)
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.dev/)
 - [x] **Basics:** There a few good options here.
@@ -52,8 +52,8 @@ So without further ado, here is my learning path. Resources that cost money are 
 Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first Rails app right from the beginning.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
 - **Community:**
-  - [Reddit](https://www.reddit.com/r/rails)
-  - [Slack](https://www.rubyonrails.link/)
+  - [Rails subreddit](https://www.reddit.com/r/rails)
+  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
 - **General:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
