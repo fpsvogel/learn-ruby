@@ -221,6 +221,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
   - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
+  - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
 - **Software architecture:** [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - **Program design:** different from software architecture in ways that I don't yet fully understand.
   - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
