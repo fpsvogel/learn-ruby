@@ -136,8 +136,10 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Linux:**
   - [ ] [Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-- [ ] **HTTP:** [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
-- [ ] **Security:** 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+- **HTTP:**
+  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
+- **Security:**
+  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
@@ -239,7 +241,8 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
   - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
-- [x] **Operating systems:** 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- **Operating systems:**
+  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - **Networks:**
   - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
@@ -250,9 +253,12 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
   - [ ] [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
   - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). So far I've had trouble figuring out exactly what this book is about. It is an often-recommended introductory text on "programming", funnily enough.
-- [ ] **Databases:** [Readings in Database Systems](http://www.redbook.io/)
-- [ ] **Compilers:** [Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] **Math:** 💲[Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
+- **Databases:**
+  - [ ] [Readings in Database Systems](http://www.redbook.io/)
+- **Compilers:**
+  - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+- **Math:**
+  - [ ] [Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
 
 ## Other programming and CS resource lists
 
