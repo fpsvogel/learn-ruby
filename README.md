@@ -31,18 +31,11 @@ So without further ado, here is my learning path. Resources that cost money are 
 
 ## Frontend basics
 
-- Subscribe to programming newsletters for inspiration. My favorites:
-  - [Hacker Newsletter](https://hackernewsletter.com/)
-  - [DEV newsletter](https://dev.to/t/newsletter)
-- [x] Treehouse's 💲[Frontend Web Development](https://teamtreehouse.com/tracks/front-end-web-development) track, or The Odin Project's [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) + [HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/html-and-css) + [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+- [x] **Learn some HTML, CSS, and JavaScript:** The Odin Project's [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) path is great, but there are [a plethora of other tutorials out there](https://www.google.com/search?q=html+css+js+tutorial).
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn. There are other ways to do that too: I also post some of my learnings on Twitter, where—confession—[I sometimes talk to myself](https://twitter.com/fpsvogel/status/1389915714098802692).
 
 ## Ruby
 
-- **Community:**
-  - [Ruby subreddit](https://www.reddit.com/r/ruby)
-  - [Ruby Weekly newsletter](https://rubyweekly.com/)
-  - [Ruby Radar newsletter](https://rubyradar.dev/)
 - [x] **Basics:** There a few good options here.
   - [The Ruby Programming course on The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
   - [Ruby Is For Fun](https://github.com/ro31337/rubyisforfun)
@@ -51,6 +44,10 @@ So without further ado, here is my learning path. Resources that cost money are 
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
 - [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with [Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join their Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
+- [x] **Keep up with the community:** You can learn a lot by listening in on what the Ruby community is talking about.
+  - [Ruby subreddit](https://www.reddit.com/r/ruby)
+  - [Ruby Weekly newsletter](https://rubyweekly.com/)
+  - [Ruby Radar newsletter](https://rubyradar.dev/)
 
 ## Rails basics
 
