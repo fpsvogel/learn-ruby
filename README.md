@@ -7,11 +7,16 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - [Preliminaries](#preliminaries) ✅
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
-- [Rails](#rails) *(~20% finished)*
-- [Other essentials](#other-essentials)
+- [Rails basics](#rails-basics) ✅
+- [Rails codebases to study](#rails-codebases-to-study)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
-- [Computer science](#computer-science) *(~30% finished)*
-- [Other programming/CS resource lists](#other-programmingcs-resource-lists)
+- [Miscellaneous essentials](#miscellaneous-essentials)
+- [Advanced Rails](#advanced-rails)
+- [Performance optimization](#performance-optimization)
+- [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
+- [JavaScript](#javascript)
+- [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
+- [Other programming and CS resource lists](#other-programming-and-cs-resource-lists)
 
 ## Preliminaries
 
@@ -47,7 +52,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
 - [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with [Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join their Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
-## Rails
+## Rails basics
 
 Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first Rails app right from the beginning.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
@@ -66,22 +71,12 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **SQL:**
   - [x] Interactive tutorials: [SQL Teaching](https://www.sqlteaching.com), [SQLBolt](https://sqlbolt.com), [SQL Tutorial](https://www.sqltutorial.org/), [Select Star SQL](https://selectstarsql.com), [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-  - [ ] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
-  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- **PostgreSQL**
-  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-  - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
-  - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
-- **Active Record:**
-  - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-- **Performance:**
-  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- <a name="codebases"></a>**Codebases to study:** These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
+  - [x] Extra practice: [Wikibooks](https://en.wikibooks.org/wiki/SQL_Exercises), [w3resource](https://www.w3resource.com/sql-exercises/), [HackerRank](https://www.hackerrank.com/domains/sql)
+
+## Rails codebases to study
+
+These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
+
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
   - [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
@@ -90,51 +85,39 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
   - [ ] [github.com/forem/forem](https://github.com/forem/forem)
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
-- <a name="rails-hotwire"></a>**Hotwire:** If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource.
-  - [ ] [Read the docs](https://hotwired.dev/)
-  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
-  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
-  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
-  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
-  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
-  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
-  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
-  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
-  - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] 💲[Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
-- **StimulusReflex:**
-  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
-  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
-  - [ ] [Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
-  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-  - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
-- **Authentication:**
-  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
-- **Advanced Ruby:**
-  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
-  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
-- **Rails internals:**
-  - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
-  - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
-  - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
-- **Deployment/DevOps:**
-  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
-  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
-  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
-## JavaScript
+## Ruby blogs, podcasts, screencasts
 
-Because try as you might, you can't avoid it. Note: there are *so* many JS books out there and I haven't surveyed the landscape yet. These are just books that have been personally recommended to me.
+Checking one of these off means "I've read/watched/listened to all the posts/episodes that interest me from the past few years, and I'm keeping an eye out for new posts/episodes that would help me, or old posts/episodes when they become relevant to me."
 
-- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-- [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- **Blogs:**
+  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
+  - [x] [Code with Jason](https://www.codewithjason.com/articles/)
+  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
+- **Screencasts:**
+  - [ ] [Naming Things](https://www.namingthings.org/)
+  - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
+  - [ ] [Rails Code Along](https://www.railscodealong.com/)
+  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
+  - [ ] Web-Crunch collections ([1](https://web-crunch.com/collections/ruby-on-rails), [2](https://web-crunch.com/collections/lets-build-with-ruby-on-rails), [3](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers))
+  - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
+  - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
+  - [x] 💲[GoRails](https://gorails.com)
+  - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
+  - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
+- **Podcasts:**
+  - [x] [Ruby for All](https://www.rubyforall.com/)
+  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
+  - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
+  - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
+  - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
+  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
+  - [ ] [Maintainable](https://www.maintainable.fm/) (not Ruby-specific)
+  - [ ] [DevDiscuss](https://devpods.dev/podcasts/devdiscuss) (not Ruby-specific)
+  - [ ] [The Bike Shed](https://www.bikeshed.fm/)
+  - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
-## Other essentials
+## Miscellaneous essentials
 
 - **Mentorship**
   - [ ] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
@@ -169,36 +152,73 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
-## Ruby blogs, podcasts, screencasts
+## Advanced Rails
 
-Checking one of these off means "I've read/watched/listened to all the posts/episodes that interest me from the past few years, and I'm keeping an eye out for new posts/episodes that would help me, or old posts/episodes when they become relevant to me."
+- **Authentication:**
+  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
+- **Advanced Ruby:**
+  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
+  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
+- **Rails internals:**
+  - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
+  - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
+  - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
+- **Rails deployment/DevOps:**
+  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
+  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
+  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
-- **Blogs:**
-  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
-  - [x] [Code with Jason](https://www.codewithjason.com/articles/)
-  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
-- **Screencasts:**
-  - [ ] [Naming Things](https://www.namingthings.org/)
-  - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
-  - [ ] [Rails Code Along](https://www.railscodealong.com/)
-  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
-  - [ ] Web-Crunch collections ([1](https://web-crunch.com/collections/ruby-on-rails), [2](https://web-crunch.com/collections/lets-build-with-ruby-on-rails), [3](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers))
-  - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
-  - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
-  - [x] 💲[GoRails](https://gorails.com)
-  - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
-  - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
-- **Podcasts:**
-  - [x] [Ruby for All](https://www.rubyforall.com/)
-  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
-  - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
-  - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
-  - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
-  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
-  - [ ] [Maintainable](https://www.maintainable.fm/) (not Ruby-specific)
-  - [ ] [DevDiscuss](https://devpods.dev/podcasts/devdiscuss) (not Ruby-specific)
-  - [ ] [The Bike Shed](https://www.bikeshed.fm/)
-  - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
+## Performance optimization
+
+- **Advanced SQL**
+  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+- **Rails and Active Record:**
+  - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
+  - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
+  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+- **PostgreSQL**
+  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+  - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
+  - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+
+## Hotwire and StimulusReflex
+
+If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource, even for Hotwire.
+
+- **Hotwire:**
+  - [ ] [Read the docs](https://hotwired.dev/)
+  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
+  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
+  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
+  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
+  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
+  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
+  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
+  - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+  - [ ] 💲[Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
+- **StimulusReflex:**
+  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
+  - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
+  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
+  - [ ] [Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
+  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
+  - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
+  - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
+
+## JavaScript
+
+Because try as you might, you can't avoid it. Note: there are *so* many JS books out there and I haven't surveyed the landscape yet. These are just books that have been personally recommended to me.
+
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Meanwhile, computer science
 
@@ -234,7 +254,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - [ ] **Compilers:** [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] **Math:** 💲[Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
 
-## Other programming/CS resource lists
+## Other programming and CS resource lists
 
 - [Backend (Ruby) track at Turing School](https://backend.turing.edu/module1/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
