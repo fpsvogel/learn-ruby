@@ -44,27 +44,28 @@ So without further ado, here is my learning path. Resources that cost money are 
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby). More than any other Ruby books, these are worth the price tag.
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Along the way I also [published a Ruby gem](https://fpsvogel.com/posts/2020/ruby-functional-programming), though in the end I abandoned it because I realized it did more harm than good. All part of the learning process…
 - [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with [Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join their Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
-- [x] **Keep up with the community:** You can learn a lot by listening in on what the Ruby community is talking about.
-  - [Ruby Weekly newsletter](https://rubyweekly.com/)
-  - [Ruby Radar newsletter](https://rubyradar.dev/)
-  - [Short Ruby newsletter](https://newsletter.shortruby.com/)
+- [x] **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
+  - [Ruby Weekly](https://rubyweekly.com/)
+  - [Ruby Radar](https://rubyradar.dev/)
+  - [Short Ruby](https://newsletter.shortruby.com/)
 
 ## Rails basics
 
 Only courses are listed below, but be sure to *build stuff* as you learn. [Here's how I started building my first Rails app right from the beginning.](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) Another invaluable form of practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
-- **Join discussion forums:** These are places where you can ask questions when you're stuck. Stick around and you'll find opportunities to help others in turn.
+- **Where to ask for help:** Here are some places where you can ask questions when you get stuck. Stick around and you might find opportunities to help others too.
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
-- **General:**
+- **Rails from scratch:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos and/or you're interested in Rails + React) [App Academy Open](https://open.appacademy.io/learn/full-stack-online).
-  - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
-  - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+- **Guides to polish your style and fill knowledge gaps:**
+  - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
+  - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **SQL:**
   - [x] [SQL Teaching](https://www.sqlteaching.com)
   - [x] [SQLBolt](https://sqlbolt.com)
