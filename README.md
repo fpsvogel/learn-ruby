@@ -47,6 +47,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 - [x] **Keep up with the community:** You can learn a lot by listening in on what the Ruby community is talking about.
   - [Ruby Weekly newsletter](https://rubyweekly.com/)
   - [Ruby Radar newsletter](https://rubyradar.dev/)
+  - [Short Ruby newsletter](https://newsletter.shortruby.com/)
 
 ## Rails basics
 
