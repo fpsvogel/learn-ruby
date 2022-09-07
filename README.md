@@ -70,7 +70,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] [SQL Teaching](https://www.sqlteaching.com)
   - [x] [SQLBolt](https://sqlbolt.com)
   - [x] [Select Star SQL](https://selectstarsql.com)
-  - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Rails codebases to study
 
@@ -173,15 +172,16 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 
 ## Performance optimization
 
-- **Advanced SQL**
-  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **Rails and Active Record:**
   - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+- **Advanced SQL**
+  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice
+  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **PostgreSQL**
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
   - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
