@@ -15,7 +15,7 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - [Performance optimization](#performance-optimization)
 - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
 - [JavaScript](#javascript)
-- [Meanwhile, computer science](#meanwhile-computer-science) *(~30% finished)*
+- [Meanwhile, computer science](#meanwhile-computer-science) *(progress: ~30%)*
 - [Other programming and CS resource lists](#other-programming-and-cs-resource-lists)
 
 ## Preliminaries
@@ -55,7 +55,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 
 - **Where to ask for help:** Here are some places where you can ask questions when you get stuck. Stick around and you might find opportunities to help others too.
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
-  - [StimulusReflex on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
+  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
 - **Rails from scratch:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
@@ -63,7 +63,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-- **Guides to polish your style and fill knowledge gaps:**
+- **Polishing up, rounding out:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **SQL:**
@@ -119,7 +119,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 
 - **Mentorship**
   - [ ] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is also a good place to find a mentor.
+  - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Open source:**
   - [x] Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
   - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
@@ -179,7 +179,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
 - **Advanced SQL**
-  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice
+  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **PostgreSQL**
