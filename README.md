@@ -180,7 +180,8 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
 - **Advanced SQL**
   - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
-  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **PostgreSQL**
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
