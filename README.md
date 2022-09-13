@@ -217,10 +217,33 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
 
 ## JavaScript
 
-Because try as you might, you can't avoid it. Note: there are *so* many JS books out there and I haven't surveyed the landscape yet. These are just books that have been personally recommended to me.
+Because try as you might, you can't avoid it. Note: there are *so* many JS books and courses out there. These are not necessarily the best, and I don't plan on going through all of them. I just picked a bunch that I saw recommended; eventually I'm going to whittle down these lists.
 
-- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-- [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- **JS:**
+  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+- **React:**
+  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
+  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
+  - [ ] [useHooks](https://usehooks.com/)
+  - [ ] [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
+  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
+  - [ ] 💲[Pure React](https://www.purereact.com/)
+  - [ ] [React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
+- **Web components:**
+  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+  - [ ] 💲[Web Components course](https://frontendmasters.com/courses/web-components/) at Frontend Masters
+  - [ ] [Lit docs](https://lit.dev/)
+  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
+  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
+  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
+  - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
+  - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
 ## Meanwhile, computer science
 
