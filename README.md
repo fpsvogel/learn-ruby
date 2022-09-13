@@ -224,6 +224,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
   - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [ ] [JavaScript30](https://javascript30.com/) for practice
 - **Functional JS:**
   - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
   - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
@@ -237,11 +238,15 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
   - [ ] [Full Stack Open](https://fullstackopen.com/en/)
   - [ ] [useHooks](https://usehooks.com/)
+  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
+  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
+  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
   - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
   - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
   - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
   - [ ] 💲[Pure React](https://www.purereact.com/)
-  - [ ] [React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
+  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
+  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
 - **Web components:**
   - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
   - [ ] 💲[Web Components course](https://frontendmasters.com/courses/web-components/) at Frontend Masters
