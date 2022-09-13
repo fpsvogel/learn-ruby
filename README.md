@@ -205,7 +205,7 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
   - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] 💲[Hotwired ATS: Modern, full-stack Rails development](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
+  - [ ] [Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
