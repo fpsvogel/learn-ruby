@@ -57,7 +57,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
 - **Rails from scratch:**
-  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly. If you'd like a slightly longer follow-up, try [Ruby on Rails: A Beginner's Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free/).
+  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly.
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos and/or you're interested in Rails + React) [App Academy Open](https://open.appacademy.io/learn/full-stack-online).
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
