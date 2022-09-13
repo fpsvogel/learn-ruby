@@ -289,3 +289,4 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [p1xt Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
 - [Open Source Society University](https://github.com/ossu/computer-science)
+- [roadmap.sh](https://roadmap.sh/)
