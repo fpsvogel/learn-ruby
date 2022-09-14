@@ -61,8 +61,10 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos and/or you're interested in Rails + React) [App Academy Open](https://open.appacademy.io/learn/full-stack-online).
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
+  - [ ] [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [ ] [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
 - **Polishing up, rounding out:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
@@ -128,11 +130,11 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
   - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
-  - [ ] [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+  - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
 - **Linux:**
-  - [ ] [Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - **HTTP:**
   - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
@@ -173,7 +175,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 ## Performance optimization
 
 - **Rails and Active Record:**
-  - [x] [Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
+  - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
