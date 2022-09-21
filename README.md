@@ -31,7 +31,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 
 ## Frontend basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** The Odin Project's [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) path is great, but there are [a plethora of other tutorials out there](https://www.google.com/search?q=html+css+js+tutorial).
+- [x] **Learn some HTML, CSS, and JavaScript:** A good starting point is the Odin Project's [Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations), or MDN's [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) (plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) + [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) + [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials), or any of [the plethora of other tutorials out there](https://www.google.com/search?q=html+css+js+tutorial).
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn. There are other ways to do that too: I also post some of my learnings on Twitter, where—confession—[I sometimes talk to myself](https://twitter.com/fpsvogel/status/1389915714098802692).
 
 ## Ruby
