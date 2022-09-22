@@ -180,16 +180,18 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-- **Advanced SQL**
+- **Advanced SQL:**
   - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- **PostgreSQL**
+- **PostgreSQL:**
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
   - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
   - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
   - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+- **Background jobs:**
+  - [ ] [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
 
 ## Hotwire and StimulusReflex
 
