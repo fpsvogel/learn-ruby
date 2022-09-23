@@ -135,7 +135,11 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
 - **Linux:**
   - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+  - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
+  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - **HTTP:**
   - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
 - **Security:**
