@@ -98,8 +98,11 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Naming Things](https://www.namingthings.org/)
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
-  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
+  - [ ] [Build an AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
+  - [ ] [Build an Instagram clone](https://www.youtube.com/playlist?list=PLN8D2dU8NedZ44iF8bvk5-SoVv21ipsPK)
+  - [ ] [Build a pet adoption website](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
   - [ ] Web-Crunch collections ([1](https://web-crunch.com/collections/ruby-on-rails), [2](https://web-crunch.com/collections/lets-build-with-ruby-on-rails), [3](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers))
+  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
   - [x] 💲[GoRails](https://gorails.com)
@@ -255,6 +258,8 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] 💲[Pure React](https://www.purereact.com/)
   - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
   - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
+- **React + Rails:**
+  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
 - **Web components:**
   - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
   - [ ] 💲[Web Components course](https://frontendmasters.com/courses/web-components/) at Frontend Masters
