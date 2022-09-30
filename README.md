@@ -21,13 +21,13 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 ## Preliminaries
 
 - If you're wondering why I chose Ruby and not full-stack JS, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
-- I list *a lot* of books and courses below, and hardly any hands-on projects. Let me be clear: you should be spending more time coding than reading about coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
-- If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)). I studied some computer science in high school, so I had a bit of a head start.
-- If you are a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote tech support job, which freed up my schedule.
+- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading* about coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
+- If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)).
+- If you are a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
-- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), [do daily RSI stretches](https://youtu.be/fdD7CgN5FGg), and start using a break app such as [Workrave](https://workrave.org/).
+- Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), [do daily RSI stretches](https://youtu.be/fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
 
-So without further ado, here is my learning path. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but be sure to buy them when you can, to support the authors. 🙂
+So without further ado, here is my learning path. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but be sure to buy them when you can, to support the authors 🙂
 
 ## Frontend basics
 
@@ -36,7 +36,7 @@ So without further ado, here is my learning path. Resources that cost money are 
   - [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) at MDN (plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) + [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) + [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials)
   - [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
   - Any of [the plethora of other tutorials out there](https://www.google.com/search?q=html+css+js+tutorial)
-- [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn. There are other ways to do that too: I also post some of my learnings on Twitter, where—confession—[I sometimes talk to myself](https://twitter.com/fpsvogel/status/1389915714098802692).
+- [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ## Ruby
 
@@ -81,14 +81,14 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 
 These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
 
-  - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
-  - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
-  - [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
-  - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage)
-  - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
-  - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
-  - [ ] [github.com/forem/forem](https://github.com/forem/forem)
-  - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
+- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
+- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
+- [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
+- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage)
+- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
+- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
+- [ ] [github.com/forem/forem](https://github.com/forem/forem)
+- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
 
 ## Ruby blogs, podcasts, screencasts
 
