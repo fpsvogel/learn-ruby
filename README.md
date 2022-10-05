@@ -230,6 +230,9 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
   - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
+- **CableReady:**
+  - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
+  - [ ] 💲[Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 
 ## JavaScript
 
