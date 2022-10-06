@@ -100,7 +100,6 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
   - [ ] [Thoughtbot](https://thoughtbot.com/blog)
 - **Screencasts:**
-  - [ ] [Naming Things](https://www.namingthings.org/)
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
   - [ ] [Build an AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
