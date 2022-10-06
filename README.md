@@ -204,6 +204,8 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 - **Background jobs:**
   - [ ] [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+- **Principles of optimization:**
+  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/)
 
 ## Hotwire and StimulusReflex
 
