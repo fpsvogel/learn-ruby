@@ -157,6 +157,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Software architecture:**
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+  - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
