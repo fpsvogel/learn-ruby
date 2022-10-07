@@ -154,9 +154,10 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Software architecture:**
+- **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails)
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+  - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
   - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
@@ -184,6 +185,8 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
   - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
+- **Architecture (or, where the heck do I put business logic):**
+  - [ ] 💲[Clean Ruby](http://clean-ruby.com/) about DCI
 - **Rails deployment/DevOps:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
