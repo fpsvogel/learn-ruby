@@ -86,12 +86,12 @@ These are Rails projects that I've seen mentioned more than once as good example
   - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage): 6k lines. *Issue tracker for open-source projects.*
   - [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters): 13k lines. *Hacker News clone.*
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase): 14k lines. *Learning platform.*
-  - [ ] [github.com/houndci/hound](https://github.com/houndci/hound): 14k lines. *Automated *code review for GitHub PRs.
+  - [ ] [github.com/houndci/hound](https://github.com/houndci/hound): 14k lines. *Automated code review for GitHub PRs.*
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org): 26k lines. *Where Ruby gems are hosted.*
 - **Larger codebases:** More than 50k lines of Ruby code.
   - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus): 72k lines. *E-commerce platform.*
   - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon): 75k lines. *Self-hosted, federated Twitter-like social media platform.*
-  - [ ] [github.com/forem/forem](https://github.com/forem/forem): 103k lines. *Powers the *blogging site [dev.to](https://dev.to/).
+  - [ ] [github.com/forem/forem](https://github.com/forem/forem): 103k lines. *Powers the blogging site [dev.to](https://dev.to/).*
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall): 117k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
   - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse): 322k lines. *Discussion forum platform.*
 
