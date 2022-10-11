@@ -84,6 +84,7 @@ These are Rails projects that I've seen mentioned more than once as good example
 
 - **Small codebases:** Less than 50k lines of Ruby code.
   - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage): 6k lines
+  - [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters): 13k lines
   - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase): 14k lines
   - [ ] [github.com/houndci/hound](https://github.com/houndci/hound): 14k lines
   - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org): 26k lines
@@ -92,6 +93,7 @@ These are Rails projects that I've seen mentioned more than once as good example
   - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon): 75k lines
   - [ ] [github.com/forem/forem](https://github.com/forem/forem): 103k lines
   - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall): 117k lines
+  - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse): 322k lines
 
 ## Ruby blogs, podcasts, screencasts
 
