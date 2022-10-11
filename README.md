@@ -82,14 +82,16 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
 
 These are Rails projects that I've seen mentioned more than once as good examples to learn from. For lots more open-source Rails projects, see [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/)) and [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps).
 
-- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase)
-- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall)
-- [ ] [github.com/houndci/hound](https://github.com/houndci/hound)
-- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage)
-- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon)
-- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org)
-- [ ] [github.com/forem/forem](https://github.com/forem/forem)
-- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus)
+- **Small codebases:** Less than 50k lines of Ruby code.
+  - [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage): 6k lines
+  - [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase): 14k lines
+  - [ ] [github.com/houndci/hound](https://github.com/houndci/hound): 14k lines
+  - [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org): 26k lines
+- **Larger codebases:** More than 50k lines of Ruby code.
+  - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus): 72k lines
+  - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon): 75k lines
+  - [ ] [github.com/forem/forem](https://github.com/forem/forem): 103k lines
+  - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall): 117k lines
 
 ## Ruby blogs, podcasts, screencasts
 
