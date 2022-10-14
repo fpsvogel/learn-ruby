@@ -183,15 +183,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 
 ## Advanced Rails
 
-- **Authentication:**
-  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
-- **Advanced Ruby:**
-  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
-  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Rails internals:**
-  - [ ] [Demystifying Rails](https://launchschool.com/books/demystifying_rails)
-  - [ ] 💲[Dissecting Ruby on Rails](https://www.udemy.com/course/professional-rails-5-development-course/)
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Rails architecture (or, where the heck do I put business logic??):**
   - [ ] 💲[Clean Ruby](http://clean-ruby.com/) about DCI
@@ -199,6 +191,12 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
   - [ ] Browse the relevant gems: [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/), [Trailblazer](https://trailblazer.to/2.1/learn.html), [Interactor](https://github.com/collectiveidea/interactor), [Surrounded](https://github.com/saturnflyer/surrounded), [Rectify](https://github.com/andypike/rectify), [Flow](https://github.com/Freshly/flow), [Ventable](https://github.com/kigster/ventable), [Wisper](https://github.com/krisleech/wisper)
   - [ ] Review my favorite criticisms of service objects to see if they still hold up: ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/), [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882), ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
+- **Advanced Ruby:**
+  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
+  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
+- **Authentication:**
+  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
 - **Rails deployment/DevOps:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
