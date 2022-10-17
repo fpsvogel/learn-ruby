@@ -66,11 +66,10 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
   - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos and/or you're interested in Rails + React) [App Academy Open](https://open.appacademy.io/learn/full-stack-online).
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
-  - [x] [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd)
-  - [x] [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
+  - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-- **Polishing up, rounding out:**
+- **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **SQL:**
