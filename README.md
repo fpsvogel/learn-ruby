@@ -41,7 +41,7 @@ So without further ado, here is my learning path. Resources that cost money are 
 ## Ruby
 
 - [x] **Basics:** There a few good options here:
-  - [The Ruby Programming course on The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+  - [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
   - [Ruby Is For Fun](https://github.com/ro31337/rubyisforfun)
   - 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) (worth re-reading later, as it covers some advanced Ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and write up a reflection at the end ([here is mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
@@ -62,9 +62,8 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
-  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners) is great for getting started quickly.
-  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) will teach you Rails testing, good Git habits, and how to build an authentication (user login) system from scratch.
-  - [x] If you need a review, or if you skipped the Ruby on Rails Tutorial: [Full Stack Ruby on Rails at The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos and/or you're interested in Rails + React) [App Academy Open](https://open.appacademy.io/learn/full-stack-online).
+  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
+  - [x] 💲[Ruby on Rails Tutorial](https://www.railstutorial.org) or [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
