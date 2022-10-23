@@ -21,7 +21,7 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 ## Preliminaries
 
 - If you're wondering why I chose Ruby and not full-stack JS, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
-- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading* about coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://build-your-own-x.vercel.app/)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
+- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading* about coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, just ["build your own X"](https://github.com/codecrafters-io/build-your-own-x) or try [Project Based Learning](https://github.com/practical-tutorials/project-based-learning#ruby) or [Projectbook](https://projectbook.code.brettchalupa.com)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
 - If you've never written a line of code in your life, you may want to start with the free tutorials at [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) and/or [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/)).
 - If you are a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
@@ -197,7 +197,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Authentication:**
   - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero))
+  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero)
 - **Rails deployment/DevOps:**
   - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
