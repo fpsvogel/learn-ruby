@@ -244,6 +244,9 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
   - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
   - [ ] [Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
+  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
+  - [ ] [Better Stimulus](https://www.betterstimulus.com/)
+  - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
