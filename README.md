@@ -190,13 +190,28 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - DDD (Domain-Driven Design):
     - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
     - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-  - [ ] 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] Review my favorite criticisms of the Active Record pattern: [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
-  - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
-  - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
-  - [ ] Browse the relevant gems: [Sequent](https://www.sequent.io/), [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/), [Trailblazer](https://trailblazer.to/2.1/learn.html), [Interactor](https://github.com/collectiveidea/interactor), [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction), [Surrounded](https://github.com/saturnflyer/surrounded), [Rectify](https://github.com/andypike/rectify), [Flow](https://github.com/Freshly/flow), [Ventable](https://github.com/kigster/ventable), [Wisper](https://github.com/krisleech/wisper)
-  - [ ] Review my favorite criticisms of service objects to see if they still hold up: ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/), [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882), ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
+  - Other approaches:
+    - [ ] upcoming 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
+    - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+    - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
+    - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
+  - [ ] Browse the relevant gems:
+    - [Sequent](https://www.sequent.io/)
+    - [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/)
+    - [Trailblazer](https://trailblazer.to/2.1/learn.html)
+    - [Interactor](https://github.com/collectiveidea/interactor)
+    - [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
+    - [Surrounded](https://github.com/saturnflyer/surrounded)
+    - [Rectify](https://github.com/andypike/rectify)
+    - [Flow](https://github.com/Freshly/flow)
+    - [Ventable](https://github.com/kigster/ventable)
+    - [Wisper](https://github.com/krisleech/wisper)
+  - [ ] Review criticisms of the Active Record pattern:
+    - [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
+  - [ ] Review criticisms of service objects:
+    - ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
+    - [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
+    - ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
