@@ -154,6 +154,7 @@ A.K.A. where the heck do I put my business logic / what do to keep my models fro
   - [ ] [Surrounded](https://github.com/saturnflyer/surrounded)
   - [ ] [Rectify](https://github.com/andypike/rectify)
   - [ ] [Flow](https://github.com/Freshly/flow)
+  - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store)
   - [ ] [Ventable](https://github.com/kigster/ventable)
   - [ ] [Wisper](https://github.com/krisleech/wisper)
 - **Review criticisms of the Active Record pattern:**
