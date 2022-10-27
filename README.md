@@ -11,7 +11,7 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Miscellaneous essentials](#miscellaneous-essentials)
-- [Advanced Rails](#advanced-rails)
+- [Advanced Rails and Ruby](#advanced-rails-and-ruby)
 - [Performance optimization](#performance-optimization)
 - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
 - [JavaScript](#javascript)
@@ -159,7 +159,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails)
+- **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails-and-ruby)
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
   - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
@@ -181,7 +181,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
-## Advanced Rails
+## Advanced Rails and Ruby
 
 - **Rails internals:**
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
