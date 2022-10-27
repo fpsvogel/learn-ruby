@@ -132,7 +132,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 
 ## Rails architecture
 
-A.K.A. where the heck do I put my business logic / what do to keep my models from getting huge? Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
+A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?* Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
 
 - **DCI (Domain, Context, Interaction):**
   - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
