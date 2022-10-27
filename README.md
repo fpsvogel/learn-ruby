@@ -161,10 +161,6 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] [Refactoring.Guru](https://refactoring.guru/)
 - **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails-and-ruby)
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  - DDD (Domain-Driven Design):
-    - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
-    - [ ]💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-  - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
   - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
@@ -188,7 +184,12 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Rails internals:**
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Rails architecture (or, where the heck do I put business logic??):**
-  - [ ] 💲[Clean Ruby](http://clean-ruby.com/) about DCI
+  - DCI (Domain, Context, Interaction)
+    - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
+    - [ ] 💲[Clean Ruby](http://clean-ruby.com/)
+  - DDD (Domain-Driven Design):
+    - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+    - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
   - [ ] 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] Review my favorite criticisms of the Active Record pattern: [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
