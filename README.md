@@ -161,7 +161,9 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] [Refactoring.Guru](https://refactoring.guru/)
 - **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails-and-ruby)
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+  - DDD (Domain-Driven Design):
+    - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+    - [ ]💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
   - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
   - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
