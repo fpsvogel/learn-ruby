@@ -10,8 +10,9 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - [Rails basics](#rails-basics) ✅
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
+- [Rails architecture](#rails-architecture)
 - [Miscellaneous essentials](#miscellaneous-essentials)
-- [Advanced Rails and Ruby](#advanced-rails-and-ruby)
+- [Advanced Ruby and Rails](#advanced-ruby-and-rails)
 - [Performance optimization](#performance-optimization)
 - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
 - [JavaScript](#javascript)
@@ -129,6 +130,39 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
+## Rails architecture
+
+A.K.A. where the heck do I put my business logic / what do to keep my models from getting huge? Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
+
+- **DCI (Domain, Context, Interaction):**
+  - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
+  - [ ] 💲[Clean Ruby](http://clean-ruby.com/)
+- **DDD (Domain-Driven Design):**
+  - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+- **Other approaches:**
+  - [ ] upcoming 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
+  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+  - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
+  - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
+- [ ] **Browse the relevant gems:**
+  - [Sequent](https://www.sequent.io/)
+  - [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/)
+  - [Trailblazer](https://trailblazer.to/2.1/learn.html)
+  - [Interactor](https://github.com/collectiveidea/interactor)
+  - [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
+  - [Surrounded](https://github.com/saturnflyer/surrounded)
+  - [Rectify](https://github.com/andypike/rectify)
+  - [Flow](https://github.com/Freshly/flow)
+  - [Ventable](https://github.com/kigster/ventable)
+  - [Wisper](https://github.com/krisleech/wisper)
+- [ ] **Review criticisms of the Active Record pattern:**
+  - [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
+- [ ] **Review criticisms of service objects:**
+  - ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
+  - [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
+  - ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
+
 ## Miscellaneous essentials
 
 - **Mentorship**
@@ -159,7 +193,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Software architecture:** see also "Architecture" in the [Advanced Rails section](#advanced-rails-and-ruby)
+- **Software architecture:** see also the [Rails architecture](#rails-architecture) section
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
@@ -179,39 +213,10 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
-## Advanced Rails and Ruby
+## Advanced Ruby and Rails
 
 - **Rails internals:**
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
-- **Rails architecture (or, where the heck do I put business logic??):**
-  - DCI (Domain, Context, Interaction)
-    - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
-    - [ ] 💲[Clean Ruby](http://clean-ruby.com/)
-  - DDD (Domain-Driven Design):
-    - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
-    - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-  - Other approaches:
-    - [ ] upcoming 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
-    - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-    - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
-    - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
-  - [ ] Browse the relevant gems:
-    - [Sequent](https://www.sequent.io/)
-    - [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/)
-    - [Trailblazer](https://trailblazer.to/2.1/learn.html)
-    - [Interactor](https://github.com/collectiveidea/interactor)
-    - [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
-    - [Surrounded](https://github.com/saturnflyer/surrounded)
-    - [Rectify](https://github.com/andypike/rectify)
-    - [Flow](https://github.com/Freshly/flow)
-    - [Ventable](https://github.com/kigster/ventable)
-    - [Wisper](https://github.com/krisleech/wisper)
-  - [ ] Review criticisms of the Active Record pattern:
-    - [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
-  - [ ] Review criticisms of service objects:
-    - ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
-    - [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
-    - ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 - **Advanced Ruby:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
