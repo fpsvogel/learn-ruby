@@ -219,6 +219,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 - **Rails internals:**
   - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
 - **Advanced Ruby:**
+  - [ ] [The Ruby Reference](https://rubyreferences.github.io/rubyref/) currently covering Ruby 2.7
+  - [ ] [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) starting at 3.1
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Authentication:**
