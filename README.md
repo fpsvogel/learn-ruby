@@ -188,6 +188,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Rails architecture (or, where the heck do I put business logic??):**
   - [ ] 💲[Clean Ruby](http://clean-ruby.com/) about DCI
   - [ ] 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
+  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] Review my favorite criticisms of the Active Record pattern: [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
   - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
@@ -212,7 +213,6 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
   - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
 - **Advanced SQL:**
   - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
