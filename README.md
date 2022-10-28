@@ -30,6 +30,8 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 
 So without further ado, here is my learning path. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but be sure to buy them when you can, to support the authors 🙂
 
+My absolute favorites are marked with ⭐. If you mainly learn by doing and/or googling and you want only a handful of books/courses, these are the ones I'd most recommend.
+
 ## Frontend basics
 
 - [x] **Learn some HTML, CSS, and JavaScript:** Here are good starting points:
@@ -48,9 +50,9 @@ So without further ado, here is my learning path. Resources that cost money are 
 - [x] **Basics:** There a few good options here:
   - [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
   - [Ruby Is For Fun](https://github.com/ro31337/rubyisforfun)
-  - 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+  - ⭐💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
   - 💲[Programming Ruby 3.2](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
-- [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+- [x] **Guided practice:** ⭐[Exercism](https://exercism.org/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
 - [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with [Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
@@ -64,12 +66,12 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
-  - [x] [GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
+  - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [x] ⭐💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
   - [x] [Rails Guides](https://guides.rubyonrails.org/)
