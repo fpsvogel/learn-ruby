@@ -28,9 +28,12 @@ Hi! As a second-career developer who didn't go through a bootcamp, I've found it
 - Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
 - Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) is effective and affordable), [do daily RSI stretches](https://youtu.be/fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
 
-So without further ado, here is my learning path. Resources that cost money are marked with 💲. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but be sure to buy them when you can, to support the authors 🙂
+So without further ado, here is my learning path.
 
-My absolute favorites are marked with ⭐. If you mainly learn by doing and/or googling and you want only a handful of books/courses, these are the ones I'd most recommend.
+**Key:**
+
+- 💲 = costs money. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors!
+- ⭐ = absolute favorite. If you mainly learn by doing and/or googling and you want only a handful of books/courses, these are the ones I'd most recommend.
 
 ## Frontend basics
 
