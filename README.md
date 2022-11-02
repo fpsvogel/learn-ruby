@@ -115,6 +115,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **Screencasts:**
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
+  - [ ] [Build a Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
   - [ ] [Build an AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
   - [ ] [Build an Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] [Build a pet adoption app](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
