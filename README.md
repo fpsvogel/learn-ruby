@@ -134,6 +134,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Sierra Rails](https://anchor.fm/sierra-rails)
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
+  - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
   - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
@@ -235,10 +236,10 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Authentication:**
-  - [ ] [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] Study the similar [Authentication Zero](https://github.com/lazaronixon/authentication-zero)
+  - [ ] Steve Polito - [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
 - **Rails deployment/DevOps:**
-  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
   - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
   - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
@@ -247,9 +248,9 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **Rails and Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
-  - [ ] 💲[The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+  - [ ] 💲[Jason Charnes - Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
+  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Advanced SQL:**
   - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
@@ -261,7 +262,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
   - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 - **Background jobs:**
-  - [ ] [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
 - **Principles of optimization:**
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/)
 
@@ -273,29 +274,29 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
   - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
   - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
-  - [ ] [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] [Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
+  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
   - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] [Videos by the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
+  - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
   - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
-  - [ ] [Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
+  - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
   - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] 💲[Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-  - [ ] 💲[StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
+  - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
+  - [ ] 💲[Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
 - **CableReady:**
   - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
-  - [ ] 💲[Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
+  - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 
 ## JavaScript
 
@@ -365,7 +366,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
 - **Networks:**
   - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
-  - [ ] for a fun review: [How DNS Works](https://howdns.works/ep1/)
+  - [ ] for a fun review: [Julia Evans - How DNS Works](https://howdns.works/ep1/)
   - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
 - **Program design:** different from software architecture in ways that I don't yet fully understand.
   - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
