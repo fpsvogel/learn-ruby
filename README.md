@@ -59,7 +59,7 @@ So without further ado, here is my learning path.
   - ⭐💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
   - 💲[Programming Ruby 3.2](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
 - [x] **Guided practice:** ⭐[Exercism](https://exercism.org/tracks/ruby), then [CodeWars](https://www.codewars.com) if you want more. Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
-- [x] **OOP:** 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR), then 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
+- [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
 - [x] **Build a site with Bridgetown:** I [remade my blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown) with [Bridgetown](https://github.com/bridgetownrb/bridgetown) (an updated Jekyll), and built a Ruby component for [a reading list](https://fpsvogel.com/reading/). Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
@@ -73,10 +73,10 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
   - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
-  - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
+  - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) Michael Hartl's 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
-  - [x] 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [x] Jason Swett - 💲[The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] ⭐💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
@@ -115,15 +115,15 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 - **"Let's build" screencasts:**
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
-  - [ ] [Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
-  - [ ] [Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
+  - [ ] [Web-Crunch - Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
+  - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
+  - [ ] [Mix & Go - Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] [AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
-  - [ ] [Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
   - [ ] [Pet adoption app](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - **Topical screencasts:**
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
-  - [ ] [SupeRails](https://www.youtube.com/c/SupeRails/playlists)
+  - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
   - [x] 💲[GoRails](https://gorails.com)
@@ -153,8 +153,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
-  - [ ] upcoming 💲[Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+  - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
+  - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
   - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
 - **Browse the relevant gems:**
@@ -170,11 +170,11 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Ventable](https://github.com/kigster/ventable)
   - [ ] [Wisper](https://github.com/krisleech/wisper)
 - **Review criticisms of the Active Record pattern:**
-  - [ ] [the one by Bob Martin](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
+  - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
 - **Review criticisms of service objects:**
-  - [ ] ["Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
+  - [ ] [Jared White - "Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
   - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
-  - [ ] ["Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
+  - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 
 ## Miscellaneous essentials
 
@@ -183,7 +183,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Open source:**
   - [x] Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
-  - [ ] 💲[How to Open Source](https://howtoopensource.dev/)
+  - [ ] 💲[Richard Schneeman - How to Open Source](https://howtoopensource.dev/)
 - **Git:**
   - [ ] [Oh My Git!](https://ohmygit.org/)
   - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
@@ -229,9 +229,9 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 ## Advanced Ruby and Rails
 
 - **Rails internals:**
-  - [ ] 💲[Rebuilding Rails](http://rebuilding-rails.com/)
+  - [ ] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
 - **Advanced Ruby:**
-  - [ ] [The Ruby Reference](https://rubyreferences.github.io/rubyref/) currently covering Ruby 2.7. Supplement with [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) for Ruby 3.
+  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Authentication:**
