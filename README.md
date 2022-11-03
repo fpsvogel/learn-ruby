@@ -135,6 +135,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
+  - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
   - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
