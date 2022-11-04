@@ -122,6 +122,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Pet adoption app](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - **Topical screencasts:**
   - [ ] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
+  - [ ] [Joel Drapper & Kasper Timm Hansen - Naming Things](https://www.namingthings.org/)
   - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
   - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
