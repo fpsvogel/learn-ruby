@@ -233,6 +233,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **Rails internals:**
   - [ ] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+- **Better Rails views:**
+  - [ ] Try out [Phlex](https://www.phlex.fun/).
 - **Advanced Ruby:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
