@@ -233,7 +233,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 ## Advanced Ruby and Rails
 
 - **Rails internals:**
-  - [ ] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
 - **Better Rails views:**
   - [ ] Try out [Phlex](https://www.phlex.fun/).
 - **Advanced Ruby:**
