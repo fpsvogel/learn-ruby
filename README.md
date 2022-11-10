@@ -234,6 +234,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **Rails internals:**
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+- **Design patterns in Rails:**
+  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science)
 - **Better Rails views:**
   - [ ] Try out [Phlex](https://www.phlex.fun/).
 - **Advanced Ruby:**
