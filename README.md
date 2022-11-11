@@ -293,13 +293,16 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
+- **Hotwire extensions:**
+  - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
+  - [ ] [TurboReady](https://turboready.reflexready.com/)
+  - [ ] [TurboReflex](https://turboreflex.railsready.com/)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
   - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
   - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
   - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] [TurboReflex](https://turboreflex.railsready.com/)
   - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
   - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
   - [ ] 💲[Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
