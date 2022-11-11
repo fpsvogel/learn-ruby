@@ -80,7 +80,6 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [x] ⭐💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
-  - [x] [Rails Guides](https://guides.rubyonrails.org/)
 - **SQL:**
   - [x] [SQL Teaching](https://www.sqlteaching.com)
   - [x] [SQLBolt](https://sqlbolt.com)
@@ -233,12 +232,13 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Advanced Ruby and Rails
 
-- **Rails internals:**
+- **Advanced Rails:**
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
-- **Design patterns in Rails:**
-  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science)
+  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails
+  - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Better Rails views:**
-  - [ ] Try out [Phlex](https://www.phlex.fun/).
+  - [ ] [Phlex](https://www.phlex.fun/)
 - **Advanced Ruby:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
