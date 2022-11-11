@@ -172,6 +172,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store)
   - [ ] [Ventable](https://github.com/kigster/ventable)
   - [ ] [Wisper](https://github.com/krisleech/wisper)
+  - [ ] [Packwerk](https://github.com/Shopify/packwerk)
 - **Review criticisms of the Active Record pattern:**
   - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
 - **Review criticisms of service objects:**
