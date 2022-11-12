@@ -118,6 +118,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
   - [ ] [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/playlist?list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p)
   - [ ] [Mix & Go - Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
+  - [ ] [Trello clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLgAlweneIHqQTUMiVquXaD)
   - [ ] [AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
   - [ ] [Pet adoption app](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - **Topical screencasts:**
