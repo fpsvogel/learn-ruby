@@ -72,7 +72,7 @@ Only courses are listed below, but be sure to *build stuff* as you learn. [Here'
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex): you don't need to wait until you start using StimulusReflex to join, because these folks are very helpful to beginners struggling with Rails frontend issues in general.
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
-  - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/series/rails-for-beginners)
+  - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) Michael Hartl's 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec and Rails-specific testing techniques.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
