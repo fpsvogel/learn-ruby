@@ -254,6 +254,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
   - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
+  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtu.be/zbAslvHa7MI)
   - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
 ## Performance optimization
