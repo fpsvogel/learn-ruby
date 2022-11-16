@@ -182,6 +182,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Jorge Manrubia - "Vanilla Rails is plenty"](https://dev.37signals.com/vanilla-rails-is-plenty)
   - [ ] [Jared White - "Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
   - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
+  - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
   - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 
 ## Miscellaneous essentials
