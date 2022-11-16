@@ -310,9 +310,9 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
   - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
   - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
+  - [ ] [Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
   - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
   - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-  - [ ] 💲[Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
 - **CableReady:**
   - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
   - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
