@@ -189,7 +189,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 ## Miscellaneous essentials
 
 - **Mentorship**
-  - [ ] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
+  - [x] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
   - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Open source:**
   - [x] Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
