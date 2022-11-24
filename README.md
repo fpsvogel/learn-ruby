@@ -327,6 +327,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
   - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
   - [ ] [JavaScript30](https://javascript30.com/) for practice
 - **Functional JS:**
   - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
