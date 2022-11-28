@@ -263,7 +263,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **Rails and Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[Jason Charnes - Next Level Active Record](https://courses.jasoncharnes.com/next-level-active-record)
+  - [ ] 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Advanced SQL:**
