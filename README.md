@@ -201,6 +201,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
   - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+  - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
 - **Linux:**
   - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
