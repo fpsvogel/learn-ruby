@@ -154,8 +154,9 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?* Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
 
 - **DDD (Domain-Driven Design):**
-  - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+  - [x] [Michael Plöd - Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+  - [ ] 💲[Michael Plöd - Hands-on Domain-driven Design—by example](https://leanpub.com/ddd-by-example)
 - **Other approaches:**
   - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
   - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
