@@ -153,9 +153,6 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 
 A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?* Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
 
-- **DCI (Domain, Context, Interaction):**
-  - [ ] [DCI introductory materials](https://dci.github.io/introduction/)
-  - [ ] 💲[Jim Gay - Clean Ruby](http://clean-ruby.com/)
 - **DDD (Domain-Driven Design):**
   - [ ] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
@@ -170,7 +167,6 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Trailblazer](https://trailblazer.to/2.1/learn.html)
   - [ ] [Interactor](https://github.com/collectiveidea/interactor)
   - [ ] [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
-  - [ ] [Surrounded](https://github.com/saturnflyer/surrounded)
   - [ ] [Rectify](https://github.com/andypike/rectify)
   - [ ] [Flow](https://github.com/Freshly/flow)
   - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store)
