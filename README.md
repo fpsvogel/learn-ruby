@@ -156,7 +156,6 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 - **DDD (Domain-Driven Design):**
   - [x] [Michael Plöd - Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-  - [ ] 💲[Michael Plöd - Hands-on Domain-driven Design—by example](https://leanpub.com/ddd-by-example)
 - **Other approaches:**
   - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
   - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
@@ -261,7 +260,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **Rails and Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
+  - [ ] (upcoming) 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Advanced SQL:**
