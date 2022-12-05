@@ -154,7 +154,7 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
 A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?* Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
 
 - **DDD (Domain-Driven Design):**
-  - [x] [Michael Plöd - Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+  - [x] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
   - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
@@ -162,17 +162,13 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
   - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
 - **Browse the relevant gems:**
-  - [ ] [Sequent](https://www.sequent.io/)
-  - [ ] [dry-transaction](https://dry-rb.org/gems/dry-transaction/0.13/)
-  - [ ] [Trailblazer](https://trailblazer.to/2.1/learn.html)
+  - [ ] [dry-transaction](https://dry-rb.org/gems/dry-transaction)
   - [ ] [Interactor](https://github.com/collectiveidea/interactor)
-  - [ ] [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction)
-  - [ ] [Rectify](https://github.com/andypike/rectify)
-  - [ ] [Flow](https://github.com/Freshly/flow)
-  - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store)
-  - [ ] [Ventable](https://github.com/kigster/ventable)
-  - [ ] [Wisper](https://github.com/krisleech/wisper)
-  - [ ] [Packwerk](https://github.com/Shopify/packwerk)
+  - [ ] [Sequent](https://www.sequent.io/) - CQRS and event sourcing
+  - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store) - for an event-driven architecture
+  - [ ] [Ventable](https://github.com/kigster/ventable) - a variation of the Observer design pattern
+  - [ ] [Wisper](https://github.com/krisleech/wisper) - the Publish-Subscribe design pattern
+  - [ ] [Packwerk](https://github.com/Shopify/packwerk) - to enforce boundaries and modularize Rails applications
 - **Review criticisms of the Active Record pattern:**
   - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
 - **Review criticisms of service objects:**
