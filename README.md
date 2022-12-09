@@ -261,6 +261,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
 - **Advanced SQL:**
   - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
+  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
