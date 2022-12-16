@@ -219,8 +219,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Advent of Code](https://adventofcode.com/2022/events)
   - [ ] Code katas: [awesome-katas](https://github.com/gamontal/awesome-katas) and [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-  - [ ] [Roda](https://roda.jeremyevans.net/) which will soon be easier than ever to get started with [via Bridgetown](https://www.bridgetownrb.com/docs/routes)
-  - [ ] [Hanami](https://hanamirb.org/)
+  - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
+  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1.
   - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here's a handy starting point: [Crystal for Rubyists](https://www.crystalforrubyists.com/).
 - **The arcane arts of getting hired:**
   - [x] [How to find your first Rails job](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job), notes from my own job search.
