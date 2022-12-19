@@ -242,6 +242,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Phlex](https://www.phlex.fun/)
 - **Advanced Ruby:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
+  - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Authentication:**
