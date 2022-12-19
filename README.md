@@ -69,7 +69,7 @@ So without further ado, here is my learning path.
 Only courses are listed below, but be sure to *build stuff* as you learn. I myself [started building my first Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) right from the beginning, but then I found it more helpful to build a series of small throw-away apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)). Another way to practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
 - **Where to ask for help:** Here are some places where you can ask questions when you get stuck. Stick around and you might find opportunities to help others too.
-  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) which also has channels for general questions, apart from StimulusReflex.
+  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
@@ -173,6 +173,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
 - **Review criticisms of service objects:**
   - [ ] [Jorge Manrubia - "Vanilla Rails is plenty"](https://dev.37signals.com/vanilla-rails-is-plenty)
+  - [ ] [Jorge Manrubia - "Active Record, nice and blended"](https://dev.37signals.com/active-record-nice-and-blended/)
   - [ ] [Jared White - "Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
   - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
   - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
