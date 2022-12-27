@@ -309,8 +309,9 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
 - **Hotwire extensions:**
   - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
-  - [ ] [TurboReady](https://turboready.reflexready.com/)
-  - [ ] [TurboReflex](https://turboreflex.railsready.com/)
+  - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
+  - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
+  - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
 - **StimulusReflex:**
   - [ ] [Read the docs](https://docs.stimulusreflex.com/)
   - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
