@@ -338,7 +338,7 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
   - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 - **Other similar libraries:**
-  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems)
+  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
 
 ## JavaScript
 
