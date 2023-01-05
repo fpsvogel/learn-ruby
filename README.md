@@ -68,7 +68,8 @@ So without further ado, here is my learning path.
 
 Only courses are listed below, but be sure to *build stuff* as you learn. I myself [started building my first Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) right from the beginning, but then I found it more helpful to build a series of small throw-away apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)). Another way to practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
 
-- **Where to ask for help:** Here are some places where you can ask questions when you get stuck. Stick around and you might find opportunities to help others too.
+- **Communities:** Here are some places where you can learn with others or ask questions when you get stuck.
+  - [The Ruby Learning Center](https://www.rubylearning.dev/)
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
