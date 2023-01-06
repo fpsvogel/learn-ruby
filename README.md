@@ -23,22 +23,18 @@ I hope the list helps you too. If you have a favorite resource that's missing be
 
 ## Preliminaries
 
-- If you've never written a line of code in your life, you may want to start with these tutorials, all free:
+- If you've never written a line of code in your life, you may want to start with one of these free tutorials:
   - [Try Ruby](https://try.ruby-lang.org/)
   - [BigBinary Academy](https://academy.bigbinary.com/learn-ruby), and/or
   - [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/))
-- If you're wondering why I chose Ruby and not full-stack JS, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
-- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading about* coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, there are lists of project ideas out there: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
-- If you are a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
-- Find a system for keeping *organized* notes, code snippets, and articles/videos saved for later. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base), which is more effortless than any knowledge base app that I've tried.
+- If you're wondering why I chose Ruby and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
+- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading about* coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
+- If you're a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
+- Find a system for keeping *organized* notes, code snippets, and bookmarked links. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base).
+- Resources below marked with a dollar sign (💲) cost money. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 - Last but not least, take care of yourself! Studying (especially while working) can easily be overdone. Exercise and get plenty of sleep. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily RSI stretches](https://youtu.be/fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
 
-So without further ado, here is my learning path.
-
-**Key:**
-
-- 💲 = costs money. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors!
-- ⭐ = absolute favorite. If you mainly learn by doing and/or googling and you want only a handful of books/courses, these are the ones I'd most recommend.
+So without further ado, here is my learning roadmap.
 
 ## Frontend basics
 
@@ -57,9 +53,9 @@ So without further ado, here is my learning path.
   - [Short Ruby](https://newsletter.shortruby.com/)
 - [x] **Basics:** There a few good options here:
   - [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
-  - ⭐💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
+  - 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
   - 💲[Programming Ruby 3.2](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
-- [x] **Guided practice:** ⭐[Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+- [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Or you could build a game with [DragonRuby](https://dragonruby.itch.io/), using [Building Games with DragonRuby](https://book.dragonriders.community/) as a guide.
 - [x] **Build a site with Bridgetown:** With [Bridgetown](https://github.com/bridgetownrb/bridgetown) you can build a site without yet getting into the complexity of Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
@@ -74,12 +70,12 @@ Only courses are listed below, but be sure to *build stuff* as you learn. I myse
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
 - **Rails from scratch:**
-  - [x] ⭐[GoRails - Rails for Beginners](https://gorails.com/start)
+  - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) Michael Hartl's 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [x] ⭐💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
 - **SQL:**
