@@ -378,7 +378,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
 - **Web components:**
   - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
-  - [ ] 💲[Web Components course](https://frontendmasters.com/courses/web-components/) at Frontend Masters
+  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
   - [ ] [Lit docs](https://lit.dev/)
   - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
   - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
