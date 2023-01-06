@@ -10,6 +10,7 @@ I hope the list helps you too. If you have a favorite resource that's missing be
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
 - [Rails basics](#rails-basics) ✅
+- [Back to the frontend](#back-to-the-frontend)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails architecture](#rails-architecture)
@@ -23,12 +24,9 @@ I hope the list helps you too. If you have a favorite resource that's missing be
 
 ## Preliminaries
 
-- If you've never written a line of code in your life, you may want to start with one of these free tutorials:
-  - [Try Ruby](https://try.ruby-lang.org/)
-  - [BigBinary Academy](https://academy.bigbinary.com/learn-ruby), and/or
-  - [Learn to Program](https://pine.fm/LearnToProgram/) (or buy [the updated book version](https://pragprog.com/titles/ltp3/learn-to-program-third-edition/))
+- If you want to keep it simple and use just *one* resource that can take you from zero to hireable, I'd suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety, keep reading!
 - If you're wondering why I chose Ruby and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). Or if you want a second opinion, [read this](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) or [watch this](https://youtu.be/IlVfHG-pAag?t=1534).
-- I list *a lot* of books and courses below, and hardly any hands-on projects. To be clear, you should be spending more time *coding* than *reading about* coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
+- I list lots of books and courses below, and not many hands-on projects. To be clear, you should be spending more time *coding* than *reading about* coding. But starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read is not at all obvious at the beginning. Hence the focus on books and courses here.
 - If you're a working adult looking to transition into software development, make sure your day job is conducive to part-time studying. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - Find a system for keeping *organized* notes, code snippets, and bookmarked links. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base).
 - Resources below marked with a dollar sign (💲) cost money. If you need more free resources, see the links to other lists at the bottom. You may be able to find the books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
@@ -38,23 +36,12 @@ So without further ado, here is my learning roadmap.
 
 ## Frontend basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** Here are good starting points:
-  - [Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) at The Odin Project
-  - [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) at MDN (plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) + [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) + [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials)
-  - [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
-  - Any of [the plethora of other tutorials out there](https://www.google.com/search?q=html+css+js+tutorial)
+- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["Back to the frontend"]((#back-to-the-frontend)) below.
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ## Ruby
 
-- [x] **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
-  - [Ruby Weekly](https://rubyweekly.com/)
-  - [Ruby Radar](https://rubyradar.dev/)
-  - [Short Ruby](https://newsletter.shortruby.com/)
-- [x] **Basics:** There a few good options here:
-  - [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
-  - 💲[The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
-  - 💲[Programming Ruby 3.2](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)
+- [x] **Basics:** [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Or you could build a game with [DragonRuby](https://dragonruby.itch.io/), using [Building Games with DragonRuby](https://book.dragonriders.community/) as a guide.
@@ -62,26 +49,46 @@ So without further ado, here is my learning roadmap.
 
 ## Rails basics
 
-Only courses are listed below, but be sure to *build stuff* as you learn. I myself [started building my first Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) right from the beginning, but then I found it more helpful to build a series of small throw-away apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)). Another way to practice is to [start contributing to open source](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+Only books and courses are listed below, but be sure to *build stuff* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) right from the beginning, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Communities:** Here are some places where you can learn with others or ask questions when you get stuck.
   - [The Ruby Learning Center](https://www.rubylearning.dev/)
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
-- **Rails from scratch:**
+- **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
+  - [Ruby Weekly](https://rubyweekly.com/)
+  - [Ruby Radar](https://rubyradar.dev/)
+  - [Short Ruby](https://newsletter.shortruby.com/)
+- **Rails basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
-  - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) Michael Hartl's 💲[Ruby on Rails Tutorial](https://www.railstutorial.org)
+  - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) 💲[Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
 - **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
-- **SQL:**
+- **SQL basics:**
   - [x] [SQL Teaching](https://www.sqlteaching.com)
   - [x] [SQLBolt](https://sqlbolt.com)
   - [x] [Select Star SQL](https://selectstarsql.com)
+
+## Back to the frontend
+
+- **Review frontend basics:**
+  - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
+  - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
+  - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+- **Web components:**
+  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
+  - [ ] [Lit docs](https://lit.dev/)
+  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
+  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
+  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
+  - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
+  - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
 ## Rails codebases to study
 
@@ -372,15 +379,6 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
 - **React + Rails:**
   - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
-- **Web components:**
-  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
-  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
-  - [ ] [Lit docs](https://lit.dev/)
-  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
-  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
-  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
-  - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
-  - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
 ## Meanwhile, computer science
 
