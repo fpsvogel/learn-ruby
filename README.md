@@ -36,7 +36,7 @@ So without further ado, here is my learning roadmap.
 
 ## Frontend basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["Back to the frontend"]((#back-to-the-frontend)) below.
+- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["Back to the frontend"](#back-to-the-frontend) below.
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ## Ruby
@@ -49,7 +49,7 @@ So without further ado, here is my learning roadmap.
 
 ## Rails basics
 
-Only books and courses are listed below, but be sure to *build stuff* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) right from the beginning, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
+Only books and courses are listed below, but be sure to *build stuff* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Communities:** Here are some places where you can learn with others or ask questions when you get stuck.
   - [The Ruby Learning Center](https://www.rubylearning.dev/)
@@ -63,7 +63,7 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
 - **Rails basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) 💲[Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
-- **Testing:** Minitest is familiar at this point. Now it's time to learn RSpec.
+- **Rails testing and RSpec:**.
   - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
