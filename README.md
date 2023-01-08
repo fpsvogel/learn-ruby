@@ -131,8 +131,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 ## Ruby blogs, podcasts, screencasts
 
-Checking one of these off means "I've read/watched/listened to all the posts/episodes that interest me from the past few years, and I'm keeping an eye out for new posts/episodes that would help me, or old posts/episodes when they become relevant to me."
-
 - **Blogs:**
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
@@ -157,7 +155,6 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
   - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
-  - [ ] [CJ Avilla](https://www.youtube.com/c/CJAvilla/playlists)
   - [x] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [x] 💲[GoRails](https://gorails.com)
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
