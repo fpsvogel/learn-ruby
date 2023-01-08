@@ -142,6 +142,8 @@ Checking one of these off means "I've read/watched/listened to all the posts/epi
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [Web-Crunch - Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
+  - [ ] [CJ Avilla - Automate YouTube Video Production](https://www.youtube.com/playlist?list=PLS6F722u-R6ILDUeteD-A_q6Ja4SH8v95)
+  - [ ] [CJ Avilla - Stock App](https://www.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
   - [ ] [CJ Avilla - clearbnb](https://www.youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
   - [ ] [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/playlist?list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p)
   - [ ] [Mix & Go - Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
