@@ -10,17 +10,18 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [Frontend basics](#frontend-basics) ✅
 - [Ruby](#ruby) ✅
 - [Rails basics](#rails-basics) ✅
+- [Miscellaneous important stuff, part 1](#miscellaneous-important-stuff-part-1)
 - [Back to the frontend](#back-to-the-frontend)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails architecture](#rails-architecture)
-- [Miscellaneous essentials](#miscellaneous-essentials)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
 - [Performance optimization](#performance-optimization)
 - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
 - [JavaScript](#javascript)
-- [Meanwhile, computer science](#meanwhile-computer-science) *(progress: ~30%)*
-- [Other programming and CS resource lists](#other-programming-and-cs-resource-lists)
+- [Miscellaneous important stuff, part 2](#miscellaneous-important-stuff-part-2)
+- [Computer science](#computer-science)
+- [Other resource lists](#other-resource-lists)
 
 ## Preliminaries
 
@@ -55,6 +56,9 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
+- **Mentorship:**
+  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
+  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
   - [Ruby Weekly](https://rubyweekly.com/)
   - [Ruby Radar](https://rubyradar.dev/)
@@ -73,6 +77,32 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [x] [SQLBolt](https://sqlbolt.com)
   - [x] [Select Star SQL](https://selectstarsql.com)
 
+## Miscellaneous important stuff, part 1
+
+- **Git:**
+  - [ ] [Oh My Git!](https://ohmygit.org/)
+  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
+  - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
+  - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+  - [ ] [Pro Git](https://git-scm.com/book/en/v2)
+  - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
+- **How the Internet works:**
+  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
+  - [ ] [Julia Evans - How DNS Works](https://howdns.works/ep1/)
+  - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
+  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+- **Linux:**
+  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
+  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+  - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
+  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+
 ## Back to the frontend
 
 - **Review frontend basics:**
@@ -88,6 +118,12 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
   - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
   - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
+- **Usability and UI:**
+  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+  - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 
 ## Rails codebases to study
 
@@ -203,58 +239,6 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
   - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
   - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
-
-## Miscellaneous essentials
-
-- **Mentorship**
-  - [x] [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [ ] The [Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
-- **Open source:**
-  - [x] Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
-  - [ ] 💲[Richard Schneeman - How to Open Source](https://howtoopensource.dev/)
-- **Git:**
-  - [ ] [Oh My Git!](https://ohmygit.org/)
-  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
-  - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
-  - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
-  - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-  - [ ] [Pro Git](https://git-scm.com/book/en/v2)
-  - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-  - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
-- **Linux:**
-  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
-  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
-  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-  - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
-  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
-- **HTTP:**
-  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP). See also "Networks" under [the computer science section](#meanwhile-computer-science).
-- **Security:**
-  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- **Design patterns:** They didn't revolutionize my coding, but they're worth knowing for those times when people refer to them in design discussions.
-  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
-  - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Software architecture:** see also the [Rails architecture](#rails-architecture) section
-  - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-  - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-- **Monitoring:**
-  - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
-  - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-- **Coding challenges:**
-  - [ ] [CodeWars](https://www.codewars.com)
-  - [ ] [Advent of Code](https://adventofcode.com/2022/events)
-  - [ ] Code katas: [awesome-katas](https://github.com/gamontal/awesome-katas) and [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
-- **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-  - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
-  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks).
-  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here's a handy starting point: [Crystal for Rubyists](https://www.crystalforrubyists.com/). You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice).
-- **The arcane arts of getting hired:**
-  - [x] [How to find your first Rails job](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job), notes from my own job search.
-  - [x] 💲[Get Your First Developer Job](https://learnetto.com/users/hrishio/courses/get-your-first-developer-job)
-  - [x] Attend some [Ruby meetups](https://www.meetup.com/find/?keywords=ruby), where you might find job leads.
-  - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
-  - I didn't read any of the popular books on interview prep because I wanted to avoid that type of algorithm/whiteboarding interview, which in any case is not very common in the Ruby world. But if you want to be ready for that: 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) and/or 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
 ## Advanced Ruby and Rails
 
@@ -380,44 +364,52 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
 - **React + Rails:**
   - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
 
-## Meanwhile, computer science
+## Miscellaneous important stuff, part 2
 
 - **How computers work:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
   - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
   - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- **Compilers:**
+  - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+- **Coding challenges:**
+  - [ ] [CodeWars](https://www.codewars.com)
+  - [ ] [Advent of Code](https://adventofcode.com/2022/events)
+  - [ ] [Project Euler](https://projecteuler.net/)
+  - [ ] Code katas: [awesome-katas](https://github.com/gamontal/awesome-katas) and [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
+- **Design patterns:**
+  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  - [x] [Refactoring.Guru](https://refactoring.guru/)
+- **Software architecture:** See also the [Rails architecture](#rails-architecture) section.
+  - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+  - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- **Monitoring:**
+  - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
+  - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
+  - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
+  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks).
+  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here's a handy starting point: [Crystal for Rubyists](https://www.crystalforrubyists.com/). You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice).
+
+## Computer science
+
 - **Algorithms:**
   - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
   - [ ] for reinforcement: *Algorithms* course by Sedgewick & Wayne ([Part 1](https://www.coursera.org/learn/algorithms-part1), [Part 2](https://www.coursera.org/learn/algorithms-part2)) along with the textbook 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
   - [ ] going deeper: 💲[The Algorithm Design Manual (Skiena)](https://www.algorist.com/)
   - [ ] and deeper again: 💲[Algorithm Design (Kleinberg & Tardos)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-  - [ ] for practice: [Project Euler](https://projecteuler.net/)
-- **Usability and UI:**
-  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
-  - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
-  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
-  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
-- **Operating systems:**
-  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- **Networks:**
-  - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
-  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
-  - [ ] for a fun review: [Julia Evans - How DNS Works](https://howdns.works/ep1/)
-  - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
 - **Program design:** different from software architecture in ways that I don't yet fully understand.
   - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
   - [ ] [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
   - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). So far I've had trouble figuring out exactly what this book is about. It is an often-recommended introductory text on "programming", funnily enough.
 - **Databases:**
   - [ ] [Readings in Database Systems](http://www.redbook.io/)
-- **Compilers:**
-  - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Math:**
   - [ ] [Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
 
-## Other programming and CS resource lists
+## Other resource lists
 
 - [Backend (Ruby) track at Turing School](https://backend.turing.edu/module1/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
