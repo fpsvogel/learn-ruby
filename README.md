@@ -393,22 +393,6 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
   - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks).
   - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here's a handy starting point: [Crystal for Rubyists](https://www.crystalforrubyists.com/). You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice).
 
-## Computer science
-
-- **Algorithms:**
-  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
-  - [ ] for reinforcement: *Algorithms* course by Sedgewick & Wayne ([Part 1](https://www.coursera.org/learn/algorithms-part1), [Part 2](https://www.coursera.org/learn/algorithms-part2)) along with the textbook 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
-  - [ ] going deeper: 💲[The Algorithm Design Manual (Skiena)](https://www.algorist.com/)
-  - [ ] and deeper again: 💲[Algorithm Design (Kleinberg & Tardos)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-- **Program design:** different from software architecture in ways that I don't yet fully understand.
-  - [ ] [How to Design Programs](https://htdp.org/2022-6-7/Book/index.html) and courses based on it ([here's one](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists) + [extra content](https://edge.edx.org/courses/course-v1:UBC+CPSC110+2021W2/77860a93562d40bda45e452ea064998b/), and [here's another](https://legacy.cs.indiana.edu/classes/c211/index.html))
-  - [ ] [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
-  - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) (and [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)). So far I've had trouble figuring out exactly what this book is about. It is an often-recommended introductory text on "programming", funnily enough.
-- **Databases:**
-  - [ ] [Readings in Database Systems](http://www.redbook.io/)
-- **Math:**
-  - [ ] [Concrete Mathematics: A Foundation for Computer Science](https://www-cs-faculty.stanford.edu/~knuth/gkp.html). The math review that I'm doing leading up to this is proving to be a journey in itself, which I will outline separately in the future.
-
 ## Other resource lists
 
 - [Backend (Ruby) track at Turing School](https://backend.turing.edu/module1/)
