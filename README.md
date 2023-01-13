@@ -1,26 +1,36 @@
+<!-- omit in toc -->
 # Learning Ruby: a resource list
 
 Hi! As a second-career developer who didn't go through a bootcamp, I've found it helpful to keep a roadmap of learning resources—building my own curriculum, in a way. I hope this list helps you too!
 
 If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby-and-cs/issues/new/choose).
 
+<!-- omit in toc -->
 ## Table of contents
 
-- [Preliminaries](#preliminaries) ✅
-- [Frontend basics](#frontend-basics) ✅
-- [Ruby](#ruby) ✅
-- [Rails basics](#rails-basics) ✅
-- [Miscellaneous important stuff, part 1](#miscellaneous-important-stuff-part-1)
-- [Back to the frontend](#back-to-the-frontend)
-- [Rails codebases to study](#rails-codebases-to-study)
+The "not done" sections (currently "Fundamental tools" and below) are somewhat chaotic because I haven't yet seen what's worth keeping there.
+
+- [Preliminaries](#preliminaries)
+- [Basics](#basics)
+  - [Frontend basics](#frontend-basics)
+  - [Ruby basics](#ruby-basics)
+  - [Rails basics](#rails-basics)
+  - [Ruby/Rails communities](#rubyrails-communities)
+- [Fundamental tools](#fundamental-tools)
+  - [SQL](#sql)
+  - [Git](#git)
+  - [How the Internet works](#how-the-internet-works)
+  - [Linux](#linux)
+- [The frontend](#the-frontend)
+  - [Basics/general frontend](#basicsgeneral-frontend)
+  - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
+  - [JavaScript](#javascript)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
-- [Rails architecture](#rails-architecture)
+- [Rails codebases to study](#rails-codebases-to-study)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
-- [Performance optimization](#performance-optimization)
-- [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
-- [JavaScript](#javascript)
-- [Miscellaneous important stuff, part 2](#miscellaneous-important-stuff-part-2)
-- [Computer science](#computer-science)
+  - [Misc. Ruby/Rails](#misc-rubyrails)
+  - [Rails architecture](#rails-architecture)
+- [Expanding my horizons](#expanding-my-horizons)
 - [Other resource lists](#other-resource-lists)
 
 ## Preliminaries
@@ -34,12 +44,14 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 Without further ado, here is my learning roadmap. Resources marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 
-## Frontend basics
+## Basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["Back to the frontend"](#back-to-the-frontend) below.
+### Frontend basics
+
+- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["The frontend"](#the-frontend) below.
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
-## Ruby
+### Ruby basics
 
 - [x] **Basics:** [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) or (for more interactivity) [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
@@ -47,22 +59,10 @@ Without further ado, here is my learning roadmap. Resources marked with a dollar
 - [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Or you could build a game with [DragonRuby](https://dragonruby.itch.io/), using [Building Games with DragonRuby](https://book.dragonriders.community/) as a guide.
 - [x] **Build a site with Bridgetown:** With [Bridgetown](https://github.com/bridgetownrb/bridgetown) you can build a site without yet getting into the complexity of Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
-## Rails basics
+### Rails basics
 
 Only books and courses are listed below, but be sure to *build stuff* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
-- **Communities:** Here are some places where you can learn with others or ask questions when you get stuck.
-  - [The Ruby Learning Center](https://www.rubylearning.dev/)
-  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
-  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
-  - [GoRails community on Discord](https://discord.gg/gorails)
-- **Mentorship:**
-  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
-- **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
-  - [Ruby Weekly](https://rubyweekly.com/)
-  - [Ruby Radar](https://rubyradar.dev/)
-  - [Short Ruby](https://newsletter.shortruby.com/)
 - **Rails basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) or (if you prefer videos) 💲[Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org)
@@ -72,38 +72,80 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
-- **SQL basics:**
+
+### Ruby/Rails communities
+
+Here are some places where you can learn with others or ask questions when you get stuck.
+
+- **Communities:**
+  - [The Ruby Learning Center](https://www.rubylearning.dev/)
+  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
+  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
+  - [GoRails community on Discord](https://discord.gg/gorails)
+- **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
+  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
+  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
+- **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
+  - [Ruby Weekly](https://rubyweekly.com/)
+  - [Ruby Radar](https://rubyradar.dev/)
+  - [Short Ruby](https://newsletter.shortruby.com/)
+
+## Fundamental tools
+
+### SQL
+
+- **Basics:**
   - [x] [SQL Teaching](https://www.sqlteaching.com)
   - [x] [SQLBolt](https://sqlbolt.com)
   - [x] [Select Star SQL](https://selectstarsql.com)
+- **Intermediate/advanced:**
+  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
+  - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
+  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
+  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
+  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+- **PostgreSQL:**
+  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+  - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
+  - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
-## Miscellaneous important stuff, part 1
+### Git
 
-- **Git:**
+- **Basics:**
   - [ ] [Oh My Git!](https://ohmygit.org/)
-  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
+- **Reference:**
+  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
+- **Intermediate/advanced**
   - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
   - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
   - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
-- **How the Internet works:**
-  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-  - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
-  - [ ] [Julia Evans - How DNS Works](https://howdns.works/ep1/)
-  - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
-  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
-  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- **Linux:**
-  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
-  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
-  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-  - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
-  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 
-## Back to the frontend
+### How the Internet works
+
+- [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
+- [ ] [Julia Evans - How DNS Works](https://howdns.works/ep1/)
+- [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
+- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+
+### Linux
+
+- [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+- [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
+- [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
+- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+
+## The frontend
+
+### Basics/general frontend
 
 - **Review frontend basics:**
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
@@ -124,46 +166,84 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
   - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
+- **Better Rails views:**
+  - [ ] [Phlex](https://www.phlex.fun/)
 
-## Rails codebases to study
+### Hotwire and StimulusReflex
 
-I've chosen these projects based on a these criteria:
+If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource, even for Hotwire.
 
-- Is active, with recent commits.
-- Does not use a JS framework on the frontend, though I made exceptions.
-- Is well-known *or* it solves a problem that's interesting to me.
+- **Hotwire:**
+  - [ ] [Read the docs](https://hotwired.dev/)
+  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
+  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+  - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
+  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
+  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
+  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
+  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
+  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
+  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
+  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
+  - [ ] [Better Stimulus](https://www.betterstimulus.com/)
+  - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
+- **Hotwire extensions:**
+  - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
+  - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
+  - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
+  - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
+- **StimulusReflex:**
+  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
+  - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
+  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
+  - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
+  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
+  - [ ] [Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
+  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
+  - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
+- **CableReady:**
+  - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
+  - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
+- **Other similar libraries:**
+  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
 
-If you want to explore more widely, here are other places to find open-source Ruby projects:
+### JavaScript
 
-- [OpenSourceRails](https://opensourcerails.org/)
-- [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
-- [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
-- [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
+Because try as you might, you can't avoid it. Note: there are *so* many JS books and courses out there. These are not necessarily the best, and I don't plan on going through all of them. I just picked a bunch that I saw recommended; eventually I'm going to look through them more carefully and shorten the list.
 
-**Small codebases:** Less than 50k lines of Ruby code.
-
-- [ ] [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
-- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
-- [ ] [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
-- [ ] [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
-- [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
-- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
-- [ ] [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
-- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
-- [ ] [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
-- [ ] [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
-
-**Larger codebases:** More than 50k lines of Ruby code.
-
-- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
-- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
-- [ ] [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
-- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the frontend.*
-- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
-- [ ] [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
-- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js frontend.*
-- [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
-- [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
+- **Vanilla JS:**
+  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
+  - [ ] [JavaScript30](https://javascript30.com/) for practice
+- **Functional JS:**
+  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
+  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
+  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
+- **React:**
+  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
+  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
+  - [ ] [useHooks](https://usehooks.com/)
+  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
+  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
+  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
+  - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
+  - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
+  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
+  - [ ] 💲[Pure React](https://www.purereact.com/)
+  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
+  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
+- **React + Rails:**
+  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
 
 ## Ruby blogs, podcasts, screencasts
 
@@ -210,9 +290,81 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
-## Rails architecture
+## Rails codebases to study
 
-A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?* Note that I've hardly dipped my toe into this area, so I can't yet say how useful any of these approaches are.
+I've chosen these projects based on a these criteria:
+
+- Is active, with recent commits.
+- Does not use a JS framework on the frontend, though I made exceptions.
+- Is well-known *or* it solves a problem that's interesting to me.
+
+If you want to explore more widely, here are other places to find open-source Ruby projects:
+
+- [OpenSourceRails](https://opensourcerails.org/)
+- [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
+- [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
+- [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
+
+**Small codebases:** Less than 50k lines of Ruby code.
+
+- [ ] [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
+- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
+- [ ] [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
+- [ ] [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+- [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
+- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
+- [ ] [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
+- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
+- [ ] [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
+- [ ] [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
+
+**Larger codebases:** More than 50k lines of Ruby code.
+
+- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
+- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
+- [ ] [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
+- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the frontend.*
+- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
+- [ ] [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
+- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js frontend.*
+- [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
+- [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
+
+## Advanced Ruby and Rails
+
+### Misc. Ruby/Rails
+
+- **Advanced Rails:**
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails
+  - [ ] [Rails API docs](https://api.rubyonrails.org/)
+- **Active Record:**
+  - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
+  - [ ] (upcoming) 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
+  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
+- **Advanced Ruby:**
+  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
+  - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html)
+  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
+  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
+- **Background jobs:**
+  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+- **Authentication:**
+  - [ ] Steve Polito - [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
+- **Rails deployment/DevOps:**
+  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
+  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
+  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtu.be/zbAslvHa7MI)
+  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
+
+### Rails architecture
+
+A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?*
 
 - **DDD (Domain-Driven Design):**
   - [x] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
@@ -240,131 +392,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
   - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 
-## Advanced Ruby and Rails
-
-- **Advanced Rails:**
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
-  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails
-  - [ ] [Rails API docs](https://api.rubyonrails.org/)
-- **Better Rails views:**
-  - [ ] [Phlex](https://www.phlex.fun/)
-- **Advanced Ruby:**
-  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) and [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+)
-  - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html)
-  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
-  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
-- **Authentication:**
-  - [ ] Steve Polito - [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
-- **Rails deployment/DevOps:**
-  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
-  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
-  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtu.be/zbAslvHa7MI)
-  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
-
-## Performance optimization
-
-- **Rails and Active Record:**
-  - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] (upcoming) 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
-  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-- **Advanced SQL:**
-  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
-  - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
-  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
-  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
-  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- **PostgreSQL:**
-  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-  - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
-  - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
-- **Background jobs:**
-  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
-- **Principles of optimization:**
-  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/)
-
-## Hotwire and StimulusReflex
-
-If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource, even for Hotwire.
-
-- **Hotwire:**
-  - [ ] [Read the docs](https://hotwired.dev/)
-  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
-  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
-  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
-  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
-  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
-  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
-  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
-  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
-  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
-  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
-  - [ ] [Better Stimulus](https://www.betterstimulus.com/)
-  - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
-- **Hotwire extensions:**
-  - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
-  - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
-  - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
-  - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
-- **StimulusReflex:**
-  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
-  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
-  - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
-  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] [Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
-  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
-  - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-- **CableReady:**
-  - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
-  - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
-- **Other similar libraries:**
-  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
-
-## JavaScript
-
-Because try as you might, you can't avoid it. Note: there are *so* many JS books and courses out there. These are not necessarily the best, and I don't plan on going through all of them. I just picked a bunch that I saw recommended; eventually I'm going to look through them more carefully and shorten the list.
-
-- **Vanilla JS:**
-  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
-  - [ ] [JavaScript30](https://javascript30.com/) for practice
-- **Functional JS:**
-  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
-  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
-  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
-- **React:**
-  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
-  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
-  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
-  - [ ] [useHooks](https://usehooks.com/)
-  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
-  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
-  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
-  - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
-  - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
-  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
-  - [ ] 💲[Pure React](https://www.purereact.com/)
-  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
-  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
-- **React + Rails:**
-  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
-
-## Miscellaneous important stuff, part 2
+## Expanding my horizons
 
 - **How computers work:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
@@ -382,7 +410,7 @@ Because try as you might, you can't avoid it. Note: there are *so* many JS books
 - **Design patterns:**
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Software architecture:** See also the [Rails architecture](#rails-architecture) section.
+- **Software architecture:**
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] 💲[The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - **Monitoring:**
