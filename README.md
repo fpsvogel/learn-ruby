@@ -148,7 +148,6 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:**
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
-  - [ ] [Thoughtbot](https://thoughtbot.com/blog)
 - **"Let's build" screencasts:**
   - [ ] [Rails Code Along](https://www.railscodealong.com/)
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
