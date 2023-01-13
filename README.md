@@ -116,6 +116,16 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Basics:**
   - [ ] [Oh My Git!](https://ohmygit.org/)
+  - [ ] [A Grip On Git](https://agripongit.vincenttunru.com/)
+  - [ ] [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+  - [ ] [Git Immersion](https://gitimmersion.com/index.html) or [GitHowTo](https://githowto.com/)
+  - [ ] [Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git)
+  - [ ] [Learn Git Branching](https://learngitbranching.js.org)
+  - [ ] [Githug](https://github.com/Gazler/githug)
+  - [ ] [GitHub Minesweeper](https://profy.dev/project/github-minesweeper)
+  - [ ] [GitHub Learning Lab ](https://github.com/marketplace/github-learning-lab)
+  - [ ] [git ready](https://gitready.com/)
+  - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
   - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
 - **Reference:**
   - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
