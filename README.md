@@ -116,26 +116,12 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Basics:**
   - [ ] [Oh My Git!](https://ohmygit.org/)
-  - [ ] [A Grip On Git](https://agripongit.vincenttunru.com/)
-  - [ ] [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-  - [ ] [Git Immersion](https://gitimmersion.com/index.html) or [GitHowTo](https://githowto.com/)
-  - [ ] [Codecademy - Learn Git & GitHub](https://www.codecademy.com/learn/learn-git)
-  - [ ] [Learn Git Branching](https://learngitbranching.js.org)
-  - [ ] [Githug](https://github.com/Gazler/githug)
-  - [ ] [GitHub Minesweeper](https://profy.dev/project/github-minesweeper)
-  - [ ] [GitHub Learning Lab ](https://github.com/marketplace/github-learning-lab)
-  - [ ] [git ready](https://gitready.com/)
-  - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
-  - [ ] [Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook/) (and [here's another good one by the same name](https://launchschool.com/books/git))
-- **Reference:**
   - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
 - **Intermediate/advanced**
-  - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
-  - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-  - [ ] [Think Like (a) Git](https://think-like-a-git.net/)
-  - [ ] [Pro Git](https://git-scm.com/book/en/v2)
-  - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-  - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
+  - [ ] [Pro Git](https://git-scm.com/book)
+  - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
 ### How the Internet works
 
@@ -160,8 +146,8 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:**
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
-- **"Let's build" screencasts:**
-  - [ ] [Rails Code Along](https://www.railscodealong.com/)
+- **"Let's build" screencasts:** My criteria for inclusion are (1) not *too* out of date, and (2) insightful for someone who has done a basic Rails course such as The Odin Project.
+  - [ ] [Rails Code Along](https://www.railscodealong.com/) – Rails 6, Heroku, Devise, Bootstrap
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [Web-Crunch - Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
@@ -201,7 +187,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Rails codebases to study
 
-I've chosen these projects based on a these criteria:
+I've chosen the codebases below based on a these criteria:
 
 - Is active, with recent commits.
 - Does not use a JS framework on the frontend, though I made exceptions.
