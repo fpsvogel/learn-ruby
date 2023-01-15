@@ -132,6 +132,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Intermediate/advanced**
   - [ ] [Goal-oriented Git](https://github.com/thoughtbot/goal-oriented-git)
   - [ ] [Upcase - Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+  - [ ] [Think Like (a) Git](https://think-like-a-git.net/)
   - [ ] [Pro Git](https://git-scm.com/book/en/v2)
   - [ ] [Building Git](https://shop.jcoglan.com/building-git) or [this Thoughtbot blog post](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - Lots more resources [are listed here](https://dev.to/anaveecodes/how-to-get-better-with-git-25d1)
