@@ -115,8 +115,8 @@ Here are some places where you can learn with others or ask questions when you g
 ### Git
 
 - **Basics:**
-  - [ ] [Oh My Git!](https://ohmygit.org/)
-  - [ ] [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [x] [Oh My Git!](https://ohmygit.org/)
+  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
 - **Intermediate/advanced**
   - [ ] [Pro Git](https://git-scm.com/book)
