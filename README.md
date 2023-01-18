@@ -20,7 +20,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [SQL](#sql)
   - [Git](#git)
   - [How the Internet works](#how-the-internet-works)
-  - [Linux](#linux)
+  - [Linux / command line](#linux--command-line)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [The frontend](#the-frontend)
@@ -132,9 +132,10 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 
-### Linux
+### Linux / command line
 
 - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
