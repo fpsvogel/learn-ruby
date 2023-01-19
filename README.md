@@ -25,7 +25,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Rails codebases to study](#rails-codebases-to-study)
 - [The frontend](#the-frontend)
   - [Basics](#basics-1)
-  - [JavaScript](#javascript)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
   - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
@@ -235,40 +234,9 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
 - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
 - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-
-### JavaScript
-
-- **Vanilla JS:**
-  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
-  - [ ] [JavaScript30](https://javascript30.com/) for practice
-- **Functional JS:**
-  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
-  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
-  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
-- **React:**
-  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
-  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
-  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
-  - [ ] [useHooks](https://usehooks.com/)
-  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
-  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
-  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
-  - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
-  - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
-  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
-  - [ ] 💲[Pure React](https://www.purereact.com/)
-  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
-  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
-- **React + Rails:**
-  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
+- [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+- [ ] [JavaScript30](https://javascript30.com/) for practice
 
 ### Web components
 
