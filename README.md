@@ -235,6 +235,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
 - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+- [ ] [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ)
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] [JavaScript30](https://javascript30.com/) for practice
 
