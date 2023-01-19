@@ -24,9 +24,11 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [The frontend](#the-frontend)
-  - [Basics/general frontend](#basicsgeneral-frontend)
-  - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
+  - [Basics](#basics-1)
   - [JavaScript](#javascript)
+  - [Web components](#web-components)
+  - [UI and Usability](#ui-and-usability)
+  - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Misc. Ruby/Rails](#misc-rubyrails)
   - [Rails architecture](#rails-architecture)
@@ -118,7 +120,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Oh My Git!](https://ohmygit.org/)
   - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
   - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
-- **Intermediate/advanced**
+- **Intermediate/advanced:**
   - [ ] [Pro Git](https://git-scm.com/book)
   - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
@@ -228,29 +230,66 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 ## The frontend
 
-### Basics/general frontend
+### Basics
 
-- **Review frontend basics:**
-  - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
-  - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
-  - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-- **Web components:**
-  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
-  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
-  - [ ] [Lit docs](https://lit.dev/)
-  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
-  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
-  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
-  - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
-  - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
-- **Usability and UI:**
-  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
-  - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
-  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
-  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
+- [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
+- [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
+- [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+
+### JavaScript
+
+- **Vanilla JS:**
+  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
+  - [ ] [JavaScript30](https://javascript30.com/) for practice
+- **Functional JS:**
+  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
+  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
+  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
+- **React:**
+  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
+  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
+  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
+  - [ ] [useHooks](https://usehooks.com/)
+  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
+  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
+  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
+  - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
+  - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
+  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
+  - [ ] 💲[Pure React](https://www.purereact.com/)
+  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
+  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
+- **React + Rails:**
+  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
+
+### Web components
+
+- [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+- [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
+- [ ] [Lit docs](https://lit.dev/)
+- [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
+- [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
+- [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
+- [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
+- [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
+
+### UI and Usability
+
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+- [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+- [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+- [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 - **Better Rails views:**
-  - [ ] [Phlex](https://www.phlex.fun/)
+- [ ] [Phlex](https://www.phlex.fun/)
 
 ### Hotwire and StimulusReflex
 
@@ -291,42 +330,6 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
-
-### JavaScript
-
-Because try as you might, you can't avoid it. Note: there are *so* many JS books and courses out there. These are not necessarily the best, and I don't plan on going through all of them. I just picked a bunch that I saw recommended; eventually I'm going to look through them more carefully and shorten the list.
-
-- **Vanilla JS:**
-  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
-  - [ ] [JavaScript30](https://javascript30.com/) for practice
-- **Functional JS:**
-  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
-  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
-  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
-- **React:**
-  - [ ] [The official React tutorial](https://reactjs.org/tutorial/tutorial.html)
-  - [ ] [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  - [ ] [Learn React for free](https://scrimba.com/playlist/p7P5Hd)
-  - [ ] [React course from FreeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4)
-  - [ ] [Full Stack Open](https://fullstackopen.com/en/)
-  - [ ] [useHooks](https://usehooks.com/)
-  - [ ] [React Hooks resources](https://github.com/enaqx/awesome-react#react-hooks) in an awesome-react list
-  - [ ] [Tons of JS and React links](https://github.com/markerikson/react-redux-links) to sift through
-  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
-  - [ ] 💲[React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
-  - [ ] [Dave Ceddia's blog](https://daveceddia.com/archives/)
-  - [ ] 💲[React For The Rest of Us](https://www.udemy.com/course/react-for-the-rest-of-us/)
-  - [ ] 💲[Pure React](https://www.purereact.com/)
-  - [ ] [React challenges at FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/react/) for practice
-  - [ ] 💲[React Tutorial and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/) if you want more practice
-- **React + Rails:**
-  - [ ] [React + Rails build screencast](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYNIC0Yq3Cc6mgHZrWiZcJU)
 
 ## Advanced Ruby and Rails
 
