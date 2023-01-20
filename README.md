@@ -22,12 +22,12 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
-- [Rails codebases to study](#rails-codebases-to-study)
 - [The frontend](#the-frontend)
   - [HTML, CSS, JS](#html-css-js)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
   - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
+- [Rails codebases to study](#rails-codebases-to-study)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Misc. Ruby/Rails](#misc-rubyrails)
   - [Rails architecture](#rails-architecture)
@@ -187,46 +187,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
-## Rails codebases to study
-
-I've chosen the codebases below based on a these criteria:
-
-- Is active, with recent commits.
-- Does not use a JS framework on the frontend, though I made exceptions.
-- Is well-known *or* it solves a problem that's interesting to me.
-
-If you want to explore more widely, here are other places to find open-source Ruby projects:
-
-- [OpenSourceRails](https://opensourcerails.org/)
-- [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
-- [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
-- [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
-
-**Small codebases:** Less than 50k lines of Ruby code.
-
-- [ ] [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
-- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
-- [ ] [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
-- [ ] [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
-- [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
-- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
-- [ ] [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
-- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
-- [ ] [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
-- [ ] [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
-
-**Larger codebases:** More than 50k lines of Ruby code.
-
-- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
-- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
-- [ ] [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
-- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the frontend.*
-- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
-- [ ] [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
-- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js frontend.*
-- [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
-- [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
-
 ## The frontend
 
 ### HTML, CSS, JS
@@ -299,6 +259,46 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
+
+## Rails codebases to study
+
+I've chosen the codebases below based on a these criteria:
+
+- Is active, with recent commits.
+- Does not use a JS framework on the frontend, though I made exceptions.
+- Is well-known *or* it solves a problem that's interesting to me.
+
+If you want to explore more widely, here are other places to find open-source Ruby projects:
+
+- [OpenSourceRails](https://opensourcerails.org/)
+- [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
+- [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
+- [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
+
+**Small codebases:** Less than 50k lines of Ruby code.
+
+- [ ] [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
+- [ ] [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
+- [ ] [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
+- [ ] [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+- [ ] [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
+- [ ] [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
+- [ ] [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
+- [ ] [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
+- [ ] [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
+- [ ] [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
+
+**Larger codebases:** More than 50k lines of Ruby code.
+
+- [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
+- [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
+- [ ] [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
+- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the frontend.*
+- [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
+- [ ] [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
+- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js frontend.*
+- [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
+- [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
 
 ## Advanced Ruby and Rails
 
