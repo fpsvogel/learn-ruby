@@ -12,7 +12,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 
 - [Preliminaries](#preliminaries)
 - [Basics](#basics)
-  - [Frontend basics](#frontend-basics)
+  - [Front-end basics](#front-end-basics)
   - [Ruby basics](#ruby-basics)
   - [Rails basics](#rails-basics)
   - [Ruby/Rails communities](#rubyrails-communities)
@@ -22,7 +22,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
-- [The frontend](#the-frontend)
+- [Front end](#front-end)
   - [HTML, CSS, JS](#html-css-js)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
@@ -47,9 +47,9 @@ Without further ado, here is my learning roadmap. Resources marked with a dollar
 
 ## Basics
 
-### Frontend basics
+### Front-end basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["The frontend"](#the-frontend) below.
+- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
@@ -187,7 +187,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
-## The frontend
+## Front end
 
 ### HTML, CSS, JS
 
@@ -208,7 +208,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
 - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
 - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
-- [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive frontend behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
+- [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
 ### UI and Usability
 
@@ -265,7 +265,7 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
 I've chosen the codebases below based on a these criteria:
 
 - Is active, with recent commits.
-- Does not use a JS framework on the frontend, though I made exceptions.
+- Does not use a JS framework on the front end, though I made exceptions.
 - Is well-known *or* it solves a problem that's interesting to me.
 
 If you want to explore more widely, here are other places to find open-source Ruby projects:
@@ -293,10 +293,10 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [ ] [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
 - [ ] [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
 - [ ] [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
-- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the frontend.*
+- [ ] [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
 - [ ] [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
 - [ ] [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
-- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js frontend.*
+- [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
 - [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
 - [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
 
@@ -394,7 +394,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Other resource lists
 
-- [Backend (Ruby) track at Turing School](https://backend.turing.edu/module1/)
+- [Back-End (Ruby) track at Turing School](https://backend.turing.edu/module1/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [p1xt Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
 - [Open Source Society University](https://github.com/ossu/computer-science)
