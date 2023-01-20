@@ -24,7 +24,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [The frontend](#the-frontend)
-  - [Basics](#basics-1)
+  - [HTML, CSS, JS](#html-css-js)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
   - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
@@ -49,7 +49,7 @@ Without further ado, here is my learning roadmap. Resources marked with a dollar
 
 ### Frontend basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try the basic courses in ["The frontend"](#the-frontend) below.
+- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["The frontend"](#the-frontend) below.
 - [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
@@ -229,7 +229,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 ## The frontend
 
-### Basics
+### HTML, CSS, JS
 
 - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
 - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
