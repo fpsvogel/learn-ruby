@@ -177,6 +177,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Sierra Rails](https://anchor.fm/sierra-rails)
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
+  - [ ] [Rooftop Ruby](https://www.rooftopruby.com)
   - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
   - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
   - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
