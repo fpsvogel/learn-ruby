@@ -128,7 +128,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
-- [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
+- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 
@@ -138,6 +138,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
@@ -320,6 +321,7 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Joel Drapper - upcoming book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
+  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Background jobs:**
   - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
