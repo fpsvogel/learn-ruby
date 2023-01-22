@@ -388,6 +388,8 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- **Misc.**
+  - [ ] [Divio Documentation System](https://documentation.divio.com/)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
   - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks).
