@@ -128,7 +128,6 @@ Here are some places where you can learn with others or ask questions when you g
 
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com)
-- [ ] [Julia Evans - How DNS Works](https://howdns.works/ep1/)
 - [ ] [books by Jesse Storimer](https://workingwithruby.com/) on network and system programming—with Ruby!
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
