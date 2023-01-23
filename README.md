@@ -142,6 +142,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Intermediate_advanced:**
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
   - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+  - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
   - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
   - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
   - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
