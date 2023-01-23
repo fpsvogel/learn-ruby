@@ -142,6 +142,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 - [ ] 💲[Your Linux Toolbox](https://nostarch.com/linuxtoolbox)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+- [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 
 ## Ruby blogs, podcasts, screencasts
