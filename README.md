@@ -254,7 +254,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1) (seems abandoned, though)
   - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
   - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
-  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Screencasts and blogs:**
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
@@ -270,6 +269,8 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
   - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
   - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
+- **Multi-platform:**
+  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
 
