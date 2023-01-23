@@ -208,6 +208,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
 - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
 - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+- [ ] Try [CSS Naked Day](https://css-naked-day.github.io/) on my personal site
 
 ### CSS
 
