@@ -28,7 +28,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [JavaScript](#javascript)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
-  - [Hotwire and StimulusReflex](#hotwire-and-stimulusreflex)
+  - [Hotwire](#hotwire)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Misc. Ruby/Rails](#misc-rubyrails)
@@ -230,9 +230,9 @@ Here are some places where you can learn with others or ask questions when you g
 - **Better Rails views:**
 - [ ] [Phlex](https://www.phlex.fun/)
 
-### Hotwire and StimulusReflex
+### Hotwire
 
-If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource, even for Hotwire.
+If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource.
 
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
@@ -250,23 +250,12 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
   - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
+  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Hotwire extensions:**
   - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
   - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
   - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
   - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
-- **StimulusReflex:**
-  - [ ] [Read the docs](https://docs.stimulusreflex.com/)
-  - [ ] [Videos by Nate Hopkins, the StimulusReflex creator](https://www.youtube.com/channel/UCP7FO_cPZKI2v1XqrAVosqw)
-  - [ ] [StimulusReflex lifecycle chart](https://lucid.app/lucidchart/e83d2cac-d2b1-4a05-8a2f-d55ea5e40bc9/view?page=0_0#)
-  - [ ] [Julian Rubisch - Hotwire with StimulusReflex](https://www.youtube.com/watch?v=fdqOHazPdmA) presentation, in case you're wondering how the two can fit together.
-  - [ ] [Mix & Go screencasts on StimulusReflex](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] [Julian Rubisch - StimulusReflex Patterns](https://www.stimulusreflexpatterns.com/)
-  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
-  - [ ] 💲[Jason Charnes - Interactive Rails with StimulusReflex](https://courses.jasoncharnes.com/stimulus-reflex)
-- **CableReady:**
-  - [ ] [Ready the docs](https://cableready.stimulusreflex.com/)
-  - [ ] 💲[Julian Rubisch - Advanced CableReady](https://julianrubisch.gumroad.com/l/acr)
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
 
