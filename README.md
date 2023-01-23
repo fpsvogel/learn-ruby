@@ -128,10 +128,13 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### How the Internet works
 
-- [x] [(WIP) Computer Networks from Scratch](https://www.networksfromscratch.com) or 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
-- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+- **Basics:**
+  - [ ] (WIP) [Computer Networks from Scratch](https://www.networksfromscratch.com)
+  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+- **Intermediate/advanced:**
+  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 
 ### Linux / command line
 
@@ -143,7 +146,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
   - [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
   - [ ] [Command Challenge](https://cmdchallenge.com/)
-- **Intermediate_advanced:**
+- **Intermediate/advanced:**
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
   - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
   - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
