@@ -236,7 +236,7 @@ If you ever get stuck, the [StimulusReflex community on Discord](https://discord
 
 - **Hotwire:**
   - [ ] [Read the docs](https://hotwired.dev/)
-  - [ ] Sign up for newsletters: [Hotwire dev newsletter](https://masilotti.com/hotwire/) and [Hotwiring Rails](https://www.getrevue.co/profile/hotwiringrails)
+  - [ ] Sign up for the [Hotwire dev newsletter](https://masilotti.com/hotwire/)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
