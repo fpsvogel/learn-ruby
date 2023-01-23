@@ -392,7 +392,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Divio Documentation System](https://documentation.divio.com/)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
-  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks).
+  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Here's an example app: [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks). And another: [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
   - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here's a handy starting point: [Crystal for Rubyists](https://www.crystalforrubyists.com/). You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice).
 
 ## Other resource lists
