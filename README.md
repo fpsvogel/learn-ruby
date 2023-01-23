@@ -135,15 +135,17 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Linux / command line
 
-- [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
-- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
-- [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
-- [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-- [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
-- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-- [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
-- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+- **Basics:**
+  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+  - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
+- **Intermediate_advanced:**
+  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+  - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+  - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
+  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 
 ## Ruby blogs, podcasts, screencasts
 
