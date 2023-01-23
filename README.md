@@ -24,7 +24,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
   - [Reviewing the basics](#reviewing-the-basics)
-- [CSS](#css)
+  - [CSS](#css)
   - [JavaScript](#javascript)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
@@ -198,7 +198,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
 - [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 
-## CSS
+### CSS
 
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
 
