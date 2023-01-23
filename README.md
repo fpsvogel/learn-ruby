@@ -232,25 +232,28 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Hotwire
 
-If you ever get stuck, the [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) is an amazing resource.
-
-- **Hotwire:**
+- **Community and news:**
+  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
+  - [Hotwire dev newsletter](https://masilotti.com/hotwire/)
+- **Basics:**
   - [ ] [Read the docs](https://hotwired.dev/)
-  - [ ] Sign up for the [Hotwire dev newsletter](https://masilotti.com/hotwire/)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
+  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1) (seems abandoned, though)
+  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
+  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
+  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
+- **Screencasts and blogs:**
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
   - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
-  - [ ] [David Colby's blog](https://www.colby.so), starting with the post [Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
-  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1)
+  - [ ] [David Colby's blog](https://www.colby.so)
+- **Examples and snippets:**
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
-  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
-  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
+  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
-  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Hotwire extensions:**
   - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
   - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
