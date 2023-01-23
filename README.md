@@ -192,6 +192,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rooftop Ruby](https://www.rooftopruby.com)
   - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
   - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
+  - [ ] [Framework Friends](https://www.frameworkfriends.com/) about Rails and Laravel
   - [x] [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
