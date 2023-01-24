@@ -140,7 +140,6 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Basics:**
   - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - **Practice:**
   - [ ] [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
   - [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
