@@ -139,7 +139,6 @@ Here are some places where you can learn with others or ask questions when you g
 ### Linux / command line
 
 - **Basics:**
-  - [ ] [Upcase - Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
   - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   - [ ] [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html)
 - **Practice:**
