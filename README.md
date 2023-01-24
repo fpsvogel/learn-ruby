@@ -23,8 +23,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Linux / command line](#linux--command-line)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
-  - [Reviewing the basics](#reviewing-the-basics)
-  - [CSS](#css)
+  - [HTML and CSS](#html-and-css)
   - [JavaScript](#javascript)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
@@ -191,19 +190,21 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Front end
 
-### Reviewing the basics
+### HTML and CSS
 
-- [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web), plus their [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS), and [JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
-- [ ] [web.dev courses](https://web.dev/learn/), especially [HTML](https://web.dev/learn/html/) and [CSS](https://web.dev/learn/css/)
-- [ ] The Odin Project - [Intermediate](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css) and [Advanced](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css) HTML and CSS, [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+- [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [ ] [web.dev courses](https://web.dev/learn/)
+- [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
+- [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
 - [ ] Try [CSS Naked Day](https://css-naked-day.github.io/) on my personal site
-
-### CSS
-
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
 
 ### JavaScript
 
+- [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
+- [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
 - [ ] [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ)
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
