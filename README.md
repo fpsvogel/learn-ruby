@@ -98,60 +98,50 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### SQL
 
-- **Basics:**
-  - [x] [SQL Teaching](https://www.sqlteaching.com)
-  - [x] [SQLBolt](https://sqlbolt.com)
-  - [x] [Select Star SQL](https://selectstarsql.com)
-- **Intermediate/advanced:**
-  - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
-  - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
-  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
-  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
-  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- **PostgreSQL:**
-  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-  - [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
-  - [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+- [x] [SQL Teaching](https://www.sqlteaching.com)
+- [x] [SQLBolt](https://sqlbolt.com)
+- [x] [Select Star SQL](https://selectstarsql.com)
+- [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
+- [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
+- [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
+- [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+- [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
+- [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+- [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+- [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+- [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
+- [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
 ### Git
 
-- **Basics:**
-  - [x] [Oh My Git!](https://ohmygit.org/)
-  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
-  - [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
-- **Intermediate/advanced:**
-  - [ ] [Pro Git](https://git-scm.com/book)
-  - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
+- [x] [Oh My Git!](https://ohmygit.org/)
+- [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
+- [ ] [Pro Git](https://git-scm.com/book)
+- [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+- [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
 ### How the Internet works
 
-- **Basics:**
-  - [ ] (WIP) [Computer Networks from Scratch](https://www.networksfromscratch.com)
-  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
-- **Intermediate/advanced:**
-  - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
-  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- [ ] (WIP) [Computer Networks from Scratch](https://www.networksfromscratch.com)
+- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
+- [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 
 ### Linux / command line
 
-- **Basics:**
-  - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- **Practice:**
-  - [ ] [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
-  - [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
-  - [ ] [Command Challenge](https://cmdchallenge.com/)
-- **Intermediate/advanced:**
-  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-  - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
-  - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
-  - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
-  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
-  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [ ] [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+- [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
+- [ ] [Command Challenge](https://cmdchallenge.com/)
+- [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+- [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
+- [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
+- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+- [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 
 ## Ruby blogs, podcasts, screencasts
 
