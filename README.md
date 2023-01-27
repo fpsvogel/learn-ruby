@@ -32,6 +32,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Misc. Ruby/Rails](#misc-rubyrails)
   - [Rails architecture](#rails-architecture)
+- [Games in Ruby](#games-in-ruby)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Other resource lists](#other-resource-lists)
 
@@ -58,8 +59,7 @@ Without further ado, here is my learning roadmap. Resources marked with a dollar
 - [x] **Basics:** [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) or (for more interactivity) [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
-- [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
-  - Or you could make a game with [DragonRuby](https://dragonruby.itch.io/), using these resources: [Building Games with DragonRuby](https://book.dragonriders.community/), [DragonRuby Zines](https://shop.brettchalupa.com/category/zines), [DragonRuby Recipes](https://www.dragonriders.community/recipes), and the [Scale](https://github.com/DragonRidersUnite/scale) template.
+- [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Or if you want to make a game, see the [Games in Ruby](#games-in-ruby) section.
 - [x] **Build a site with Bridgetown:** With [Bridgetown](https://github.com/bridgetownrb/bridgetown) you can build a site without yet getting into the complexity of Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
 ### Rails basics
@@ -365,6 +365,18 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
   - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
   - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
+
+## Games in Ruby
+
+- **[Ruby 2D](https://www.youtube.com/@CodeWithMario/playlists):**
+  - [Official docs](https://www.ruby2d.com/learn/get-started/)
+  - [Code with Mario - Ruby 2D screencasts](https://www.youtube.com/@CodeWithMario/playlists)
+- **💲[DragonRuby Game Toolkit](https://dragonruby.itch.io):**
+  - [Official docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
+  - [Building Games with DragonRuby](https://book.dragonriders.community/)
+  - [DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
+  - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
+  - [Scale](https://github.com/DragonRidersUnite/scale) template
 
 ## Expanding my horizons
 
