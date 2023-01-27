@@ -145,6 +145,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:**
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
+  - [x] [Saeloun Blog](https://blog.saeloun.com/)
 - **"Let's build" screencasts:** My criteria for inclusion are (1) not *too* out of date, and (2) insightful for someone who has done a basic Rails course such as The Odin Project.
   - [ ] [Rails Code Along](https://www.railscodealong.com/) – Rails 6, Heroku, Devise, Bootstrap
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
