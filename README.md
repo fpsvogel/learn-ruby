@@ -132,9 +132,6 @@ Here are some places where you can learn with others or ask questions when you g
 ### Linux / command line
 
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- [ ] [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
-- [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)
-- [ ] [Command Challenge](https://cmdchallenge.com/)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
