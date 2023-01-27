@@ -131,12 +131,12 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Linux / command line
 
-- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
-- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 
