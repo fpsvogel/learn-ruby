@@ -211,8 +211,9 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Web components
 
-- [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
 - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
+- [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+- [ ] [Web Components Today](https://webcomponents.today/)
 - [ ] [Lit docs](https://lit.dev/)
 - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
 - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
