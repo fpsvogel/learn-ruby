@@ -115,7 +115,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - [x] [Oh My Git!](https://ohmygit.org/)
 - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
-- [ ] [Git Katas](https://github.com/eficode-academy/git-katas)
+- [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [ ] [The Git Parable](https://youtu.be/ANNboouhNHE)
 - [ ] [Pro Git](https://git-scm.com/book)
 - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
