@@ -162,6 +162,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [TypeFast - Twitter clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLb9HwPWiizGBNupJszY6bR)
   - [ ] [Pet adoption app](https://www.youtube.com/playlist?list=PLDqVN4u4m3K_6ahSLq9nLVVO6Y8xEVvqV)
 - **Topical screencasts:**
+  - [ ] [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
   - [ ] [Joel Drapper & Kasper Timm Hansen - Naming Things](https://www.namingthings.org/)
   - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
   - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
