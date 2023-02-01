@@ -123,11 +123,11 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### How the Internet works
 
-- [ ] (WIP) [Computer Networks from Scratch](https://www.networksfromscratch.com)
+- [ ] [Computer Networks from Scratch (WIP)](https://www.networksfromscratch.com)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 
 ### Linux / command line
 
