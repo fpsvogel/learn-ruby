@@ -104,12 +104,12 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
 - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
 - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-- [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
+- [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
 - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-- [ ] [The Art of PostgreSQL](https://theartofpostgresql.com/)
-- [ ] [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+- [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
+- [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
 ### Git
 
