@@ -101,7 +101,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [SQLBolt](https://sqlbolt.com)
 - [x] [Select Star SQL](https://selectstarsql.com)
 - [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) for practice and some new concepts
-- [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
+- [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
 - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
 - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
 - [ ] [Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
