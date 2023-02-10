@@ -134,6 +134,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [ ] ["Linux CLI and shell scripting" list](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
 - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
