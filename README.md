@@ -117,6 +117,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtu.be/ANNboouhNHE)
+- [ ] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [ ] [Pro Git](https://git-scm.com/book)
 - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
