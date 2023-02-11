@@ -328,6 +328,7 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [Rubocop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
   - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+  - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Joel Drapper - upcoming book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
