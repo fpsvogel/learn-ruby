@@ -323,12 +323,13 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
-- **Advanced Ruby:**
-  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
-  - [ ] [Rubocop performance rules](https://github.com/rubocop/rubocop-performance)
+- **Ruby text processing:**
   - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
   - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
   - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+- **Advanced Ruby:**
+  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
+  - [ ] [Rubocop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] 💲[Joel Drapper - upcoming book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
