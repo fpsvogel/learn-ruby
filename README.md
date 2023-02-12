@@ -328,6 +328,7 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
   - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
   - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+  - [ ] Tools for Ruby on the command line: [rexe](https://github.com/keithrbennett/rexe), [pru](https://github.com/grosser/pru), [rb](https://github.com/thisredone/rb), [ru](https://github.com/tombenner/ru)
 - **Advanced Ruby:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [Rubocop performance rules](https://github.com/rubocop/rubocop-performance)
