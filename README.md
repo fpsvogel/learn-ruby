@@ -323,7 +323,8 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
-- **Ruby text processing:**
+- **Ruby scripting / text processing:**
+  - [ ] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
   - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
   - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
   - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
