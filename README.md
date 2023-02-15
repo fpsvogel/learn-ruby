@@ -149,7 +149,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
   - [x] [Saeloun Blog](https://blog.saeloun.com/)
 - **"Let's build" screencasts:** My criteria for inclusion are (1) not *too* out of date, and (2) insightful for someone who has done a basic Rails course such as The Odin Project.
-  - [ ] [Rails Code Along](https://www.railscodealong.com/) – Rails 6, Heroku, Devise, Bootstrap
+  - [ ] [Steve Polito - Rails Code Along](https://www.railscodealong.com/) – Rails 6, Heroku, Devise, Bootstrap
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [Web-Crunch - Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
@@ -250,6 +250,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Screencasts and blogs:**
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
+  - [ ] [Rapid Ruby screencasts on Hotwire](https://www.youtube.com/playlist?list=PL2OcwqOUtdpCqddncOH61f0phQKtum3yQ)
   - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
   - [ ] [David Colby's blog](https://www.colby.so)
 - **Examples and snippets:**
@@ -339,7 +340,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 - **Background jobs:**
   - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
 - **Authentication:**
-  - [ ] Steve Polito - [Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
   - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
 - **Rails deployment/DevOps:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
