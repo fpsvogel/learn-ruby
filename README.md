@@ -233,6 +233,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Web components
 
+- [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
 - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
 - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
 - [ ] [Web Components Today](https://webcomponents.today/)
