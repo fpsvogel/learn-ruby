@@ -21,6 +21,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Git](#git)
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
+  - [Ruby scripting](#ruby-scripting)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
   - [HTML and CSS](#html-and-css)
@@ -142,6 +143,14 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+
+### Ruby scripting
+
+- [ ] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
+- [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
+- [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+- [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+- [ ] Tools for Ruby on the command line: [rexe](https://github.com/keithrbennett/rexe), [pru](https://github.com/grosser/pru), [rb](https://github.com/thisredone/rb), [ru](https://github.com/tombenner/ru)
 
 ## Ruby blogs, podcasts, screencasts
 
@@ -334,12 +343,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
-- **Ruby scripting / text processing:**
-  - [ ] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-  - [ ] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-  - [ ] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-  - [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
-  - [ ] Tools for Ruby on the command line: [rexe](https://github.com/keithrbennett/rexe), [pru](https://github.com/grosser/pru), [rb](https://github.com/thisredone/rb), [ru](https://github.com/tombenner/ru)
 - **Advanced Ruby:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [Rubocop performance rules](https://github.com/rubocop/rubocop-performance)
