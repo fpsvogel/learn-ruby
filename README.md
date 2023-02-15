@@ -24,6 +24,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
   - [HTML and CSS](#html-and-css)
+  - [CSS games](#css-games)
   - [JavaScript](#javascript)
   - [Web components](#web-components)
   - [UI and Usability](#ui-and-usability)
@@ -202,6 +203,15 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
 - [ ] Try [CSS Naked Day](https://css-naked-day.github.io/) on my personal site
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
+
+### CSS games
+
+- [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+- [ ] [Grid Critters](https://gridcritters.com/)
+- [ ] [CSS Diner](https://flukeout.github.io/)
+- [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
+- [ ] [CSS Grid Garden](https://cssgridgarden.com/)
+- [ ] [CSSBattle](https://cssbattle.dev/)
 
 ### JavaScript
 
