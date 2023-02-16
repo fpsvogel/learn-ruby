@@ -134,6 +134,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Linux / command line
 
+- [x] Install and use Linux. [My post on switching to Linux](https://fpsvogel.com/posts/2023/switch-to-linux-from-windows) might give you some pointers.
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
