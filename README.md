@@ -164,6 +164,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Steve Polito - Rails Code Along](https://www.railscodealong.com/) – Rails 6, Heroku, Devise, Bootstrap
   - [ ] [Web-Crunch - Let's Build collection](https://web-crunch.com/collections/lets-build-with-ruby-on-rails)
   - [ ] [Web-Crunch - Job marketplace app](https://web-crunch.com/collections/lets-build-for-ruby-and-rails-developers)
+  - [ ] [Justin Searls - ChatGPT clone](https://www.youtube.com/playlist?list=PLIuJbrOVyGjkRj7UM_whr-CPoqcXTOsZa)
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
   - [ ] [CJ Avilla - Automate YouTube Video Production](https://www.youtube.com/playlist?list=PLS6F722u-R6ILDUeteD-A_q6Ja4SH8v95)
   - [ ] [CJ Avilla - Stock App](https://www.youtube.com/playlist?list=PLS6F722u-R6JOyF7jKb4aZsX0l6eDARp1)
