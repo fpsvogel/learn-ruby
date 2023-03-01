@@ -149,9 +149,9 @@ Here are some places where you can learn with others or ask questions when you g
 ### Ruby scripting
 
 - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-- [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+- [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
 - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-- [ ] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+- [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 
 ## Ruby blogs, podcasts, screencasts
