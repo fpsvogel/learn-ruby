@@ -375,6 +375,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **DDD (Domain-Driven Design):**
   - [x] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+  - [ ] [DDD blog posts by Paweł Strzałkowski](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
   - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
