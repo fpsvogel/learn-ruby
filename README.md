@@ -62,7 +62,10 @@ Without further ado, here is my learning roadmap. Resources marked with a dollar
 - [x] **Basics:** [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) or (for more interactivity) [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby)
 - [x] **Guided practice:** [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
-- [x] **Build a Ruby app:** Apply those OOP lessons. I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). Or if you want to make a game, see the [Games in Ruby](#games-in-ruby) section.
+- [x] **Build a Ruby app:**
+  - I made a CLI (command-line interface) [app that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
+  - Or if you want to make a game, see the [Games in Ruby](#games-in-ruby) section.
+  - Or maybe [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement some Magic cards in Ruby](https://github.com/radar/mtg/issues).
 - [x] **Build a site with Bridgetown:** With [Bridgetown](https://github.com/bridgetownrb/bridgetown) you can build a site without yet getting into the complexity of Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
 ### Rails basics
