@@ -15,6 +15,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Front-end basics](#front-end-basics)
   - [Ruby basics](#ruby-basics)
   - [Rails basics](#rails-basics)
+  - [Getting hired](#getting-hired)
   - [Ruby/Rails communities](#rubyrails-communities)
 - [Fundamental tools](#fundamental-tools)
   - [SQL](#sql)
@@ -78,18 +79,27 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
 
+### Getting hired
+
+- **Get real-world experience to put on your resume:**
+  - [Beginner Bounties](https://beginnerbounties.com)
+  - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+  - 💲[Richard Schneeman - How to Open Source](https://howtoopensource.dev/) if you want to go further in open source.
+- **Tips:**
+  - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
+
 ### Ruby/Rails communities
 
 Here are some places where you can learn with others or ask questions when you get stuck.
 
+- **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
+  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
+  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Communities:**
   - [The Ruby Learning Center](https://www.rubylearning.dev/)
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
-- **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
-  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
 - **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
   - [Ruby Weekly](https://rubyweekly.com/)
   - [Ruby Radar](https://rubyradar.dev/)
