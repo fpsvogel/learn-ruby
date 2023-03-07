@@ -194,6 +194,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Joel Drapper & Kasper Timm Hansen - Naming Things](https://www.namingthings.org/)
   - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
   - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
+  - [ ] [Deanin - Ruby on Rails 7](https://www.youtube.com/playlist?list=PL3mtAHT_eRexG8W__yiMgv3tcIdbLlwho)
   - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
   - [x] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
   - [x] 💲[GoRails](https://gorails.com)
