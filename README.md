@@ -186,15 +186,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/playlist?list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p)
 - **Topical screencasts:**
   - [ ] [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
-  - [ ] [Joel Drapper & Kasper Timm Hansen - Naming Things](https://www.namingthings.org/)
-  - [ ] [Web-Crunch - Ruby on Rails collection](https://web-crunch.com/collections/ruby-on-rails)
   - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
-  - [ ] [Deanin - Ruby on Rails 7](https://www.youtube.com/playlist?list=PL3mtAHT_eRexG8W__yiMgv3tcIdbLlwho)
-  - [ ] [Phil Smy - Ruby on Rails](https://youtube.com/playlist?list=PLiJC12qFqVo3DrqGZn80DvdT8qGsQT9wh)
-  - [x] [DHH - On Writing Software Well](https://youtube.com/playlist?list=PL9wALaIpe0Py6E_oHCgTrD6FvFETwJLlx)
+  - [ ] [Deanin - Rails 7 tutorials](https://www.youtube.com/playlist?list=PL3mtAHT_eRexG8W__yiMgv3tcIdbLlwho)z
   - [x] 💲[GoRails](https://gorails.com)
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
-  - [ ] 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog)
 - **Podcasts:**
   - [x] [Ruby for All](https://www.rubyforall.com/)
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
