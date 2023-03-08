@@ -88,7 +88,7 @@ Only books and courses are listed below, but be sure to *build stuff* as you lea
   - [Beginner Bounties](https://beginnerbounties.com)
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
   - 💲[Richard Schneeman - How to Open Source](https://howtoopensource.dev/) if you want to go further in open source.
-- **Tips:**
+- **The job search:**
   - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
 
 ### Ruby/Rails communities
@@ -254,10 +254,11 @@ Here are some places where you can learn with others or ask questions when you g
 
 - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
 - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+- [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
 - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
 - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
-- [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
 - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+- [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
 - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
 - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 - **Better Rails views:**
