@@ -71,7 +71,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 - **OOP:**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) and
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
-- **Build stuff in Ruby.** Here are some ideas:
+- **Build stuff with Ruby.** Here are some ideas:
   - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
   - [ ] A game. See the [Games in Ruby](#games-in-ruby) section.
   - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
@@ -84,9 +84,9 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - **Rails testing and RSpec:**
-  - [x] Upcase - [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+  - [x] If you skip the above two, at least do [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
 
