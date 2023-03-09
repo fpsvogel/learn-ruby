@@ -414,15 +414,20 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Games in Ruby
 
-- **[Ruby 2D](https://www.youtube.com/@CodeWithMario/playlists):**
-  - [Official docs](https://www.ruby2d.com/learn/get-started/)
-  - [Code with Mario - Ruby 2D screencasts](https://www.youtube.com/@CodeWithMario/playlists)
-- **💲[DragonRuby Game Toolkit](https://dragonruby.itch.io):**
-  - [Official docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
-  - [Building Games with DragonRuby](https://book.dragonriders.community/)
-  - [DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
-  - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
-  - [Scale](https://github.com/DragonRidersUnite/scale) template
+I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has a large community and is actively being developed.
+
+It's not free, but (a) it's not expensive, (b) you may qualify for a free license (see "Free Unrestricted License" on the homepage), and (c) the creators regularly give it away for free at game jams and other special occasions.
+
+Resources:
+
+- [Discord server](discord.dragonruby.org)
+- [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
+- [Building Games with DragonRuby](https://book.dragonriders.community/)
+- [DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
+- [DragonRuby Recipes](https://www.dragonriders.community/recipes)
+- [Scale](https://github.com/DragonRidersUnite/scale) template
+
+Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [Taylor](https://taylor.oequacki.com/).
 
 ## Expanding my horizons
 
