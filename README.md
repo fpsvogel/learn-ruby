@@ -54,20 +54,27 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 
 ### Front-end basics
 
-- [x] **Learn some HTML, CSS, and JavaScript:** [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
-- [x] **Build a blog from scratch:** I've rebuilt it by now, but [here is the first iteration](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
+- **Learn some HTML, CSS, and JavaScript:**
+  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations)
+  - [ ] Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
+- **Build a blog from scratch:**
+  - [x] [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
 
-- [x] **Basics:** [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) or (if you prefer an interactive approach) [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby)
-- [x] **Guided practice:**
-  - [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
-  - [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
-- [x] **OOP:** Sandi Metz's books 💲[Practical Object-Oriented Design: An Agile Primer Using Ruby](https://www.poodr.com) (a.k.a. POODR) and 💲[99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
-- [x] **Build stuff in Ruby.** Here are some ideas:
-  - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
-  - A game. See the [Games in Ruby](#games-in-ruby) section.
-  - A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
+- **Basics:**
+  - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+  - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
+- **Guided practice:**
+  - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+  - [ ] [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
+- **OOP:**
+  - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) and
+  - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
+- **Build stuff in Ruby.** Here are some ideas:
+  - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
+  - [ ] A game. See the [Games in Ruby](#games-in-ruby) section.
+  - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 
 ### Rails basics
 
