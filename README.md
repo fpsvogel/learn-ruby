@@ -219,6 +219,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
 - [ ] [htmlreference.io](https://htmlreference.io/)
 - [ ] [cssreference.io](https://cssreference.io/)
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] Try [CSS Naked Day](https://css-naked-day.github.io/) on my personal site
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
 
