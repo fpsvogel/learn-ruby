@@ -83,10 +83,11 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Rails basics:**
   - [x] [GoRails - Rails for Beginners](https://gorails.com/start)
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
-- **Rails testing and RSpec:**
+- **Testing:**
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [x] [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-  - [x] If you skip the above two, at least do [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
+  - [x] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **Polishing up:**
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec
 
