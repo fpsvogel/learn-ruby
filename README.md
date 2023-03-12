@@ -451,7 +451,7 @@ Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https:/
   - [ ] [CodeWars](https://www.codewars.com)
   - [ ] [Advent of Code](https://adventofcode.com/2022/events)
   - [ ] [Project Euler](https://projecteuler.net/)
-  - [ ] Code katas: [awesome-katas](https://github.com/gamontal/awesome-katas) and [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
+  - [ ] Code katas: [Gilded Rose](https://github.com/knowndecimal/gilded_rose_kata), [awesome-katas](https://github.com/gamontal/awesome-katas), [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
 - **Design patterns:**
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
