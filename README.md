@@ -46,7 +46,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - **Find a system for keeping *organized* notes**, code snippets, and bookmarked links. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base).
 - **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read/study is not at all obvious at the beginning. Hence the focus on books and courses here.
-- **Last but not least, take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtu.be/fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
+- **Last but not least, take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
 
 Without further ado, here is my learning road map. Resources marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 
@@ -141,7 +141,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [Oh My Git!](https://ohmygit.org/)
 - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
-- [x] [The Git Parable](https://youtu.be/ANNboouhNHE)
+- [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
 - [ ] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [ ] [Pro Git](https://git-scm.com/book)
 - [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
@@ -246,7 +246,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
 - [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-- [ ] [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ)
+- [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
 - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
 - [ ] [JavaScript30](https://javascript30.com/) for practice
 
@@ -311,7 +311,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Multi-platform:**
   - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Other similar libraries:**
-  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtu.be/LRrrxQXWdhI)
+  - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI)
 
 ## Rails codebases to study
 
@@ -386,7 +386,7 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
   - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
-  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtu.be/zbAslvHa7MI)
+  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtube.com/watch?v=zbAslvHa7MI)
   - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
 ### Rails architecture
