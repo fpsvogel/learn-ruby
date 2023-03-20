@@ -432,8 +432,9 @@ DragonRuby resources:
 
 - [Discord server](discord.dragonruby.org)
 - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
-- [Building Games with DragonRuby](https://book.dragonriders.community/)
-- [DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
+- [Brett Chalupa - Building Games with DragonRuby](https://book.dragonriders.community/)
+- [Brett Chalupa - DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
+- [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4)
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
 - [Scale](https://github.com/DragonRidersUnite/scale) template
 
@@ -474,7 +475,7 @@ Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https:/
   - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here are a few resources:
     - [Crystal for Rubyists](https://www.crystalforrubyists.com/)
     - [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
-    - You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice).
+    - You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice)
 
 ## Other resource lists
 
