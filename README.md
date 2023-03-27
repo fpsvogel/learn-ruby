@@ -106,9 +106,10 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor.
+  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor. It's not uncommon for someone to post asking if anyone is available to mentor, and these posts typically get quite a few replies from potential mentors.
 - **Communities:**
   - [The Ruby Learning Center](https://www.rubylearning.dev/)
+  - [Code with Jason Meetup](https://www.codewithjason.com/meetup)
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
   - [GoRails community on Discord](https://discord.gg/gorails)
