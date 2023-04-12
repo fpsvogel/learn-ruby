@@ -75,6 +75,8 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
   - [ ] A game. See the [Games in Ruby](#games-in-ruby) section.
   - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
+- **Reference:**
+  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site and never shows up on search results. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
 
 ### Rails basics
 
