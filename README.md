@@ -279,8 +279,9 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
 - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
 - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
-- **Better Rails views:**
-- [ ] [Phlex](https://www.phlex.fun/)
+- **Rails views with Plex:**
+- [ ] [Docs](https://www.phlex.fun/)
+- [ ] ["Component Driven Development on Rails With Phlex"](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
 
 ### Hotwire
 
