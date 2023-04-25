@@ -417,6 +417,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Ventable](https://github.com/kigster/ventable) - a variation of the Observer design pattern
   - [ ] [Wisper](https://github.com/krisleech/wisper) - the Publish-Subscribe design pattern
   - [ ] [Packwerk](https://github.com/Shopify/packwerk) - to enforce boundaries and modularize Rails applications
+  - [ ] [gems related to Packwerk](https://github.com/rubyatscale)
 - **Review criticisms of the Active Record pattern:**
   - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
 - **Review criticisms of service objects:**
