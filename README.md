@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Learning Ruby: a resource list
+# Learn Ruby: a resource list
 
 Hi! As a second-career developer who didn't go through a bootcamp, I've found it helpful to keep a road map of learning resources—building my own curriculum, in a way. I hope this list helps you too!
 
