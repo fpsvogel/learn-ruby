@@ -25,7 +25,9 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Ruby scripting](#ruby-scripting)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
-  - [HTML and CSS](#html-and-css)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Accessibility](#accessibility)
   - [CSS games](#css-games)
   - [JavaScript](#javascript)
   - [Web components](#web-components)
@@ -223,19 +225,27 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Front end
 
-### HTML and CSS
+### HTML
 
 - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [ ] [htmlreference.io](https://htmlreference.io/)
+
+### CSS
+
 - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [ ] [web.dev courses](https://web.dev/learn/)
+- [ ] [cssreference.io](https://cssreference.io/)
 - [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
 - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
-- [ ] [htmlreference.io](https://htmlreference.io/)
-- [ ] [cssreference.io](https://cssreference.io/)
-- [ ] [Responsible Web Applications](https://responsibleweb.app/)
-- [ ] Try [CSS Naked Day](https://css-naked-day.github.io/) on my personal site
+- [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
+- [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
+- [ ] [CSS Naked Day](https://css-naked-day.github.io/)
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
+
+### Accessibility
+
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
+- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
 
 ### CSS games
 
