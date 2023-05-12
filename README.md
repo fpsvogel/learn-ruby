@@ -27,11 +27,11 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Front end](#front-end)
   - [HTML](#html)
   - [CSS](#css)
-  - [Accessibility](#accessibility)
   - [CSS games](#css-games)
+  - [Accessibility](#accessibility)
   - [JavaScript](#javascript)
   - [Web components](#web-components)
-  - [UI and Usability](#ui-and-usability)
+  - [UI and usability](#ui-and-usability)
   - [Hotwire](#hotwire)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
@@ -44,7 +44,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 ## Preliminaries
 
 - **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
-- **If you're wondering why I chose Ruby** and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). [Here's a second opinion](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) by the founder of a bootcamp that teaches Ruby.
+- **If you're wondering why I chose Ruby** and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). And [here's a second opinion](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) by the founder of a bootcamp that teaches Ruby.
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - **Find a system for keeping *organized* notes**, code snippets, and bookmarked links. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base).
 - **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read/study is not at all obvious at the beginning. Hence the focus on books and courses here.
@@ -78,7 +78,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [ ] A game. See the [Games in Ruby](#games-in-ruby) section.
   - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 - **Reference:**
-  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site and never shows up on search results. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
+  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
 
 ### Rails basics
 
@@ -242,11 +242,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [CSS Naked Day](https://css-naked-day.github.io/)
 - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
 
-### Accessibility
-
-- [ ] [Responsible Web Applications](https://responsibleweb.app/)
-- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
-
 ### CSS games
 
 - [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
@@ -255,6 +250,11 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
 - [ ] [CSSBattle](https://cssbattle.dev/)
+
+### Accessibility
+
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
+- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
 
 ### JavaScript
 
@@ -278,7 +278,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
 - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
-### UI and Usability
+### UI and usability
 
 - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
 - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
