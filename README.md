@@ -306,6 +306,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809) which turned into the book 💲[Hotwire Cookbook](https://www.hotwirecookbook.com/)
   - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
   - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
+  - [ ] [Hotwire Cases](https://hotwiredcases.dev)
 - **Screencasts and blogs:**
   - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
   - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
