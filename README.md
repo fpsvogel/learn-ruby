@@ -414,7 +414,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 - **DDD (Domain-Driven Design):**
   - [x] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
-  - [ ] [Paweł Strzałkowski - DDD webinar, part 1](https://www.youtube.com/watch?v=94Atco5-tRQ), [part 2](https://www.youtube.com/watch?v=tUfc7t9JW-8), [part 3](https://www.youtube.com/watch?v=JTjHMQh-6jw), [part 4](https://www.youtube.com/watch?v=8TysidyIRbM)
+  - [ ] [Paweł Strzałkowski - DDD webinar, part 1](https://www.youtube.com/watch?v=94Atco5-tRQ), [part 2](https://www.youtube.com/watch?v=tUfc7t9JW-8), [part 3](https://www.youtube.com/watch?v=JTjHMQh-6jw), [part 4](https://www.youtube.com/watch?v=8TysidyIRbM), and [their Discord server](https://discord.com/invite/VjdrCYgYcK)
   - [ ] [Paweł Strzałkowski - DDD blog posts](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
