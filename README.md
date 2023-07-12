@@ -457,7 +457,7 @@ DragonRuby resources:
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
 - [Scale](https://github.com/DragonRidersUnite/scale) template
 
-Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [Taylor](https://taylor.oequacki.com/).
+Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
 
 ## Expanding my horizons
 
