@@ -70,7 +70,6 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
 - **Guided practice:**
   - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
-  - [ ] [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
 - **OOP:**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) and
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
@@ -443,11 +442,11 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Games in Ruby
 
-I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has a large community and is actively being developed.
+The minimalist route is to build a text-based game in Ruby, or to contribute to a project like [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
 
-It's not free, but (a) it's relatively inexpensive, (b) you may qualify for a free license (see "Free Unrestricted License" on the homepage), and (c) the creators regularly give it away for free at game jams and other special occasions.
+If you want to make a graphical game, there are a few tools to choose from. The one with the most active community is 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk). You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free at game jams and other special occasions.
 
-DragonRuby resources:
+**DragonRuby resources:**
 
 - [Discord server](discord.dragonruby.org)
 - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
@@ -457,7 +456,7 @@ DragonRuby resources:
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
 - [Scale](https://github.com/DragonRidersUnite/scale) template
 
-Other game libraries in Ruby: [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
+**Other Ruby game libraries:** [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
 
 ## Expanding my horizons
 
