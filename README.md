@@ -295,6 +295,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Community and news:**
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
   - [Hotwire dev newsletter](https://masilotti.com/hotwire/)
+  - [The Hotwire Club](https://hotwire.club/)
 - **Basics:**
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [A Brief Introduction to Hotwire](https://www.akshaykhot.com/introduction-to-hotwire/)
