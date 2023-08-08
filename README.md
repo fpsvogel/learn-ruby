@@ -294,8 +294,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [Hotwire dev newsletter](https://masilotti.com/hotwire/)
   - [The Hotwire Club](https://hotwire.club/)
 - **Basics:**
+  - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Read the docs](https://hotwired.dev/)
   - [ ] [A Brief Introduction to Hotwire](https://www.akshaykhot.com/introduction-to-hotwire/)
+  - [ ] [You Don't Need Rails to Start Using Hotwire](https://www.akshaykhot.com/using-hotwire-without-rails/)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
