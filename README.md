@@ -232,6 +232,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [ ] [cssreference.io](https://cssreference.io/)
+- [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
 - [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
 - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
 - [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
