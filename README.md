@@ -185,6 +185,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Blogs:**
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
+  - [ ] [Akshay's Blog](https://www.akshaykhot.com/start-here/)
 - **"Let's build" screencasts:** All of these use Rails 7.
   - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
   - [ ] [TypeFast - Trello clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLgAlweneIHqQTUMiVquXaD)
