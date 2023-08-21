@@ -154,7 +154,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### How the Internet works
 
-- [ ] [Computer Networks from Scratch (WIP)](https://www.networksfromscratch.com)
+- [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com) (WIP, and possibly abandoned because Ch. 5 has been "coming soon" for a year now)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V)
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
@@ -186,21 +186,16 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:**
   - [x] [Code with Jason](https://www.codewithjason.com/articles/)
   - [ ] [Akshay's Blog](https://www.akshaykhot.com/start-here/)
-- **"Let's build" screencasts:** All of these use Rails 7.
-  - [ ] [Dr. Nic - Notion clone](https://www.youtube.com/playlist?list=PLcKahasNsPxS-Y9yvmOHMOn9Uei6nzYiz)
-  - [ ] [TypeFast - Trello clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLgAlweneIHqQTUMiVquXaD)
-  - [ ] [TypeFast - AirBnB clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe)
-  - [ ] [TypeFast - Twitter clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLb9HwPWiizGBNupJszY6bR)
-  - [ ] [Mix & Go - Instagram clone](https://www.youtube.com/playlist?list=PLBhH0uX92r6rjVGaXipwGzzJ_d1Z-J7LX)
-  - [ ] [SupeRails - user feedback app](https://www.youtube.com/playlist?list=PLdTytUiloS14rxJRGoEKOcEWFouuZblCL)
-  - [ ] [Justin Searls - ChatGPT clone](https://www.youtube.com/playlist?list=PLIuJbrOVyGjkRj7UM_whr-CPoqcXTOsZa)
-  - [ ] [Web-Crunch - Twitter clone](https://web-crunch.com/posts/lets-build-with-ruby-on-rails-7-twitter-clone)
-  - [ ] [Web-Crunch - event scheduling app](https://web-crunch.com/posts/event-scheduling-app-rails-7)
-  - [ ] [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/playlist?list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p)
+- **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
+  - [ ] [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
+  - [ ] [TypeFast](https://www.youtube.com/@typefastco/playlists)
+  - [ ] [Mix & Go](https://www.youtube.com/@mixandgo/playlists)
+  - [ ] [SupeRails](https://www.youtube.com/@SupeRails/playlists)
+  - [ ] [Justin Searls](https://www.youtube.com/@JustinSearls/playlists)
+  - [ ] [Web-Crunch](https://www.youtube.com/@Webcrunch/videos)
+  - [ ] [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
 - **Topical screencasts:**
   - [ ] [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
-  - [ ] [Yaroslav Shmarov - SupeRails](https://www.youtube.com/c/SupeRails/playlists)
-  - [ ] [Deanin - Rails 7 tutorials](https://www.youtube.com/playlist?list=PL3mtAHT_eRexG8W__yiMgv3tcIdbLlwho)z
   - [x] 💲[GoRails](https://gorails.com)
   - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
 - **Podcasts:**
@@ -208,18 +203,15 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
   - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [ ] [Rooftop Ruby](https://www.rooftopruby.com)
-  - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
-  - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
-  - [ ] [The Rails Changelog](https://www.railschangelog.com/)
   - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
   - [ ] [The Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/)
+  - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
+  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
+  - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
+  - [ ] [The Rails Changelog](https://www.railschangelog.com/)
   - [ ] [The Bike Shed](https://www.bikeshed.fm/)
   - [ ] [IndieRails](https://www.indierails.com/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
-  - [ ] [Framework Friends](https://www.frameworkfriends.com/) about Rails and Laravel
-  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
-  - [ ] [Maintainable](https://www.maintainable.fm/) (not Ruby-specific)
-  - [ ] [DevDiscuss](https://dev.to/devdiscusss) (not Ruby-specific)
 
 ## Front end
 
