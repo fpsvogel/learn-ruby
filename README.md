@@ -57,8 +57,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 ### Front-end basics
 
 - **Learn some HTML, CSS, and JavaScript:**
-  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations)
-  - [ ] Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
+  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
 - **Build a blog from scratch:**
   - [x] [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
@@ -75,7 +74,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - **Build stuff with Ruby.** Here are some ideas:
   - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
-  - [ ] A game. See the [Games in Ruby](#games-in-ruby) section.
+  - [x] A game. See the [Games in Ruby](#games-in-ruby) section.
   - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
 - **Reference:**
   - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
@@ -447,7 +446,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Games in Ruby
 
-The minimalist route is to build a text-based game in Ruby, or to contribute to a project like [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
+The minimalist route is to build a text-based game [as I'm doing](https://fpsvogel.com/posts/2023/ruby-text-adventure-real-time-input), or to contribute to a project like [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
 
 If you want to make a graphical game, there are a few tools to choose from. The one with the most active community is 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk). You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free at game jams and other special occasions.
 
