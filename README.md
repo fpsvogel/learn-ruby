@@ -128,7 +128,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [SQL Teaching](https://www.sqlteaching.com)
 - [x] [SQLBolt](https://sqlbolt.com)
 - [x] [Select Star SQL](https://selectstarsql.com)
-- [ ] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
 - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
 - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
@@ -147,8 +147,8 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
 - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- [x] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 - [ ] [Pro Git](https://git-scm.com/book)
-- [ ] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
 ### How the Internet works
