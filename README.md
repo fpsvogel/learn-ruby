@@ -373,7 +373,8 @@ If you want to explore more widely, here are other places to find open-source Ru
 - **Advanced Rails:**
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails
+  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails (a bit dated)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
