@@ -477,16 +477,11 @@ If you want to make a graphical game, there are a few tools to choose from. The 
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-- **Misc.**
+- **Documentation**
   - [ ] [Divio Documentation System](https://documentation.divio.com/)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-  - [ ] [Roda](https://roda.jeremyevans.net/) in its batteries-included form [via Bridgetown](https://www.bridgetownconf.rocks#talk-bridgetown-database-apps)
-    - [Building a blog with Roda and Sequel](https://www.youtube.com/watch?v=_fGk99qNwSU)
-    - [Roda & Sequel CRUD tutorial](https://www.youtube.com/watch?v=3h0Cgpba_WE)
-    - Roda "let's build": CRM ([1](https://www.youtube.com/watch?v=vrfJfHEtVq8), [2](https://www.youtube.com/watch?v=YgCCFla4zQs), [3](https://www.youtube.com/watch?v=tULdRKsCZSU), [4](https://www.youtube.com/watch?v=WbDKoCB3N9U), [5](https://www.youtube.com/watch?v=--LmOgqCWdE))
-    - Roda "let's build": org chart ([1](https://www.youtube.com/watch?v=fR2sZLGuHY4), [2](https://www.youtube.com/watch?v=A9VsWQy9ttw), [3](https://www.youtube.com/watch?v=zUXST-TZoJQ), [4](https://www.youtube.com/watch?v=G0L6l3eUNUM))
-    - [An example Roda app using Hotwire](https://github.com/janko/budget)
-  - [ ] [Hanami](https://hanamirb.org/) which will also be easier than ever to get started with once it hits 2.1. Example apps:
+  - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
+  - [ ] [Hanami](https://hanamirb.org/) which will be easier to get started with once it hits 2.1. Example apps:
     - [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks)
     - [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
     - [github.com/katafrakt/palaver](https://github.com/katafrakt/palaver)
