@@ -455,13 +455,13 @@ If you want to make a graphical game, there are a few tools to choose from. The 
 
 ## Expanding my horizons
 
-- **How computers work:**
+- **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
   - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
-  - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
   - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- **Compilers:**
+  - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
   - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Coding challenges:**
   - [ ] [CodeWars](https://www.codewars.com)
