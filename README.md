@@ -485,10 +485,6 @@ If you want to make a graphical game, there are a few tools to choose from. The 
     - [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks)
     - [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
     - [github.com/katafrakt/palaver](https://github.com/katafrakt/palaver)
-  - [ ] [Lucky](https://luckyframework.org/), a web framework for [Crystal](https://crystal-lang.org/)… which is not Ruby but it's close 😉 Here are a few resources:
-    - [Crystal for Rubyists](https://www.crystalforrubyists.com/)
-    - [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
-    - You can even use Crystal alongside a Ruby app, for background jobs: [github.com/crimson-knight/fruit_juice](https://github.com/crimson-knight/fruit_juice)
 
 ## Other resource lists
 
