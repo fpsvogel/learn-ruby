@@ -373,12 +373,11 @@ If you want to explore more widely, here are other places to find open-source Ru
 - **Advanced Rails:**
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] [Ruby Science](https://github.com/thoughtbot/ruby-science) on design patterns in Rails (a bit dated)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
   - [ ] (upcoming) 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
+- **Rails performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
@@ -387,7 +386,7 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
-  - [ ] 💲[Joel Drapper - upcoming book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
+  - [ ] (upcoming) 💲[Joel Drapper - book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Background jobs:**
@@ -412,6 +411,7 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] [Paweł Strzałkowski - DDD blog posts](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
+  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
   - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
   - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
