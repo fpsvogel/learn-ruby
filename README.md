@@ -171,6 +171,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+- [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
 
 ### Ruby scripting
 
@@ -394,12 +395,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 - **Authentication:**
   - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
   - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
-- **Rails deployment/DevOps:**
-  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Deploying Rails Applications](https://leanpub.com/deploying_rails_applications)
-  - [ ] 💲[Efficient Rails DevOps](https://efficientrailsdevops.com/)
-  - [ ] [Cameron Dutro - RailsConf talk "Kuby: Active Deployment for Rails Apps"](https://youtube.com/watch?v=zbAslvHa7MI)
-  - [ ] Guides to deploying Rails on AWS: [1](https://www.theelastic.guru/lee/how-to-build-a-ruby-on-rails-host-on-aws-for-beginners-232l), [2](https://www.honeybadger.io/blog/rails-6-aws-elastic-beanstalk/), [3](https://www.codewithjason.com/how-to-deploy-a-ruby-on-rails-application-to-aws/)
 
 ### Rails architecture
 
