@@ -22,7 +22,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Git](#git)
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
-  - [Ruby scripting](#ruby-scripting)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
   - [Web standards](#web-standards)
@@ -167,14 +166,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-
-### Ruby scripting
-
-- [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-- [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
-- [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-- [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-- [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 
 ## Ruby blogs, podcasts, screencasts
 
@@ -356,6 +347,12 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
+- **Scripting:**
+  - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
+  - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+  - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 - **Metaprogramming:**
   - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] (upcoming) 💲[Joel Drapper - book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
