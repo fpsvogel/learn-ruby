@@ -25,13 +25,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Ruby scripting](#ruby-scripting)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Front end](#front-end)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [CSS games](#css-games)
-  - [Accessibility](#accessibility)
-  - [JavaScript](#javascript)
-  - [Web components](#web-components)
-  - [UI and usability](#ui-and-usability)
+  - [Web standards](#web-standards)
   - [Hotwire](#hotwire)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
@@ -216,71 +210,60 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Front end
 
-### HTML
+### Web standards
 
-- [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [ ] [htmlreference.io](https://htmlreference.io/)
-
-### CSS
-
-- [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [ ] [cssreference.io](https://cssreference.io/)
-- [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
-- [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
-- [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
-- [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
-- [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
-- [ ] [CSS Naked Day](https://css-naked-day.github.io/)
-- [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
-
-### CSS games
-
-- [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
-- [ ] [Grid Critters](https://gridcritters.com/)
-- [ ] [CSS Diner](https://flukeout.github.io/)
-- [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
-- [ ] [CSS Grid Garden](https://cssgridgarden.com/)
-- [ ] [CSSBattle](https://cssbattle.dev/)
-
-### Accessibility
-
-- [ ] [Responsible Web Applications](https://responsibleweb.app/)
-- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
-
-### JavaScript
-
-- [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
-- [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-- [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-- [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
-- [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
-- [ ] [JavaScript30](https://javascript30.com/) for practice
-
-### Web components
-
-- [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
-- [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
-- [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
-- [ ] [Web Components Today](https://webcomponents.today/)
-- [ ] [Lit docs](https://lit.dev/)
-- [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
-- [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
-- [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
-- [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
-- [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
-
-### UI and usability
-
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
-- [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
-- [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
-- [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
-- [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
-- [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
-- [ ] 💲[Master UI Design](https://www.masteruibook.com/)
-- [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
+- **HTML:**
+  - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+  - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+  - [ ] [htmlreference.io](https://htmlreference.io/)
+- **CSS:**
+  - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+  - [ ] [cssreference.io](https://cssreference.io/)
+  - [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
+  - [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
+  - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
+  - [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
+  - [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
+  - [ ] [CSS Naked Day](https://css-naked-day.github.io/)
+  - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
+- **CSS games:**
+  - [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+  - [ ] [Grid Critters](https://gridcritters.com/)
+  - [ ] [CSS Diner](https://flukeout.github.io/)
+  - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
+  - [ ] [CSSBattle](https://cssbattle.dev/)
+- **Accessibility:**
+  - [ ] [Responsible Web Applications](https://responsibleweb.app/)
+  - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
+- **JavaScript:**
+  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
+  - [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
+  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+  - [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
+  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [ ] [JavaScript30](https://javascript30.com/) for practice
+- **Web components:**
+  - [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
+  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
+  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+  - [ ] [Web Components Today](https://webcomponents.today/)
+  - [ ] [Lit docs](https://lit.dev/)
+  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
+  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
+  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
+  - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
+  - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
+- **UI and usability:**
+  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+  - [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
+  - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+  - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
+  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+  - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
+  - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
+  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
 
 ### Hotwire
 
