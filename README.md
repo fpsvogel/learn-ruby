@@ -472,6 +472,11 @@ If you want to make a graphical game, there are a few tools to choose from. The 
     - [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks)
     - [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
     - [github.com/katafrakt/palaver](https://github.com/katafrakt/palaver)
+- **Learn Crystal:** Ruby spoiled me and now most other programming languages look ugly. But Crystal syntax was inspired by Ruby, so I want to give it a try.
+  - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
+  - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
+  - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
+  - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
 
 ## Other resource lists
 
