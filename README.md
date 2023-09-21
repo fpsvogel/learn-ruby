@@ -430,10 +430,11 @@ If you want to make a graphical game, there are a few tools to choose from. The 
 - [Discord server](discord.dragonruby.org)
 - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
 - [Brett Chalupa - Building Games with DragonRuby](https://book.dragonriders.community/)
-- [Brett Chalupa - DragonRuby Zines](https://shop.brettchalupa.com/category/zines)
 - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4)
+- [Brett Chalupa - DragonRuby Zine, Issue 1](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
 - [Scale](https://github.com/DragonRidersUnite/scale) template
+- [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
 
 **Other Ruby game libraries:** [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
 
