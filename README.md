@@ -478,6 +478,7 @@ If you want to make a graphical game, there are a few tools to choose from. The 
   - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
   - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
+  - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
 
 ## Other resource lists
 
