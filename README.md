@@ -441,7 +441,7 @@ If you want to make a graphical game, there are a few tools to choose from. The 
 ## Expanding my horizons
 
 - **Be a mentor:**
-  - [ ] [Exercism](https://exercism.org/mentoring)
+  - [x] [Exercism](https://exercism.org/mentoring)
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
