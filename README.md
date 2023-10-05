@@ -352,8 +352,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
   - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
   - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
-- **Metaprogramming:**
-  - [ ] (upcoming) 💲[Joel Drapper - book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
@@ -366,7 +364,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Active Record:**
   - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
-  - [ ] (upcoming) 💲[Jason Charnes - Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook)
 - **Rails views:**
   - [ ] [ViewComponent](https://viewcomponent.org)
   - [ ] [Phlex](https://www.phlex.fun)
@@ -394,7 +391,6 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Other approaches:**
   - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] (upcoming) 💲[Peter Solnica - Data Oriented Web Development with Ruby](https://solnic.podia.com/data-oriented-web-development-with-ruby)
   - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
   - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
