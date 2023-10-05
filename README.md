@@ -346,7 +346,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
-  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/ruby-under-a-microscope)
 - **Scripting:**
   - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
