@@ -93,7 +93,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Get real-world experience to put on your resume:**
   - [Beginner Bounties](https://beginnerbounties.com)
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
-  - 💲[Richard Schneeman - How to Open Source](https://howtoopensource.dev/) if you want to go further in open source.
 - **The job search:**
   - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
 
