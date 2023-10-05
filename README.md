@@ -409,20 +409,23 @@ A.K.A. *where the heck do I put my business logic / how can I keep my models fro
 
 ## Games in Ruby
 
-The minimalist route is to build a text-based game [as I'm doing](https://fpsvogel.com/posts/2023/ruby-text-adventure-real-time-input), or to contribute to a project like [Magic: The Gathering: The Ruby Project](https://github.com/radar/mtg), where you can [implement Magic cards in Ruby](https://github.com/radar/mtg/issues).
+The minimalist route is to build a text-based game, [as I'm doing](https://fpsvogel.com/posts/2023/ruby-text-adventure-real-time-input).
 
-If you want to make a graphical game, there are a few tools to choose from. The one with the most active community is 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk). You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free at game jams and other special occasions.
+For graphical games, I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has the liveliest community. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
 
-**DragonRuby resources:**
+**DragonRuby tutorials:**
 
-- [Discord server](discord.dragonruby.org)
-- [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
 - [Building Games with DragonRuby](https://book.dragonriders.community/)
 - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4)
 - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166)
+
+**DragonRuby community and reference:**
+
+- [Discord server](discord.dragonruby.org)
+- [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
+- [Scale](https://github.com/DragonRidersUnite/scale) template
 - [DragonRuby Zine, Issue 1](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
-- [Scale](https://github.com/DragonRidersUnite/scale) template
 - [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
 
 **Other Ruby game libraries:** [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
