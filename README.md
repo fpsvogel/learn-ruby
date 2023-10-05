@@ -65,7 +65,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 - **Guided practice:**
   - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - **OOP:**
-  - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) and
+  - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - **Build stuff with Ruby.** Here are some ideas:
   - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
@@ -83,7 +83,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - **Testing:**
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
-  - [x] [Upcase - Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd) and [Upcase - Test Doubles](https://thoughtbot.com/upcase/test-doubles)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
   - [x] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **Polishing up:**
@@ -363,8 +362,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
-- **Active Record:**
-  - [x] [Upcase - Advanced ActiveRecord Querying](https://thoughtbot.com/upcase/advanced-activerecord-querying)
 - **Rails views:**
   - [ ] [ViewComponent](https://viewcomponent.org)
   - [ ] [Phlex](https://www.phlex.fun)
