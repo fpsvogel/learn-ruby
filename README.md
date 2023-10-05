@@ -354,7 +354,6 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
   - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 - **Metaprogramming:**
-  - [ ] 💲[Metaprogramming Ruby](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/)
   - [ ] (upcoming) 💲[Joel Drapper - book on metaprogramming](https://ruby.social/@joeldrapper/109709614411147404)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
