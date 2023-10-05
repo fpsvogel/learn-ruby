@@ -100,18 +100,16 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 Here are some places where you can learn with others or ask questions when you get stuck.
 
+- **Communities:**
+  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
+  - [Code with Jason Meetup](https://www.codewithjason.com/meetup)
+- **Newsletters:**
+  - [Short Ruby](https://newsletter.shortruby.com/)
+  - [Ruby Weekly](https://rubyweekly.com/)
+  - [Ruby Radar](https://rubyradar.dev/)
 - **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
   - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor. It's not uncommon for someone to post asking if anyone is available to mentor, and these posts typically get quite a few replies from potential mentors.
-- **Communities:**
-  - [Code with Jason Meetup](https://www.codewithjason.com/meetup)
-  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
-  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
-  - [GoRails community on Discord](https://discord.gg/gorails)
-- **Subscribe to Ruby newsletters:** You can learn a lot by listening in on what the Ruby community is talking about.
-  - [Ruby Weekly](https://rubyweekly.com/)
-  - [Ruby Radar](https://rubyradar.dev/)
-  - [Short Ruby](https://newsletter.shortruby.com/)
 
 ## Fundamental tools
 
