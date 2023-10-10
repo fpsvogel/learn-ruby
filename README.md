@@ -30,7 +30,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
-  - [Rails architecture](#rails-architecture)
 - [Games in Ruby](#games-in-ruby)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Other resource lists](#other-resource-lists)
@@ -338,7 +337,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 ### Advanced Ruby
 
-- **Ruby reference:**
+- **Reference:**
   - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
@@ -354,15 +353,18 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 ### Advanced Rails
 
-- **Rails reference:**
+- **Reference:**
   - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
-- **Rails views:**
+- **Architecture:**
+  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+- **Views:**
   - [ ] [ViewComponent](https://viewcomponent.org)
   - [ ] [Phlex](https://www.phlex.fun)
     - [ ] ["Component Driven Development on Rails With Phlex"](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
-- **Rails performance:**
+- **Performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
@@ -371,41 +373,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 - **Authentication:**
   - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
   - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
-
-### Rails architecture
-
-A.K.A. *where the heck do I put my business logic / how can I keep my models from getting huge?*
-
-- **DDD (Domain-Driven Design):**
-  - [x] [Getting modules right with Domain-driven Design](https://www.youtube.com/watch?v=Q_0XW46IlHY)
-  - [ ] [Paweł Strzałkowski - DDD webinar, part 1](https://www.youtube.com/watch?v=94Atco5-tRQ), [part 2](https://www.youtube.com/watch?v=tUfc7t9JW-8), [part 3](https://www.youtube.com/watch?v=JTjHMQh-6jw), [part 4](https://www.youtube.com/watch?v=8TysidyIRbM), and [their Discord server](https://discord.com/invite/VjdrCYgYcK)
-  - [ ] [Paweł Strzałkowski - DDD blog posts](https://www.visuality.pl/posts/introduction-to-ddd-in-ruby-on-rails)
-  - [ ] [DDD Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
-  - [ ] [DDD Kata](https://github.com/SAP/curated-resources-for-domain-driven-design/blob/main/ddd-kata.md)
-  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **Other approaches:**
-  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] 💲[Ryan Bigg - Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] Try [contexts](https://nts.strzibny.name/business-logic-in-rails-with-contexts/), inspired by Phoenix
-  - [ ] Learn about the repository pattern: [article](https://engineering.solarisbank.com/the-repository-pattern-in-ruby-with-the-active-record-library-f0445fa282c), [talk](https://www.youtube.com/watch?v=36LB8bfEeVc)
-- **Browse the relevant gems:**
-  - [ ] [dry-transaction](https://dry-rb.org/gems/dry-transaction)
-  - [ ] [Interactor](https://github.com/collectiveidea/interactor)
-  - [ ] [Sequent](https://www.sequent.io/) - CQRS and event sourcing
-  - [ ] [Rails Event Store](https://github.com/RailsEventStore/rails_event_store) - for an event-driven architecture
-  - [ ] [Ventable](https://github.com/kigster/ventable) - a variation of the Observer design pattern
-  - [ ] [Wisper](https://github.com/krisleech/wisper) - the Publish-Subscribe design pattern
-  - [ ] [Packwerk](https://github.com/Shopify/packwerk) - to enforce boundaries and modularize Rails applications
-  - [ ] [gems related to Packwerk](https://github.com/rubyatscale)
-- **Review criticisms of the Active Record pattern:**
-  - [ ] [Bob Martin - Active Record vs. Objects](https://sites.google.com/site/unclebobconsultingllc/active-record-vs-objects)
-- **Review criticisms of service objects:**
-  - [ ] [Jorge Manrubia - "Vanilla Rails is plenty"](https://dev.37signals.com/vanilla-rails-is-plenty)
-  - [ ] [Jorge Manrubia - "Active Record, nice and blended"](https://dev.37signals.com/active-record-nice-and-blended/)
-  - [ ] [Jared White - "Why Service Objects are an Anti-Pattern"](https://www.fullstackruby.dev/object-orientation/rails/2018/03/06/why-service-objects-are-an-anti-pattern/)
-  - [ ] [Code with Jason #115](https://audio.buzzsprout.com/s73f2h4bgdux90r67nqq1e58h4hk?response-content-disposition=inline#t=882)
-  - [ ] [Alex Barret - ActiveModel: An alternative to service objects](https://alexbarret.com/blog/2020/service-object-alternative/)
-  - [ ] [Avdi Grimm - "Enough with the Service Objects Already"](https://avdi.codes/service-objects/)
 
 ## Games in Ruby
 
