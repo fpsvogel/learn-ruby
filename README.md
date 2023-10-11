@@ -28,10 +28,10 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Front end](#front-end)
   - [Web standards](#web-standards)
   - [Hotwire](#hotwire)
+- [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails codebases to study](#rails-codebases-to-study)
-- [Expanding my horizons](#expanding-my-horizons)
 
 ## Preliminaries
 
@@ -305,6 +305,39 @@ Here are some places where you can learn with others or ask questions when you g
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI)
 
+## Expanding my horizons
+
+- **Be a mentor:**
+  - [x] [Exercism](https://exercism.org/mentoring)
+  - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
+- **Computer science:**
+  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
+  - [ ] [NandGame](https://nandgame.com)
+  - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
+  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+  - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+- **Coding challenges:**
+  - [ ] [CodeWars](https://www.codewars.com)
+  - [ ] [Advent of Code](https://adventofcode.com/2022/events)
+  - [ ] [Project Euler](https://projecteuler.net/)
+  - [ ] Code katas: [Gilded Rose](https://github.com/knowndecimal/gilded_rose_kata), [awesome-katas](https://github.com/gamontal/awesome-katas), [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
+- **Design patterns:**
+  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  - [x] [Refactoring.Guru](https://refactoring.guru/)
+- **Monitoring:**
+  - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
+  - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- **Documentation**
+  - [ ] [Divio Documentation System](https://documentation.divio.com/)
+- **Learn Crystal:** Ruby spoiled me and now most other programming languages look ugly. But Crystal syntax was inspired by Ruby, so I want to give it a try.
+  - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
+  - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
+  - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
+  - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
+  - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
+
 ## Games in Ruby
 
 The minimalist route is to build a text-based game, [as I'm doing](https://fpsvogel.com/posts/2023/ruby-text-adventure-real-time-input).
@@ -400,36 +433,3 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
 - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
 - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
-
-## Expanding my horizons
-
-- **Be a mentor:**
-  - [x] [Exercism](https://exercism.org/mentoring)
-  - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
-- **Computer science:**
-  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
-  - [ ] [NandGame](https://nandgame.com)
-  - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
-  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
-  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-  - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
-  - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-- **Coding challenges:**
-  - [ ] [CodeWars](https://www.codewars.com)
-  - [ ] [Advent of Code](https://adventofcode.com/2022/events)
-  - [ ] [Project Euler](https://projecteuler.net/)
-  - [ ] Code katas: [Gilded Rose](https://github.com/knowndecimal/gilded_rose_kata), [awesome-katas](https://github.com/gamontal/awesome-katas), [another list](https://hackmd.io/@pierodibello/A-curated-list-of-programming-kata)
-- **Design patterns:**
-  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
-  - [x] [Refactoring.Guru](https://refactoring.guru/)
-- **Monitoring:**
-  - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
-  - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-- **Documentation**
-  - [ ] [Divio Documentation System](https://documentation.divio.com/)
-- **Learn Crystal:** Ruby spoiled me and now most other programming languages look ugly. But Crystal syntax was inspired by Ruby, so I want to give it a try.
-  - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
-  - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
-  - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
-  - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
-  - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
