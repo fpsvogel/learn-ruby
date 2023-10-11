@@ -191,7 +191,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
-  - [ ] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Views:**
   - [ ] [ViewComponent](https://viewcomponent.org)
