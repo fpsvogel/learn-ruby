@@ -23,13 +23,13 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
+- [Advanced Ruby and Rails](#advanced-ruby-and-rails)
+  - [Advanced Ruby](#advanced-ruby)
+  - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
   - [Web standards](#web-standards)
   - [Hotwire](#hotwire)
 - [Rails codebases to study](#rails-codebases-to-study)
-- [Advanced Ruby and Rails](#advanced-ruby-and-rails)
-  - [Advanced Ruby](#advanced-ruby)
-  - [Advanced Rails](#advanced-rails)
 - [Games in Ruby](#games-in-ruby)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Other resource lists](#other-resource-lists)
@@ -193,6 +193,47 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [IndieRails](https://www.indierails.com/)
   - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
+## Advanced Ruby and Rails
+
+### Advanced Ruby
+
+- **Reference:**
+  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
+  - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
+  - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
+- **Scripting:**
+  - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
+  - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
+  - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
+- **Concurrency:**
+  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
+  - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
+
+### Advanced Rails
+
+- **Reference:**
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [ ] [Rails API docs](https://api.rubyonrails.org/)
+- **Architecture:**
+  - [ ] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+- **Views:**
+  - [ ] [ViewComponent](https://viewcomponent.org)
+  - [ ] [Phlex](https://www.phlex.fun)
+    - [ ] ["Component Driven Development on Rails With Phlex"](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
+- **Performance:**
+  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
+- **Background jobs:**
+  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+- **Authentication:**
+  - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
+  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
+
 ## Front end
 
 ### Web standards
@@ -331,47 +372,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [ ] [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
 - [ ] [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
 - [ ] [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
-
-## Advanced Ruby and Rails
-
-### Advanced Ruby
-
-- **Reference:**
-  - [ ] Victor Shepelev (zverok) - [The Ruby Reference](https://rubyreferences.github.io/rubyref/) (Ruby 2.7) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (for Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
-  - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
-  - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
-- **Scripting:**
-  - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
-  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-  - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-  - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
-- **Concurrency:**
-  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
-  - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
-
-### Advanced Rails
-
-- **Reference:**
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
-  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Rails API docs](https://api.rubyonrails.org/)
-- **Architecture:**
-  - [ ] [Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **Views:**
-  - [ ] [ViewComponent](https://viewcomponent.org)
-  - [ ] [Phlex](https://www.phlex.fun)
-    - [ ] ["Component Driven Development on Rails With Phlex"](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
-- **Performance:**
-  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
-- **Background jobs:**
-  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
-- **Authentication:**
-  - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
 
 ## Games in Ruby
 
