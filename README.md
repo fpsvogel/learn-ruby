@@ -22,7 +22,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Git](#git)
   - [How the Internet works](#how-the-internet-works)
   - [Linux / command line](#linux--command-line)
-- [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
@@ -31,6 +30,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Hotwire](#hotwire)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Games in Ruby](#games-in-ruby)
+- [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Other resource lists](#other-resource-lists)
 
@@ -160,38 +160,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-
-## Ruby blogs, podcasts, screencasts
-
-- **Blogs:**
-  - [x] [Code with Jason](https://www.codewithjason.com/articles/)
-  - [ ] [Akshay's Blog](https://www.akshaykhot.com/start-here/)
-- **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
-  - [ ] [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
-  - [ ] [TypeFast](https://www.youtube.com/@typefastco/playlists)
-  - [ ] [Mix & Go](https://www.youtube.com/@mixandgo/playlists)
-  - [ ] [SupeRails](https://www.youtube.com/@SupeRails/playlists)
-  - [ ] [Justin Searls](https://www.youtube.com/@JustinSearls/playlists)
-  - [ ] [Web-Crunch](https://www.youtube.com/@Webcrunch/videos)
-  - [ ] [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
-- **Topical screencasts:**
-  - [ ] [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
-  - [x] 💲[GoRails](https://gorails.com)
-  - [x] 💲[Drifting Ruby](https://www.driftingruby.com)
-- **Podcasts:**
-  - [x] [Ruby for All](https://www.rubyforall.com/)
-  - [x] [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
-  - [ ] [Remote Ruby](https://remoteruby.transistor.fm/episodes)
-  - [ ] [Rooftop Ruby](https://www.rooftopruby.com)
-  - [ ] [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
-  - [ ] [The Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/)
-  - [ ] [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
-  - [ ] [Code with Jason](https://www.codewithjason.com/podcast)
-  - [ ] [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
-  - [ ] [The Rails Changelog](https://www.railschangelog.com/)
-  - [ ] [The Bike Shed](https://www.bikeshed.fm/)
-  - [ ] [IndieRails](https://www.indierails.com/)
-  - [ ] [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
 ## Advanced Ruby and Rails
 
@@ -395,6 +363,38 @@ For graphical games, I recommend 💲[DragonRuby Game Toolkit](https://dragonrub
 - [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
 
 **Other Ruby game libraries:** [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
+
+## Ruby blogs, podcasts, screencasts
+
+- **Blogs:** There are lots more out there; these are just my favorites.
+  - [Code with Jason](https://www.codewithjason.com/articles/)
+  - [Akshay's Blog](https://www.akshaykhot.com/start-here/)
+- **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
+  - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
+  - [TypeFast](https://www.youtube.com/@typefastco/playlists)
+  - [Mix & Go](https://www.youtube.com/@mixandgo/playlists)
+  - [SupeRails](https://www.youtube.com/@SupeRails/playlists)
+  - [Justin Searls](https://www.youtube.com/@JustinSearls/playlists)
+  - [Web-Crunch](https://www.youtube.com/@Webcrunch/videos)
+  - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
+- **Topical screencasts:**
+  - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
+  - 💲[GoRails](https://gorails.com)
+  - 💲[Drifting Ruby](https://www.driftingruby.com)
+- **Podcasts:**
+  - [Ruby for All](https://www.rubyforall.com/)
+  - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
+  - [Remote Ruby](https://remoteruby.transistor.fm/episodes)
+  - [Rooftop Ruby](https://www.rooftopruby.com)
+  - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
+  - [The Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/)
+  - [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
+  - [Code with Jason](https://www.codewithjason.com/podcast)
+  - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
+  - [The Rails Changelog](https://www.railschangelog.com/)
+  - [The Bike Shed](https://www.bikeshed.fm/)
+  - [IndieRails](https://www.indierails.com/)
+  - [Running in Production – Rails](https://runninginproduction.com/tags/rails)
 
 ## Expanding my horizons
 
