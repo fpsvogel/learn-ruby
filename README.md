@@ -32,7 +32,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
 - [Rails codebases to study](#rails-codebases-to-study)
 - [Expanding my horizons](#expanding-my-horizons)
-- [Other resource lists](#other-resource-lists)
 
 ## Preliminaries
 
@@ -434,11 +433,3 @@ If you want to explore more widely, here are other places to find open-source Ru
   - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
-
-## Other resource lists
-
-- [Back-End (Ruby) track at Turing School](https://backend.turing.edu/module1/)
-- [Teach Yourself CS](https://teachyourselfcs.com/)
-- [p1xt Computer Science and Programming](https://github.com/P1xt/p1xt-guides)
-- [Open Source Society University](https://github.com/ossu/computer-science)
-- [roadmap.sh](https://roadmap.sh/)
