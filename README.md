@@ -238,7 +238,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [CSSBattle](https://cssbattle.dev/)
 - **Accessibility:**
   - [ ] [Responsible Web Applications](https://responsibleweb.app/)
-  - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.)dev/learn/)
+  - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
   - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
 - **JavaScript:**
   - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) tutorials
