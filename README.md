@@ -207,6 +207,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
 - **Background jobs:**
   - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+  - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job) gem
 
 ## Front end
 
