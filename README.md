@@ -3,7 +3,7 @@
 
 Hi! As a second-career developer who didn't go through a bootcamp, I've found it helpful to keep a road map of learning resources—building my own curriculum, in a way. I hope this list helps you too!
 
-If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby-and-cs/issues/new).
+If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-ruby/issues/new).
 
 <!-- omit in toc -->
 ## Table of contents
@@ -122,7 +122,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
 - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-- [ ] [High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
+- [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
 - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
 - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
 - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
