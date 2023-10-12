@@ -252,7 +252,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
   - [ ] [Web Components Today](https://webcomponents.today/)
   - [ ] [Lit docs](https://lit.dev/)
-  - [ ] Build some UIs with [Shoelace](https://shoelace.style/), a web component UI library.
+  - [ ] Explore component libraries: [Shoelace](https://shoelace.style/), [Nord](https://nordhealth.design/components/)
   - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
   - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
   - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
