@@ -207,9 +207,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
 - **Background jobs:**
   - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
-- **Authentication:**
-  - [ ] [Steve Polito - Rails Authentication from Scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) and the derived [Rails MVP Authentication](https://github.com/stevepolitodesign/rails_mvp_authentication)
-  - [ ] [Lázaro Nixon - Authentication Zero](https://github.com/lazaronixon/authentication-zero)
 
 ## Front end
 
