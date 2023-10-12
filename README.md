@@ -145,6 +145,10 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+- [ ] Build a web server from scratch. Here are Ruby resources:
+  - [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html)
+  - [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails)
+  - [A Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 
 ### Linux / command line
 
