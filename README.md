@@ -269,6 +269,8 @@ Here are some places where you can learn with others or ask questions when you g
 - **UI and usability:**
   - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
   - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+  - [ ] [Growth.Design](https://growth.design/)
+  - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
   - [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
   - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
   - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
