@@ -348,7 +348,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 - **Documentation**
-  - [ ] [Divio Documentation System](https://documentation.divio.com/)
+  - [ ] [Divio Documentation System](https://documentation.divio.com/) (a.k.a. [Diataxis](https://diataxis.fr/))
 - **Learn Crystal:** Ruby spoiled me and now most other programming languages look ugly. But Crystal syntax was inspired by Ruby, so I want to give it a try.
   - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
   - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
