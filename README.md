@@ -223,10 +223,16 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
   - [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
   - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
+  - [ ] [CUBE CSS](https://cube.fyi)
+  - [ ] [Every Layout](https://every-layout.dev/)
+  - [ ] [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+  - [ ] [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
   - [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
   - [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
   - [ ] [CSS Naked Day](https://css-naked-day.github.io/)
   - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
+  - [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
+  - [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
 - **CSS games:**
   - [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
   - [ ] [Grid Critters](https://gridcritters.com/)
@@ -234,6 +240,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
   - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
   - [ ] [CSSBattle](https://cssbattle.dev/)
+- **Practice:**
+  - [ ] [Codewell](https://www.codewell.cc/)
+  - [ ] [Frontend Mentor](https://www.frontendmentor.io/)
+  - [ ] [Frontend Practice](https://www.frontendpractice.com/)
 - **Accessibility:**
   - [ ] [Responsible Web Applications](https://responsibleweb.app/)
   - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
