@@ -198,18 +198,14 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **Views:**
-  - [ ] [ViewComponent](https://viewcomponent.org)
-  - [ ] [Phlex](https://www.phlex.fun)
-    - [ ] ["Component Driven Development on Rails With Phlex"](https://fly.io/ruby-dispatch/component-driven-development-on-rails-with-phlex/)
+  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
 - **Performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
 - **Background jobs:**
-  - [ ] [Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
-  - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job) gem
+  - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+  - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 
 ## Front end
 
