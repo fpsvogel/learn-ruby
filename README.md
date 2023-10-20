@@ -364,11 +364,14 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
 - **Learn functional programming:**
   - [ ] [Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
+  - [ ] [Grokking Simplicity: Taming complex software with functional thinking](https://livebook.manning.com/book/grokking-simplicity)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
   - [ ] [Functional Programming in Haskell](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
   - [ ] [Codeworld - Haskell](https://code.world/haskell)
-  - [ ] [Real World Haskell](https://book.realworldhaskell.org/read/)
+  - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
+  - [ ] 💲[Algebra-Driven Design](https://leanpub.com/algebra-driven-design/)
+  - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 
 ## Games in Ruby
 
