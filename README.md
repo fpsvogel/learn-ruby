@@ -363,11 +363,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
 - **Learn functional programming:**
-  - [ ] [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+  - [ ] [Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
   - [ ] [Functional Programming in Haskell](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
-  - [ ] [Real World Haskell](https://book.realworldhaskell.org/read/)
   - [ ] [Codeworld - Haskell](https://code.world/haskell)
+  - [ ] [Real World Haskell](https://book.realworldhaskell.org/read/)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 
 ## Games in Ruby
