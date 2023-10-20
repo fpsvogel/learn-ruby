@@ -356,12 +356,19 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
 - **Documentation**
   - [ ] [Divio Documentation System](https://documentation.divio.com/) (a.k.a. [Diataxis](https://diataxis.fr/))
-- **Learn Crystal:** Ruby spoiled me and now most other programming languages look ugly. But Crystal syntax was inspired by Ruby, so I want to give it a try.
+- **Learn Crystal:** Whenever you need to make an isolated bit of Ruby code run faster than Ruby can run, porting it to Crystal is easy because they're so similar.
   - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
   - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
   - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
+- **Learn functional programming:**
+  - [ ] [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+  - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
+  - [ ] [Functional Programming in Haskell](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
+  - [ ] [Real World Haskell](https://book.realworldhaskell.org/read/)
+  - [ ] [Codeworld - Haskell](https://code.world/haskell)
+  - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 
 ## Games in Ruby
 
