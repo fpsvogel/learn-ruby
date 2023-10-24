@@ -217,6 +217,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
   - [ ] [htmlreference.io](https://htmlreference.io/)
 - **CSS:**
+  - [ ] 💲[The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau)
   - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
   - [ ] [cssreference.io](https://cssreference.io/)
   - [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
