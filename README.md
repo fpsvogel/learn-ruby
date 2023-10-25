@@ -90,6 +90,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **Get real-world experience to put on your resume:**
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
+  - Apply to become a member of [The Agency of Learning](https://agencyoflearning.com/).
 - **The job search:**
   - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
 
