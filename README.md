@@ -353,6 +353,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Design patterns:**
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
+  - [ ] [Thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
