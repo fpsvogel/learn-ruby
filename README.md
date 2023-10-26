@@ -288,7 +288,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [The Hotwire Club](https://hotwire.club/)
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-  - [ ] [Read the docs](https://hotwired.dev/)
+  - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
   - [ ] [Akshay Khot - A Brief Introduction to Hotwire](https://www.akshaykhot.com/introduction-to-hotwire/)
   - [ ] [Akshay Khot - You Don't Need Rails to Start Using Hotwire](https://www.akshaykhot.com/using-hotwire-without-rails/)
   - [ ] [Akshay Khot - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.akshaykhot.com/understanding-hotwire-turbo-streams/)
