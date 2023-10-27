@@ -289,9 +289,9 @@ Here are some places where you can learn with others or ask questions when you g
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
-  - [ ] [Akshay Khot - A Brief Introduction to Hotwire](https://www.akshaykhot.com/introduction-to-hotwire/)
-  - [ ] [Akshay Khot - You Don't Need Rails to Start Using Hotwire](https://www.akshaykhot.com/using-hotwire-without-rails/)
-  - [ ] [Akshay Khot - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.akshaykhot.com/understanding-hotwire-turbo-streams/)
+  - [ ] [Write Software, Well - A Brief Introduction to Hotwire](https://www.writesoftwarewell.com/introduction-to-hotwire/)
+  - [ ] [Write Software, Well - You Don't Need Rails to Start Using Hotwire](https://www.writesoftwarewell.com/using-hotwire-without-rails/)
+  - [ ] [Write Software, Well - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.writesoftwarewell.com/understanding-hotwire-turbo-streams/)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
@@ -405,7 +405,7 @@ For graphical games, I recommend 💲[DragonRuby Game Toolkit](https://dragonrub
 
 - **Blogs:** There are lots more out there; these are just my favorites.
   - [Code with Jason](https://www.codewithjason.com/articles/)
-  - [Akshay's Blog](https://www.akshaykhot.com/start-here/)
+  - [Write Software, Well](https://www.writesoftwarewell.com/)
   - [zverok on lucid code and open data](https://zverok.substack.com/)
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/)
   - [Noel Rappin's Blog](https://noelrappin.com/blog/)
