@@ -406,6 +406,7 @@ For graphical games, I recommend 💲[DragonRuby Game Toolkit](https://dragonrub
 - **Blogs:** There are lots more out there; these are just my favorites.
   - [Code with Jason](https://www.codewithjason.com/articles/)
   - [Akshay's Blog](https://www.akshaykhot.com/start-here/)
+  - [zverok on lucid code and open data](https://zverok.substack.com/)
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/)
   - [Noel Rappin's Blog](https://noelrappin.com/blog/)
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
