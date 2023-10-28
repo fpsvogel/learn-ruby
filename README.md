@@ -201,6 +201,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
   - [ ] [Litestack](https://github.com/oldmoe/litestack)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
+  - [ ] [Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
 - **Performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
