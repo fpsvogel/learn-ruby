@@ -186,7 +186,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
-  - [ ] [Hanami](https://hanamirb.org/) which will be easier to get started with once it hits 2.1. Example apps:
+  - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps:
     - [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks)
     - [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
     - [github.com/katafrakt/palaver](https://github.com/katafrakt/palaver)
