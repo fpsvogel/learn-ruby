@@ -371,12 +371,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://livebook.manning.com/book/grokking-simplicity)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
-  - [ ] [Functional Programming in Haskell](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
-  - [ ] [Codeworld - Haskell](https://code.world/haskell)
+  - [ ] [Codeworld](https://code.world) and [Codeworld - Haskell](https://code.world/haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
-  - [ ] 💲[Algebra-Driven Design](https://leanpub.com/algebra-driven-design/)
-  - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
+  - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) list with lots more books
   - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) for web app development
   - [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev
 
