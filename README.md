@@ -382,9 +382,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Games in Ruby
 
-The minimalist route is to build a text-based game, [as I'm doing](https://fpsvogel.com/posts/2023/ruby-text-adventure-real-time-input).
-
-For graphical games, I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has the liveliest community. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
+There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has the liveliest community. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
 
 **DragonRuby tutorials:**
 
