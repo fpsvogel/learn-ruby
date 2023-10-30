@@ -406,6 +406,7 @@ There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game T
   - [zverok on lucid code and open data](https://zverok.substack.com/)
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/)
   - [Noel Rappin's Blog](https://noelrappin.com/blog/)
+  - [Fullstack Ruby](https://www.fullstackruby.dev/articles)
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
   - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
   - [TypeFast](https://www.youtube.com/@typefastco/playlists)
