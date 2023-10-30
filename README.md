@@ -371,7 +371,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://livebook.manning.com/book/grokking-simplicity)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
-  - [ ] [Codeworld](https://code.world) and [Codeworld - Haskell](https://code.world/haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
   - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) list with lots more books
