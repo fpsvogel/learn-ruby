@@ -341,7 +341,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
   - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Coding challenges:**
-  - [ ] [CodeWars](https://www.codewars.com)
   - [ ] [Advent of Code](https://adventofcode.com/2022/events)
   - [ ] [Project Euler](https://projecteuler.net/)
   - [ ] Gilded Rose kata: tests [included](https://github.com/knowndecimal/gilded_rose_kata) or [not](https://github.com/emilybache/GildedRose-Refactoring-Kata), plus [Sandi Metz's talk](https://www.youtube.com/watch?v=8bZh5LMaSmE)
