@@ -38,7 +38,6 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 - **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
 - **If you're wondering why I chose Ruby** and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). And [here's a second opinion](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) by the founder of a bootcamp that teaches Ruby.
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
-- **Find a system for keeping *organized* notes**, code snippets, and bookmarked links. I use [a simple text file](https://fpsvogel.com/posts/2021/plain-text-knowledge-base).
 - **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read/study is not at all obvious at the beginning. Hence the focus on books and courses here.
 - **Last but not least, take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
 
@@ -62,7 +61,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] [The Well-Grounded Rubyist](https://livebook.manning.com/book/the-well-grounded-rubyist-third-edition) if you prefer an in-depth book. [Here's a discount code.](https://freecontent.manning.com/slideshare-ruby-for-everyone/)
 - **Guided practice:**
   - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
-- **OOP:**
+- **OOP (object-oriented programming):**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - **Build stuff with Ruby.** Here are some ideas:
@@ -90,7 +89,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **Get real-world experience to put on your resume:**
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
-  - Apply to become a member of [The Agency of Learning](https://agencyoflearning.com/).
+  - Apply to [The Agency of Learning](https://agencyoflearning.com/).
 - **The job search:**
   - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
 
@@ -107,7 +106,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Ruby Radar](https://rubyradar.dev/)
 - **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [The Rails subreddit](https://www.reddit.com/r/rails) is another good place to find a mentor. It's not uncommon for someone to post asking if anyone is available to mentor, and these posts typically get quite a few replies from potential mentors.
+  - [r/rails](https://www.reddit.com/r/rails) is worth trying too (examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/)).
 
 ## Fundamental tools
 
