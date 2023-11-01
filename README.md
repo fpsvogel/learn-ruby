@@ -198,7 +198,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
-  - [ ] [Litestack](https://github.com/oldmoe/litestack)
+  - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
   - [ ] [Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
 - **Performance:**
