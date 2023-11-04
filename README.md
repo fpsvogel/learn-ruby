@@ -423,6 +423,7 @@ There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game T
   - [Remote Ruby](https://remoteruby.transistor.fm/episodes)
   - [Rooftop Ruby](https://www.rooftopruby.com)
   - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
+  - [YAGNI](https://yagni.fm/)
   - [The Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/)
   - [The Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
   - [Code with Jason](https://www.codewithjason.com/podcast)
