@@ -456,18 +456,25 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
 - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
 - [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
+- [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate) (17k lines): *A lending library management system.*
+- [github.com/rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue) (19k lines): *Connects adopters/fosters with pets.*
+- [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme) (21k lines): *Mental health communication web app to share experiences with loved ones.*
 - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin) (25k lines): *RSS reader.*
 - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
 - [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
+- [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa) (37k lines): *Volunteer management system for the nonprofit CASA.*
+- [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) (39k lines): *An inventory management system for essentials supply banks.*
 - [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
 
 **Larger codebases:** More than 50k lines of Ruby code.
 
+- [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (56k lines): *Customer engagement suite. Has a Vue.js front end.*
 - [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
 - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
 - [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
 - [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
 - [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
+- [github.com/zammad/zammad](https://github.com/zammad/zammad) (250k lines): *Helpdesk/customer support system.*
 - [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
 - [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
 - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
