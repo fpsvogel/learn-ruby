@@ -35,7 +35,7 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 
 ## Preliminaries
 
-- **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
+- **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths) or (if you prefer videos) the GoRails [Learn Ruby on Rails Path](https://gorails.com/path). If you want more variety and more depth on certain topics, keep reading!
 - **If you're wondering why I chose Ruby** and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). And [here's a second opinion](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) by the founder of a bootcamp that teaches Ruby.
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
 - **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read/study is not at all obvious at the beginning. Hence the focus on books and courses here.
@@ -48,7 +48,8 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 ### Front-end basics
 
 - **Learn some HTML, CSS, and JavaScript:**
-  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations). Or if that doesn't click with you, try resources under ["Front end"](#front-end) below.
+  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or [GoRails - HTML for Beginners](https://gorails.com/series/html-for-beginners)
+    - If neither of those clicks with you, try resources under ["Front end"](#front-end) below.
 - **Build a blog from scratch:**
   - [x] [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
@@ -112,6 +113,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### SQL
 
+- [x] [GoRails - SQL for Beginners](https://gorails.com/series/sql-for-beginners)
 - [x] [SQL Teaching](https://www.sqlteaching.com)
 - [x] [SQLBolt](https://sqlbolt.com)
 - [x] [Select Star SQL](https://selectstarsql.com)
