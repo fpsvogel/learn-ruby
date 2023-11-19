@@ -166,7 +166,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
-- [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
 
 ## Advanced Ruby and Rails
 
@@ -210,6 +209,10 @@ Here are some places where you can learn with others or ask questions when you g
 - **Background jobs:**
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
   - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
+- **Deployment:**
+  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+  - [ ] 💲[The Docker Book](https://dockerbook.com/)
 
 ## Front end
 
