@@ -455,6 +455,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 **Small codebases:** Less than 50k lines of Ruby code.
 
 - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
+- [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) (6k lines): *Open source DocuSign alternative.*
 - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
 - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
 - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
@@ -466,6 +467,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme) (21k lines): *Mental health communication web app to share experiences with loved ones.*
 - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin) (25k lines): *RSS reader.*
 - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
+- [github.com/huginn/huginn](https://github.com/huginn/huginn) (36k lines): *Web task automation.*
 - [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
 - [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa) (37k lines): *Volunteer management system for the nonprofit CASA.*
 - [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) (39k lines): *An inventory management system for essentials supply banks.*
@@ -483,5 +485,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 - [github.com/zammad/zammad](https://github.com/zammad/zammad) (250k lines): *Helpdesk/customer support system.*
 - [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
 - [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
+- [github.com/opf/openproject](https://github.com/opf/openproject) (368k lines): *Project management software.*
 - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
 - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
