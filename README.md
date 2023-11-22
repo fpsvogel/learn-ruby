@@ -59,7 +59,6 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
   - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos.
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
-  - [x] 💲[The Well-Grounded Rubyist](https://livebook.manning.com/book/the-well-grounded-rubyist-third-edition) if you prefer an in-depth book. [Here's a discount code.](https://freecontent.manning.com/slideshare-ruby-for-everyone/)
 - **Guided practice:**
   - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - **OOP (object-oriented programming):**
