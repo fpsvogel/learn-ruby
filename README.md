@@ -123,6 +123,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
 - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
 - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+- [x] [Scaling PostgreSQL newsletter](https://www.scalingpostgres.com/)
 - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
 - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
