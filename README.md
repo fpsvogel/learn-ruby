@@ -334,8 +334,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Exercism](https://exercism.org/mentoring)
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
-  - [ ] [The Software Engineer's Guidebook](https://www.engguidebook.com)
-  - [ ] [The Tech Resume Inside Out](https://thetechresume.com/)
+  - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+  - 💲[ ] [The Software Engineer's Guidebook](https://www.engguidebook.com)
+  - 💲[ ] [The Tech Resume Inside Out](https://thetechresume.com/)
 - **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
