@@ -80,6 +80,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - **Testing:**
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/)
+  - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications)
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
   - [x] 💲[The Minitest Cookbook](https://chriskottom.com/minitestcookbook)
 - **Polishing up:**
@@ -127,7 +128,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
 - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
-- [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at Thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+- [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
 - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
 - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
@@ -138,7 +139,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
 - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
-- [x] [Thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+- [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 - [ ] [Pro Git](https://git-scm.com/book)
 - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
@@ -362,7 +363,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Design patterns:**
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
   - [x] [Refactoring.Guru](https://refactoring.guru/)
-  - [ ] [Thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
+  - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
