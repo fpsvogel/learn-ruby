@@ -266,6 +266,15 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
   - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
   - [ ] [JavaScript30](https://javascript30.com/) for practice
+  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
+- **Functional JavaScript:**
+  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
+  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
+  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
 - **Web components:**
   - [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
   - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
