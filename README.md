@@ -491,6 +491,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 **Larger codebases:** More than 50k lines of Ruby code.
 
+- [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) (50k lines): *Wikipedia course dashboard system. Has a React front end.*
 - [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (56k lines): *Customer engagement suite. Has a Vue.js front end.*
 - [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
 - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
