@@ -348,8 +348,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Exercism](https://exercism.org/mentoring)
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
+  - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/)
   - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+  - [ ] [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
   - [ ] 💲[The Software Engineer's Guidebook](https://www.engguidebook.com)
+  - [ ] 💲[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
 - **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
