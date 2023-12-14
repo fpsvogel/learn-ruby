@@ -266,7 +266,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
   - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
   - [ ] [JavaScript30](https://javascript30.com/) for practice
-  - [ ] 💲[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
   - [ ] 💲[Just JavaScript](https://justjavascript.com/)
 - **Functional JavaScript:**
