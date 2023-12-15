@@ -298,6 +298,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
   - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
   - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
+  - [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 ### Hotwire
 
