@@ -35,11 +35,11 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
 
 ## Preliminaries
 
-- **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths) or (if you prefer videos) the GoRails [Learn Ruby on Rails Path](https://gorails.com/path). If you want more variety and more depth on certain topics, keep reading!
-- **If you're wondering why I chose Ruby** and not full-stack JavaScript, [I explain why on my blog](https://fpsvogel.com/posts/2021/why-learn-ruby). And [here's a second opinion](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba) by the founder of a bootcamp that teaches Ruby.
+- **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
+- **Why did I chose Ruby?** At first I went for full-stack JavaScript, but the JS ecosystem was confusing to me as a beginner. So I tried some others, and found Ruby to be the most enjoyable.
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
-- **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy (if you can't think of any project ideas, try these lists: [1](https://github.com/codecrafters-io/build-your-own-x), [2](https://github.com/practical-tutorials/project-based-learning#ruby), [3](https://projectbook.code.brettchalupa.com)), whereas knowing what to read/study is not at all obvious at the beginning. Hence the focus on books and courses here.
-- **Last but not least, take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try using a break app such as [Workrave](https://workrave.org/).
+- **You should spend more time *coding* than *reading about* coding**. I mention this because below I list lots of books and courses but not many hands-on projects. Why? Because starting a project and getting into a coding routine is easy, whereas knowing what to read/study is not obvious at first. Hence the focus on books and courses here.
+- **Take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, act swiftly: get an ergonomic keyboard ([the one I use](https://fpsvogel.com/posts/2021/keyboardio-atreus) has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try a break app such as [Workrave](https://workrave.org/).
 
 Without further ado, here is my learning road map. Resources marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 
@@ -65,9 +65,10 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
 - **Build stuff with Ruby.** Here are some ideas:
-  - [x] A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
-  - [x] A game. See the [Games in Ruby](#games-in-ruby) section.
-  - [x] A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
+  - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned).
+  - A game. See the [Games in Ruby](#games-in-ruby) section.
+  - A site using [Bridgetown](https://github.com/bridgetownrb/bridgetown). Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies.
+  - More ideas: [Coding Challenges](https://codingchallenges.fyi/), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby)
 - **Reference:**
   - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example "rb partition" would take you to https://rubyapi.org/3.2/o/s?q=partition
 
