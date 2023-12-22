@@ -410,8 +410,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
   - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) list with lots more books
-  - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) for web app development
+  - [ ] [Obelisk](https://github.com/obsidiansystems/obelisk) is a web app framework in which the front end is written in Haskell too.
+  - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) are more traditional web app frameworks.
   - [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev
+  - [ ] [PureScript](https://www.purescript.org/) for functional programming on the front end.
 
 ## Games in Ruby
 
