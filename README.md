@@ -278,13 +278,11 @@ Here are some places where you can learn with others or ask questions when you g
 - **Web components:**
   - [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
   - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
-  - [ ] [Web components section](https://javascript.info/web-components) in the Modern JavaScript Tutorial
+  - [ ] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+  - [ ] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
   - [ ] [Web Components Today](https://webcomponents.today/)
-  - [ ] [Lit docs](https://lit.dev/)
-  - [ ] Explore component libraries: [Shoelace](https://shoelace.style/), [Nord](https://nordhealth.design/components/)
-  - [ ] Read [the Shoelace source code](https://github.com/shoelace-style/shoelace)
-  - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
   - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
+  - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
   - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
 
 ### UI and usability
