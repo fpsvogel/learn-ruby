@@ -26,7 +26,11 @@ The "not done" sections (currently "Fundamental tools" and below) are somewhat c
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
-  - [Web standards](#web-standards)
+  - [HTML and CSS](#html-and-css)
+  - [JS](#js)
+  - [UI and usability](#ui-and-usability)
+  - [Accessibility](#accessibility)
+  - [Front-end practice](#front-end-practice)
   - [Hotwire](#hotwire)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
@@ -222,7 +226,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Front end
 
-### Web standards
+### HTML and CSS
 
 - **HTML:**
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
@@ -252,14 +256,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
   - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
   - [ ] [CSSBattle](https://cssbattle.dev/)
-- **Practice:**
-  - [ ] [Codewell](https://www.codewell.cc/)
-  - [ ] [Frontend Mentor](https://www.frontendmentor.io/)
-  - [ ] [Frontend Practice](https://www.frontendpractice.com/)
-- **Accessibility:**
-  - [ ] [Responsible Web Applications](https://responsibleweb.app/)
-  - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
-  - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
+
+### JS
+
 - **JavaScript:**
   - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
@@ -287,19 +286,33 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Fullstack Web Components: Complete Guide to Building UI Libraries with Web Components](https://www.newline.co/courses/fullstack-web-components)
   - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
   - [ ] Experiment using [Turbo](https://turbo.hotwired.dev/) to drive front-end behavior: *"Turbo 7.2.0 (currently in beta) allows you to define your own Stream actions which can be any JS code you want. By combining a custom Stream action or two with web components, you can essentially drive reactive frontend behavior from the backend stupidly easily. Loooove it! 😍 […] For a turnkey example, you could check out https://github.com/hopsoft/turbo_ready "* —Jared White on [The Spicy Web](https://discord.com/channels/811491992285741077/811493083068760104/1019024338042761297) Discord
-- **UI and usability:**
-  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
-  - [ ] [Growth.Design](https://growth.design/)
-  - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
-  - [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
-  - [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
-  - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
-  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
-  - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
-  - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
-  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
-  - [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
+
+### UI and usability
+
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+- [ ] [Growth.Design](https://growth.design/)
+- [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
+- [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
+- [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+- [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
+- [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+- [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
+- [ ] 💲[Master UI Design](https://www.masteruibook.com/)
+- [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
+- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
+
+### Accessibility
+
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
+- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
+- [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
+
+### Front-end practice
+
+- [ ] [Codewell](https://www.codewell.cc/)
+- [ ] [Frontend Mentor](https://www.frontendmentor.io/)
+- [ ] [Frontend Practice](https://www.frontendpractice.com/)
 
 ### Hotwire
 
