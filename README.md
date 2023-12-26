@@ -260,14 +260,20 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### JS
 
-- **JavaScript:**
-  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **JS basics:**
+  - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript) for practice
+  - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
   - [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-  - [ ] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [ ] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
-  - [ ] [The Modern JavaScript Tutorial](https://javascript.info/)
+  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
+  - [ ] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
+- **Forms:**
+  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
+- **JS deep dive:**
   - [ ] [JavaScript30](https://javascript30.com/) for practice
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
   - [ ] 💲[Just JavaScript](https://justjavascript.com/)
 - **Functional JavaScript:**
@@ -303,6 +309,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Accessibility
 
+- [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
