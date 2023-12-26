@@ -489,6 +489,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 **Small codebases:** Less than 50k lines of Ruby code.
 
+- [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad) (2k lines): *App for managing job prospecting.*
 - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
 - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) (6k lines): *Open source DocuSign alternative.*
 - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
