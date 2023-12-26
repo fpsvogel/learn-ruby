@@ -446,6 +446,7 @@ There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game T
   - [zverok on lucid code and open data](https://zverok.substack.com/)
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
   - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
+  - [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
   - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
   - [Justin Searls](https://www.youtube.com/@JustinSearls/playlists)
   - [Mix & Go](https://www.youtube.com/@mixandgo/playlists)
