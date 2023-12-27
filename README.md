@@ -260,23 +260,25 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### JS
 
-- **JS basics:**
-  - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript) for practice
+- **Basics:**
   - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
-  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ ] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
-- **Forms:**
+- **Practice:**
+  - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
+  - [ ] [JavaScript30](https://javascript30.com/)
+- **DOM and forms:**
+  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
-- **JS deep dive:**
-  - [ ] [JavaScript30](https://javascript30.com/) for practice
+- **Going deeper:**
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
   - [ ] 💲[Just JavaScript](https://justjavascript.com/)
-- **Functional JavaScript:**
+- **Functional JS:**
   - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
   - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
   - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
