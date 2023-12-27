@@ -263,9 +263,9 @@ Here are some places where you can learn with others or ask questions when you g
 - **JS basics:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript) for practice
   - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [ ] [The Odin Project - JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
-  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
+  - [ ] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ ] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
 - **Forms:**
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
