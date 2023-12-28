@@ -211,6 +211,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
+- **Views:**
+  - [ ] [Phlex](https://github.com/phlex-ruby) and tools based on it, such as [Superform](https://github.com/rubymonolith/superform).
+  - [ ] [Glimmer](https://github.com/AndyObtiva/glimmer) for Opal and for Web. See [the RubyConf 2023 workshop](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby/tree/rubyconf2023) and [sample apps](https://github.com/AndyObtiva?tab=repositories&q=sample+glimmer+app).
 - **Performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
