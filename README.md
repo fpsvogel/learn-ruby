@@ -64,7 +64,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://d2i2nj5el4wq1j.cloudfront.net/assets/logo-square-4991bf3ca2f693e197dea82ce6d287f10cfbc229f7ac3ad19d1619f030b77266.png -->
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby) if you prefer an interactive approach.
 - **Guided practice:**
-  - [x] [Exercism](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
+  - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)).
 - **OOP (object-oriented programming):**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com)
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby)
@@ -409,11 +409,12 @@ Here are some places where you can learn with others or ask questions when you g
 - **Learn Crystal:** Whenever you need to make an isolated bit of Ruby code run faster than Ruby can run, porting it to Crystal is easy because they're so similar.
   - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
   - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
-  - [ ] [Crystal on Exercism](https://exercism.org/tracks/crystal)
+  - [ ] [Exercism - Crystal](https://exercism.org/tracks/crystal)
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
 - **Learn functional programming:**
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
+  - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
