@@ -115,43 +115,46 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### SQL
 
-- [x] [GoRails - SQL for Beginners](https://gorails.com/series/sql-for-beginners)
-- [x] [SQL Teaching](https://www.sqlteaching.com)
-- [x] [SQLBolt](https://sqlbolt.com)
-- [x] [Select Star SQL](https://selectstarsql.com)
-- [ ] [SQL Murder Mystery](https://mystery.knightlab.com/)
-- [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-- [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
-- [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
-- [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-- [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
-- [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- [x] [Scaling PostgreSQL newsletter](https://www.scalingpostgres.com/)
-- [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-- [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
-- [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
-- [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-- [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
-- [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+- **Basics:**
+  - [x] [SQL Teaching](https://www.sqlteaching.com)
+  - [x] [SQLBolt](https://sqlbolt.com)
+  - [x] [Select Star SQL](https://selectstarsql.com)
+  - [x] [SQL Murder Mystery](https://mystery.knightlab.com/)
+  - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- **Advanced:**
+  - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook)
+  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
+  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
+  - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
+  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+- **Advanced (PostgreSQL):**
+  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+  - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
+  - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
+  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+  - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
+  - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
 ### Git
 
-- [x] [Oh My Git!](https://ohmygit.org/)
-- [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
-- [x] [Git Katas](https://github.com/eficode-academy/git-katas)
-- [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
-- [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
-- [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-- [ ] [Pro Git](https://git-scm.com/book)
-- [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
+- **Basics:**
+  - [x] [Oh My Git!](https://ohmygit.org/)
+  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
+  - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE)
+  - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- **Advanced:**
+  - [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - [ ] [Pro Git](https://git-scm.com/book)
+  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
 ### How the Internet works
 
+- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
 - [ ] [Computer Networks from Scratch](https://www.networksfromscratch.com) (WIP, and possibly abandoned because Ch. 5 has been "coming soon" for a year now)
-- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
 - [ ] [MDN Web Doc on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm)
+- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 - [ ] Build a web server from scratch. Here are Ruby resources:
   - [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html)
