@@ -51,11 +51,8 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 
 ### Front-end basics
 
-- **Learn some HTML, CSS, and JavaScript:**
-  - [x] [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or [GoRails - HTML for Beginners](https://gorails.com/series/html-for-beginners)
-    - If neither of those clicks with you, try resources under ["Front end"](#front-end) below.
-- **Build a blog from scratch:**
-  - [x] [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
+- [x] Learn some HTML, CSS, and JS with [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below.
+- [x] Build a blog from scratch. [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
 
