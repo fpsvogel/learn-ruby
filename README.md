@@ -102,14 +102,14 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Communities:**
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/)
-  - [Code with Jason Meetup](https://www.codewithjason.com/meetup)
+  - [StimulusReflex community on Discord](https://discord.gg/stimulus-reflex), which has general Ruby and Rails channels too.
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/)
   - [Ruby Weekly](https://rubyweekly.com/)
   - [Ruby Radar](https://rubyradar.dev/)
-- **Mentorship:** I got mentorship about a year after starting with Rails, but you may benefit from it earlier.
+- **Mentorship:**
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor.
-  - [r/rails](https://www.reddit.com/r/rails) is worth trying too (examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/)).
+  - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/).
 
 ## Fundamental tools
 
