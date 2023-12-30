@@ -271,10 +271,11 @@ Here are some places where you can learn with others or ask questions when you g
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [JavaScript30](https://javascript30.com/)
-- **DOM and forms:**
+- **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
+  - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - **Going deeper:**
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
