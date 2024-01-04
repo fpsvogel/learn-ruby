@@ -396,6 +396,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] Gilded Rose kata: tests [included](https://github.com/knowndecimal/gilded_rose_kata) or [not](https://github.com/emilybache/GildedRose-Refactoring-Kata), plus [Sandi Metz's talk](https://www.youtube.com/watch?v=8bZh5LMaSmE)
   - [ ] [Exercises at cyber-dojo](https://cyber-dojo.org/creator/choose_problem) (or see [the source code](https://github.com/cyber-dojo/exercises-start-points/tree/main/start-points))
   - [ ] [Kata compiled by Emily Bache](https://github.com/emilybache?tab=repositories&sort=stargazers)
+  - [ ] [Kata at Samman Coaching](https://sammancoaching.org/kata_descriptions/index.html)
   - [ ] [Kata at Coding Dojo](https://codingdojo.org/kata/)
   - [ ] [Kata at CodeKata](http://codekata.com/)
   - [ ] Kata by Luca Minudel: [Refactoring legacy code driven by tests](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises#readme), [Tensions and synergies between design principles](https://github.com/lucaminudel/tensions_and_synergies_between_design_principles/blob/master/README.md), [Objects relationships](https://github.com/lucaminudel/Objects-relationships-Coding-Dojo/blob/master/README.md)
