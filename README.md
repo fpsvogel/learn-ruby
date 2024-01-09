@@ -506,6 +506,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 
 **Small codebases:** Less than 50k lines of Ruby code.
 
+- [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) (<2k lines): *Extracts from the Basecamp and Hey code bases.*
 - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad) (2k lines): *App for managing job prospecting.*
 - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
 - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) (6k lines): *Open source DocuSign alternative.*
