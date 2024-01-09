@@ -194,10 +194,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
-  - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps:
-    - [github.com/decafsucks/decafsucks](https://github.com/decafsucks/decafsucks)
-    - [github.com/bkuhlmann/hemo](https://github.com/bkuhlmann/hemo)
-    - [github.com/katafrakt/palaver](https://github.com/katafrakt/palaver)
+  - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
 
 ### Advanced Rails
 
