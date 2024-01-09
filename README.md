@@ -280,6 +280,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Going deeper:**
   - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
+  - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
   - [ ] 💲[Just JavaScript](https://justjavascript.com/)
 - **Functional JS:**
