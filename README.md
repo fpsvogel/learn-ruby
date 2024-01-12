@@ -274,6 +274,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- **React:**
+  - [ ] [React "Learn" docs](https://react.dev/learn)
+  - [ ] 💲[Pure React](https://www.purereact.com/)
+  - [ ] 💲[Road to React](https://www.roadtoreact.com/)
 - **Going deeper:**
   - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) *(TODO: read the last three parts after they're finished)*
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
