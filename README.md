@@ -275,7 +275,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - **Going deeper:**
-  - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) *(TODO: read the last three parts after they're finished)*
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
   - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
