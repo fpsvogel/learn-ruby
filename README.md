@@ -264,7 +264,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [ ] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
+  - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [JavaScript Katas](https://jskatas.org/katas)
@@ -275,7 +275,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - **React:**
-  - [ ] [React "Learn" docs](https://react.dev/learn)
+  - [x] [React "Learn" docs](https://react.dev/learn)
 - **Going deeper:**
   - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) *(TODO: read the last three parts after they're finished)*
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -289,7 +289,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
 - **Web components:**
-  - [ ] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
+  - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
   - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
   - [ ] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
   - [ ] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
