@@ -288,7 +288,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
 - **Web components:**
   - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
-  - [ ] [Dave Rupert - HTML with Superpowers: The Guidebook](https://daverupert.com/2023/01/html-with-superpowers-the-guidebook/) or 💲[the course version](https://frontendmasters.com/courses/web-components/)
   - [ ] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
   - [ ] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
   - [ ] [Web Components Today](https://webcomponents.today/)
