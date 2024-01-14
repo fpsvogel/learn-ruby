@@ -280,8 +280,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) *(TODO: read the last three parts after they're finished)*
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
-  - [ ] 💲[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-  - [ ] 💲[Just JavaScript](https://justjavascript.com/)
 - **Functional JS:**
   - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
   - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
