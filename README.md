@@ -288,8 +288,8 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
 - **Web components:**
   - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
-  - [ ] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
-  - [ ] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
+  - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
+  - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
   - [ ] [Web Components Today](https://webcomponents.today/)
   - [ ] Build a UI following [Jared White - How Ruby and Web Components Can Work Together](https://www.fullstackruby.dev/fullstack-development/2022/01/04/how-ruby-web-components-work-together/)
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
