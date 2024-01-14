@@ -228,6 +228,8 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### HTML and CSS
 
+- **Community:**
+  - [The Spicy Web community on Discord](https://discord.com/invite/CUuYVH7Qa9)
 - **HTML:**
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
