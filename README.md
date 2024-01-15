@@ -286,8 +286,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
   - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
   - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-  - [ ] [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) videos
-  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming/9781839213069)
+  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
   - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
