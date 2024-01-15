@@ -269,7 +269,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
-  - [ ] [JavaScript30](https://javascript30.com/)
+  - [ ] Build something in JS, or do [JavaScript30](https://javascript30.com/)
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -290,6 +290,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+  - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
 
 ### UI and usability
