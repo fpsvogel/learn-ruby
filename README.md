@@ -269,7 +269,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
-  - [ ] [JavaScript Katas](https://jskatas.org/katas)
   - [ ] [JavaScript30](https://javascript30.com/)
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
