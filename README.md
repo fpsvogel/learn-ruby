@@ -51,7 +51,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 
 ### Front-end basics
 
-- [x] Learn some HTML, CSS, and JS with [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below.
+- [x] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below.
 - [x] Build a blog from scratch. [Here's the first iteration of my blog](https://fpsvogel-2020.netlify.app), and [here's how I built it](https://fpsvogel.com/posts/2020/zs). Building a blog is not only a good exercise in itself, but it might also give you extra motivation to write about what you learn.
 
 ### Ruby basics
@@ -92,7 +92,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **Get real-world experience to put on your resume:**
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails).
-  - Apply to [The Agency of Learning](https://agencyoflearning.com/).
+  - [Apply to The Agency of Learning](https://agencyoflearning.com/).
 - **The job search:**
   - [Notes on my job search in 2021-2022](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job)
 
@@ -379,7 +379,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
   - [ ] [NandGame](https://nandgame.com)
-  - [x] *From Nand to Tetris* course ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
+  - [x] *From Nand to Tetris* course: ([Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)), optionally with the textbook 💲[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition)
   - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
   - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
   - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -404,7 +404,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-- **Documentation**
+- **Documentation:**
   - [ ] [Divio Documentation System](https://documentation.divio.com/) (a.k.a. [Diataxis](https://diataxis.fr/))
 - **Learn Crystal:** Whenever you need to make an isolated bit of Ruby code run faster than Ruby can run, porting it to Crystal is easy because they're so similar.
   - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
@@ -426,7 +426,13 @@ Here are some places where you can learn with others or ask questions when you g
 
 ## Games in Ruby
 
-There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) because it has the liveliest community. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
+**Ruby game libraries:**
+
+- 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
+- [Ruby 2D](https://www.ruby2d.com/)
+- [Gosu](https://www.libgosu.org/)
+- [MiniGL](https://github.com/victords/minigl)
+- [Taylor](https://taylor.oequacki.com/)
 
 **DragonRuby tutorials:**
 
@@ -442,8 +448,6 @@ There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game T
 - [DragonRuby Zine, Issue 1](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
 - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
 - [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
-
-**Other Ruby game libraries:** [Ruby 2D](https://www.ruby2d.com/), [Gosu](https://www.libgosu.org/), [MiniGL](https://github.com/victords/minigl), [Taylor](https://taylor.oequacki.com/).
 
 ## Ruby blogs, podcasts, screencasts
 
@@ -487,53 +491,53 @@ There are several game libraries in Ruby, but I recommend 💲[DragonRuby Game T
 
 I've chosen the codebases below based on a these criteria:
 
-- Is active, with recent commits.
-- Does not use a JS framework on the front end, though I made exceptions.
-- Is well-known *or* it solves a problem that's interesting to me.
+* Is active, with recent commits.
+* Does not use a JS framework on the front end, though I made exceptions.
+* Is well-known *or* it solves a problem that's interesting to me.
 
 If you want to explore more widely, here are other places to find open-source Ruby projects:
 
-- [OpenSourceRails](https://opensourcerails.org/)
-- [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
-- [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
-- [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
+* [OpenSourceRails](https://opensourcerails.org/)
+* [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
+* [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
+* [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
 
 **Small codebases:** Less than 50k lines of Ruby code.
 
-- [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) (<2k lines): *Extracts from the Basecamp and Hey code bases.*
-- [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad) (2k lines): *App for managing job prospecting.*
-- [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) (5k lines): *CMS (Content Management System).*
-- [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) (6k lines): *Open source DocuSign alternative.*
-- [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) (6k lines): *Issue tracker for open-source projects.*
-- [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) (12k lines): *The reverse job board for Ruby on Rails developers.*
-- [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) (12k lines): *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
-- [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) (13k lines): *Hacker News clone.*
-- [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) (14k lines): *Learning platform for developers.*
-- [github.com/houndci/hound](https://github.com/houndci/hound) (14k lines): *Automated code review for GitHub PRs.*
-- [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate) (17k lines): *A lending library management system.*
-- [github.com/rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue) (19k lines): *Connects adopters/fosters with pets.*
-- [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme) (21k lines): *Mental health communication web app to share experiences with loved ones.*
-- [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin) (25k lines): *RSS reader.*
-- [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (26k lines): *Where Ruby gems are hosted.*
-- [github.com/huginn/huginn](https://github.com/huginn/huginn) (36k lines): *Web task automation.*
-- [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms) (36k lines): *CMS (Content Management System).*
-- [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa) (37k lines): *Volunteer management system for the nonprofit CASA.*
-- [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) (39k lines): *An inventory management system for essentials supply banks.*
-- [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign) (39k lines): *Digital campaigning platform. A Rails app generator.*
+- [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey code bases.*
+- [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
+- [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 5k lines. *CMS (Content Management System).*
+- [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal). 6k lines. *Open source DocuSign alternative.*
+- [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
+- [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 12k lines. *The reverse job board for Ruby on Rails developers.*
+- [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 12k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+- [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 13k lines. *Hacker News clone.*
+- [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
+- [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
+- [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 17k lines. *A lending library management system.*
+- [github.com/rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue). 19k lines. *Connects adopters/fosters with pets.*
+- [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme). 21k lines. *Mental health communication web app to share experiences with loved ones.*
+- [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin). 25k lines. *RSS reader.*
+- [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org). 26k lines. *Where Ruby gems are hosted.*
+- [github.com/huginn/huginn](https://github.com/huginn/huginn). 36k lines. *Web task automation.*
+- [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms). 36k lines. *CMS (Content Management System).*
+- [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa). 37k lines. *Volunteer management system for the nonprofit CASA.*
+- [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials). 39k lines. *An inventory management system for essentials supply banks.*
+- [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign). 39k lines. *Digital campaigning platform. A Rails app generator.*
 
 **Larger codebases:** More than 50k lines of Ruby code.
 
-- [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) (50k lines): *Wikipedia course dashboard system. Has a React front end.*
-- [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) (56k lines): *Customer engagement suite. Has a Vue.js front end.*
-- [github.com/solidusio/solidus](https://github.com/solidusio/solidus) (72k lines): *E-commerce platform.*
-- [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) (75k lines): *Like Twitter but self-hosted and federated.*
-- [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) (102k lines): *An online marketplace for local food.*
-- [github.com/forem/forem](https://github.com/forem/forem) (103k lines): *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
-- [github.com/redmine/redmine](https://github.com/redmine/redmine) (117k lines): *Project management app.*
-- [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) (117k lines): *Publishes government content on [gov.uk](https://www.gov.uk/).*
-- [github.com/zammad/zammad](https://github.com/zammad/zammad) (250k lines): *Helpdesk/customer support system.*
-- [github.com/decidim/decidim](https://github.com/decidim/decidim) (288k lines): *The participatory democracy framework.*
-- [github.com/discourse/discourse](https://github.com/discourse/discourse) (322k lines): *Discussion forum platform. Has an Ember.js front end.*
-- [github.com/opf/openproject](https://github.com/opf/openproject) (368k lines): *Project management software.*
-- [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) (745k lines): *A popular LMS (learning management system).*
-- [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (1.8 million lines): *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
+- [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard). 50k lines. *Wikipedia course dashboard system. Has a React front end.*
+- [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot). 56k lines. *Customer engagement suite. Has a Vue.js front end.*
+- [github.com/solidusio/solidus](https://github.com/solidusio/solidus). 72k lines. *E-commerce platform.*
+- [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon). 75k lines. *Like Twitter but self-hosted and federated.*
+- [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork). 102k lines. *An online marketplace for local food.*
+- [github.com/forem/forem](https://github.com/forem/forem). 103k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
+- [github.com/redmine/redmine](https://github.com/redmine/redmine). 117k lines. *Project management app.*
+- [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall). 117k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
+- [github.com/zammad/zammad](https://github.com/zammad/zammad). 250k lines. *Helpdesk/customer support system.*
+- [github.com/decidim/decidim](https://github.com/decidim/decidim). 288k lines. *The participatory democracy framework.*
+- [github.com/discourse/discourse](https://github.com/discourse/discourse). 322k lines. *Discussion forum platform. Has an Ember.js front end.*
+- [github.com/opf/openproject](https://github.com/opf/openproject). 368k lines. *Project management software.*
+- [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms). 745k lines. *A popular LMS (learning management system).*
+- [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 1.8 million lines. *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
