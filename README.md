@@ -404,8 +404,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
 - **Learn functional programming:**
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
-  - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
+  - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
+  - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
   - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) list with lots more books
