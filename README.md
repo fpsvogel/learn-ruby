@@ -448,6 +448,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/)
   - [Fullstack Ruby](https://www.fullstackruby.dev/articles)
   - [Noel Rappin's Blog](https://noelrappin.com/blog/)
+  - [One Ruby Question](https://buttondown.email/bhumi/archive/)
   - [Write Software, Well](https://www.writesoftwarewell.com/)
   - [zverok on lucid code and open data](https://zverok.substack.com/)
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
