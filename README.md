@@ -193,6 +193,8 @@ Here are some places where you can learn with others or ask questions when you g
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
+- **Misc.:**
+  - [ ] [Avdi Grimm - Exceptional Ruby](https://avdi.gumroad.com/l/NWtnk)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
   - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
@@ -482,7 +484,7 @@ I've chosen the codebases below based on a these criteria:
 
 * Is active, with recent commits.
 * Does not use a JS framework on the front end, though I made exceptions.
-* Is well-known *or* it solves a problem that's interesting to me.
+* Is well-known *or* solves a problem that's interesting to me.
 
 If you want to explore more widely, here are other places to find open-source Ruby projects:
 
@@ -490,6 +492,8 @@ If you want to explore more widely, here are other places to find open-source Ru
 * [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
 * [Real World Rails](https://github.com/eliotsykes/real-world-rails) (and [how to search through it](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
 * [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
+
+Without further ado…
 
 - **Small codebases:** Less than 50k lines of Ruby code.
   - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey code bases.*
