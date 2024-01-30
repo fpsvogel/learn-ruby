@@ -428,10 +428,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [Building Games with DragonRuby](https://book.dragonriders.community/)
   - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4)
   - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166)
-- **DragonRuby community and reference:**
+- **DragonRuby community, reference, tools:**
   - [Discord server](discord.dragonruby.org)
   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
-  - [Scale template](https://github.com/DragonRidersUnite/scale)
+  - [Zif](https://github.com/danhealy/dragonruby-zif)
+  - [Scale](https://github.com/DragonRidersUnite/scale)
   - [DragonRuby Zine, Issue 1](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
   - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
   - [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
