@@ -438,33 +438,32 @@ Here are some places where you can learn with others or ask questions when you g
   - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://media.licdn.com/dms/image/D4D03AQFwgeFdyKTnJg/profile-displayphoto-shrink_400_400/0/1667525296548?e=2147483647&v=beta&t=T-58hJsvCNpRUO3mOn5jR_Z-isYCfbY73H1mlt2wph8 -->
   - [zverok on lucid code and open data](https://zverok.substack.com/) <!-- https://avatars.githubusercontent.com/u/129656 -->
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
-  - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
-  - [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
-  - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists)
-  - [Justin Searls](https://www.youtube.com/@JustinSearls/playlists)
-  - [Mix & Go](https://www.youtube.com/@mixandgo/playlists)
-  - [SupeRails](https://www.youtube.com/@SupeRails/playlists)
-  - [TypeFast](https://www.youtube.com/@typefastco/playlists)
-  - [Web-Crunch](https://www.youtube.com/@Webcrunch/videos)
+  - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
+  - [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
+  - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists) <!-- https://i.ytimg.com/vi/XWfyffFWbDI/maxresdefault.jpg -->
+  - [Justin Searls](https://www.youtube.com/@JustinSearls/playlists) <!-- https://i.ytimg.com/vi/HU4uBJ3UJPk/maxresdefault.jpg -->
+  - [Mix & Go](https://www.youtube.com/@mixandgo/playlists) <!-- https://i.ytimg.com/vi/3C_ZZc36LT4/maxresdefault.jpg -->
+  - [TypeFast](https://www.youtube.com/@typefastco/playlists) <!-- https://i.ytimg.com/vi/0ghpv0XZ4ZY/maxresdefault.jpg -->
+  - [Web-Crunch](https://www.youtube.com/@Webcrunch/playlists) <!-- https://i.ytimg.com/vi/uef6vBXyY0M/maxresdefault.jpg -->
 - **Topical screencasts:**
-  - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos)
-  - 💲[Drifting Ruby](https://www.driftingruby.com)
-  - 💲[GoRails](https://gorails.com)
+  - [SupeRails](https://www.youtube.com/@SupeRails/playlists) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
+  - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
+  - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSZAiGtanOr8vn_IMuSP_l8bgZqGlwrMDsshiCnRQ=s900-c-k-c0x00ffffff-no-rj -->
+  - 💲[GoRails](https://gorails.com) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSeSkudqtRjSE9n2yrMdgDJS8cw1y0qER7EWNNC=s900-c-k-c0x00ffffff-no-rj -->
 - **Podcasts:**
-  - [Bike Shed](https://www.bikeshed.fm/)
+  - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
   - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
-  - [Code with Jason](https://www.codewithjason.com/podcast)
-  - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast)
-  - [IndieRails](https://www.indierails.com/)
-  - [Rails Changelog](https://www.railschangelog.com/)
-  - [Remote Ruby](https://remoteruby.transistor.fm/episodes)
-  - [Rooftop Ruby](https://www.rooftopruby.com)
-  - [Rubber Duck Dev Show](https://www.rubberduckdevshow.com/)
-  - [Ruby for All](https://www.rubyforall.com/)
-  - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor.
+  - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
+  - [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
+  - [Rails Changelog](https://www.railschangelog.com/) <!-- https://images.transistor.fm/images/show/39552/medium_1680188330-artwork.jpg -->
+  - [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
+  - [Rooftop Ruby](https://www.rooftopruby.com) <!-- https://storage.buzzsprout.com/variants/4ln9kmgzd7365e01mek8zsnnoyc7/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
+  - [Rubber Duck Dev Show](https://www.rubberduckdevshow.com/) <!-- https://i.ytimg.com/vi/HIuyzkeWLdQ/maxresdefault.jpg -->
+  - [Ruby for All](https://www.rubyforall.com/) <!-- https://images.transistor.fm/images/show/32763/medium_1661990746-artwork.jpg -->
+  - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor. <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/e/ed4e373f-21b4-44bb-a2f3-630a56c17f71/cover_small.jpg -->
   - [Running in Production – Rails](https://runninginproduction.com/tags/rails)
-  - [Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/)
-  - [YAGNI](https://yagni.fm/)
+  - [Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/) <!-- https://img.rss.com/tightly-coupled-book-club/400/20230320_080352_39a56ab7cb62348b7e033fd90746e2ff.jpg -->
+  - [YAGNI](https://yagni.fm/) <!-- https://images.transistor.fm/images/show/32802/medium_1659401516-artwork.jpg -->
 
 ## Rails codebases to study
 
