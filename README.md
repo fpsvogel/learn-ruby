@@ -184,8 +184,10 @@ Here are some places where you can learn with others or ask questions when you g
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
-- **Misc.:**
+- **Text processing:**
+  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+- **Misc.:**
   - [ ] [Avdi Grimm - Exceptional Ruby](https://avdi.gumroad.com/l/NWtnk)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget) <!-- https://roda.jeremyevans.net/images/roda-logo.svg -->
