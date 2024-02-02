@@ -118,7 +118,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Basics:**
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
-  - [x] [SQLBolt](https://sqlbolt.com) <!-- https://pbs.twimg.com/profile_images/592430445330976768/q1wz0wDd_400x400.png -->
+  - [x] [SQLBolt](https://sqlbolt.com) <!-- https://letslearnruby.com/images/sql-bolt.png -->
   - [x] [Select Star SQL](https://selectstarsql.com) <!-- https://selectstarsql.com/imgs/favicon-256.png -->
   - [x] [SQL Murder Mystery](https://mystery.knightlab.com/) <!-- https://mystery.knightlab.com/174092-clue-illustration.png -->
   - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
@@ -185,7 +185,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Misc.:**
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)  <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
   - [ ] [Avdi Grimm - Exceptional Ruby](https://avdi.gumroad.com/l/NWtnk)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget) <!-- https://roda.jeremyevans.net/images/roda-logo.svg -->
@@ -321,7 +321,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Community and news:**
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
   - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
-  - [The Hotwire Club](https://hotwire.club/) <!-- https://github.com/fpsvogel/lets-learn-ruby/blob/main/src/images/hotwire-club.png -->
+  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
@@ -433,9 +433,9 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:** There are lots more out there; these are just my favorites.
   - [Code with Jason](https://www.codewithjason.com/articles/) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/) <!-- https://fly.io/static/images/brand/brandmark.svg -->
-  - [Noel Rappin's Blog](https://noelrappin.com/blog/) <!-- https://pbs.twimg.com/profile_images/1584585372096516096/6XQGS8q6_400x400.jpg -->
+  - [Noel Rappin's Blog](https://noelrappin.com/blog/) <!-- https://letslearnruby.com/images/noel-rappin.jpg -->
   - [One Ruby Question](https://buttondown.email/bhumi/archive/) <!-- https://assets.buttondown.email/images/0375126a-cf71-4d05-baca-c5d2ee0da1d7.png -->
-  - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://media.licdn.com/dms/image/D4D03AQFwgeFdyKTnJg/profile-displayphoto-shrink_400_400/0/1667525296548?e=2147483647&v=beta&t=T-58hJsvCNpRUO3mOn5jR_Z-isYCfbY73H1mlt2wph8 -->
+  - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://letslearnruby.com/images/akshay-khot.jpg -->
   - [zverok on lucid code and open data](https://zverok.substack.com/) <!-- https://avatars.githubusercontent.com/u/129656 -->
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
   - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
