@@ -71,7 +71,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://d31ezp3r8jwmks.cloudfront.net/2injd2hqjy28zry8i3khh7jauncy -->
 - **Reference:**
-  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.2/o/s?q=partition](https://rubyapi.org/3.2/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/480px-Ruby_logo.svg.png -->
+  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.2/o/s?q=partition](https://rubyapi.org/3.2/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
 
 ### Rails basics
 
@@ -109,7 +109,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://scontent.fosu2-1.fna.fbcdn.net/v/t39.30808-6/300364320_393392436239411_224897521519283658_n.png?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=VQS8dhTwLYgAX-avtQA&_nc_ht=scontent.fosu2-1.fna&oh=00_AfARbHVLs7kTIEVy-2O2-pa5MGHi2exqS99UzJPkJR9x7w&oe=65C11111 -->
   - [Ruby Radar](https://rubyradar.dev/) <!-- https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/0f2c8105-799a-40b9-bf09-c5a929f9585f/hY7lCqRo.png -->
 - **Mentorship:**
-  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/twitter-card.png -->
+  - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/ruby-plus-one.svg -->
   - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://www.redditinc.com/assets/images/site/Reddit_Icon_FullColor-1_2023-11-29-161416_munx.jpg -->
 
 ## Foundational tools
@@ -140,7 +140,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Basics:**
   - [x] [Oh My Git!](https://ohmygit.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
-  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fxemoji_u2049.svg/480px-Fxemoji_u2049.svg.png -->
+  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
   - [x] [Git Katas](https://github.com/eficode-academy/git-katas) <!-- https://opengraph.githubassets.com/5256cfe30bb12483305e28930e0da83838ad1466f6ab2485645f63567b647407/eficode-academy/git-katas -->
   - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
   - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) <!-- https://opengraph.githubassets.com/a472b6222ca957ef28ba2a04ff968dc16237aa49dda45c0860e7b765f9dff968/k88hudson/git-flight-rules -->
@@ -160,7 +160,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Linux / command line
 
-- [x] Install and use Linux. [My post on switching to Linux](https://fpsvogel.com/posts/2023/switch-to-linux-from-windows) might give you some pointers. <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/405px-Tux.svg.png -->
+- [x] Install and use Linux. [My post on switching to Linux](https://fpsvogel.com/posts/2023/switch-to-linux-from-windows) might give you some pointers. <!-- https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg -->
 - [ ] 💲[Unix: A History and a Memoir](https://www.cs.princeton.edu/~bwk/memoir.html)
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
@@ -185,20 +185,20 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Misc.:**
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)  <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
   - [ ] [Avdi Grimm - Exceptional Ruby](https://avdi.gumroad.com/l/NWtnk)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
-  - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
+  - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget) <!-- https://roda.jeremyevans.net/images/roda-logo.svg -->
   - [ ] [Hanami](https://hanamirb.org/). Learn it with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
 
 ### Advanced Rails
 
 - **Reference:**
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/)
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
-  - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.amazon.com/Layered-Design-Ruby-Rails-Applications/dp/1801813787)
+  - [x] 💲[Layered Design for Ruby on Rails Applications](hhttps://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
@@ -224,13 +224,13 @@ Here are some places where you can learn with others or ask questions when you g
 ### HTML and CSS
 
 - **Community:**
-  - [The Spicy Web community on Discord](https://discord.com/invite/CUuYVH7Qa9)
+  - [The Spicy Web community on Discord](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
 - **HTML:**
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
   - [ ] [htmlreference.io](https://htmlreference.io/)
 - **CSS:**
-  - [ ] 💲[The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau)
+  - [ ] 💲[The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
   - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
   - [ ] [cssreference.io](https://cssreference.io/)
   - [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
@@ -257,23 +257,23 @@ Here are some places where you can learn with others or ask questions when you g
 ### JS
 
 - **Basics:**
-  - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
-  - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-  - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ)
-  - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/)
+  - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/) <!-- https://exploringjs.com/impatient-js/img-homepage/cover-homepage.jpg -->
+  - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
+  - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
+  - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/) <!-- https://upload.wikimedia.org/wikipedia/commons/6/6f/Lodash.svg -->
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] Build something in JS, or do [JavaScript30](https://javascript30.com/)
 - **DOM, forms, and other Web APIs:**
-  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui)
+  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - **React:**
-  - [x] [React "Learn" docs](https://react.dev/learn)
+  - [x] [React "Learn" docs](https://react.dev/learn) <!-- https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg -->
 - **Going deeper:**
-  - [x] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO
+  - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - **Functional JS:**
@@ -282,20 +282,20 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
-  - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e)
-  - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components)
-  - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+  - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
+  - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
+  - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
 
 ### UI and usability
 
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/)
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
 - [ ] [Growth.Design](https://growth.design/)
 - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
 - [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
-- [x] [Victor Ponamariov - 50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
+- [x] [Victor Ponamariov - 50 Tips to Improve User Interface](https://fifty.user-interface.io/50_ui_tips.pdf) <!-- https://fifty.user-interface.io/book.png -->
 - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
 - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
 - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
@@ -319,9 +319,9 @@ Here are some places where you can learn with others or ask questions when you g
 ### Hotwire
 
 - **Community and news:**
-  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex)
-  - [Hotwire dev newsletter](https://masilotti.com/hotwire/)
-  - [The Hotwire Club](https://hotwire.club/)
+  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
+  - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
+  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
@@ -362,29 +362,29 @@ Here are some places where you can learn with others or ask questions when you g
 ## Expanding my horizons
 
 - **Be a mentor:**
-  - [x] [Exercism](https://exercism.org/mentoring)
+  - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
-  - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/)
+  - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/) <!-- https://localghost.dev/img/og-image.png -->
   - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
   - [ ] [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
   - [ ] 💲[The Software Engineer's Guidebook](https://www.engguidebook.com)
   - [ ] 💲[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
   - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
 - **Computer science:**
-  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
+  - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) <!-- https://m.media-amazon.com/images/I/515myo2UtFL._AC_UF1000,1000_QL80_.jpg -->
   - [ ] [NandGame](https://nandgame.com)
-  - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
-  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+  - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2) <!-- https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/effec0907511e4ba44bb6973b9260b/COURSE_IMAGE.png -->
+  - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) <!-- https://m.media-amazon.com/images/I/91s8Z6lR87L._AC_UF1000,1000_QL80_.jpg -->
   - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
-  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) <!-- https://m.media-amazon.com/images/I/51lTsD-LGoL.jpg -->
   - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
   - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Coding challenges:**
   - [ ] [Advent of Code](https://adventofcode.com)
 - **Design patterns:**
-  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
-  - [x] [Refactoring.Guru](https://refactoring.guru/)
+  - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) <!-- https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/91quawUTiVL._SY522_.jpg -->
+  - [x] [Refactoring.Guru](https://refactoring.guru/) <!-- https://refactoring.guru/images/content-public/logos/logo-plain.png -->
   - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
@@ -413,34 +413,30 @@ Here are some places where you can learn with others or ask questions when you g
 ## Games in Ruby
 
 - **Ruby game libraries:**
-  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions.
-  - [Ruby 2D](https://www.ruby2d.com/)
-  - [Gosu](https://www.libgosu.org/)
-  - [MiniGL](https://github.com/victords/minigl)
-  - [Taylor](https://taylor.oequacki.com/)
+  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+  - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
+  - [MiniGL](https://github.com/victords/minigl) <!-- https://opengraph.githubassets.com/3c5e8de0f8b1b8f2881e34be18fec9811146787a951a37479a9d39ac0d6b7655/victords/minigl -->
+  - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
 - **DragonRuby tutorials:**
-  - [Building Games with DragonRuby](https://book.dragonriders.community/)
-  - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4)
-  - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166)
+  - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
+  - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4) <!-- https://i.ytimg.com/vi/xZMwRSbC4rY/sddefault.jpg -->
+  - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
 - **DragonRuby community, reference, tools:**
-  - [Discord server](discord.dragonruby.org)
-  - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/)
-  - [Zif](https://github.com/danhealy/dragonruby-zif)
-  - [Scale](https://github.com/DragonRidersUnite/scale)
-  - [DragonRuby Zine, Issue 1](https://dragonridersunite.itch.io/dragonruby-zine-issue-1)
-  - [DragonRuby Recipes](https://www.dragonriders.community/recipes)
-  - [Awesome DragonRuby](https://www.dragonriders.community/awesome-dragonruby/)
+  - [Discord server](discord.dragonruby.org) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - [Zif](https://github.com/danhealy/dragonruby-zif) <!-- https://opengraph.githubassets.com/5a00dc12f2f1737e0ff61ee368e6f1ca5c1dd8dd83a748d9c3527703e8b18c52/danhealy/dragonruby-zif -->
+  - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
 
 ## Ruby blogs, podcasts, screencasts
 
 - **Blogs:** There are lots more out there; these are just my favorites.
-  - [Code with Jason](https://www.codewithjason.com/articles/)
-  - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/)
-  - [Fullstack Ruby](https://www.fullstackruby.dev/articles)
-  - [Noel Rappin's Blog](https://noelrappin.com/blog/)
-  - [One Ruby Question](https://buttondown.email/bhumi/archive/)
-  - [Write Software, Well](https://www.writesoftwarewell.com/)
-  - [zverok on lucid code and open data](https://zverok.substack.com/)
+  - [Code with Jason](https://www.codewithjason.com/articles/) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
+  - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/) <!-- https://fly.io/static/images/brand/brandmark.svg -->
+  - [Noel Rappin's Blog](https://noelrappin.com/blog/) <!-- https://pbs.twimg.com/profile_images/1584585372096516096/6XQGS8q6_400x400.jpg -->
+  - [One Ruby Question](https://buttondown.email/bhumi/archive/) <!-- https://assets.buttondown.email/images/0375126a-cf71-4d05-baca-c5d2ee0da1d7.png -->
+  - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://media.licdn.com/dms/image/D4D03AQFwgeFdyKTnJg/profile-displayphoto-shrink_400_400/0/1667525296548?e=2147483647&v=beta&t=T-58hJsvCNpRUO3mOn5jR_Z-isYCfbY73H1mlt2wph8 -->
+  - [zverok on lucid code and open data](https://zverok.substack.com/) <!-- https://avatars.githubusercontent.com/u/129656 -->
 - **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
   - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists)
   - [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos)
