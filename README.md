@@ -461,7 +461,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [Rubber Duck Dev Show](https://www.rubberduckdevshow.com/) <!-- https://i.ytimg.com/vi/HIuyzkeWLdQ/maxresdefault.jpg -->
   - [Ruby for All](https://www.rubyforall.com/) <!-- https://images.transistor.fm/images/show/32763/medium_1661990746-artwork.jpg -->
   - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor. <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/e/ed4e373f-21b4-44bb-a2f3-630a56c17f71/cover_small.jpg -->
-  - [Running in Production – Rails](https://runninginproduction.com/tags/rails)
   - [Tightly Coupled Book Club](https://rss.com/podcasts/tightly-coupled-book-club/) <!-- https://img.rss.com/tightly-coupled-book-club/400/20230320_080352_39a56ab7cb62348b7e033fd90746e2ff.jpg -->
   - [YAGNI](https://yagni.fm/) <!-- https://images.transistor.fm/images/show/32802/medium_1659401516-artwork.jpg -->
 
