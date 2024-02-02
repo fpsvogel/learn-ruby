@@ -321,7 +321,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Community and news:**
   - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
   - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
-  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
+  - [The Hotwire Club](https://hotwire.club/) <!-- https://github.com/fpsvogel/lets-learn-ruby/blob/main/src/images/hotwire-club.png -->
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
