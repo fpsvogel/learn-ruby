@@ -181,16 +181,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
-- **Scripting:**
-  - [x] [Enhanced Shell Scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby)
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
-  - [x] [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp)
-  - [x] [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
-  - [x] Tools for Ruby on the command line: [ru](https://github.com/tombenner/ru), [rb](https://github.com/thisredone/rb), [pru](https://github.com/grosser/pru), [rexe](https://github.com/keithrbennett/rexe)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Misc.:**
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby)
   - [ ] [Avdi Grimm - Exceptional Ruby](https://avdi.gumroad.com/l/NWtnk)
 - **Learn other app frameworks:** Jobs in Ruby are mostly in Rails, but it's still valuable to broaden my horizons and learn different approaches.
   - [x] [Roda](https://roda.jeremyevans.net/) via [an example Roda app using Hotwire](https://github.com/janko/budget)
