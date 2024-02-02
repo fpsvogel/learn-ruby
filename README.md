@@ -141,9 +141,9 @@ Here are some places where you can learn with others or ask questions when you g
 - **Basics:**
   - [x] [Oh My Git!](https://ohmygit.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
   - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
-  - [x] [Git Katas](https://github.com/eficode-academy/git-katas) <!-- https://opengraph.githubassets.com/5256cfe30bb12483305e28930e0da83838ad1466f6ab2485645f63567b647407/eficode-academy/git-katas -->
+  - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
   - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
-  - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) <!-- https://opengraph.githubassets.com/a472b6222ca957ef28ba2a04ff968dc16237aa49dda45c0860e7b765f9dff968/k88hudson/git-flight-rules -->
+  - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - **Advanced:**
   - [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
   - [ ] [Pro Git](https://git-scm.com/book)
@@ -416,7 +416,7 @@ Here are some places where you can learn with others or ask questions when you g
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
-  - [MiniGL](https://github.com/victords/minigl) <!-- https://opengraph.githubassets.com/3c5e8de0f8b1b8f2881e34be18fec9811146787a951a37479a9d39ac0d6b7655/victords/minigl -->
+  - [MiniGL](https://github.com/victords/minigl)
   - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
 - **DragonRuby tutorials:**
   - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
@@ -425,7 +425,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **DragonRuby community, reference, tools:**
   - [Discord server](discord.dragonruby.org) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Zif](https://github.com/danhealy/dragonruby-zif) <!-- https://opengraph.githubassets.com/5a00dc12f2f1737e0ff61ee368e6f1ca5c1dd8dd83a748d9c3527703e8b18c52/danhealy/dragonruby-zif -->
+  - [Zif](https://github.com/danhealy/dragonruby-zif)
   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
 
 ## Ruby blogs, podcasts, screencasts
@@ -452,8 +452,8 @@ Here are some places where you can learn with others or ask questions when you g
   - 💲[GoRails](https://gorails.com) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSeSkudqtRjSE9n2yrMdgDJS8cw1y0qER7EWNNC=s900-c-k-c0x00ffffff-no-rj -->
 - **Podcasts:**
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
-  - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/)
-  - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
+  - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
+  - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
   - [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
   - [Rails Changelog](https://www.railschangelog.com/) <!-- https://images.transistor.fm/images/show/39552/medium_1680188330-artwork.jpg -->
   - [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
