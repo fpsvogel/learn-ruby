@@ -261,7 +261,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [x] [lodash](https://lodash.com) and [You Might Not Need Lodash](https://youmightnotneed.com/lodash/) <!-- https://upload.wikimedia.org/wikipedia/commons/6/6f/Lodash.svg -->
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] Build something in JS, or do [JavaScript30](https://javascript30.com/)
