@@ -107,7 +107,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
-  - [Ruby Radar](https://rubyradar.dev/) <!-- https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/0f2c8105-799a-40b9-bf09-c5a929f9585f/hY7lCqRo.png -->
+  - [Ruby Radar](https://rubyradar.dev/) <!-- https://letslearnruby.com/images/ruby-radar -->
 - **Mentorship:**
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/ruby-plus-one.svg -->
   - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://letslearnruby.com/images/reddit.svg -->
@@ -402,6 +402,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
   - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
+  - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
   - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
   - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
