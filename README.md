@@ -295,7 +295,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
 - [ ] [Growth.Design](https://growth.design/)
 - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
-- [ ] [UI tips](https://georgemoller.gumroad.com/)
 - [x] [Victor Ponamariov - 50 Tips to Improve User Interface](https://fifty.user-interface.io/50_ui_tips.pdf) <!-- https://fifty.user-interface.io/book.png -->
 - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
 - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
