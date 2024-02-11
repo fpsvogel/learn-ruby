@@ -196,7 +196,7 @@ Here are some places where you can learn with others or ask questions when you g
 ### Advanced Rails
 
 - **Reference:**
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
+  - [x] 💲[Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
@@ -215,7 +215,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
   - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 - **Deployment:**
-  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
   - [ ] 💲[The Docker Book](https://dockerbook.com/)
 - **Misc.:**
@@ -283,7 +283,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
-  - [x] [Rob Eisenberg - "Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
+  - [x] ["Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
@@ -295,7 +295,7 @@ Here are some places where you can learn with others or ask questions when you g
 - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
 - [ ] [Growth.Design](https://growth.design/)
 - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
-- [ ] [George Moller - UI tips](https://georgemoller.gumroad.com/)
+- [ ] [UI tips](https://georgemoller.gumroad.com/)
 - [x] [Victor Ponamariov - 50 Tips to Improve User Interface](https://fifty.user-interface.io/50_ui_tips.pdf) <!-- https://fifty.user-interface.io/book.png -->
 - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
 - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
@@ -330,7 +330,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Write Software, Well - You Don't Need Rails to Start Using Hotwire](https://www.writesoftwarewell.com/using-hotwire-without-rails/)
   - [ ] [Write Software, Well - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.writesoftwarewell.com/understanding-hotwire-turbo-streams/)
   - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Alexandre Ruban - Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
   - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
   - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1), [Part 2](https://purpleriver.dev/posts/2023/hotwire-handbook-part-2-redux), [Part 3](https://purpleriver.dev/posts/2023/hotwire-handbook-part-3)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
@@ -356,7 +356,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
   - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
 - **Multi-platform:**
-  - [ ] 💲[Ayush Newatia - The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
+  - [ ] 💲[The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Other similar libraries:**
   - [ ] [HTMX](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI)
 
