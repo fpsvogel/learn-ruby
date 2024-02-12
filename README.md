@@ -497,6 +497,7 @@ Without further ado…
   - [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 17k lines. *A lending library management system.*
   - [github.com/rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue). 19k lines. *Connects adopters/fosters with pets.*
   - [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme). 21k lines. *Mental health communication web app to share experiences with loved ones.*
+  - [github.com/openSUSE/osem](https://github.com/openSUSE/osem). 25k lines. *Event management tool tailored to Free and Open Source Software conferences.*
   - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin). 25k lines. *RSS reader.*
   - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org). 26k lines. *Where Ruby gems are hosted.*
   - [github.com/huginn/huginn](https://github.com/huginn/huginn). 36k lines. *Web task automation.*
