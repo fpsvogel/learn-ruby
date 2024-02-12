@@ -520,4 +520,4 @@ Without further ado…
   - [github.com/discourse/discourse](https://github.com/discourse/discourse). 322k lines. *Discussion forum platform. Has an Ember.js front end.*
   - [github.com/opf/openproject](https://github.com/opf/openproject). 368k lines. *Project management software.*
   - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms). 745k lines. *A popular LMS (learning management system).*
-  - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 1.8 million lines. *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).*
+  - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 1.8 million lines. *Like GitHub but with CI/CD and DevOps features built in. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).* <!-- https://letslearnruby.com/images/gitlab.png -->
