@@ -58,7 +58,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 
 - **Basics:**
   - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
-  - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSeSkudqtRjSE9n2yrMdgDJS8cw1y0qER7EWNNC=s900-c-k-c0x00ffffff-no-rj -->
+  - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby). If like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
 - **Guided practice:**
   - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby)). <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
@@ -78,7 +78,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 Only books and courses are listed below, but be sure to *build things* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Basics:**
-  - [x] [GoRails - Build a Blog with Ruby on Rails](https://gorails.com/series/build-a-blog-with-rails-7) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSeSkudqtRjSE9n2yrMdgDJS8cw1y0qER7EWNNC=s900-c-k-c0x00ffffff-no-rj -->
+  - [x] [GoRails - Build a Blog with Ruby on Rails](https://gorails.com/series/build-a-blog-with-rails-7) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
 - **Testing:**
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/) <!-- https://www.codewithjason.com/wp-content/uploads/2022/08/cgrt.png -->
@@ -107,7 +107,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
-  - [Ruby Radar](https://rubyradar.dev/) <!-- https://letslearnruby.com/images/ruby-radar -->
+  - [Ruby Radar](https://rubyradar.dev/) <!-- https://letslearnruby.com/images/ruby-radar.png -->
 - **Mentorship:**
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/ruby-plus-one.svg -->
   - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://letslearnruby.com/images/reddit.svg -->
@@ -451,8 +451,8 @@ Here are some places where you can learn with others or ask questions when you g
 - **Topical screencasts:**
   - [SupeRails](https://www.youtube.com/@SupeRails/playlists) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
   - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
-  - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSZAiGtanOr8vn_IMuSP_l8bgZqGlwrMDsshiCnRQ=s900-c-k-c0x00ffffff-no-rj -->
-  - 💲[GoRails](https://gorails.com) <!-- https://yt3.googleusercontent.com/ytc/AIf8zZSeSkudqtRjSE9n2yrMdgDJS8cw1y0qER7EWNNC=s900-c-k-c0x00ffffff-no-rj -->
+  - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
+  - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - **Podcasts:**
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
   - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
