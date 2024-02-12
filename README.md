@@ -429,6 +429,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - [Zif](https://github.com/danhealy/dragonruby-zif)
   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
+  - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzc3Mjc2ODYucG5n/315x250%23c/UBg9MK.png -->
 
 ## Ruby blogs, podcasts, screencasts
 
