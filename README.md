@@ -454,6 +454,15 @@ Here are some places where you can learn with others or ask questions when you g
   - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
   - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
   - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
+- **Streams:**
+  - [ChaelCodes](https://www.twitch.tv/ChaelCodes) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
+  - [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
+  - [fractaledmind](https://www.youtube.com/@fractaledmind/streams) <!-- https://yt3.googleusercontent.com/GRH79JWqn6GEmoZxTcVAHFUFgqkw1P3adun8cVuSR2jH7-_TIaXH4yYAFRIsLjv92LxXkSW-Zg=s176-c-k-c0x00ffffff-no-rj -->
+  - [FullStackLive](https://www.twitch.tv/fullstacklive) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7aa31c3b-54b0-4c44-a9ed-babdc6e5ca30-profile_image-300x300.png -->
+  - [jhawthorn](https://www.twitch.tv/jhawthorn) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/947d3620-e9a6-46e9-9837-917e4ceafc5b-profile_image-300x300.jpeg -->
+  - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
+  - [thoughtbot on Twitch](https://www.twitch.tv/thoughtbot) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
+  - [yesthatelise](https://www.twitch.tv/yesthatelise) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/78a1fa7a-7277-45c4-93b2-4bd7b5023ab8-profile_image-300x300.png -->
 - **Podcasts:**
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
   - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
