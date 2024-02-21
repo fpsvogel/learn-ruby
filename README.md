@@ -92,6 +92,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **Get real-world experience to put on your resume:**
   - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails). <!-- https://imgs.xkcd.com/comics/dependency_2x.png -->
+  - [Ruby Central - Scholars and Guides Program](https://rubycentral.org/scholars_guides_program/) <!-- https://rubycentral.org/content/images/size/w256h256/format/png/2022/11/Ruby-Central-logo.svg -->
   - [The Agency of Learning](https://agencyoflearning.com/). They aren't always accepting applications, so you may need to check back. <!-- https://agencyoflearning.com/assets/images/image11.png -->
   - [The Recurse Center](https://www.recurse.com/). You'll need to dedicate 6 or 12 weeks to this one. <!-- https://upload.wikimedia.org/wikipedia/commons/5/5a/Recurse_Center.png -->
 - **The job search:**
