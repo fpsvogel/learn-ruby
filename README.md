@@ -399,6 +399,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Exercism - Crystal](https://exercism.org/tracks/crystal)
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
+  - [ ] Make a performance-intensive game/toy in Crystal using [Raylib](https://github.com/sol-vin/raylib-cr) or [SFML](https://github.com/oprypin/crsfml), possibly with the [Chipmunk](https://github.com/oprypin/crystal-chipmunk?tab=readme-ov-file) physics library.
 - **Learn functional programming:**
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
@@ -496,7 +497,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 Without further ado…
 
 - **Small codebases:** Less than 50k lines of Ruby code.
-  - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey code bases.*
+  - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey codebases.*
   - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
   - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 5k lines. *CMS (Content Management System).*
   - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal). 6k lines. *Open source DocuSign alternative.*
