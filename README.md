@@ -505,6 +505,7 @@ Without further ado…
   - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
   - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 12k lines. *The reverse job board for Ruby on Rails developers.*
   - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 12k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+  - [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject). 12k lines. *Main website for The Odin Project web development learning platform.*
   - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 13k lines. *Hacker News clone.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
   - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
