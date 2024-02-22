@@ -454,6 +454,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Topical screencasts:**
   - [SupeRails](https://www.youtube.com/@SupeRails/playlists) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
   - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
+  - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
   - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
   - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - **Streams:**
