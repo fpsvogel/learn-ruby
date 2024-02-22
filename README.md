@@ -103,8 +103,8 @@ Only books and courses are listed below, but be sure to *build things* as you le
 Here are some places where you can learn with others or ask questions when you get stuck.
 
 - **Communities:**
+  - [Ruby.social Mastodon instance](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
   - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
-  - [StimulusReflex community on Discord](https://discord.gg/stimulus-reflex), which has general Ruby and Rails channels too. <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
