@@ -404,6 +404,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
   - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
   - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
+  - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
   - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
   - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
   - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
