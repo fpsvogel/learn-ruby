@@ -509,7 +509,7 @@ Without further ado…
   - [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject). 12k lines. *Main website for The Odin Project web development learning platform.*
   - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 13k lines. *Hacker News clone.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
-  - [github.com/CircuitVerse/CircuitVerse.git](https://github.com/CircuitVerse/CircuitVerse.git). 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
+  - [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse). 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
   - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
   - [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 17k lines. *A lending library management system.*
   - [github.com/rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue). 19k lines. *Connects adopters/fosters with pets.*
