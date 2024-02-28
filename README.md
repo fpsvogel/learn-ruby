@@ -377,6 +377,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Computer science:**
   - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) <!-- https://m.media-amazon.com/images/I/515myo2UtFL._AC_UF1000,1000_QL80_.jpg -->
   - [ ] [NandGame](https://nandgame.com)
+  - [ ] [CircuitVerse](https://circuitverse.org/)
   - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2) <!-- https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/effec0907511e4ba44bb6973b9260b/COURSE_IMAGE.png -->
   - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) <!-- https://m.media-amazon.com/images/I/91s8Z6lR87L._AC_UF1000,1000_QL80_.jpg -->
   - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
