@@ -198,6 +198,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Reference:**
   - [x] 💲[Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
+  - [ ] [💲The Rails Companion](https://courses.writesoftwarewell.com/p/rails-companion)
   - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
