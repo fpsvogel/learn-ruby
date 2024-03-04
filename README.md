@@ -347,6 +347,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rapid Ruby screencasts on Hotwire](https://www.youtube.com/playlist?list=PL2OcwqOUtdpCqddncOH61f0phQKtum3yQ)
   - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
   - [ ] [David Colby's blog](https://www.colby.so)
+  - [ ] 💲[Andrea Fomera - Learn Hotwire by Building a Calendar](https://store.afomera.dev/learn-hotwire-by-building-a-calendar)
 - **Examples and snippets:**
   - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
