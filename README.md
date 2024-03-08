@@ -453,7 +453,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Dr. Nic](https://www.youtube.com/@MocraVideos/playlists) <!-- https://i.ytimg.com/vi/XWfyffFWbDI/maxresdefault.jpg -->
   - [Justin Searls](https://www.youtube.com/@JustinSearls/playlists) <!-- https://i.ytimg.com/vi/HU4uBJ3UJPk/maxresdefault.jpg -->
   - [Kasper Timm Hansen with Jeremy Smith](https://www.youtube.com/@kaspth-final1-psd) <!-- https://yt3.googleusercontent.com/p24oO36GrH2nCXKBeno3xK2STfeszCBBEzBlDWRaJjiFDLvNOA4XUKFtVheltW5soE8j0DBN1w=s176-c-k-c0x00ffffff-no-rj -->
-  - [Mix & Go](https://www.youtube.com/@mixandgo/playlists) <!-- https://i.ytimg.com/vi/3C_ZZc36LT4/maxresdefault.jpg -->
+  - [Mix & Go](https://www.youtube.com/@mixandgo/playlists) <!-- view-source:https://i.ytimg.com/vi/dJ9CEkctKts/maxresdefault.jpg -->
   - [TypeFast](https://www.youtube.com/@typefastco/playlists) <!-- https://i.ytimg.com/vi/0ghpv0XZ4ZY/maxresdefault.jpg -->
   - [Web-Crunch](https://www.youtube.com/@Webcrunch/playlists) <!-- https://i.ytimg.com/vi/uef6vBXyY0M/maxresdefault.jpg -->
 - **Topical screencasts:**
