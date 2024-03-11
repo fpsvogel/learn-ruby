@@ -218,7 +218,8 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
   - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 - **Deployment:**
-  - [ ] 💲[Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://strzibny.gumroad.com/l/kamalbook)
   - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
   - [ ] 💲[The Docker Book](https://dockerbook.com/)
 - **Misc.:**
