@@ -282,9 +282,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - **Functional JS:**
-  - [ ] [Functional-Light JS](https://github.com/getify/Functional-Light-JS)
-  - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-  - [ ] [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
   - [x] ["Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
