@@ -281,8 +281,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
-- **Functional JS:**
-  - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
 - **Web components:**
   - [x] ["Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
@@ -402,20 +400,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
   - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
   - [ ] Make a performance-intensive game/toy in Crystal using [Raylib](https://github.com/sol-vin/raylib-cr) or [SFML](https://github.com/oprypin/crsfml), possibly with the [Chipmunk](https://github.com/oprypin/crystal-chipmunk?tab=readme-ov-file) physics library.
-- **Learn functional programming:**
-  - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://livebook.manning.com/book/data-oriented-programming)
-  - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
-  - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
-  - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
-  - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
-  - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
-  - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
-  - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
-  - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) list with lots more books
-  - [ ] [Obelisk](https://github.com/obsidiansystems/obelisk) is a web app framework in which the front end is written in Haskell too.
-  - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) are more traditional web app frameworks.
-  - [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev
-  - [ ] [PureScript](https://www.purescript.org/) for functional programming on the front end.
+- **Learn functional programming:** see [github.com/fpsvogel/learn-functional-programming](https://github.com/fpsvogel/learn-functional-programming).
 
 ## Games in Ruby
 
