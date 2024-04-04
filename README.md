@@ -426,7 +426,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Blogs:** There are lots more out there; these are just my favorites.
   - [Code with Jason](https://www.codewithjason.com/articles/) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
   - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/) <!-- https://fly.io/static/images/brand/brandmark.svg -->
-  - [Fullstack Ruby](https://www.fullstackruby.dev/) <!-- https://letslearnruby.com/images/fullstack-ruby.jpg -->
+  - [Fullstack Ruby](https://www.fullstackruby.dev/) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
   - [Noel Rappin's Blog](https://noelrappin.com/blog/) <!-- https://letslearnruby.com/images/noel-rappin.jpg -->
   - [One Ruby Question](https://buttondown.email/bhumi/archive/) <!-- https://assets.buttondown.email/images/0375126a-cf71-4d05-baca-c5d2ee0da1d7.png -->
   - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://letslearnruby.com/images/akshay-khot.jpg -->
@@ -460,7 +460,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
   - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
   - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
-  - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://letslearnruby.com/images/fullstack-ruby.jpg -->
+  - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
   - [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
   - [Rails Changelog](https://www.railschangelog.com/) <!-- https://images.transistor.fm/images/show/39552/medium_1680188330-artwork.jpg -->
   - [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
