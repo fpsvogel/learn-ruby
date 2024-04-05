@@ -200,6 +200,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
+  - [x] [Volmer's Rails Guide](https://volmerius.com/rails/) <!-- https://volmerius.com/images/volmer.jpg -->
   - [x] 💲[Layered Design for Ruby on Rails Applications](hhttps://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
