@@ -1,3 +1,6 @@
+<!-- regex to find items with missing images: results should include only GitHub links >
+<!-- - \[x\] .+[^>\n]\n -->
+
 <!-- omit in toc -->
 # Learn Ruby: a resource list
 
@@ -190,7 +193,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 - **Misc.:**
-  - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/)
+  - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
 
 ### Advanced Rails
 
