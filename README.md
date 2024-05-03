@@ -70,7 +70,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby) <!-- https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg -->
 - **Build stuff with Ruby.** Here are some ideas:
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
-  - A game. See the [Games in Ruby](#games-in-ruby) section. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - A game. A text-based game is a great exercise, but if you want something fancier see the [Games in Ruby](#games-in-ruby) section. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://d31ezp3r8jwmks.cloudfront.net/2injd2hqjy28zry8i3khh7jauncy -->
 - **Reference:**
@@ -411,9 +411,10 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Ruby game libraries:**
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+  - [Gamefic](https://gamefic.com/) <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png --> is for building text-based adventure games and interactive fiction.
   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
   - [MiniGL](https://github.com/victords/minigl)
+  - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
   - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
 - **DragonRuby tutorials:**
   - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
