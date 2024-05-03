@@ -465,6 +465,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
   - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
   - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
+  - [Friendly Show](https://www.friendly.show/) <!-- https://storage.buzzsprout.com/xg8v0bhdl3q0wyxro1ma4ym4j60w -->
   - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
   - [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
   - [Rails Changelog](https://www.railschangelog.com/) <!-- https://images.transistor.fm/images/show/39552/medium_1680188330-artwork.jpg -->
