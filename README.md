@@ -218,6 +218,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
 - **Background jobs:**
+  - [ ] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
+  - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
+  - [ ] 💲[Ruby on Rails Background Jobs with Sidekiq](https://pragprog.com/titles/dcsidekiq/ruby-on-rails-background-jobs-with-sidekiq/)
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
   - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 - **Deployment:**
