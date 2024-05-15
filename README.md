@@ -1,4 +1,4 @@
-<!-- regex to find items with missing images: results should include only GitHub links >
+<!-- regex to find items with missing images: results should include only GitHub links -->
 <!-- - \[x\] .+[^>\n]\n -->
 
 <!-- omit in toc -->
