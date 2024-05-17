@@ -81,7 +81,7 @@ Without further ado, here is my learning road map. Resources marked with a dolla
 Only books and courses are listed below, but be sure to *build things* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wikipedia-explorer-discover-articles-like-stumbleupon), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Basics:**
-  - [x] [GoRails - Build a Blog with Ruby on Rails](https://gorails.com/series/build-a-blog-with-rails-7) <!-- https://letslearnruby.com/images/gorails.jpg -->
+  - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) and if you want more along the same lines, [Rails 6 for Beginners](https://gorails.com/series/rails-6-for-beginners) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
 - **Testing:**
   - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/) <!-- https://www.codewithjason.com/wp-content/uploads/2022/08/cgrt.png -->
