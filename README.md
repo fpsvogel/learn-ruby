@@ -465,7 +465,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://yt3.googleusercontent.com/UHspKNgeDyA4xYuWNNHIRInoTl1goMH6qP-kUSJRf2RB4nX-HOdO-EpqK7EWcdJKcsbQoLI5=s160-c-k-c0x00ffffff-no-rj -->
   - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
   - [thoughtbot on Twitch](https://www.twitch.tv/thoughtbot) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-  - [YakAndShears](https://www.twitch.tv/yakandshears) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/1c36b266-3d47-48fb-898d-b875187bbd57-profile_image-300x300.png -->
+  - [YakAndShears](https://www.twitch.tv/yakandshears) <!-- https://yt3.googleusercontent.com/Bk18JI7d5n7lzVYz_IxY23Ps4lZnrb0pKGCnGErnelalBdGEjkGfKnurVExxvM1RqjZEptL1OA=s160-c-k-c0x00ffffff-no-rj -->
   - [yesthatelise](https://www.twitch.tv/yesthatelise) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/78a1fa7a-7277-45c4-93b2-4bd7b5023ab8-profile_image-300x300.png -->
 - **Podcasts:**
   - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
