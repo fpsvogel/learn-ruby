@@ -125,7 +125,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
   - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
 - **Advanced:**
-  - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
+  - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
@@ -147,7 +147,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
   - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - **Advanced:**
-  - [x] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
+  - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
   - [ ] [Pro Git](https://git-scm.com/book)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
 
