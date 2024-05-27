@@ -130,13 +130,15 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
   - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
-- **Advanced (PostgreSQL):**
+- **PostgreSQL:**
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
   - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
   - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
   - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
   - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
   - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+- **SQLite:**
+  - [ ] 💲[SQLite on Rails](https://fractaledmind.gumroad.com/l/sqlite-on-rails)
 
 ### Git
 
