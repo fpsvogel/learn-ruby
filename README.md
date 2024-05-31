@@ -35,6 +35,7 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Accessibility](#accessibility)
   - [Front-end practice](#front-end-practice)
   - [Hotwire](#hotwire)
+  - [Other Ruby for the front end](#other-ruby-for-the-front-end)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
 - [Ruby blogs, podcasts, screencasts](#ruby-blogs-podcasts-screencasts)
@@ -364,6 +365,12 @@ Here are some places where you can learn with others or ask questions when you g
 - **Other similar libraries:**
   - [ ] [htmx](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI).
   - [ ] [htmz](https://leanrada.com/htmz/): like htmx but simpler.
+
+### Other Ruby for the front end
+
+- [Phlex](https://www.phlex.fun/): view templates
+- [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): an entire front-end framework
+- [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby
 
 ## Expanding my horizons
 
