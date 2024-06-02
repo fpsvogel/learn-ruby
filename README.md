@@ -199,6 +199,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 - **Misc.:**
   - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
+  - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt)
 
 ### Advanced Rails
 
