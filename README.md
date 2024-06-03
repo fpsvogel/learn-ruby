@@ -351,7 +351,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [David Colby's blog](https://www.colby.so)
   - [ ] 💲[Andrea Fomera - Learn Hotwire by Building a Calendar](https://store.afomera.dev/learn-hotwire-by-building-a-calendar)
 - **Examples and snippets:**
-  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/active) from Thoughtbot
+  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) from Thoughtbot
   - [ ] [Better Stimulus](https://www.betterstimulus.com/)
   - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
   - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
