@@ -104,8 +104,9 @@ Only books and courses are listed below, but be sure to *build things* as you le
 Here are some places where you can learn with others or ask questions when you get stuck.
 
 - **Communities:**
-  - [Ruby.social Mastodon instance](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
-  - [Ruby on Rails Link community on Slack](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
+  - [Ruby (Discord)](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
+  - [Ruby.social (Mastodon)](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
+  - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
@@ -234,7 +235,7 @@ Here are some places where you can learn with others or ask questions when you g
 ### HTML and CSS
 
 - **Community:**
-  - [The Spicy Web community on Discord](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
+  - [The Spicy Web (Discord)](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
 - **HTML:**
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -322,7 +323,7 @@ Here are some places where you can learn with others or ask questions when you g
 ### Hotwire
 
 - **Community and news:**
-  - [StimulusReflex community on Discord](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
+  - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
   - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
   - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
