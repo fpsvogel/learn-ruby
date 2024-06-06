@@ -448,17 +448,23 @@ Here are some places where you can learn with others or ask questions when you g
   - [One Ruby Question](https://buttondown.email/bhumi/archive/) <!-- https://assets.buttondown.email/images/0375126a-cf71-4d05-baca-c5d2ee0da1d7.png -->
   - [Write Software, Well](https://www.writesoftwarewell.com/) <!-- https://letslearnruby.com/images/akshay-khot.jpg -->
   - [zverok on lucid code and open data](https://zverok.substack.com/) <!-- https://avatars.githubusercontent.com/u/129656 -->
-- **"Let's build" screencasts:** These are channels that have at least one series that uses Rails 7.
-  - [CJ Avilla](https://www.youtube.com/@cjav_dev/playlists) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
-  - [Conner Jensen](https://www.youtube.com/@connerjensen8170/videos) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
-  - [TypeFast](https://www.youtube.com/@typefastco/playlists) <!-- https://i.ytimg.com/vi/0ghpv0XZ4ZY/maxresdefault.jpg -->
-  - [Webcrunch](https://www.youtube.com/@Webcrunch/playlists) <!-- https://i.ytimg.com/vi/uef6vBXyY0M/maxresdefault.jpg -->
+- **"Let's build" screencasts:** These are series using at least Rails 7.
+  - [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/watch?v=uuHtuR2FFS4&list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
+  - [Conner Jensen - learning management system](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/HDA9QiHgrsI/maxresdefault.jpg -->
+  - [Conner Jensen - ecommerce app](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
+  - [TypeFast - Tinysale (Gumroad clone)](https://www.youtube.com/playlist?list=PLCawOXF4xaJLcYMsWPqEKoOCDsr-xLv5J) <!-- https://i.ytimg.com/vi/SevRvvTkY78/maxresdefault.jpg -->
+  - [TypeFast - Airbnb clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe) <!-- https://i.ytimg.com/vi/D889P37r3bc/maxresdefault.jpg -->
+  - [TypeFast - Trello clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLgAlweneIHqQTUMiVquXaD) <!-- https://i.ytimg.com/vi/vcBdu3zkeV8/maxresdefault.jpg -->
+  - [TypeFast - Twitter clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLb9HwPWiizGBNupJszY6bR) <!-- https://i.ytimg.com/vi/XxuPlSW4t6M/maxresdefault.jpg -->
+  - [TypeFast - Instagram clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJIzmh3y8xxzGGYog9r3npOE) <!-- https://i.ytimg.com/vi/0ghpv0XZ4ZY/maxresdefault.jpg -->
+  - [Webcrunch - supplement sharing app](https://www.youtube.com/playlist?list=PL01nNIgQ4uxOhHYZd6THGIFVBALJZCcpM) <!-- https://i.ytimg.com/vi/uef6vBXyY0M/maxresdefault.jpg -->
 - **Topical screencasts:**
-  - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
   - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
   - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
   - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
   - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
+  - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
+  - [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://yt3.googleusercontent.com/HcRWuzE7YZQ9XTWsMS5oxGBy03oyCkgneFOIJtrGSqBvtzRgaHeUt_461gfEyOtKAx4JNhayxA=s176-c-k-c0x00ffffff-no-rj -->
 - **Streams:**
   - [ChaelCodes](https://www.twitch.tv/ChaelCodes) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
   - [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
