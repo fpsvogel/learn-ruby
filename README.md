@@ -1,5 +1,5 @@
-<!-- regex to find items with missing images: results should include only GitHub links -->
-<!-- - \[x\] .+[^>\n]\n -->
+<!-- regex to find items with missing images -->
+<!-- ^\s*- \[((?!\(#| \]|->\n|github.com).)+$ -->
 
 <!-- omit in toc -->
 # Learn Ruby: a resource list
@@ -374,9 +374,9 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Other Ruby for the front end
 
-- [Phlex](https://www.phlex.fun/): view templates
+- [Phlex](https://www.phlex.fun/): view templates <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
 - [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): an entire front-end framework
-- [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby
+- [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby <!-- https://heartml-docs.onrender.com/images/Callee.png -->
 
 ## Expanding my horizons
 
@@ -427,7 +427,7 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Ruby game libraries:**
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Gamefic](https://gamefic.com/) <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png --> is for building text-based adventure games and interactive fiction.
+  - [Gamefic](https://gamefic.com/) is for building text-based adventure games and interactive fiction. <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
   - [MiniGL](https://github.com/victords/minigl)
   - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
