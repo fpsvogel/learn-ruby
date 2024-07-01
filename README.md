@@ -531,6 +531,7 @@ If you want to explore more widely, here are other places to find open-source Ru
 Without further ado…
 
 - **Small codebases:** Less than 50k lines of Ruby code.
+  - [github.com/onerinas/whatwentwelltoday](https://github.com/onerinas/whatwentwelltoday). <2k lines. *An app to share daily positivity.*
   - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey codebases.*
   - [github.com/nshki/naisho](https://github.com/nshki/naisho). <2k lines. *Send personal data deletion request emails to hundreds of data brokers at once.*
   - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
