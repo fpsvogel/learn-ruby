@@ -482,6 +482,7 @@ These are series using at least Rails 7.
 
 ### Streams
 
+- [AmirRajan](https://www.twitch.tv/amirrajan) <!-- https://avatars.githubusercontent.com/u/517055?s=400 -->
 - [ChaelCodes](https://www.twitch.tv/ChaelCodes) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
 - [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
 - [fractaledmind](https://www.youtube.com/@fractaledmind/streams) <!-- https://yt3.googleusercontent.com/GRH79JWqn6GEmoZxTcVAHFUFgqkw1P3adun8cVuSR2jH7-_TIaXH4yYAFRIsLjv92LxXkSW-Zg=s176-c-k-c0x00ffffff-no-rj -->
