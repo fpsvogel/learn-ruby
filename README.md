@@ -544,6 +544,7 @@ Without further ado…
   - [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator). 9k lines. *Community calendar platform.*
   - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 12k lines. *The reverse job board for Ruby on Rails developers.*
   - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 12k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+  - [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt). 12k lines. *Self-hosted ChatGPT alternative.*
   - [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject). 12k lines. *Main website for The Odin Project web development learning platform.*
   - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 13k lines. *Hacker News clone.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
