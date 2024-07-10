@@ -477,6 +477,7 @@ These are series using at least Rails 7.
 - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
 - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
 - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
+- [Ruby & Beyond](https://www.youtube.com/@RubyAndBeyond) <!-- https://yt3.googleusercontent.com/GN8RZ5dTfwVs_gMGkOkkpLizoD39WJTewaS1JbCouEPyMdOUo4FH97vvjMaX2uUjlqx4lw5LVg=s160-c-k-c0x00ffffff-no-rj -->
 - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
 - [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://yt3.googleusercontent.com/HcRWuzE7YZQ9XTWsMS5oxGBy03oyCkgneFOIJtrGSqBvtzRgaHeUt_461gfEyOtKAx4JNhayxA=s176-c-k-c0x00ffffff-no-rj -->
 
