@@ -329,14 +329,19 @@ Here are some places where you can learn with others or ask questions when you g
 ### Hotwire
 
 - **Community and news:**
-  - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
-  - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
-  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
   - [Hotwiring Rails](https://buttondown.email/davidcolby) <!-- https://buttondown.email/static/images/icons/icon-square@400.png -->
+  - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
+  - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
+  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
+- **Reference:**
+  - [Hotwire.io](https://hotwire.io) (more extensive than [the official docs](https://hotwired.dev/)) <!-- https://hotwire.io/apple-touch-icon.png -->
+  - [Betterstimulus](https://www.betterstimulus.com) <!-- https://raw.githubusercontent.com/github/explore/b0f7ffc5ee5bc1b6dfc1bbc4d75dd2587a243c14/topics/stimulus/stimulus.png -->
+  - [Stimulus-Use](https://stimulus-use.github.io/stimulus-use) <!-- https://avatars.githubusercontent.com/u/65528542?s=400 -->
+  - [Stimulus Components](https://www.stimulus-components.com/) <!-- https://avatars.githubusercontent.com/u/72915408?s=400 -->
+  - [thoughtbot - Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
 - **Basics:**
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-  - [ ] [Hotwire.io](https://hotwire.io) (better than the official docs site)
   - [ ] [Write Software, Well - A Brief Introduction to Hotwire](https://www.writesoftwarewell.com/introduction-to-hotwire/)
   - [ ] [Write Software, Well - You Don't Need Rails to Start Using Hotwire](https://www.writesoftwarewell.com/using-hotwire-without-rails/)
   - [ ] [Write Software, Well - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.writesoftwarewell.com/understanding-hotwire-turbo-streams/)
@@ -357,11 +362,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
   - [ ] [David Colby's blog](https://www.colby.so)
   - [ ] 💲[Andrea Fomera - Learn Hotwire by Building a Calendar](https://store.afomera.dev/learn-hotwire-by-building-a-calendar)
-- **Examples and snippets:**
-  - [ ] [Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) from Thoughtbot
-  - [ ] [Better Stimulus](https://www.betterstimulus.com/)
-  - [ ] [Stimulus-Use](https://stimulus-use.github.io/stimulus-use)
-  - [ ] [Stimulus Components](https://www.stimulus-components.com/) for inspiration
 - **Hotwire extensions:**
   - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
   - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
