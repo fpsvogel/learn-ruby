@@ -330,7 +330,6 @@ Here are some places where you can learn with others or ask questions when you g
 
 - **Community and news:**
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
-  - [Hotwiring Rails](https://buttondown.email/davidcolby) <!-- https://buttondown.email/static/images/icons/icon-square@400.png -->
   - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
   - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
   - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
