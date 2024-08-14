@@ -19,7 +19,7 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Ruby basics](#ruby-basics)
   - [Rails basics](#rails-basics)
   - [Getting hired](#getting-hired)
-  - [Ruby/Rails communities](#rubyrails-communities)
+  - [Ruby/Rails community](#rubyrails-community)
 - [Foundational tools](#foundational-tools)
   - [SQL](#sql)
   - [Git](#git)
@@ -104,14 +104,15 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
   - [Notes on my 2023-2024 job search](https://fpsvogel.com/posts/2024/job-search-networking-for-engineers) <!-- https://letslearnruby.com/images/2023-job-search.jpg -->
 
-### Ruby/Rails communities
+### Ruby/Rails community
 
 Here are some places where you can learn with others or ask questions when you get stuck.
 
-- **Communities:**
+- **Community:**
   - [Ruby (Discord)](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
   - [Ruby.social (Mastodon)](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
   - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
+  - [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are often great. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
 - **Newsletters:**
   - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
   - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
