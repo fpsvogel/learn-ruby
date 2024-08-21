@@ -190,6 +190,9 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Advanced Ruby
 
+- **Exercises:**
+  - [ ] [Advent of Code](https://adventofcode.com). Ruby solutions: [1](https://github.com/eregon/adventofcode), [2](https://github.com/gchan/advent-of-code-ruby), [3](https://github.com/ahorner/advent-of-code/tree/main/lib), [4](https://github.com/ZogStriP/adventofcode), [5](https://github.com/erikw/advent-of-code-solutions), [mine (WIP)](https://github.com/fpsvogel/ruby-advent-of-code). Along with my solutions you'll also find a Ruby CLI. <!-- https://letslearnruby.com/images/aoc.png -->
+  - [ ] [LeetCode](https://leetcode.com) if you're so inclined. LeetCode solutions in Ruby are linked [in my "Learn CS" list](https://github.com/fpsvogel/learn-cs?data-structures-and-algorithms).
 - **Reference:**
   - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
