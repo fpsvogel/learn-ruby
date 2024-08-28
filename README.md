@@ -222,7 +222,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/) (not Rails-specific)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
 - **Views:**
   - [ ] [Phlex](https://github.com/phlex-ruby) and tools based on it, such as [Superform](https://github.com/rubymonolith/superform).
@@ -404,6 +403,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) <!-- https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/91quawUTiVL._SY522_.jpg -->
   - [x] [Refactoring.Guru](https://refactoring.guru/) <!-- https://refactoring.guru/images/content-public/logos/logo-plain.png -->
   - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
+- **Architecture (not Rails-specific):**
+  - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+  - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
+  - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
   - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
