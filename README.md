@@ -282,7 +282,7 @@ Here are some places where you can learn with others or ask questions when you g
 ### JS
 
 - **Basics:**
-  - [x] [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/) <!-- https://exploringjs.com/impatient-js/img-homepage/cover-homepage.jpg -->
+  - [x] [Exploring JavaScript](https://exploringjs.com/js/) <!-- https://exploringjs.com/js/img/cover-homepage.jpg -->
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
@@ -297,6 +297,18 @@ Here are some places where you can learn with others or ask questions when you g
 - **Front-end frameworks:**
   - [x] Learn the basics of some popular frameworks, e.g. [React](https://react.dev/learn) and [Vue.js](https://vuejs.org/guide/introduction.html) <!-- https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg -->
   - [ ] Explore smaller reactive JS libraries: [Arrow](https://github.com/justin-schroeder/arrow-js), [Hybrids](https://github.com/hybridsjs/hybrids), [Crank](https://github.com/bikeshaving/crank), [Bau](https://github.com/grucloud/bau), [Stampino](https://github.com/justinfagnani/stampino)
+- **TypeScript:**
+  - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
+  - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
+  - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+  - [ ] [Official docs](https://www.typescriptlang.org/)
+  - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
+  - [ ] [Type Challenges](https://tsch.js.org/)
+  - [ ] [TypeHero](https://typehero.dev/)
+  - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
+  - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
+- **Back-end JS:**
+  - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/)
 - **Going deeper:**
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
