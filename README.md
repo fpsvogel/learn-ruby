@@ -294,8 +294,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- **React:**
-  - [x] [React "Learn" docs](https://react.dev/learn) <!-- https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg -->
+- **Front-end frameworks:**
+  - [x] Learn the basics of some popular frameworks, e.g. [React](https://react.dev/learn) and [Vue.js](https://vuejs.org/guide/introduction.html) <!-- https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg -->
+  - [ ] Explore smaller reactive JS libraries: [Arrow](https://github.com/justin-schroeder/arrow-js), [Hybrids](https://github.com/hybridsjs/hybrids), [Crank](https://github.com/bikeshaving/crank), [Bau](https://github.com/grucloud/bau), [Stampino](https://github.com/justinfagnani/stampino)
 - **Going deeper:**
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -305,6 +306,17 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
+  - [ ] Other web component libraries like Lit: [Stencil](https://github.com/ionic-team/stencil), [LemonadeJS](https://github.com/lemonadejs/lemonadejs), [Web Component Base](https://github.com/ayoayco/web-component-base), [Cami.js](https://github.com/kennyfrc/cami.js)
+        <!-- meh:
+        https://github.com/frameable/el
+        https://github.com/realmorg/realm
+        https://github.com/adamghill/dlite
+        https://github.com/mixpanel/panel
+        https://github.com/ficusjs/ficusjs
+        https://github.com/Cobwebsite/Aventus
+        https://github.com/lume/element
+        https://github.com/cferdinandi/reef -->
+  - [ ] HTML-first web component libraries: [Strawberry](https://strawberry.quest), [Ponys](https://github.com/jhuddle/ponys), [Tram-Lite](https://github.com/Tram-One/tram-lite), [Reken](https://github.com/hbroek/reken), [WebC](https://github.com/11ty/webc)
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
 
 ### UI and usability
