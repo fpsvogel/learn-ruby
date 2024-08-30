@@ -428,6 +428,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) <!-- https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/91quawUTiVL._SY522_.jpg -->
   - [x] [Refactoring.Guru](https://refactoring.guru/) <!-- https://refactoring.guru/images/content-public/logos/logo-plain.png -->
   - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
+  - [ ] 💲[Exercises in Programming Style](https://www.routledge.com/Exercises-in-Programming-Style/Lopes/p/book/9780367350208)
 - **Architecture (not Rails-specific):**
   - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
