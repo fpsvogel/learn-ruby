@@ -418,6 +418,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
   - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/) <!-- https://localghost.dev/img/og-image.png -->
+  - [ ] 💲[The Missing README: A Guide for the New Software Engineer](https://nostarch.com/missing-readme)
   - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
   - [ ] [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
   - [ ] 💲[The Software Engineer's Guidebook](https://www.engguidebook.com)
