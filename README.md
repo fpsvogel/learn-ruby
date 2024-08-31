@@ -275,8 +275,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Grid Critters](https://gridcritters.com/)
   - [ ] [CSS Diner](https://flukeout.github.io/)
   - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [ ] [Flexbox Defense](http://www.flexboxdefense.com/)
   - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
   - [ ] [CSSBattle](https://cssbattle.dev/)
+  - [ ] [Coding Fantasy](https://codingfantasy.com/)
 
 ### JS
 
