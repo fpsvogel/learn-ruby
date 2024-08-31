@@ -69,6 +69,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby). If you like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
 - **Guided practice:**
   - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby-practice)). <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
+  - [ ] [Advent of Code](https://adventofcode.com) with other people's Ruby solutions to compare yours to. One way to do this is [my Ruby AoC CLI](https://github.com/fpsvogel/ruby-advent-of-code) (command-line interface). <!-- https://letslearnruby.com/images/aoc.png -->
 - **OOP (object-oriented programming):**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) <!-- https://images.squarespace-cdn.com/content/v1/5527cdbae4b0ee7b897c2111/1530279450483-K5BJ5TZGMYSWYA3QQA63/POODR_2e_cover_low_res.jpg -->
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby) <!-- https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg -->
@@ -190,9 +191,6 @@ Here are some places where you can learn with others or ask questions when you g
 
 ### Advanced Ruby
 
-- **Exercises:**
-  - [ ] [Advent of Code](https://adventofcode.com). Ruby solutions: [1](https://github.com/eregon/adventofcode), [2](https://github.com/gchan/advent-of-code-ruby), [3](https://github.com/ahorner/advent-of-code/tree/main/lib), [4](https://github.com/ZogStriP/adventofcode), [5](https://github.com/erikw/advent-of-code-solutions), [mine (WIP)](https://github.com/fpsvogel/ruby-advent-of-code). Along with my solutions you'll also find a Ruby CLI. <!-- https://letslearnruby.com/images/aoc.png -->
-  - [ ] [LeetCode](https://leetcode.com) if you're so inclined. LeetCode solutions in Ruby are linked [in my "Learn CS" list](https://github.com/fpsvogel/learn-cs?data-structures-and-algorithms).
 - **Reference:**
   - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
