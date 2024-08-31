@@ -33,7 +33,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [JS](#js)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
-  - [Front-end practice](#front-end-practice)
   - [Hotwire](#hotwire)
   - [Other Ruby for the front end](#other-ruby-for-the-front-end)
 - [Expanding my horizons](#expanding-my-horizons)
@@ -289,6 +288,11 @@ Here are some places where you can learn with others or ask questions when you g
 - **Practice:**
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] Build something in JS, or do [JavaScript30](https://javascript30.com/)
+  - [ ] [JS Hero](https://www.jshero.net/)
+  - [ ] [Frontend Mentor](https://www.frontendmentor.io/)
+  - [ ] [Frontend Practice](https://www.frontendpractice.com/)
+  - [ ] [JSchallenger](https://www.jschallenger.com/)
+  - [ ] [w3resource - JS exercises](https://www.w3resource.com/javascript-exercises/)
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -351,12 +355,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
-
-### Front-end practice
-
-- [ ] [Codewell](https://www.codewell.cc/)
-- [ ] [Frontend Mentor](https://www.frontendmentor.io/)
-- [ ] [Frontend Practice](https://www.frontendpractice.com/)
 
 ### Hotwire
 
