@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+
+# Prevents a commit if any image URLs are missing.
+
+# To enable this hook, run the following in this repo locally:
+#   git config --local core.hooksPath .githooks
+
+file = "README.md"
+stdout = %x[git status -s | grep "^M  #{file}"]
+readme_staged = !stdout.empty?
+exit 0 unless readme_staged
+
+pattern = /^\s*- \[((?!\(#| \]|->\n|github.com).)+$/
+lines = File.readlines(file)
+
+red = "\x1b[1;31m"
+dim = "\x1b[2m"
+reset = "\x1b[0m"
+
+bad_lines = lines.filter_map.with_index { |line, index|
+  "#{file}:#{index + 1} #{dim}#{line.lstrip}#{reset}" if pattern.match?(line)
+}
+
+if bad_lines.any?
+  puts "\n#{red}Oops! Missing image URLs:#{reset} \n\n" + bad_lines.join
+  exit 1
+end
+
+exit 0
