@@ -1,6 +1,3 @@
-<!-- regex to find items with missing images -->
-<!-- ^\s*- \[((?!\(#| \]|->\n|github.com).)+$ -->
-
 <!-- omit in toc -->
 # Learn Ruby: a resource list
 
@@ -30,13 +27,14 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
   - [HTML and CSS](#html-and-css)
-  - [JS](#js)
+  - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
   - [Hotwire](#hotwire)
   - [Other Ruby for the front end](#other-ruby-for-the-front-end)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
+- [Programming games](#programming-games)
 - [Ruby media](#ruby-media)
   - [Blogs](#blogs)
   - ["Let's build" screencasts](#lets-build-screencasts)
@@ -74,7 +72,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) <!-- https://images.squarespace-cdn.com/content/v1/5527cdbae4b0ee7b897c2111/1530279450483-K5BJ5TZGMYSWYA3QQA63/POODR_2e_cover_low_res.jpg -->
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby) <!-- https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg -->
 - **Build stuff with Ruby.** Here are some ideas:
-  - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). *Extra challenge:* interface with a website or API, e.g. make a CLI for [Advent of Code](https://adventofcode.com/) ([example](https://github.com/Keirua/aoc-cli)) or [Space Traders](https://spacetraders.io/). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
+  - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
   - A game. A text-based game is the simplest approach; for graphical games, see the [Games in Ruby](#games-in-ruby) section. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://d31ezp3r8jwmks.cloudfront.net/2injd2hqjy28zry8i3khh7jauncy -->
@@ -268,17 +266,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
   - [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
   - [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
-- **CSS games:**
-  - [ ] [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
-  - [ ] [Grid Critters](https://gridcritters.com/)
-  - [ ] [CSS Diner](https://flukeout.github.io/)
-  - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
-  - [ ] [Flexbox Defense](http://www.flexboxdefense.com/)
-  - [ ] [CSS Grid Garden](https://cssgridgarden.com/)
-  - [ ] [CSSBattle](https://cssbattle.dev/)
-  - [ ] [Coding Fantasy](https://codingfantasy.com/)
+  - [ ] [CSS games](#programming-games)
 
-### JS
+### JavaScript
 
 - **Basics:**
   - [x] [Exploring JavaScript](https://exploringjs.com/js/) <!-- https://exploringjs.com/js/img/cover-homepage.jpg -->
@@ -293,6 +283,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Frontend Practice](https://www.frontendpractice.com/)
   - [ ] [JSchallenger](https://www.jschallenger.com/)
   - [ ] [w3resource - JS exercises](https://www.w3resource.com/javascript-exercises/)
+  - [ ] [JS games](#programming-games)
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -471,6 +462,31 @@ Here are some places where you can learn with others or ask questions when you g
   - [Zif](https://github.com/danhealy/dragonruby-zif)
   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
   - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzc3Mjc2ODYucG5n/315x250%23c/UBg9MK.png -->
+
+## Programming games
+
+- **API games (any language):**
+  - [Space Traders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
+  - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
+  - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
+- **Ruby:**
+  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
+  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
+- **JavaScript/TypeScript:**
+  - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
+  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB -->
+  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
+- **CSS:**
+  - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
+  - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
+  - [CSS Diner](https://flukeout.github.io/) <!-- https://i.pinimg.com/736x/8a/b1/ad/8ab1ad8128508785f956eb6f58779b47.jpg -->
+  - [Flexbox Froggy](https://flexboxfroggy.com/) <!-- https://flexboxfroggy.com/favicon.ico -->
+  - [Flexbox Defense](http://www.flexboxdefense.com/) <!-- https://velog.velcdn.com/images%2Fdaymoon_%2Fpost%2F7b73b771-50e0-4728-99ec-0dc60f8b7153%2Fimage.png -->
+  - [CSS Grid Garden](https://cssgridgarden.com/) <!-- https://cssgridgarden.com/favicon.ico -->
+  - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
+  - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
+- **Other:**
+  - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
 
 ## Ruby media
 
