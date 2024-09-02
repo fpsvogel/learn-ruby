@@ -430,7 +430,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **Learn functional programming**
+- **Learn computer science:**
+  - [My list "Learn Computer Science and Low-Level Programming"](https://github.com/fpsvogel/learn-cs)
+- **Learn functional programming:**
   - [My list "Learn functional programming"](https://github.com/fpsvogel/learn-functional-programming)
 <!--
 - **Monitoring:**
