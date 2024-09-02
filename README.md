@@ -283,7 +283,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Frontend Practice](https://www.frontendpractice.com/)
   - [ ] [JSchallenger](https://www.jschallenger.com/)
   - [ ] [w3resource - JS exercises](https://www.w3resource.com/javascript-exercises/)
-  - [ ] [JS games](#programming-games)
+  - [ ] [JS programming games](#programming-games)
+  <!-- JS text-based game engines:
+        https://github.com/okaybenji/text-engine
+        https://github.com/EyeOfMidas/text-adventure -->
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -300,6 +303,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
   - [ ] [Type Challenges](https://tsch.js.org/)
   - [ ] [TypeHero](https://typehero.dev/)
+  - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
   - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
   - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
 - **Back-end JS:**
@@ -308,6 +312,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+  <!-- Self language:
+        https://sin-ack.github.io/posts/a-tour-of-self/
+        https://worrydream.com/refs/Ungar_1991_-_Self,_The_Power_of_Simplicity.pdf
+        https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html -->
 - **Web components:**
   - [x] ["Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
