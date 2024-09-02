@@ -400,7 +400,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] 💲[The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 - **Other similar libraries:**
   - [ ] [htmx](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI).
-  - [ ] [htmz](https://leanrada.com/htmz/): like htmx but simpler.
+  - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
 
 ### Other Ruby for the front end
 
