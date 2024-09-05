@@ -283,7 +283,6 @@ Here are some places where you can learn with others or ask questions when you g
     - Solutions: [1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)
   - [ ] [Frontend Mentor](https://www.frontendmentor.io/)
   - [ ] [Frontend Practice](https://www.frontendpractice.com/)
-  - [ ] [JSchallenger](https://www.jschallenger.com/)
   - [ ] [w3resource - JS exercises](https://www.w3resource.com/javascript-exercises/)
   <!-- JS text-based game engines:
         https://github.com/okaybenji/text-engine
