@@ -470,7 +470,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - [Zif](https://github.com/danhealy/dragonruby-zif)
   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
-  - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzc3Mjc2ODYucG5n/315x250%23c/UBg9MK.png -->
+  - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzE1MjgzNzg5LnBuZw==/315x250%23c/VLfPIW.png -->
 
 ## Programming games
 
@@ -483,8 +483,8 @@ Here are some places where you can learn with others or ask questions when you g
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
 - **JavaScript/TypeScript:**
   - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
-  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB -->
-  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
+  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
+  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
 - **CSS:**
   - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
   - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
