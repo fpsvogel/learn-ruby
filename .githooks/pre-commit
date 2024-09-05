@@ -10,7 +10,7 @@ stdout = %x[git status -s | grep "^M  #{file}"]
 readme_staged = !stdout.empty?
 exit 0 unless readme_staged
 
-pattern = /^\s*- \[((?!\(#| \]|->\n|github.com).)+$/
+pattern = /^\s*- ((?<!\*\*)[^\[])*\[((?!\(#| \]|->\n|github.com).)+$/
 lines = File.readlines(file)
 
 red = "\x1b[1;31m"
