@@ -275,7 +275,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-- **Practice:** see also [programming games](#programming-games) below.
+- **Practice:** See also [programming games](#programming-games) below.
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [Advent of Code](https://adventofcode.com/)
     - CLI runner: [1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)
@@ -298,6 +298,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - [ ] [Official docs](https://www.typescriptlang.org/)
   - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
+  - [ ] [Exercism - TypeScript](https://exercism.org/tracks/typescript)
   - [ ] [Type Challenges](https://tsch.js.org/)
   - [ ] [TypeHero](https://typehero.dev/)
   - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
