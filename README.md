@@ -292,7 +292,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Front-end frameworks:**
   - [x] Learn the basics of some popular frameworks, e.g. [React](https://react.dev/learn) and [Vue.js](https://vuejs.org/guide/introduction.html) <!-- https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg -->
   - [ ] Explore smaller reactive JS libraries: [Arrow](https://github.com/justin-schroeder/arrow-js), [Hybrids](https://github.com/hybridsjs/hybrids), [Crank](https://github.com/bikeshaving/crank), [Bau](https://github.com/grucloud/bau), [Stampino](https://github.com/justinfagnani/stampino)
-- **TypeScript:**
+- **TypeScript:** <a id=typescript></a>
   - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
   - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
   - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
