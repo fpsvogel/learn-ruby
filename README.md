@@ -319,8 +319,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
-  - [ ] Other web component libraries like Lit: [Stencil](https://github.com/ionic-team/stencil), [LemonadeJS](https://github.com/lemonadejs/lemonadejs), [Web Component Base](https://github.com/ayoayco/web-component-base), [Cami.js](https://github.com/kennyfrc/cami.js)
-        <!-- meh:
+        <!-- others like Lit:
+        https://github.com/ionic-team/stencil
+        https://github.com/lemonadejs/lemonadejs
+        https://github.com/ayoayco/web-component-base
+        https://github.com/kennyfrc/cami.js
         https://github.com/frameable/el
         https://github.com/realmorg/realm
         https://github.com/adamghill/dlite
