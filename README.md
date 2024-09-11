@@ -332,7 +332,7 @@ Here are some places where you can learn with others or ask questions when you g
         https://github.com/Cobwebsite/Aventus
         https://github.com/lume/element
         https://github.com/cferdinandi/reef -->
-  - [ ] HTML-first web component libraries: [Strawberry](https://strawberry.quest), [Ponys](https://github.com/jhuddle/ponys), [Tram-Lite](https://github.com/Tram-One/tram-lite), [Reken](https://github.com/hbroek/reken), [WebC](https://github.com/11ty/webc)
+  - [ ] HTML-first web component libraries: [Strawberry](https://strawberry.quest), [Ponys](https://github.com/jhuddle/ponys), [Tram-Deco](https://github.com/Tram-One/tram-deco), [Reken](https://github.com/hbroek/reken), [WebC](https://github.com/11ty/webc)
   - [ ] SSR web components in Ruby with the upcoming [Heartml](https://heartml-docs.onrender.com/) (see [this Spicy Web article](https://www.spicyweb.dev/web-components-ssr-node/) for context)
 
 ### UI and usability
