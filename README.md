@@ -213,7 +213,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
-  - [x] [Volmer's Rails Guide](https://volmerius.com/rails/) <!-- https://volmerius.com/images/volmer.jpg -->
+  - [ ] [Rails Way App](https://github.com/solid-process/rails-way-app)
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
@@ -282,6 +282,19 @@ Here are some places where you can learn with others or ask questions when you g
   <!-- JS text-based game engines:
         https://github.com/okaybenji/text-engine
         https://github.com/EyeOfMidas/text-adventure -->
+  <!-- JS game engines:
+        https://github.com/phaserjs/phaser
+        https://github.com/BabylonJS/Babylon.js
+        https://github.com/pixijs/pixijs
+        https://github.com/melonjs/melonJS
+        https://github.com/processing/p5.js
+        https://github.com/excaliburjs/Excalibur -->
+  <!-- JS physics engines:
+        https://github.com/liabru/matter-js
+        https://github.com/landgreen/n-gon
+        https://github.com/piqnt/planck.js
+        https://github.com/dimforge/rapier
+        https://github.com/Altanis/kinetics -->
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
