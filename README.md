@@ -277,9 +277,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 - **Practice:** See also [programming games](#programming-games) below.
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
-  - [ ] [Advent of Code](https://adventofcode.com/)
-    - CLI runner: [1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)
-    - Solutions: [1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)
+  - [ ] [Advent of Code](https://adventofcode.com/) with CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
   - [ ] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/)
   <!-- JS text-based game engines:
         https://github.com/okaybenji/text-engine
@@ -431,10 +429,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **Learn computer science:**
-  - [My list "Learn Computer Science and Low-Level Programming"](https://github.com/fpsvogel/learn-cs)
-- **Learn functional programming:**
-  - [My list "Learn functional programming"](https://github.com/fpsvogel/learn-functional-programming)
+- **My other lists:**
+  - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs)
+  - [Learn functional programming](https://github.com/fpsvogel/learn-functional-programming)
 <!--
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
@@ -482,14 +479,14 @@ Here are some places where you can learn with others or ask questions when you g
   - [Space Traders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
   - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
   - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
-- **Ruby:**
+- **Ruby games:**
   - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
-- **JavaScript/TypeScript:**
+- **JavaScript/TypeScript games:**
   - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
   - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
   - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
-- **CSS:**
+- **CSS games:**
   - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
   - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
   - [CSS Diner](https://flukeout.github.io/) <!-- https://i.pinimg.com/736x/8a/b1/ad/8ab1ad8128508785f956eb6f58779b47.jpg -->
@@ -498,7 +495,7 @@ Here are some places where you can learn with others or ask questions when you g
   - [CSS Grid Garden](https://cssgridgarden.com/) <!-- https://cssgridgarden.com/favicon.ico -->
   - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
   - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
-- **Other:**
+- **Other programming games:**
   - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
 
 ## Ruby media
@@ -559,7 +556,7 @@ These are series using at least Rails 7.
 - [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
 - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
 - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
-- [Friendly Show](https://www.friendly.show/) <!-- https://storage.buzzsprout.com/xg8v0bhdl3q0wyxro1ma4ym4j60w -->
+- [Friendly Show](https://www.friendly.show/) <!-- https://storage.buzzsprout.com/zhyzuuam1vptl88kzpj22qnk8naa -->
 - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
 - [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
 - [Maintainable](https://maintainable.fm/) <!-- https://maintainable.fm/images/maintainable-cover-robby-mid.jpg -->
