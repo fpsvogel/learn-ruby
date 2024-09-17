@@ -278,7 +278,7 @@ Here are some places where you can learn with others or ask questions when you g
 - **Practice:** See also [programming games](#programming-games) below.
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [Advent of Code](https://adventofcode.com/) with CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
-  - [ ] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/)
+  - [ ] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/)
   <!-- JS text-based game engines:
         https://github.com/okaybenji/text-engine
         https://github.com/EyeOfMidas/text-adventure -->
