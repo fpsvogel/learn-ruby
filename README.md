@@ -323,6 +323,7 @@ Here are some places where you can learn with others or ask questions when you g
         https://worrydream.com/refs/Ungar_1991_-_Self,_The_Power_of_Simplicity.pdf
         https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html -->
 - **HTML-first reactivity:**
+  - [ ] [Alpine.js](https://alpinejs.dev/)
   - [ ] [Reken](https://github.com/hbroek/reken) and [Reken solutions for Advent of JavaScript](https://github.com/hbroek/AOJ-Reken)
 
 ### UI and usability
