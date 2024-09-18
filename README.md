@@ -30,7 +30,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
-  - [Other Ruby for the front end](#other-ruby-for-the-front-end)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
 - [Programming games](#programming-games)
@@ -199,6 +198,10 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
   - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+- **Front end:**
+  - [ ] [Phlex](https://www.phlex.fun/): view templates <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
+  - [ ] [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): an entire front-end framework
+  - [ ] [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby <!-- https://heartml-docs.onrender.com/images/Callee.png -->
 - **Misc.:**
   - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
   - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt)
@@ -358,12 +361,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
-
-### Other Ruby for the front end
-
-- [Phlex](https://www.phlex.fun/): view templates <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
-- [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): an entire front-end framework
-- [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby <!-- https://heartml-docs.onrender.com/images/Callee.png -->
 
 ## Expanding my horizons
 
