@@ -30,7 +30,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
-  - [Hotwire](#hotwire)
   - [Other Ruby for the front end](#other-ruby-for-the-front-end)
 - [Expanding my horizons](#expanding-my-horizons)
 - [Games in Ruby](#games-in-ruby)
@@ -333,6 +332,9 @@ Here are some places where you can learn with others or ask questions when you g
         https://github.com/marcreichel/alpine-auto-animate -->
   - [ ] [Datastar](https://data-star.dev/) is another alternative to Alpine + htmx.
   - [ ] [Reken](https://github.com/hbroek/reken) and [Reken solutions for Advent of JavaScript](https://github.com/hbroek/AOJ-Reken)
+- **HTML over the wire:**
+  - [ ] [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/).
+  - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
 
 ### UI and usability
 
@@ -354,53 +356,6 @@ Here are some places where you can learn with others or ask questions when you g
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
-
-### Hotwire
-
-- **Community and news:**
-  - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
-  - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
-  - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
-  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
-- **Reference:**
-  - [Hotwire.io](https://hotwire.io) (more extensive than [the official docs](https://hotwired.dev/)) <!-- https://hotwire.io/apple-touch-icon.png -->
-  - [turbo-rails "Usage" README section](https://github.com/hotwired/turbo-rails#usage)
-  - [Betterstimulus](https://www.betterstimulus.com) <!-- https://raw.githubusercontent.com/github/explore/b0f7ffc5ee5bc1b6dfc1bbc4d75dd2587a243c14/topics/stimulus/stimulus.png -->
-  - [Stimulus-Use](https://stimulus-use.github.io/stimulus-use) <!-- https://avatars.githubusercontent.com/u/65528542?s=400 -->
-  - [Stimulus Components](https://www.stimulus-components.com/) <!-- https://avatars.githubusercontent.com/u/72915408?s=400 -->
-  - [thoughtbot - Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-- **Basics:**
-  - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-  - [ ] [Write Software, Well - A Brief Introduction to Hotwire](https://www.writesoftwarewell.com/introduction-to-hotwire/)
-  - [ ] [Write Software, Well - You Don't Need Rails to Start Using Hotwire](https://www.writesoftwarewell.com/using-hotwire-without-rails/)
-  - [ ] [Write Software, Well - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.writesoftwarewell.com/understanding-hotwire-turbo-streams/)
-  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
-  - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
-  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1), [Part 2](https://purpleriver.dev/posts/2023/hotwire-handbook-part-2-redux), [Part 3](https://purpleriver.dev/posts/2023/hotwire-handbook-part-3)
-  - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
-  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
-  - [ ] [Hotwire Cases](https://hotwiredcases.dev)
-  - [ ] [Turbo Music Drive](https://github.com/palkan/turbo-music-drive) app demonstrating upcoming features of Turbo 8
-  - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
-- **Screencasts and blogs:**
-  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
-  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
-  - [ ] [Rapid Ruby screencasts on Hotwire](https://www.youtube.com/playlist?list=PL2OcwqOUtdpCqddncOH61f0phQKtum3yQ)
-  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
-  - [ ] [David Colby's blog](https://www.colby.so)
-  - [ ] 💲[Andrea Fomera - Learn Hotwire by Building a Calendar](https://store.afomera.dev/learn-hotwire-by-building-a-calendar)
-- **Hotwire extensions:**
-  - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
-  - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
-  - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
-  - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
-- **Multi-platform:**
-  - [ ] 💲[The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
-- **Other similar libraries:**
-  - [ ] [htmx](https://htmx.org/): read the book [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI).
-  - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
 
 ### Other Ruby for the front end
 
