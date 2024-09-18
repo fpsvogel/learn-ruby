@@ -332,6 +332,7 @@ Here are some places where you can learn with others or ask questions when you g
         https://github.com/marcreichel/alpine-auto-animate -->
   - [ ] [Datastar](https://data-star.dev/) is another alternative to Alpine + htmx.
   - [ ] [Reken](https://github.com/hbroek/reken) and [Reken solutions for Advent of JavaScript](https://github.com/hbroek/AOJ-Reken)
+  - [ ] [Vue.js](https://vuejs.org/) [via CDN](https://vuejs.org/guide/quick-start#using-vue-from-cdn). [The examples](https://vuejs.org/examples/) can be viewed in HTML mode (see "API Preference" in the sidebar).
 - **HTML over the wire:**
   - [ ] [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/).
   - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
