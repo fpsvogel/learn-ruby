@@ -323,7 +323,7 @@ Here are some places where you can learn with others or ask questions when you g
         https://worrydream.com/refs/Ungar_1991_-_Self,_The_Power_of_Simplicity.pdf
         https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html -->
 - **HTML-first reactivity:**
-  - [ ] [Alpine.js](https://alpinejs.dev/) and [Alpine AJAX](https://alpine-ajax.js.org/)
+  - [ ] [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for htmx-like functionality.
   <!-- Other Alpine plugins:
         "Plugins" nav section at https://alpinejs.dev
         https://github.com/markmead/alpinejs-form-validation
@@ -331,6 +331,7 @@ Here are some places where you can learn with others or ask questions when you g
         https://github.com/ryangjchandler/alpine-clipboard
         https://github.com/marcreichel/alpine-autosize
         https://github.com/marcreichel/alpine-auto-animate -->
+  - [ ] [Datastar](https://data-star.dev/) is another alternative to Alpine + htmx.
   - [ ] [Reken](https://github.com/hbroek/reken) and [Reken solutions for Advent of JavaScript](https://github.com/hbroek/AOJ-Reken)
 
 ### UI and usability
