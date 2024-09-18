@@ -95,7 +95,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 ### Getting hired
 
 - **Get real-world experience to put on your resume:**
-  - Contribute to open source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails). <!-- https://imgs.xkcd.com/comics/dependency_2x.png -->
+  - Contribute to open-source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails). <!-- https://imgs.xkcd.com/comics/dependency_2x.png -->
   - [Ruby Central - Scholars and Guides Program](https://rubycentral.org/scholars_guides_program/) <!-- https://rubycentral.org/content/images/size/w256h256/format/png/2022/11/Ruby-Central-logo.svg -->
 - **The job search:**
   - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
@@ -199,9 +199,9 @@ Here are some places where you can learn with others or ask questions when you g
   - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 - **Front end:**
-  - [ ] [Phlex](https://www.phlex.fun/): view templates <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
-  - [ ] [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): an entire front-end framework
-  - [ ] [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby <!-- https://heartml-docs.onrender.com/images/Callee.png -->
+  - [ ] [Phlex](https://www.phlex.fun/): view templates; also a base for some other gems such as [Superform](https://github.com/rubymonolith/superform). <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
+  - [ ] [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): a Ruby front-end framework.
+  - [ ] [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby. <!-- https://heartml-docs.onrender.com/images/Callee.png -->
 - **Misc.:**
   - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
   - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt)
@@ -220,9 +220,6 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
-- **Views:**
-  - [ ] [Phlex](https://github.com/phlex-ruby) and tools based on it, such as [Superform](https://github.com/rubymonolith/superform).
-  - [ ] [Glimmer](https://github.com/AndyObtiva/glimmer) for Opal and for Web. See [the RubyConf 2023 workshop](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby/tree/rubyconf2023) and [sample apps](https://github.com/AndyObtiva?tab=repositories&q=sample+glimmer+app).
 - **Performance:**
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
