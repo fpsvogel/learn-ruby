@@ -278,41 +278,11 @@ Here are some places where you can learn with others or ask questions when you g
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [Advent of Code](https://adventofcode.com/) with CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
   - [ ] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/)
-  <!-- JS text-based game engines:
-        https://github.com/okaybenji/text-engine
-        https://github.com/EyeOfMidas/text-adventure -->
-  <!-- JS game engines:
-        https://github.com/phaserjs/phaser
-        https://github.com/BabylonJS/Babylon.js
-        https://github.com/pixijs/pixijs
-        https://github.com/melonjs/melonJS
-        https://github.com/processing/p5.js
-        https://github.com/excaliburjs/Excalibur -->
-  <!-- JS physics engines:
-        https://github.com/liabru/matter-js
-        https://github.com/landgreen/n-gon
-        https://github.com/piqnt/planck.js
-        https://github.com/dimforge/rapier
-        https://github.com/Altanis/kinetics -->
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- **TypeScript:** <a id=typescript></a>
-  - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
-  - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
-  - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
-  - [ ] [Official docs](https://www.typescriptlang.org/)
-  - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
-  - [ ] [Exercism - TypeScript](https://exercism.org/tracks/typescript)
-  - [ ] [Type Challenges](https://tsch.js.org/)
-  - [ ] [TypeHero](https://typehero.dev/)
-  - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
-  - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
-  - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
-- **Back-end JS:**
-  - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/)
 - **Going deeper:**
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -336,6 +306,37 @@ Here are some places where you can learn with others or ask questions when you g
 - **HTML over the wire:**
   - [ ] [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/).
   - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
+<!-- - **TypeScript:**
+  - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
+  - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
+  - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+  - [ ] [Official docs](https://www.typescriptlang.org/)
+  - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
+  - [ ] [Exercism - TypeScript](https://exercism.org/tracks/typescript)
+  - [ ] [Type Challenges](https://tsch.js.org/)
+  - [ ] [TypeHero](https://typehero.dev/)
+  - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
+  - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
+  - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
+- **Back-end JS:**
+  - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/) -->
+
+<!-- JS text-based game engines:
+      https://github.com/okaybenji/text-engine
+      https://github.com/EyeOfMidas/text-adventure -->
+<!-- JS game engines:
+      https://github.com/phaserjs/phaser
+      https://github.com/BabylonJS/Babylon.js
+      https://github.com/pixijs/pixijs
+      https://github.com/melonjs/melonJS
+      https://github.com/processing/p5.js
+      https://github.com/excaliburjs/Excalibur -->
+<!-- JS physics engines:
+      https://github.com/liabru/matter-js
+      https://github.com/landgreen/n-gon
+      https://github.com/piqnt/planck.js
+      https://github.com/dimforge/rapier
+      https://github.com/Altanis/kinetics -->
 
 ### UI and usability
 
