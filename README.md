@@ -55,7 +55,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
 ### Front-end basics
 
 - [x] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below. <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
-- [x] Build a blog from scratch. [GitHub Pages](https://pages.github.com) is an accessible way to do this. (Choose the option "Project site", then "Start from scratch".) <!-- https://letslearnruby.com/images/blog-html.png -->
+- [x] Build a blog from scratch. [GitHub Pages](https://pages.github.com) is an accessible way to do this. (Choose the option "Project site", then "Start from scratch".) <!-- https://letslearnruby.com/images/html-blog.png -->
 
 ### Ruby basics
 
@@ -291,21 +291,23 @@ Here are some places where you can learn with others or ask questions when you g
         https://sin-ack.github.io/posts/a-tour-of-self/
         https://worrydream.com/refs/Ungar_1991_-_Self,_The_Power_of_Simplicity.pdf
         https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html -->
-- **HTML-first reactivity:**
-  - [ ] [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for htmx-like functionality.
+- **HTML-first JS libraries:** There are lots of these, e.g. see [Hotwire](https://hotwired.dev/), many others at [UnsuckJS](https://unsuckjs.com/). But these are the ones I'm most interested in.
+  - [i-html](https://www.keithcirkel.co.uk/i-html/) for HTML over the wire. Also, read [Hypermedia Systems](https://hypermedia.systems) and/or watch [Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/) (a similar library that is larger and better-known). <!-- https://letslearnruby.com/images/html.jpg -->
+  - [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for functionality like i-html/htmx. <!-- https://avatars.githubusercontent.com/u/59030169?s=400 -->
   <!-- Other Alpine plugins:
         "Plugins" nav section at https://alpinejs.dev
         https://github.com/markmead/alpinejs-form-validation
-        https://js.hyperui.dev/examples/form-validation
+          https://js.hyperui.dev/examples/form-validation
+        https://github.com/0wain/alpinejs-requests
         https://github.com/ryangjchandler/alpine-clipboard
         https://github.com/marcreichel/alpine-autosize
         https://github.com/marcreichel/alpine-auto-animate -->
-  - [ ] [Datastar](https://data-star.dev/) is another alternative to Alpine + htmx.
-  - [ ] [Reken](https://github.com/hbroek/reken) and [Reken solutions for Advent of JavaScript](https://github.com/hbroek/AOJ-Reken)
-  - [ ] [Vue.js](https://vuejs.org/) [via CDN](https://vuejs.org/guide/quick-start#using-vue-from-cdn). [The examples](https://vuejs.org/examples/) can be viewed in HTML mode (see "API Preference" in the sidebar).
-- **HTML over the wire:**
-  - [ ] [Hypermedia Systems](https://hypermedia.systems) and/or watch [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/).
-  - [ ] [i-html](https://www.keithcirkel.co.uk/i-html/): like htmx but simpler.
+  <!-- Alpine lookalikes:
+        https://data-star.dev - alternative to Alpine + htmx
+        https://github.com/hbroek/reken
+          https://github.com/hbroek/AOJ-Reken
+        https://vuejs.org/ via CDN https://vuejs.org/guide/quick-start#using-vue-from-cdn
+          the examples (https://vuejs.org/examples) can be viewed in HTML mode: see "API Preference" in the sidebar -->
 <!-- - **TypeScript:**
   - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
   - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
