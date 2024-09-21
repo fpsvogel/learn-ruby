@@ -114,9 +114,10 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
   - [x] [SQLBolt](https://sqlbolt.com) <!-- https://letslearnruby.com/images/sql-bolt.png -->
   - [x] [Select Star SQL](https://selectstarsql.com) <!-- https://selectstarsql.com/imgs/favicon-256.png -->
-  - [x] [SQL Murder Mystery](https://mystery.knightlab.com/) <!-- https://mystery.knightlab.com/174092-clue-illustration.png -->
-  - [x] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
-  - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
+  <!-- Others: -->
+  <!-- - [x] [SQL Murder Mystery](https://mystery.knightlab.com/) <!-- https://mystery.knightlab.com/174092-clue-illustration.png -->
+  <!-- - [x] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
+  <!-- - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
 - **Advanced:**
   - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
@@ -152,7 +153,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [ ] [HTTP From Scratch](https://kmcd.dev/series/http-from-scratch/)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
-- [ ] [ronin-rb](https://github.com/ronin-rb)
 - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 - [ ] Build a web server from scratch. Here are Ruby resources: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 
