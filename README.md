@@ -44,9 +44,9 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
 ## Preliminaries
 
 - **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
-- **Why did I chose Ruby?** At first I went for full-stack JS, but the JS ecosystem was confusing to me as a beginner. So I tried some others, and found Ruby to be the most enjoyable.
-- **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent hours grading in the evenings and on weekends, which would have made studying very difficult. So I switched to a remote customer support job to free up my schedule.
-- **Take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, get an ergonomic keyboard (I use the [Keyboardio Atreus](https://fpsvogel.com/posts/2021/keyboardio-atreus), which has a learning curve, but I love it *and* it was affordable), [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try a break app such as [Stretchly](https://hovancik.net/stretchly).
+- **Why did I chose Ruby?** At first I went for full-stack JS, but the JS ecosystem was confusing to me as a solo learner. Ruby was a lot more straightforward to me, and generally more enjoyable too.
+- **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent many of my evenings and weekends grading assignments, which would have made it difficult to learn programming. So I switched to a remote customer support job to free up my schedule.
+- **Take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, get an ergonomic keyboard, [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try a break app such as [Stretchly](https://hovancik.net/stretchly).
 
 Resources marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 
