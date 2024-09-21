@@ -181,17 +181,17 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
-- **Text processing:**
-  - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
-  - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 - **Front end:**
   - [ ] [Phlex](https://www.phlex.fun/): view templates; also a base for some other gems such as [Superform](https://github.com/rubymonolith/superform). <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
   - [ ] [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): a Ruby front-end framework.
   - [ ] [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby. <!-- https://heartml-docs.onrender.com/images/Callee.png -->
-- **Misc.:**
-  - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
-  - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt)
+<!-- - **Text processing:** -->
+  <!-- - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
+  <!-- - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
+  <!-- - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+<!-- - **Misc.:** -->
+  <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
+  <!-- - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt) -->
 
 ### Advanced Rails
 
