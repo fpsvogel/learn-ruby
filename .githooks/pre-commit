@@ -26,6 +26,7 @@ bad_lines = lines.filter_map.with_index { |line, index|
 
 if bad_lines.any?
   puts "\n#{red}Oops! Missing image URLs:#{reset} \n\n" + bad_lines.join
+  `git reset`
   exit 1
 end
 

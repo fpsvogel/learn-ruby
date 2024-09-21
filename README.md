@@ -16,7 +16,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Ruby basics](#ruby-basics)
   - [Rails basics](#rails-basics)
   - [Getting hired](#getting-hired)
-  - [Ruby/Rails community](#rubyrails-community)
 - [Foundational tools](#foundational-tools)
   - [SQL](#sql)
   - [Git](#git)
@@ -34,6 +33,8 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
 - [Games in Ruby](#games-in-ruby)
 - [Programming games](#programming-games)
 - [Ruby media](#ruby-media)
+  - [Chat / social media](#chat--social-media)
+  - [Newsletters](#newsletters)
   - [Blogs](#blogs)
   - ["Let's build" screencasts](#lets-build-screencasts)
   - [Topical screencasts](#topical-screencasts)
@@ -62,9 +63,9 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
 - **Basics:**
   - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
   - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://letslearnruby.com/images/gorails.jpg -->
-  - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby). If you like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
+  - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby), if you like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
 - **Guided practice:**
-  - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby). Be sure to take notes each time you learn something new in an exercise, and at the end you could write up your reflections ([here are mine](https://fpsvogel.com/posts/2020/exercism-ruby-practice)). <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
+  - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [Advent of Code](https://adventofcode.com) with other people's Ruby solutions to compare yours to. One way to do this is [my Ruby AoC CLI](https://github.com/fpsvogel/ruby-advent-of-code) (command-line interface). <!-- https://letslearnruby.com/images/aoc.png -->
 - **OOP (object-oriented programming):**
   - [x] 💲[Sandi Metz - Practical Object-Oriented Design](https://www.poodr.com) <!-- https://images.squarespace-cdn.com/content/v1/5527cdbae4b0ee7b897c2111/1530279450483-K5BJ5TZGMYSWYA3QQA63/POODR_2e_cover_low_res.jpg -->
@@ -75,7 +76,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://d31ezp3r8jwmks.cloudfront.net/2injd2hqjy28zry8i3khh7jauncy -->
 - **Reference:**
-  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.2/o/s?q=partition](https://rubyapi.org/3.2/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
+  - [x] [Ruby API](https://rubyapi.org). Mentioning it up here because it's the best Ruby docs site but very little-known. Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.4/o/s?q=partition](https://rubyapi.org/3.2/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
 
 ### Rails basics
 
@@ -89,7 +90,8 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications) <!-- https://public-files.gumroad.com/g2f7k3fkbdgvubnh1b2cmsdcsenc -->
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/) <!-- https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/rspec3.jpg -->
   - [ ] 💲[Test Driving Rails](https://testdrivingrails.com) if you need/want Minitest for Rails testing.
-- **Polishing up:**
+- **Misc.:**
+  - [x] [Explore Ruby communities (below)](#chat--social-media) <!-- https://uploads.sitepoint.com/wp-content/uploads/2014/07/1405277526rubygrows.png -->
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec <!-- https://avatars.githubusercontent.com/u/10871348?s=400 -->
 
 ### Getting hired
@@ -97,26 +99,12 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Get real-world experience to put on your resume:**
   - Contribute to open-source projects. I've written [a short guide on how to get started](https://fpsvogel.com/posts/2021/how-to-contribute-to-open-source-ruby-rails). <!-- https://imgs.xkcd.com/comics/dependency_2x.png -->
   - [Ruby Central - Scholars and Guides Program](https://rubycentral.org/scholars_guides_program/) <!-- https://rubycentral.org/content/images/size/w256h256/format/png/2022/11/Ruby-Central-logo.svg -->
-- **The job search:**
-  - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
-  - [Notes on my 2023-2024 job search](https://fpsvogel.com/posts/2024/job-search-networking-for-engineers) <!-- https://letslearnruby.com/images/2023-job-search.jpg -->
-
-### Ruby/Rails community
-
-Here are some places where you can learn with others or ask questions when you get stuck.
-
-- **Community:**
-  - [Ruby (Discord)](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
-  - [Ruby.social (Mastodon)](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
-  - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
-  - [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are often great. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
-- **Newsletters:**
-  - [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
-  - [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
-  - [Ruby Radar](https://rubyradar.dev/) <!-- https://letslearnruby.com/images/ruby-radar.png -->
 - **Mentorship:**
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/ruby-plus-one.svg -->
   - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://letslearnruby.com/images/reddit.svg -->
+- **The job search:**
+  - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
+  - [Notes on my 2023-2024 job search](https://fpsvogel.com/posts/2024/job-search-networking-for-engineers) <!-- https://letslearnruby.com/images/2023-job-search.jpg -->
 
 ## Foundational tools
 
@@ -457,6 +445,19 @@ Here are some places where you can learn with others or ask questions when you g
   - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
 
 ## Ruby media
+
+### Chat / social media
+
+- [Ruby (Discord)](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
+- [Ruby.social (Mastodon)](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
+- [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
+- [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are often great. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
+
+### Newsletters
+
+- [Short Ruby](https://newsletter.shortruby.com/) <!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a71f846-50a2-435b-b824-ecfe2525557c_727x727.png -->
+- [Ruby Weekly](https://rubyweekly.com/) <!-- https://letslearnruby.com/images/ruby-weekly.png -->
+- [Ruby Radar](https://rubyradar.dev/) <!-- https://letslearnruby.com/images/ruby-radar.png -->
 
 ### Blogs
 
