@@ -6,19 +6,22 @@
 #   git config --local core.hooksPath .githooks
 
 file = "README.md"
-stdout = %x[git status -s | grep "^M  #{file}"]
+stdout = `git status -s | grep "^M  #{file}"`
 readme_staged = !stdout.empty?
 exit 0 unless readme_staged
 
-pattern = /^\s*- ((?<!\*\*)[^\[])*\[((?!\(#| \]|->\n|github.com).)+$/
-lines = File.readlines(file)
+pattern = /^\s*- ((?<!\*\*)[^\[])*\[((?! \]|->\n|github.com).)+$/
+contents_after_toc = File.read(file).sub(/.+## Table of contents.+?(?=##)/m, "")
+lines = contents_after_toc.split("\n").map { _1 << "\n" }
 
 red = "\x1b[1;31m"
 dim = "\x1b[2m"
 reset = "\x1b[0m"
 
 bad_lines = lines.filter_map.with_index { |line, index|
-  "#{file}:#{index + 1} #{dim}#{line.lstrip}#{reset}" if pattern.match?(line)
+  if pattern.match?(line)
+    "#{file}:#{index + 1} #{dim}#{line.lstrip}#{reset}"
+  end
 }
 
 if bad_lines.any?
