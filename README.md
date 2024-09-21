@@ -20,7 +20,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [SQL](#sql)
   - [Git](#git)
   - [How the Internet works](#how-the-internet-works)
-  - [Linux / command line](#linux--command-line)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
@@ -156,7 +155,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
 - [ ] Build a web server from scratch. Here are Ruby resources: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 
-### Linux / command line
+<!-- ### Linux / command line
 
 - [ ] [Linux Journey](https://linuxjourney.com/)
 - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
@@ -168,8 +167,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
-- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-- [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2) -->
 
 ## Advanced Ruby and Rails
 
@@ -181,6 +179,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
+  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
 - **Text processing:**
   - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
