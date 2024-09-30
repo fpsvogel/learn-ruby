@@ -29,7 +29,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
 - [Expanding my horizons](#expanding-my-horizons)
-- [Games in Ruby](#games-in-ruby)
 - [Programming games](#programming-games)
 - [Ruby media](#ruby-media)
   - [Chat / social media](#chat--social-media)
@@ -71,7 +70,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby) <!-- https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg -->
 - **Build stuff with Ruby.** Here are some ideas:
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
-  - A game. A text-based game is the simplest approach; for graphical games, see the [Games in Ruby](#games-in-ruby) section. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - A game. A text-based game is the most straightforward option, but [there are Ruby game engines](https://www.reddit.com/r/ruby/comments/qa8ida/what_game_engine_is_good_for_ruby/) for graphical games. <!-- https://letslearnruby.com/images/game.svg -->
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
   - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://d31ezp3r8jwmks.cloudfront.net/2injd2hqjy28zry8i3khh7jauncy -->
 - **Reference:**
@@ -394,34 +393,34 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] Make a performance-intensive game/toy in Crystal using [Raylib](https://github.com/sol-vin/raylib-cr) or [SFML](https://github.com/oprypin/crsfml), possibly with the [Chipmunk](https://github.com/oprypin/crystal-chipmunk?tab=readme-ov-file) physics library.
 -->
 
-## Games in Ruby
-
-- **Ruby game libraries:**
-  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Gamefic](https://gamefic.com/) is for building text-based adventure games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
-    <!-- Older text-based game libraries:
-    https://github.com/jaywengrow/tuvi
-    https://github.com/MikeTaylor/scottkit
-    + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
-  - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
-  - [MiniGL](https://github.com/victords/minigl)
-  - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
-  - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
-- **DragonRuby tutorials:**
-  - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
-  - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4) <!-- https://i.ytimg.com/vi/xZMwRSbC4rY/sddefault.jpg -->
-  - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-- **DragonRuby community, reference, tools:**
-  - [Discord server](discord.dragonruby.org) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - [Zif](https://github.com/danhealy/dragonruby-zif)
-  - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
-  - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzE1MjgzNzg5LnBuZw==/315x250%23c/VLfPIW.png -->
+<!-- ## Games in Ruby
+<!--
+<!-- - **Ruby game libraries:**
+<!--   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+<!--   - [Gamefic](https://gamefic.com/) is for building text-based adventure games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
+<!--     <!-- Older text-based game libraries:
+<!--     https://github.com/jaywengrow/tuvi
+<!--     https://github.com/MikeTaylor/scottkit
+<!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
+<!--   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
+<!--   - [MiniGL](https://github.com/victords/minigl)
+<!--   - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+<!--   - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
+<!-- - **DragonRuby tutorials:**
+<!--   - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
+<!--   - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4) <!-- https://i.ytimg.com/vi/xZMwRSbC4rY/sddefault.jpg -->
+<!--   - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+<!-- - **DragonRuby community, reference, tools:**
+<!--   - [Discord server](discord.dragonruby.org) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+<!--   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+<!--   - [Zif](https://github.com/danhealy/dragonruby-zif)
+<!--   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
+<!--   - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzE1MjgzNzg5LnBuZw==/315x250%23c/VLfPIW.png -->
 
 ## Programming games
 
 - **API games (any language):**
-  - [Space Traders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
+  - [SpaceTraders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
   - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
   - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
 - **Ruby games:**
