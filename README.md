@@ -197,7 +197,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Reference:**
   - [x] 💲[Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
   - [ ] [💲The Rails Companion](https://courses.writesoftwarewell.com/p/rails-companion)
-  - [ ] 💲[The Rails 7 Way](https://leanpub.com/therails7way)
+  - [ ] 💲[The Rails 8 Way](https://leanpub.com/therails8way)
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Architecture:**
