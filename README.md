@@ -165,7 +165,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [ ] 💲[Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391)
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
-- [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2) -->
 
 ## Advanced Ruby and Rails
@@ -218,7 +217,8 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://strzibny.gumroad.com/l/kamalbook)
+  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
+  - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
   - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
   - [ ] 💲[The Docker Book](https://dockerbook.com/)
 - **Misc.:**
