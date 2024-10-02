@@ -297,6 +297,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 <!-- - **TypeScript:**
   - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
   - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
+  - [ ] [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
   - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - [ ] [Official docs](https://www.typescriptlang.org/)
   - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
