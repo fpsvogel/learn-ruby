@@ -169,6 +169,8 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 ## Advanced Ruby and Rails
 
+See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy Ruby gems.
+
 ### Advanced Ruby
 
 - **Reference:**
@@ -179,10 +181,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
   - [ ] [Async Ruby](https://brunosutic.com/blog/async-ruby)
-- **Front end:**
-  - [ ] [Phlex](https://www.phlex.fun/): view templates; also a base for some other gems such as [Superform](https://github.com/rubymonolith/superform). <!-- https://www.phlex.fun/assets/favicon/apple-touch-icon.png -->
-  - [ ] [Glimmer DSL for Web](https://github.com/AndyObtiva/glimmer-dsl-web): a Ruby front-end framework.
-  - [ ] [Heartml](https://heartml-docs.onrender.com/): SSR web components with Ruby. <!-- https://heartml-docs.onrender.com/images/Callee.png -->
 <!-- - **Text processing:** -->
   <!-- - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
   <!-- - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
