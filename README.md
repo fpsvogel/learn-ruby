@@ -200,7 +200,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Architecture:**
   - [ ] [Rails Way App](https://github.com/solid-process/rails-way-app)
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
-  - [ ] [Develop Single-Machine Rails Applications with LiteStack](https://blog.appsignal.com/series/develop-single-machine-rails-applications-with-litestack.html)
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
   - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications)
 - **Performance:**
@@ -212,7 +211,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
   - [ ] 💲[Ruby on Rails Background Jobs with Sidekiq](https://pragprog.com/titles/dcsidekiq/ruby-on-rails-background-jobs-with-sidekiq/)
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
-  - [ ] [AcidicJob](https://github.com/fractaledmind/acidic_job)
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
