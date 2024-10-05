@@ -303,6 +303,10 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
   - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
   - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
+  - [ ] TypeScript libraries:
+    - https://github.com/gvergnaud/ts-pattern
+    - https://github.com/colinhacks/zod
+    - https://github.com/sindresorhus/type-fest
 - **Back-end JS:**
   - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/) -->
 
