@@ -227,6 +227,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Community:**
   - [The Spicy Web (Discord)](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
 - **HTML:**
+  - [ ] [HTML for people](https://www.htmlforpeople.com/)
   - [ ] [MDN - Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
   - [ ] [htmlreference.io](https://htmlreference.io/)
