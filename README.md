@@ -287,6 +287,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
         https://github.com/ryangjchandler/alpine-clipboard
         https://github.com/marcreichel/alpine-autosize
         https://github.com/marcreichel/alpine-auto-animate -->
+  <!-- Alpine reads:
+        https://awesomealpine.com -->
   <!-- Alpine lookalikes:
         https://data-star.dev - alternative to Alpine + htmx
         https://github.com/hbroek/reken
@@ -313,19 +315,22 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Back-end JS:**
   - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/)
   - [ ] [Brisa](https://github.com/brisa-build/brisa) -->
+<!-- JS for kids:
+      https://github.com/maissaninc/kidjs
+      https://github.com/stevekrouse/WoofJS - meh, but would be a nice follow-up to Scratch
+      https://codeguppy.com/index.html - meh
+      https://p5play.org - looks too complex -->
 <!-- JS text-based game engines:
       https://github.com/okaybenji/text-engine
       https://github.com/EyeOfMidas/text-adventure -->
 <!-- JS game engines:
-      https://github.com/phaserjs/phaser
-      https://github.com/BabylonJS/Babylon.js
-      https://github.com/pixijs/pixijs
-      https://github.com/melonjs/melonJS
-      https://github.com/processing/p5.js
-      https://github.com/excaliburjs/Excalibur -->
+      https://ctjs.rocks - visual features, coffeescript
+      https://github.com/kaplayjs/kaplay - easy, concise
+      https://github.com/phaserjs/phaser - popular
+      https://github.com/melonjs/melonJS - ??
+      https://github.com/excaliburjs/Excalibur - ?? -->
 <!-- JS physics engines:
-      https://github.com/liabru/matter-js
-      https://github.com/landgreen/n-gon
+      https://github.com/liabru/matter-js - example https://github.com/landgreen/n-gon
       https://github.com/piqnt/planck.js
       https://github.com/dimforge/rapier
       https://github.com/Altanis/kinetics -->
