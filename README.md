@@ -436,10 +436,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
 - **JavaScript/TypeScript games:**
+  - [Kid.js](https://github.com/maissaninc/kidjs) <!-- https://kidjs.io/images/logo.svg -->
+  - [Untrusted](https://untrustedgame.com/) <!-- https://letslearnruby.com/images/untrusted.png -->
   - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
   - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
   - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
-  - [Untrusted](https://untrustedgame.com/) <!-- https://letslearnruby.com/images/untrusted.png -->
 - **CSS games:**
   - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
   - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
