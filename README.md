@@ -376,6 +376,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Design patterns:**
   - [x] 💲[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) <!-- https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/91quawUTiVL._SY522_.jpg -->
   - [x] [Refactoring.Guru](https://refactoring.guru/) <!-- https://refactoring.guru/images/content-public/logos/logo-plain.png -->
+  - [ ] 💲[Don't Overcomplicate Refactoring](https://www.rubycademy.com/courses/dont-overcomplicate-refactoring) <!-- https://avatars.githubusercontent.com/u/119040329?s=400 -->
   - [ ] [thoughtbot - Ruby Science](https://thoughtbot.com/ruby-science) (or [EPUB/PDF](https://thoughtbot.gumroad.com/l/ruby-science))
   - [ ] 💲[Exercises in Programming Style](https://www.routledge.com/Exercises-in-Programming-Style/Lopes/p/book/9780367350208)
 - **Architecture (not Rails-specific):**
