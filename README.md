@@ -218,6 +218,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
   - [ ] 💲[The Docker Book](https://dockerbook.com/)
 - **Misc.:**
+  - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
   - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
 
 ## Front end
