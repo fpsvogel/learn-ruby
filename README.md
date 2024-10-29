@@ -257,6 +257,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  <!-- https://github.com/leonardomso/33-js-concepts -- >
 - **Practice:** See also [programming games](#programming-games) below.
   - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
   - [ ] [Advent of Code](https://adventofcode.com/) with CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
@@ -280,13 +281,13 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [i-html](https://www.keithcirkel.co.uk/i-html/) for HTML over the wire. Also, read [Hypermedia Systems](https://hypermedia.systems) and/or watch [Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/) (a similar library that is larger and better-known). <!-- https://letslearnruby.com/images/html.jpg -->
   - [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for functionality like i-html/htmx. <!-- https://avatars.githubusercontent.com/u/59030169?s=400 -->
   <!-- Other Alpine plugins:
-        "Plugins" nav section at https://alpinejs.dev
+        "Plugins" nav section at https://alpinejs.dev/start-here
         https://github.com/markmead/alpinejs-form-validation
-          https://js.hyperui.dev/examples/form-validation
         https://github.com/0wain/alpinejs-requests
         https://github.com/ryangjchandler/alpine-clipboard
         https://github.com/marcreichel/alpine-autosize
-        https://github.com/marcreichel/alpine-auto-animate -->
+        https://github.com/marcreichel/alpine-auto-animate
+        https://github.com/mvolkmann/alpine-plugins -->
   <!-- Alpine reads:
         https://awesomealpine.com -->
   <!-- Alpine lookalikes:
