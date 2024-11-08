@@ -461,10 +461,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Chat / social media
 
+- [r/ruby](https://www.reddit.com/r/ruby) and [r/rails](https://www.reddit.com/r/rails) <!-- https://letslearnruby.com/images/reddit.svg -->
 - [Ruby (Discord)](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
 - [Ruby.social (Mastodon)](https://ruby.social) <!-- https://upload.wikimedia.org/wikipedia/commons/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg -->
 - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
-- [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are often great. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
+- [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are of high quality. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
 
 ### Newsletters
 
