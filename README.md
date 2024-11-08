@@ -501,6 +501,8 @@ These are series using at least Rails 7.
 
 ### Topical screencasts
 
+<!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active -->
+<!-- - [Indigo Tech Tutorials](https://www.youtube.com/@indigotechtutorials/videos) --> <!-- maybe add in the future -->
 - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
 - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
 - 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) <!-- https://letslearnruby.com/images/destroy-all-software.png -->
