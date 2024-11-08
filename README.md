@@ -84,7 +84,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) and if you want more along the same lines, [Rails 6 for Beginners](https://gorails.com/series/rails-6-for-beginners) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
 - **Testing:**
-  - [x] 💲[Jason Swett - The Complete Guide to Rails Testing](https://www.codewithjason.com/complete-guide-to-rails-testing/) <!-- https://www.codewithjason.com/wp-content/uploads/2022/08/cgrt.png -->
+  - [x] 💲[Jason Swett - Professional Rails Testing](https://www.amazon.com/Professional-Rails-Testing-Tools-Principles/dp/B0DJRLK93M) <!-- https://m.media-amazon.com/images/I/51dA2LizMjL._SY522_.jpg -->
   - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications) <!-- https://public-files.gumroad.com/g2f7k3fkbdgvubnh1b2cmsdcsenc -->
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/) <!-- https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/rspec3.jpg -->
   - [ ] 💲[Test Driving Rails](https://testdrivingrails.com) if you need/want Minitest for Rails testing.
