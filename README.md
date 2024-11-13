@@ -84,10 +84,8 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) and if you want more along the same lines, [Rails 6 for Beginners](https://gorails.com/series/rails-6-for-beginners) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
 - **Testing:**
-  - [x] 💲[Jason Swett - Professional Rails Testing](https://www.amazon.com/Professional-Rails-Testing-Tools-Principles/dp/B0DJRLK93M) <!-- https://m.media-amazon.com/images/I/51dA2LizMjL._SY522_.jpg -->
-  - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications) <!-- https://public-files.gumroad.com/g2f7k3fkbdgvubnh1b2cmsdcsenc -->
+  - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications). (In the book, ignore controller specs because [they have been superseded by request specs](https://stackoverflow.com/a/46500842).) <!-- https://public-files.gumroad.com/g2f7k3fkbdgvubnh1b2cmsdcsenc -->
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/) <!-- https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/rspec3.jpg -->
-  - [ ] 💲[Test Driving Rails](https://testdrivingrails.com) if you need/want Minitest for Rails testing.
 - **Misc.:**
   - [x] [Explore Ruby communities (below)](#chat--social-media) <!-- https://uploads.sitepoint.com/wp-content/uploads/2014/07/1405277526rubygrows.png -->
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec <!-- https://avatars.githubusercontent.com/u/10871348?s=400 -->
@@ -477,6 +475,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 There are lots more out there; these are just my favorites.
 
+<!-- maybe add later: https://newsletter.rubycademy.com -->
 - [Code with Jason](https://www.codewithjason.com/articles/) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
 - [Fly.io - The Ruby Dispatch](https://fly.io/ruby-dispatch/) <!-- https://fly.io/static/images/brand/brandmark.svg -->
 - [Fullstack Ruby](https://www.fullstackruby.dev/) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
