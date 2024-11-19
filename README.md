@@ -386,7 +386,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **My other lists:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs)
-  - [Learn functional programming](https://github.com/fpsvogel/learn-functional-programming)
+  - [Learn Roc](https://github.com/fpsvogel/learn-roc), a functional programming language.
 <!--
 - **Monitoring:**
   - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
