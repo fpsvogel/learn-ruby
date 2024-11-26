@@ -204,6 +204,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
+  - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
 - **Background jobs:**
   - [ ] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
