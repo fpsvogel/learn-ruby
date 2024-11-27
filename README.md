@@ -388,22 +388,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **My other lists:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs)
   - [Learn Roc](https://github.com/fpsvogel/learn-roc), a functional programming language.
-<!--
-- **Monitoring:**
-  - [ ] 💲[Practical Monitoring](https://www.oreilly.com/library/view/practical-monitoring/9781491957349/)
-  - [ ] 💲[Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
-- **Documentation:**
-  - [ ] [Divio Documentation System](https://documentation.divio.com/) (a.k.a. [Diataxis](https://diataxis.fr/))
-- **Explore other Ruby implementations:**
-  - [ ] [Natalie](https://natalie-lang.org/) (WIP, compiles to C++)
-- **Learn Crystal:** Whenever you need to make an isolated bit of Ruby code run faster than Ruby can run, porting it to Crystal is easy because they're so similar.
-  - [ ] [Crystal for Rubyists (doc page)](https://crystal-lang.org/reference/1.9/crystal_for_rubyists/index.html)
-  - [ ] [Crystal for Rubyists (book)](https://www.crystalforrubyists.com/)
-  - [ ] [Exercism - Crystal](https://exercism.org/tracks/crystal)
-  - [ ] [Crystal Koans](https://github.com/ilmanzo/crystal-koans)
-  - [ ] Learn how to offload CPU-intensive tasks from a Ruby app into Crystal. There are several approaches ([1](https://github.com/contribsys/faktory), [2](https://github.com/hugopl/sidekiq.cr), [3](https://github.com/crimson-knight/fruit_juice), [4](https://www.youtube.com/watch?v=sTGfi98XXS4)).
-  - [ ] Make a performance-intensive game/toy in Crystal using [Raylib](https://github.com/sol-vin/raylib-cr) or [SFML](https://github.com/oprypin/crsfml), possibly with the [Chipmunk](https://github.com/oprypin/crystal-chipmunk?tab=readme-ov-file) physics library.
--->
 
 <!-- ## Games in Ruby
 <!--
