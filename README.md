@@ -267,6 +267,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
   - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+  - [ ] Read up on new browser features like [Speculation Rules API](https://www.youtube.com/watch?v=bSua9vMdrNM) and [MPA View Transitions](https://www.youtube.com/watch?v=eY6C_-aDdTo&t=166s),
 - **Going deeper:**
   - [ ] [Deno](https://deno.com/) for its "batteries-includedness", e.g. its [standard library](https://deno.land/std)
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
