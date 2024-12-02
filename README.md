@@ -257,11 +257,9 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  <!-- https://github.com/leonardomso/33-js-concepts -->
+  - [ ] [33 JavaScript concepts every developer should know](https://github.com/leonardomso/33-js-concepts)
 - **Practice:** See also [programming games](#programming-games) below.
-  - [ ] [Exercism - JavaScript](https://exercism.org/tracks/javascript)
-  - [ ] [Advent of Code](https://adventofcode.com/) with CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
-  - [ ] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/)
+  - [ ] Build something in JS. Or for a more structured approach: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com/), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript))
 - **DOM, forms, and other Web APIs:**
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -269,7 +267,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
   - [ ] Read up on new browser features like [Speculation Rules API](https://www.youtube.com/watch?v=bSua9vMdrNM) and [MPA View Transitions](https://www.youtube.com/watch?v=eY6C_-aDdTo&t=166s),
 - **Going deeper:**
-  - [ ] [Deno](https://deno.com/) for its "batteries-includedness", e.g. its [standard library](https://deno.land/std)
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -297,23 +294,19 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
           https://github.com/hbroek/AOJ-Reken
         https://vuejs.org/ via CDN https://vuejs.org/guide/quick-start#using-vue-from-cdn
           the examples (https://vuejs.org/examples) can be viewed in HTML mode: see "API Preference" in the sidebar -->
-<!-- - **TypeScript:**
+- **TypeScript:**
   - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
   - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
   - [ ] [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
   - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - [ ] [Official docs](https://www.typescriptlang.org/)
   - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
-  - [ ] [Exercism - TypeScript](https://exercism.org/tracks/typescript)
   - [ ] [Type Challenges](https://tsch.js.org/)
   - [ ] [TypeHero](https://typehero.dev/)
   - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
   - [ ] [TypeScript Deep Dive](https://basarat.gitbook.io/typescript)
   - [ ] [Codeless Code - posts on TypeScript](https://code.lol/tags/typescript/) e.g. [Higher Kindred Types in TypeScript](https://code.lol/post/programming/higher-kinded-types/) and [Point-free Programming via HKTs](https://code.lol/post/programming/hkt-tacit/)
-  - [ ] TypeScript libraries:
-    - https://github.com/gvergnaud/ts-pattern
-    - https://github.com/colinhacks/zod
-    - https://github.com/sindresorhus/type-fest
+  - [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern), [Zod](https://github.com/colinhacks/zod), [type-fest](https://github.com/sindresorhus/type-fest)
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
 - **Back-end JS:**
