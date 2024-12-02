@@ -314,6 +314,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
     - https://github.com/gvergnaud/ts-pattern
     - https://github.com/colinhacks/zod
     - https://github.com/sindresorhus/type-fest
+  - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
+  - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
 - **Back-end JS:**
   - [ ] [AdonisJS](https://adonisjs.com/) via [Adocasts](https://adocasts.com/)
   - [ ] [Brisa](https://github.com/brisa-build/brisa) -->
