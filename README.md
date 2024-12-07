@@ -97,7 +97,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [Ruby Central - Scholars and Guides Program](https://rubycentral.org/scholars_guides_program/) <!-- https://rubycentral.org/content/images/size/w256h256/format/png/2022/11/Ruby-Central-logo.svg -->
 - **Mentorship:**
   - [First Ruby Friend](https://firstrubyfriend.org) where aspiring and first-year developers are connected with a mentor. <!-- https://firstrubyfriend.org/images/ruby-plus-one.svg -->
-  - [r/rails](https://www.reddit.com/r/rails) is worth trying too. Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://letslearnruby.com/images/reddit.svg -->
+  - [r/rails](https://www.reddit.com/r/rails). Examples: [1](https://www.reddit.com/r/rails/comments/rvs7f2/rails_mentoring/), [2](https://www.reddit.com/r/rails/comments/lvwn41/finding_a_mentor/). <!-- https://letslearnruby.com/images/reddit.svg -->
 - **The job search:**
   - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
   - [Notes on my 2023-2024 job search](https://fpsvogel.com/posts/2024/job-search-networking-for-engineers) <!-- https://letslearnruby.com/images/2023-job-search.jpg -->
@@ -449,6 +449,7 @@ These are series using at least Rails 7.
 - [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
 - [fractaledmind](https://www.youtube.com/@fractaledmind/streams) <!-- https://yt3.googleusercontent.com/GRH79JWqn6GEmoZxTcVAHFUFgqkw1P3adun8cVuSR2jH7-_TIaXH4yYAFRIsLjv92LxXkSW-Zg=s176-c-k-c0x00ffffff-no-rj -->
 - [FullStackLive](https://www.twitch.tv/fullstacklive) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7aa31c3b-54b0-4c44-a9ed-babdc6e5ca30-profile_image-300x300.png -->
+- [jardonamron](https://m.twitch.tv/jardonamron) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7fecac18-9377-4611-b57e-34fedf3a4a73-profile_image-300x300.png -->
 - [jhawthorn](https://www.twitch.tv/jhawthorn) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/947d3620-e9a6-46e9-9837-917e4ceafc5b-profile_image-300x300.jpeg -->
 - [purplelf](https://m.twitch.tv/purplelf) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/e0d78f1f-6ed9-4dc7-b96d-ccada52887ee-profile_image-300x300.png -->
 - [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://yt3.googleusercontent.com/UHspKNgeDyA4xYuWNNHIRInoTl1goMH6qP-kUSJRf2RB4nX-HOdO-EpqK7EWcdJKcsbQoLI5=s160-c-k-c0x00ffffff-no-rj -->
