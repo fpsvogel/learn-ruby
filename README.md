@@ -147,6 +147,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
 - [ ] [HTTP From Scratch](https://kmcd.dev/series/http-from-scratch/)
+- [ ] 💲[Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http)
 - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
 - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
 - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
