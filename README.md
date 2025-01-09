@@ -444,19 +444,19 @@ These are series using at least Rails 7.
 - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - [Ruby & Beyond](https://www.youtube.com/@RubyAndBeyond) <!-- https://yt3.googleusercontent.com/GN8RZ5dTfwVs_gMGkOkkpLizoD39WJTewaS1JbCouEPyMdOUo4FH97vvjMaX2uUjlqx4lw5LVg=s160-c-k-c0x00ffffff-no-rj -->
 - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
-- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://yt3.googleusercontent.com/HcRWuzE7YZQ9XTWsMS5oxGBy03oyCkgneFOIJtrGSqBvtzRgaHeUt_461gfEyOtKAx4JNhayxA=s176-c-k-c0x00ffffff-no-rj -->
+- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://letslearnruby.com/images/webcrunch.svg -->
 
 ### Streams
 
 - [AmirRajan](https://www.twitch.tv/amirrajan) <!-- https://avatars.githubusercontent.com/u/517055?s=400 -->
 - [ChaelCodes](https://www.twitch.tv/ChaelCodes) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
 - [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
-- [fractaledmind](https://www.youtube.com/@fractaledmind/streams) <!-- https://yt3.googleusercontent.com/GRH79JWqn6GEmoZxTcVAHFUFgqkw1P3adun8cVuSR2jH7-_TIaXH4yYAFRIsLjv92LxXkSW-Zg=s176-c-k-c0x00ffffff-no-rj -->
+- [fractaledmind](https://www.youtube.com/@fractaledmind/streams) <!-- https://avatars.githubusercontent.com/u/5077225?s=400 -->
 - [FullStackLive](https://www.twitch.tv/fullstacklive) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7aa31c3b-54b0-4c44-a9ed-babdc6e5ca30-profile_image-300x300.png -->
 - [jardonamron](https://m.twitch.tv/jardonamron) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7fecac18-9377-4611-b57e-34fedf3a4a73-profile_image-300x300.png -->
 - [jhawthorn](https://www.twitch.tv/jhawthorn) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/947d3620-e9a6-46e9-9837-917e4ceafc5b-profile_image-300x300.jpeg -->
 - [purplelf](https://m.twitch.tv/purplelf) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/e0d78f1f-6ed9-4dc7-b96d-ccada52887ee-profile_image-300x300.png -->
-- [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://yt3.googleusercontent.com/UHspKNgeDyA4xYuWNNHIRInoTl1goMH6qP-kUSJRf2RB4nX-HOdO-EpqK7EWcdJKcsbQoLI5=s160-c-k-c0x00ffffff-no-rj -->
+- [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
 - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
 - [thoughtbot on Twitch](https://www.twitch.tv/thoughtbot) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
 - [YakAndShears](https://www.twitch.tv/yakandshears) <!-- https://yt3.googleusercontent.com/Bk18JI7d5n7lzVYz_IxY23Ps4lZnrb0pKGCnGErnelalBdGEjkGfKnurVExxvM1RqjZEptL1OA=s160-c-k-c0x00ffffff-no-rj -->
