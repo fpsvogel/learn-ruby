@@ -276,12 +276,12 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [i-html](https://www.keithcirkel.co.uk/i-html/) for HTML over the wire. Also, read [Hypermedia Systems](https://hypermedia.systems) and/or watch [Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/) (a similar library that is larger and better-known). <!-- https://letslearnruby.com/images/html.jpg -->
   - [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for functionality like i-html/htmx. <!-- https://avatars.githubusercontent.com/u/59030169?s=400 -->
 - **TypeScript:**
-  - [ ] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension)
-  - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
+  - [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
+  - [x] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup) <!-- https://res.cloudinary.com/total-typescript/image/upload/v1676015688/core-volume_2x_wt7jnc.png -->
   - [ ] [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
-  - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+  - [ ] [Execute Program - TypeScript courses](https://www.executeprogram.com/courses/typescript)
   - [ ] [Official docs](https://www.typescriptlang.org/)
-  - [ ] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup)
+  - [ ] [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - [ ] [Type Challenges](https://tsch.js.org/)
   - [ ] [TypeHero](https://typehero.dev/)
   - [ ] Type | Treat [2020](https://dev.to/typescript/type-treat-challenge-1-829), [2021](https://devblogs.microsoft.com/typescript/type-treat-2021-day-1/)
