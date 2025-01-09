@@ -509,6 +509,7 @@ Without further ado…
   - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
   - [github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe). 8k lines. *Personal finance app.*
   - [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator). 9k lines. *Community calendar platform.*
+  - [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook). 10k lines. *UI development environment for Rails apps.*
   - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 12k lines. *The reverse job board for Ruby on Rails developers.*
   - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 12k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
   - [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt). 12k lines. *Self-hosted ChatGPT alternative.*
