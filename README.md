@@ -535,6 +535,7 @@ Without further ado…
   - [github.com/solidusio/solidus](https://github.com/solidusio/solidus). 72k lines. *E-commerce platform.*
   - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon). 75k lines. *Like Twitter but self-hosted and federated.*
   - [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork). 102k lines. *An online marketplace for local food.*
+  - [github.com/campsite/campsite](https://github.com/campsite/campsite). 90k lines. *Self-hosted Slack alternative.*
   - [github.com/forem/forem](https://github.com/forem/forem). 103k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
   - [github.com/redmine/redmine](https://github.com/redmine/redmine). 117k lines. *Project management app.*
   - [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall). 117k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
