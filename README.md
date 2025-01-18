@@ -210,7 +210,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[High Performance Active Record](https://impactahead.com/books/high-performance-active-record) (WIP)
   - [ ] 💲[Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook) (WIP)
 - **Background jobs:**
-  - [ ] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
+  - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
   - [ ] 💲[Ruby on Rails Background Jobs with Sidekiq](https://pragprog.com/titles/dcsidekiq/ruby-on-rails-background-jobs-with-sidekiq/)
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
