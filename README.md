@@ -502,6 +502,7 @@ Without further ado…
   - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey codebases.*
   - [github.com/nshki/naisho](https://github.com/nshki/naisho). <2k lines. *Send personal data deletion request emails to hundreds of data brokers at once.*
   - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
+  - [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/). 2k lines. *Self-hosted project/time management app.*
   - [once.com/writebook](https://once.com/writebook). 3k lines. *App for publishing books to the web.* <!-- https://once.com/assets/images/logo-writebook.png -->
   - [github.com/ChaelCodes/MeetAnotherDay](https://github.com/ChaelCodes/MeetAnotherDay). 4k lines. *Helps you find and meet up with your friends at conferences.*
   - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 5k lines. *CMS (Content Management System).*
