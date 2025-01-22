@@ -319,47 +319,25 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Hotwire
 
-- **Community and news:**
+- **News:**
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
-  - [Joe Masilotti's newsletter](https://masilotti.com/hotwire/) <!-- https://masilotti.com/assets/images/joe-small.jpg -->
-  - [StimulusReflex (Discord)](https://discord.com/invite/stimulus-reflex) <!-- https://avatars.githubusercontent.com/u/73479186?s=400 -->
-  - [The Hotwire Club](https://hotwire.club/) <!-- https://letslearnruby.com/images/hotwire-club.png -->
+- **Basics:**
+  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
+  - [ ] [Write Software, Well - articles tagged "Hotwire"](https://www.writesoftwarewell.com/tag/hotwire)
+  - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
+  - [ ] 💲[GoRails - Learn Hotwire](https://learnhotwire.com/) (WIP)
+- **Turbo 8:**
+  - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
+  - [ ] [A happier happy path in Turbo with morphing](https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/)
+  - [ ] [Turbo Music Drive](https://github.com/palkan/turbo-music-drive) app demonstrating upcoming features of Turbo 8, along with accompanying blog posts (pt. 1 [on morphing](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive), pt. 2 [on view transitions](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-view-transitions))
 - **Reference:**
   - [Hotwire.io](https://hotwire.io) (more extensive than [the official docs](https://hotwired.dev/)) <!-- https://hotwire.io/apple-touch-icon.png -->
   - [turbo-rails "Usage" README section](https://github.com/hotwired/turbo-rails#usage)
+  - [thoughtbot - Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
   - [Betterstimulus](https://www.betterstimulus.com) <!-- https://raw.githubusercontent.com/github/explore/b0f7ffc5ee5bc1b6dfc1bbc4d75dd2587a243c14/topics/stimulus/stimulus.png -->
   - [Stimulus-Use](https://stimulus-use.github.io/stimulus-use) <!-- https://avatars.githubusercontent.com/u/65528542?s=400 -->
   - [Stimulus Components](https://www.stimulus-components.com/) <!-- https://avatars.githubusercontent.com/u/72915408?s=400 -->
-  - [thoughtbot - Hotwire examples](https://github.com/thoughtbot/hotwire-example-template/branches/all) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-- **Basics:**
-  - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-  - [ ] [Write Software, Well - A Brief Introduction to Hotwire](https://www.writesoftwarewell.com/introduction-to-hotwire/)
-  - [ ] [Write Software, Well - You Don't Need Rails to Start Using Hotwire](https://www.writesoftwarewell.com/using-hotwire-without-rails/)
-  - [ ] [Write Software, Well - Turbo Streams: How They Work and Differ From Turbo Frames](https://www.writesoftwarewell.com/understanding-hotwire-turbo-streams/)
-  - [ ] Evil Martians [talk](https://www.youtube.com/watch?v=sIxvxp7E0xg) and [blog post](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
-  - [ ] [David Colby - Turbo Rails 101](https://www.colby.so/posts/turbo-rails-101-todo-list)
-  - [ ] [Hotwire Handbook, Part 1](https://philreynolds.dev/posts/2022/hotwire-handbook-part-1), [Part 2](https://purpleriver.dev/posts/2023/hotwire-handbook-part-2-redux), [Part 3](https://purpleriver.dev/posts/2023/hotwire-handbook-part-3)
-  - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
-  - [ ] [Andrea Fomera - Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)
-  - [ ] [David Colby - Hotwired ATS: Modern, full-stack Rails development](https://book.hotwiringrails.com/)
-  - [ ] [Hotwire Cases](https://hotwiredcases.dev)
-  - [ ] [Turbo Music Drive](https://github.com/palkan/turbo-music-drive) app demonstrating upcoming features of Turbo 8
-  - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
-- **Screencasts and blogs:**
-  - [ ] [Mix & Go screencasts on Hotwire](https://www.youtube.com/playlist?list=PLBhH0uX92r6oiwiLBjdE-3NNsyRqyLAV9)
-  - [ ] [SupeRails screencasts on Hotwire](https://www.youtube.com/playlist?list=PLdTytUiloS16epXsqHswpCUMND_rksjr4)
-  - [ ] [Rapid Ruby screencasts on Hotwire](https://www.youtube.com/playlist?list=PL2OcwqOUtdpCqddncOH61f0phQKtum3yQ)
-  - [ ] [SupeRails blog](https://blog.corsego.com) which includes even more Hotwire tips.
-  - [ ] [David Colby's blog](https://www.colby.so)
-  - [ ] 💲[Andrea Fomera - Learn Hotwire by Building a Calendar](https://store.afomera.dev/learn-hotwire-by-building-a-calendar)
-- **Hotwire extensions:**
-  - [ ] [TurboPower](https://github.com/marcoroth/turbo_power-rails)
-  - [ ] [TurboBoost Commands](https://github.com/hopsoft/turbo_boost-commands)
-  - [ ] [TurboBoost Streams](https://github.com/hopsoft/turbo_boost-streams)
-  - [ ] [TurboBoost Elements](https://github.com/hopsoft/turbo_boost-elements)
-- **Multi-platform:**
-  - [ ] 💲[The Rails and Hotwire Codex](https://railsandhotwirecodex.com/)
 
 ## Expanding my horizons
 
