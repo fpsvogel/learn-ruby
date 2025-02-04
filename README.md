@@ -215,7 +215,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
-  - [ ] 💲[Ruby on Rails Background Jobs with Sidekiq](https://pragprog.com/titles/dcsidekiq/ruby-on-rails-background-jobs-with-sidekiq/)
   - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
