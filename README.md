@@ -328,6 +328,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Write Software, Well - articles tagged "Hotwire"](https://www.writesoftwarewell.com/tag/hotwire)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
   - [ ] 💲[GoRails - Learn Hotwire](https://learnhotwire.com/) (WIP)
+  - [ ] 💲[Master Hotwire](https://masterhotwire.com/) (WIP)
 - **Turbo 8:**
   - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
   - [ ] [A happier happy path in Turbo with morphing](https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/)
