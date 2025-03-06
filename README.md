@@ -84,6 +84,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Basics:**
   - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) and if you want more along the same lines, [Rails 6 for Beginners](https://gorails.com/series/rails-6-for-beginners) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
+  - [x] [Beginners Guide to Ruby on Rails Performance](https://henry.bearblog.dev/beginners-guide-to-ruby-on-rails-performance-part-1) <!-- https://bear-images.sfo2.cdn.digitaloceanspaces.com/henry/performance.webp -->
 - **Testing:**
   - [x] [thoughtbot - Testing Rails](https://github.com/thoughtbot/testing-rails) or [the summary blog post](https://thoughtbot.com/blog/how-we-test-rails-applications). (In the book, ignore controller specs because [they have been superseded by request specs](https://stackoverflow.com/a/46500842).) <!-- https://public-files.gumroad.com/g2f7k3fkbdgvubnh1b2cmsdcsenc -->
   - [x] 💲[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/) <!-- https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/rspec3.jpg -->
