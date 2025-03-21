@@ -377,6 +377,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 <!--     https://github.com/MikeTaylor/scottkit
 <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
 <!--   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
+<!--   - [Raylib Ruby](https://www.raylib-ruby.com/) <!-- https://www.raylib-ruby.com/assets/img/raylib-ruby.svg -->
 <!--   - [MiniGL](https://github.com/victords/minigl)
 <!--   - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
 <!--   - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
