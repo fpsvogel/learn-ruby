@@ -553,6 +553,7 @@ Without further ado…
   - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
   - [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 17k lines. *A lending library management system.*
   - [github.com/rubyforgood/homeward-tails](https://github.com/rubyforgood/homeward-tails). 19k lines. *Connects adopters/fosters with pets.*
+  - [github.com/rauversion/rauversion](https://github.com/rauversion/rauversion). 20k lines. *Music platform.*
   - [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme). 21k lines. *Mental health communication web app to share experiences with loved ones.*
   - [github.com/openSUSE/osem](https://github.com/openSUSE/osem). 25k lines. *Event management tool tailored to Free and Open Source Software conferences.*
   - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin). 25k lines. *RSS reader.*
