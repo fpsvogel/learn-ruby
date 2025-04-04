@@ -531,53 +531,54 @@ If you want to explore more widely, here are other places to find open-source Ru
 Without further ado…
 
 - **Small codebases:** Less than 50k lines of Ruby code.
-  - [github.com/onerinas/whatwentwelltoday](https://github.com/onerinas/whatwentwelltoday). <2k lines. *An app to share daily positivity.*
+  - [github.com/onerinas/whatwentwelltoday](https://github.com/onerinas/whatwentwelltoday). <1k lines. *An app to share daily positivity.*
   - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey codebases.*
   - [github.com/nshki/naisho](https://github.com/nshki/naisho). <2k lines. *Send personal data deletion request emails to hundreds of data brokers at once.*
   - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
-  - [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/). 2k lines. *Self-hosted project/time management app.*
   - [once.com/writebook](https://once.com/writebook). 3k lines. *App for publishing books to the web.* <!-- https://once.com/assets/images/logo-writebook.png -->
   - [github.com/ChaelCodes/MeetAnotherDay](https://github.com/ChaelCodes/MeetAnotherDay). 4k lines. *Helps you find and meet up with your friends at conferences.*
-  - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 5k lines. *CMS (Content Management System).*
-  - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal). 6k lines. *Open source DocuSign alternative.*
+  - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 6k lines. *CMS (Content Management System).*
+  - [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/). 5k lines. *Self-hosted project/time management app.*
   - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
-  - [github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe). 8k lines. *Personal finance app.*
   - [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator). 9k lines. *Community calendar platform.*
-  - [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook). 10k lines. *UI development environment for Rails apps.*
-  - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 12k lines. *The reverse job board for Ruby on Rails developers.*
-  - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 12k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
-  - [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt). 12k lines. *Self-hosted ChatGPT alternative.*
-  - [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject). 12k lines. *Main website for The Odin Project web development learning platform.*
-  - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 13k lines. *Hacker News clone.*
+  - [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook). 11k lines. *UI development environment for Rails apps.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
+  - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 14k lines. *The reverse job board for Ruby on Rails developers.*
+  - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
   - [github.com/galahq/gala](https://github.com/galahq/gala). 15k lines. *Collaborative learning platform.*
   - [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse). 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
-  - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
-  - [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 17k lines. *A lending library management system.*
-  - [github.com/rubyforgood/homeward-tails](https://github.com/rubyforgood/homeward-tails). 19k lines. *Connects adopters/fosters with pets.*
+  - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal). 15k lines. *Open source DocuSign alternative.*
+  - [github.com/rubyforgood/homeward-tails](https://github.com/rubyforgood/homeward-tails). 15k lines. *Connects adopters/fosters with pets.*
+  - [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject). 16k lines. *Main website for The Odin Project web development learning platform.*
+  - [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt). 16k lines. *Self-hosted ChatGPT alternative.*
+  - [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce). 17k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
+  - [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters). 18k lines. *Hacker News clone.*
+  - [github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe). 19k lines. *Personal finance app.*
   - [github.com/rauversion/rauversion](https://github.com/rauversion/rauversion). 20k lines. *Music platform.*
   - [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme). 21k lines. *Mental health communication web app to share experiences with loved ones.*
-  - [github.com/openSUSE/osem](https://github.com/openSUSE/osem). 25k lines. *Event management tool tailored to Free and Open Source Software conferences.*
-  - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin). 25k lines. *RSS reader.*
-  - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org). 26k lines. *Where Ruby gems are hosted.*
-  - [github.com/huginn/huginn](https://github.com/huginn/huginn). 36k lines. *Web task automation.*
-  - [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms). 36k lines. *CMS (Content Management System).*
-  - [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa). 37k lines. *Volunteer management system for the nonprofit CASA.*
-  - [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials). 39k lines. *An inventory management system for essentials supply banks.*
+  - [github.com/openSUSE/osem](https://github.com/openSUSE/osem). 24k lines. *Event management tool tailored to Free and Open Source Software conferences.*
+  - [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate). 26k lines. *A lending library management system.*
+  - [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin). 31k lines. *RSS reader.*
+  - [github.com/AlchemyCMS/alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms). 37k lines. *CMS (Content Management System).*
+  - [github.com/huginn/huginn](https://github.com/huginn/huginn). 37k lines. *Web task automation.*
+  - [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa). 44k lines. *Volunteer management system for the nonprofit CASA.*
+  - [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials). 47k lines. *An inventory management system for essentials supply banks.*
   - [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign). 39k lines. *Digital campaigning platform. A Rails app generator.*
 - **Larger codebases:** More than 50k lines of Ruby code.
-  - [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard). 50k lines. *Wikipedia course dashboard system. Has a React front end.*
-  - [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot). 56k lines. *Customer engagement suite. Has a Vue.js front end.*
-  - [github.com/solidusio/solidus](https://github.com/solidusio/solidus). 72k lines. *E-commerce platform.*
-  - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon). 75k lines. *Like Twitter but self-hosted and federated.*
-  - [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork). 102k lines. *An online marketplace for local food.*
-  - [github.com/campsite/campsite](https://github.com/campsite/campsite). 90k lines. *Self-hosted Slack alternative.*
-  - [github.com/forem/forem](https://github.com/forem/forem). 103k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
-  - [github.com/redmine/redmine](https://github.com/redmine/redmine). 117k lines. *Project management app.*
-  - [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall). 117k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
-  - [github.com/zammad/zammad](https://github.com/zammad/zammad). 250k lines. *Helpdesk/customer support system.*
-  - [github.com/decidim/decidim](https://github.com/decidim/decidim). 288k lines. *The participatory democracy framework.*
-  - [github.com/discourse/discourse](https://github.com/discourse/discourse). 322k lines. *Discussion forum platform. Has an Ember.js front end.*
-  - [github.com/opf/openproject](https://github.com/opf/openproject). 368k lines. *Project management software.*
-  - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms). 745k lines. *A popular LMS (learning management system).*
-  - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 1.8 million lines. *Like GitHub but with CI/CD and DevOps features built in. Uses Vue.js on the front end. Has great [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).* <!-- https://letslearnruby.com/images/gitlab.png -->
+  - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org). 56k lines. *Where Ruby gems are hosted.*
+  - [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard). 59k lines. *Wikipedia course dashboard system. Has a React front end.*
+  - [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot). 74k lines. *Customer engagement suite. Has a Vue.js front end.*
+  - [github.com/solidusio/solidus](https://github.com/solidusio/solidus). 98k lines. *E-commerce platform.*
+  - [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall). 110k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
+  - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon). 117k lines. *Like Twitter but self-hosted and federated.*
+  - [github.com/redmine/redmine](https://github.com/redmine/redmine). 118k lines. *Project management app.*
+  - [github.com/campsite/campsite](https://github.com/campsite/campsite). 119k lines. *Self-hosted Slack alternative.*
+  - [github.com/forem/forem](https://github.com/forem/forem). 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
+  - [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork). 129k lines. *An online marketplace for local food.*
+  - [github.com/decidim/decidim](https://github.com/decidim/decidim). 294k lines. *The participatory democracy framework.*
+  - [github.com/zammad/zammad](https://github.com/zammad/zammad). 299k lines. *Helpdesk/customer support system.*
+  - [github.com/antiwork/gumroad](https://github.com/antiwork/gumroad). 323k lines. *E-commerce platform.*
+  - [github.com/opf/openproject](https://github.com/opf/openproject). 479k lines. *Project management software.*
+  - [github.com/discourse/discourse](https://github.com/discourse/discourse). 514k lines. *Discussion forum platform. Has an Ember.js front end.*
+  - [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms). 891k lines. *A popular LMS (learning management system).*
+  - [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 3 million lines. *Like GitHub but with CI/CD and DevOps features built in. Uses Vue.js on the front end. Has [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).* <!-- https://letslearnruby.com/images/gitlab.png -->
