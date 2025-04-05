@@ -29,8 +29,8 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
   - [Hotwire](#hotwire)
-- [Expanding my horizons](#expanding-my-horizons)
-- [Programming games](#programming-games)
+- [Ruby beyond web developement](#ruby-beyond-web-developement)
+- [Beyond Ruby](#beyond-ruby)
 - [Ruby media](#ruby-media)
   - [Chat / social media](#chat--social-media)
   - [Newsletters](#newsletters)
@@ -187,10 +187,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Ruby internals:**
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/2025/1/28/updating-ruby-under-a-microscope) (WIP)
   - [ ] 💲[Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
-<!-- - **Text processing:** -->
-  <!-- - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
-  <!-- - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
-  <!-- - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 <!-- - **Misc.:** -->
   <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
   <!-- - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt) -->
@@ -258,6 +254,15 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
   - [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
   - [ ] [CSS games](#programming-games)
+- **CSS games:**
+  - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
+  - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
+  - [CSS Diner](https://flukeout.github.io/) <!-- https://i.pinimg.com/736x/8a/b1/ad/8ab1ad8128508785f956eb6f58779b47.jpg -->
+  - [Flexbox Froggy](https://flexboxfroggy.com/) <!-- https://flexboxfroggy.com/favicon.ico -->
+  - [Flexbox Defense](http://www.flexboxdefense.com/) <!-- https://velog.velcdn.com/images%2Fdaymoon_%2Fpost%2F7b73b771-50e0-4728-99ec-0dc60f8b7153%2Fimage.png -->
+  - [CSS Grid Garden](https://cssgridgarden.com/) <!-- https://cssgridgarden.com/favicon.ico -->
+  - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
+  - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
 
 ### JavaScript
 
@@ -297,6 +302,12 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern), [Zod](https://github.com/colinhacks/zod), [type-fest](https://github.com/sindresorhus/type-fest)
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
+- **JavaScript/TypeScript games:**
+  - [Kid.js](https://github.com/maissaninc/kidjs) <!-- https://kidjs.io/images/logo.svg -->
+  - [Untrusted](https://untrustedgame.com/) <!-- https://letslearnruby.com/images/untrusted.png -->
+  - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
+  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
+  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
 
 ### UI and usability
 
@@ -348,11 +359,29 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [Stimulus-Use](https://stimulus-use.github.io/stimulus-use) <!-- https://avatars.githubusercontent.com/u/65528542?s=400 -->
   - [Stimulus Components](https://www.stimulus-components.com/) <!-- https://avatars.githubusercontent.com/u/72915408?s=400 -->
 
-## Expanding my horizons
+## Ruby beyond web developement
 
-- **Be a mentor:**
+- **Mentoring:**
   - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
+- **Game programming:**
+  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) has the largest community, e.g. [on Discord](discord.dragonruby.org), [Dragon Riders Community](https://www.dragonriders.community/),  <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+  - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+  - [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
+  <!-- Older text-based game libraries:
+  <!--     https://github.com/jaywengrow/tuvi
+  <!--     https://github.com/MikeTaylor/scottkit
+  <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
+- **Text processing:** -->
+  - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
+  - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+- **Ruby games:**
+  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
+  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
+
+## Beyond Ruby
+
 - **Career advancement:**
   - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/) <!-- https://localghost.dev/img/og-image.png -->
   - [ ] 💲[The Missing README: A Guide for the New Software Engineer](https://nostarch.com/missing-readme)
@@ -369,57 +398,14 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs)
   - [Learn Roc](https://github.com/fpsvogel/learn-roc), a functional programming language.
 
-<!-- ## Games in Ruby
-<!--
-<!-- - **Ruby game libraries:**
-<!--   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) is my recommendation because it has the liveliest community, and all the resources below are for DragonRuby. You may qualify for a free license (see "Free Unrestricted License" on the homepage), and the creators regularly give it away for free during game jams and other special occasions. <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-<!--   - [Gamefic](https://gamefic.com/) is for building text-based adventure games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
-<!--     <!-- Older text-based game libraries:
-<!--     https://github.com/jaywengrow/tuvi
-<!--     https://github.com/MikeTaylor/scottkit
-<!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
-<!--   - [Gosu](https://www.libgosu.org/) <!-- https://www.libgosu.org/website_header.png -->
-<!--   - [Raylib Ruby](https://www.raylib-ruby.com/) <!-- https://www.raylib-ruby.com/assets/img/raylib-ruby.svg -->
-<!--   - [MiniGL](https://github.com/victords/minigl)
-<!--   - [Ruby 2D](https://www.ruby2d.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
-<!--   - [Taylor](https://www.taylormadetech.dev) <!-- https://external-preview.redd.it/n2ZrKlYsFTDO-bAvYLtFWtnGikzGQcCKbejg0c9ftp4.jpg?auto=webp&s=08c876c76b0ef5490cfc7d72fbcbaded4dbe7e17 -->
-<!-- - **DragonRuby tutorials:**
-<!--   - [Building Games with DragonRuby](https://book.dragonriders.community/) <!-- https://book.dragonriders.community/img/cover.jpg -->
-<!--   - [Let's make Tetris with DragonRuby Game Toolkit, Part 1](https://www.youtube.com/watch?v=xZMwRSbC4rY) and [Part 2](https://www.youtube.com/watch?v=C3LLzDUDgz4) <!-- https://i.ytimg.com/vi/xZMwRSbC4rY/sddefault.jpg -->
-<!--   - [Notes on DragonRuby Game Toolkit](https://dev.to/presidentbeef/series/16166) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-<!-- - **DragonRuby community, reference, tools:**
-<!--   - [Discord server](discord.dragonruby.org) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-<!--   - [Docs](http://docs.dragonruby.org.s3-website-us-east-1.amazonaws.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-<!--   - [Zif](https://github.com/danhealy/dragonruby-zif)
-<!--   - [Dragon Riders Community](https://www.dragonriders.community) <!-- https://www.dragonriders.community/red-logo.png -->
-<!--   - [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure), a collection of games made with DragonRuby. <!-- https://img.itch.zone/aW1nLzE1MjgzNzg5LnBuZw==/315x250%23c/VLfPIW.png -->
+<!-- ## Programming games
 
-## Programming games
-
-- **API games (any language):**
-  - [SpaceTraders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
-  - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
-  - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
-- **Ruby games:**
-  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
-  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
-- **JavaScript/TypeScript games:**
-  - [Kid.js](https://github.com/maissaninc/kidjs) <!-- https://kidjs.io/images/logo.svg -->
-  - [Untrusted](https://untrustedgame.com/) <!-- https://letslearnruby.com/images/untrusted.png -->
-  - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
-  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
-  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
-- **CSS games:**
-  - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
-  - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
-  - [CSS Diner](https://flukeout.github.io/) <!-- https://i.pinimg.com/736x/8a/b1/ad/8ab1ad8128508785f956eb6f58779b47.jpg -->
-  - [Flexbox Froggy](https://flexboxfroggy.com/) <!-- https://flexboxfroggy.com/favicon.ico -->
-  - [Flexbox Defense](http://www.flexboxdefense.com/) <!-- https://velog.velcdn.com/images%2Fdaymoon_%2Fpost%2F7b73b771-50e0-4728-99ec-0dc60f8b7153%2Fimage.png -->
-  - [CSS Grid Garden](https://cssgridgarden.com/) <!-- https://cssgridgarden.com/favicon.ico -->
-  - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
-  - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
-- **Other programming games:**
-  - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
+<!--- **API games (any language):**
+<!--  - [SpaceTraders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
+<!--  - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
+<!--  - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
+<!--- **Other programming games:**
+<!--  - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
 
 ## Ruby media
 
