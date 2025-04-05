@@ -372,6 +372,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   <!--     https://github.com/jaywengrow/tuvi
   <!--     https://github.com/MikeTaylor/scottkit
   <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
+- **Music:**
+  - [ ] [Sonic Pi](https://sonic-pi.net/)
 - **Text processing:** -->
   - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
   - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
