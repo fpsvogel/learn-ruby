@@ -345,6 +345,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Write Software, Well - articles tagged "Hotwire"](https://www.writesoftwarewell.com/tag/hotwire)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
   - [ ] [Hotwire Cheatsheet](https://cheatsheetshero.com/user/igor-kasyanchuk/930-hotwire-for-ruby-on-rails-developers-cheatsheet?ref=shortruby.com#page-3609)
+  - [ ] [Turbo 8 Cheatsheet](https://radanskoric.com/cheatsheet/)
   - [ ] 💲[GoRails - Learn Hotwire](https://learnhotwire.com/) (WIP)
   - [ ] 💲[Master Hotwire](https://masterhotwire.com/) (WIP)
 - **Turbo 8:**
