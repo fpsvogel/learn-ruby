@@ -24,7 +24,8 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
-  - [HTML and CSS](#html-and-css)
+  - [HTML and CSS basics](#html-and-css-basics)
+  - [Web APIs](#web-apis)
   - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
@@ -230,7 +231,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ## Front end
 
-### HTML and CSS
+### HTML and CSS basics
 
 - **Community:**
   - [The Spicy Web (Discord)](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
@@ -267,6 +268,20 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
   - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
 
+### Web APIs
+
+- **Basics:**
+  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
+  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
+  - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- **Shiny new:**
+  - [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
+  - [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
+  - [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
+- **The future:**
+  - [ ] [Hypermedia Systems](https://hypermedia.systems) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
+
 ### JavaScript
 
 - **Basics:**
@@ -274,23 +289,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) plus [import maps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [freeCodeCamp's project-based JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below.
-- **DOM, forms, and intro to other Web APIs:**
-  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
-  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
-  - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- **Cool new Web APIs:**
-  - [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-  - [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
-  - [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
 - **Going deeper:**
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
   - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
-- **HTML-first JS libraries:** There are lots of these, e.g. see [Hotwire](https://hotwired.dev/), many others at [UnsuckJS](https://unsuckjs.com/). But these are the ones I'm most interested in.
-  - [i-html](https://www.keithcirkel.co.uk/i-html/) for HTML over the wire. Also, read [Hypermedia Systems](https://hypermedia.systems) and/or watch [Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://youtube.com/watch?v=LRrrxQXWdhI), by the creator of [htmx](https://htmx.org/) (a similar library that is larger and better-known). <!-- https://letslearnruby.com/images/html.jpg -->
-  - [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for functionality like i-html/htmx. <!-- https://avatars.githubusercontent.com/u/59030169?s=400 -->
 - **TypeScript:**
   - [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
   - [x] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup) <!-- https://res.cloudinary.com/total-typescript/image/upload/v1676015688/core-volume_2x_wt7jnc.png -->
