@@ -16,16 +16,15 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Ruby basics](#ruby-basics)
   - [Rails basics](#rails-basics)
   - [Getting hired](#getting-hired)
-- [Foundational tools](#foundational-tools)
+- [Foundations](#foundations)
+  - [The Web](#the-web)
   - [SQL](#sql)
   - [Git](#git)
-  - [How the Internet works](#how-the-internet-works)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
   - [HTML and CSS basics](#html-and-css-basics)
-  - [Web APIs](#web-apis)
   - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
@@ -108,7 +107,28 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [Notes on my 2021-2022 job search](https://fpsvogel.com/posts/2022/how-to-find-ruby-rails-job) <!-- https://www.stockvault.net/data/2018/07/15/253106/preview16.jpg -->
   - [Notes on my 2023-2024 job search](https://fpsvogel.com/posts/2024/job-search-networking-for-engineers) <!-- https://letslearnruby.com/images/2023-job-search.jpg -->
 
-## Foundational tools
+## Foundations
+
+### The Web
+
+- **Basics:**
+  - [ ] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
+- **HTTP:**
+  - [ ] [HTTP From Scratch](https://kmcd.dev/series/http-from-scratch/)
+  - [ ] 💲[Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http)
+  - [ ] Build a web server from scratch. Here are Ruby resources: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
+- **Networking:**
+  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+- **Security:**
+  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
+  - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
+<!--
+- **New Web APIs:**
+  - [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
+  - [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
+  - [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
+-->
 
 ### SQL
 
@@ -149,16 +169,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
   - [ ] [Pro Git](https://git-scm.com/book)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
-
-### How the Internet works
-
-- [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
-- [ ] [HTTP From Scratch](https://kmcd.dev/series/http-from-scratch/)
-- [ ] 💲[Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http)
-- [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
-- [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
-- [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
-- [ ] Build a web server from scratch. Here are Ruby resources: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 
 <!-- ### Linux / command line
 
@@ -233,13 +243,14 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### HTML and CSS basics
 
-- **Community:**
-  - [The Spicy Web (Discord)](https://discord.com/invite/CUuYVH7Qa9) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
 - **HTML:**
   - [ ] [HTML for people](https://www.htmlforpeople.com/)
   - [ ] [MDN - Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
   - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
   - [ ] [htmlreference.io](https://htmlreference.io/)
+- **Forms:**
+  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
 - **CSS:**
   - [ ] 💲[The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
   - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -268,26 +279,13 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
   - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
 
-### Web APIs
-
-- **Basics:**
-  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
-  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
-  - [ ] [MDN - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-- **Shiny new:**
-  - [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-  - [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
-  - [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
-- **The future:**
-  - [ ] [Hypermedia Systems](https://hypermedia.systems) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
-
 ### JavaScript
 
 - **Basics:**
   - [x] [Exploring JavaScript](https://exploringjs.com/js/) or [MDN - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <!-- https://exploringjs.com/js/img/cover-homepage.jpg -->
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) plus [import maps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
+  - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [freeCodeCamp's project-based JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below.
 - **Going deeper:**
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
