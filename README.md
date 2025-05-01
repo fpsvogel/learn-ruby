@@ -112,7 +112,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 ### The Web
 
 - **Basics:**
-  - [ ] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
+  - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
 - **HTTP:**
   - [ ] [HTTP From Scratch](https://kmcd.dev/series/http-from-scratch/)
   - [ ] 💲[Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http)
