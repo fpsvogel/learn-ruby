@@ -227,7 +227,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
-  - [ ] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+  - [x] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice) <!-- https://public-files.gumroad.com/3x0fwqyo139zgcyn5bwcdsi9jas0 -->
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
   - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
