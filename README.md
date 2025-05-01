@@ -224,7 +224,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
 - **Active Record:**
   - [ ] 💲[High Performance Active Record](https://impactahead.com/books/high-performance-active-record) (WIP)
-  - [ ] 💲[Active Record Cookbook](https://courses.jasoncharnes.com/active-record-cookbook) (WIP)
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
