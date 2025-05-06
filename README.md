@@ -227,7 +227,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[High Performance Active Record](https://impactahead.com/books/high-performance-active-record) (WIP)
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
-  - [ ] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works/)
+  - [x] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works) <!-- https://avatars.githubusercontent.com/u/124714131?s=400 -->
   - [x] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice) <!-- https://public-files.gumroad.com/3x0fwqyo139zgcyn5bwcdsi9jas0 -->
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
