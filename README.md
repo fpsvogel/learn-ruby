@@ -524,8 +524,6 @@ If you want to explore more widely, here are other places to find open-source Ru
 Without further ado…
 
 - **Small codebases:** Less than 50k lines of Ruby code.
-  - [github.com/onerinas/whatwentwelltoday](https://github.com/onerinas/whatwentwelltoday). <1k lines. *An app to share daily positivity.*
-  - [github.com/krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code). <2k lines. *Extracts from the Basecamp and Hey codebases.*
   - [github.com/nshki/naisho](https://github.com/nshki/naisho). <2k lines. *Send personal data deletion request emails to hundreds of data brokers at once.*
   - [github.com/carsoncole/workypad](https://github.com/carsoncole/workypad). 2k lines. *App for managing job prospecting.*
   - [once.com/writebook](https://once.com/writebook). 3k lines. *App for publishing books to the web.* <!-- https://once.com/assets/images/logo-writebook.png -->
@@ -537,7 +535,6 @@ Without further ado…
   - [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook). 11k lines. *UI development environment for Rails apps.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
   - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 14k lines. *The reverse job board for Ruby on Rails developers.*
-  - [github.com/houndci/hound](https://github.com/houndci/hound). 14k lines. *Automated code review for GitHub PRs.*
   - [github.com/galahq/gala](https://github.com/galahq/gala). 15k lines. *Collaborative learning platform.*
   - [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse). 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
   - [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal). 15k lines. *Open source DocuSign alternative.*
@@ -556,7 +553,6 @@ Without further ado…
   - [github.com/huginn/huginn](https://github.com/huginn/huginn). 37k lines. *Web task automation.*
   - [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa). 44k lines. *Volunteer management system for the nonprofit CASA.*
   - [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials). 47k lines. *An inventory management system for essentials supply banks.*
-  - [github.com/SumOfUs/Champaign](https://github.com/SumOfUs/Champaign). 39k lines. *Digital campaigning platform. A Rails app generator.*
 - **Larger codebases:** More than 50k lines of Ruby code.
   - [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org). 56k lines. *Where Ruby gems are hosted.*
   - [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard). 59k lines. *Wikipedia course dashboard system. Has a React front end.*
@@ -565,7 +561,6 @@ Without further ado…
   - [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall). 110k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
   - [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon). 117k lines. *Like Twitter but self-hosted and federated.*
   - [github.com/redmine/redmine](https://github.com/redmine/redmine). 118k lines. *Project management app.*
-  - [github.com/campsite/campsite](https://github.com/campsite/campsite). 119k lines. *Self-hosted Slack alternative.*
   - [github.com/forem/forem](https://github.com/forem/forem). 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
   - [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork). 129k lines. *An online marketplace for local food.*
   - [github.com/decidim/decidim](https://github.com/decidim/decidim). 294k lines. *The participatory democracy framework.*
