@@ -212,7 +212,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Rails internals:**
   - [x] 💲[Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
-  - [ ] 💲[The Rails Companion](https://courses.writesoftwarewell.com/p/rails-companion)
+  - [ ] 💲[The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
@@ -344,7 +344,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **News:**
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
 - **Basics:**
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev/)
+  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev)
+  - [ ] [Hotwire Handbook](https://books.writesoftwarewell.com/10/hotwire-handbook)
   - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
   - [ ] [Write Software, Well - articles tagged "Hotwire"](https://www.writesoftwarewell.com/tag/hotwire)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
