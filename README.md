@@ -344,10 +344,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **News:**
   - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
 - **Basics:**
-  - [ ] [Turbo Rails Tutorial](https://www.hotrails.dev)
+  - [x] [Turbo Rails Tutorial](https://www.hotrails.dev) <!-- https://letslearnruby.com/images/hotrails.png -->
   - [ ] [Hotwire Handbook](https://books.writesoftwarewell.com/10/hotwire-handbook)
-  - [ ] [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/)
-  - [ ] [Write Software, Well - articles tagged "Hotwire"](https://www.writesoftwarewell.com/tag/hotwire)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
   - [ ] [Hotwire Cheatsheet](https://cheatsheetshero.com/user/igor-kasyanchuk/930-hotwire-for-ruby-on-rails-developers-cheatsheet?ref=shortruby.com#page-3609)
   - [ ] [Turbo 8 Cheatsheet](https://radanskoric.com/cheatsheet/)
