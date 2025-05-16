@@ -212,8 +212,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Rails Guides](https://guides.rubyonrails.org/)
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Rails internals:**
+  - [ ] [The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
   - [x] 💲[Rebuilding Rails](http://rebuilding-rails.com/) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
-  - [ ] 💲[The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
@@ -400,9 +400,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
-- **My other lists:**
-  - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs)
-  - [Learn Roc](https://github.com/fpsvogel/learn-roc), a functional programming language.
+- **Computer science:**
+  - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
 
 <!-- ## Programming games
 
