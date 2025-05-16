@@ -160,7 +160,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 ### Git
 
 - **Basics:**
-  - [x] [Oh My Git!](https://ohmygit.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
+  - [x] [Oh My Git!](https://ohmygit.org/) or [Learn Git Branching](https://learngitbranching.js.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
   - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
   - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
   - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
