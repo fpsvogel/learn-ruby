@@ -145,7 +145,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
   - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] 💲[Markus Winand - SQL Performance Explained](https://sql-performance-explained.com)
   - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
 - **PostgreSQL:**
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
