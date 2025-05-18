@@ -195,6 +195,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+  - [ ] Jesse Storimer - articles: [Threads, Not Just for Optimizations](https://web.archive.org/web/20171112112011/https://www.jstorimer.com/blogs/workingwithcode/7766063-threads-not-just-for-optimizations), [Matz is not a threading guy](https://web.archive.org/web/20180324184633/https://www.jstorimer.com/blogs/workingwithcode/7766069-matz-is-not-a-threading-guy), Nobody Understands the GIL (parts [1](https://web.archive.org/web/20170801134641/https://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil), [2](https://web.archive.org/web/20161024030142/http://www.jstorimer.com/blogs/workingwithcode/8100871-nobody-understands-the-gil-part-2-implementation), [3](https://web.archive.org/web/20160506090126/http://www.jstorimer.com/blogs/workingwithcode/8158971-nobody-understands-the-gil-part-3-thread-safety))
   - [ ] [JP Camara - series on concurrency, parallelism and asynchronous programming in Ruby](https://jpcamara.com/2024/06/04/your-ruby-programs.html)
   - [ ] [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/intro.html)
 - **Ruby internals:**
