@@ -157,16 +157,14 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 ### Git
 
-- **Basics:**
-  - [x] [Oh My Git!](https://ohmygit.org/) or [Learn Git Branching](https://learngitbranching.js.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
-  - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
-  - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
-  - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
-  - [x] [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
-- **Advanced:**
-  - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-  - [ ] [Pro Git](https://git-scm.com/book)
-  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
+- [x] [Oh My Git!](https://ohmygit.org/) or [Learn Git Branching](https://learngitbranching.js.org/) <!-- https://ohmygit.org/assets/images/oh-my-git.png -->
+- [x] [Oh Shit, Git!?!](https://ohshitgit.com/) or for more detail, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
+- [x] [Git Katas](https://github.com/eficode-academy/git-katas)
+- [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
+- [ ] [Pro Git](https://git-scm.com/book)
+<!-- - **Advanced:**
+  - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git) -->
 
 <!-- ### Linux / command line
 
