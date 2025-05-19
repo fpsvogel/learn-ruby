@@ -136,11 +136,10 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
   - [x] [SQLBolt](https://sqlbolt.com) <!-- https://letslearnruby.com/images/sql-bolt.png -->
   - [x] [Select Star SQL](https://selectstarsql.com) <!-- https://selectstarsql.com/imgs/favicon-256.png -->
-  <!-- Others: -->
-  <!-- - [ ] [SQL Practice](https://www.sql-practice.com/) -->
-  <!-- - [x] [SQL Murder Mystery](https://mystery.knightlab.com/) <!-- https://mystery.knightlab.com/174092-clue-illustration.png -->
-  <!-- - [x] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
-  <!-- - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
+- **Practice:**
+  - [ ] [SQL Practice](https://www.sql-practice.com/) <!-- https://cdn-icons-png.flaticon.com/512/4299/4299956.png -->
+  - [x] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
+  - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
 - **Advanced:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
