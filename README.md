@@ -150,19 +150,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git) -->
 
-<!-- ### Linux / command line
-
-- [ ] [Linux Journey](https://linuxjourney.com/)
-- [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
-- [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-- [ ] [Sundeep Agarwal - "Linux CLI and shell scripting" list](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
-- [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
-- [ ] 💲[Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391)
-- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
-- [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
-- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2) -->
-
 ## Advanced Ruby and Rails
 
 See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy Ruby gems.
@@ -364,6 +351,15 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Mentoring:**
   - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
+- **Text processing:** -->
+  - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
+  - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
+  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
+- **Music:**
+  - [Sonic Pi](https://sonic-pi.net/) <!-- https://avatars.githubusercontent.com/u/67760337 -->
+- **Programming games:**
+  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
+  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
 - **Game programming:**
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) has the largest community, e.g. [on Discord](discord.dragonruby.org), [Dragon Riders Community](https://www.dragonriders.community/),  <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
@@ -372,15 +368,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   <!--     https://github.com/jaywengrow/tuvi
   <!--     https://github.com/MikeTaylor/scottkit
   <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
-- **Music:**
-  - [ ] [Sonic Pi](https://sonic-pi.net/)
-- **Text processing:** -->
-  - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
-  - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
-- **Ruby games:**
-  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
-  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
 
 ## Beyond Ruby
 
@@ -398,6 +385,18 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
 - **Computer science:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
+- **Linux / command line:**
+  - [ ] [Linux Journey](https://linuxjourney.com/)
+  - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
+  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+  - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  - [ ] [Sundeep Agarwal - "Linux CLI and shell scripting" list](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
+  - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+  - [ ] 💲[Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391)
+  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+  - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
+  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+
 
 <!-- ## Programming games
 
