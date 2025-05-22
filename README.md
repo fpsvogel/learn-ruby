@@ -114,19 +114,13 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Basics:**
   - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
 - **HTTP:**
-  - [ ] 💲[Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
+  - [ ] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server) <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
 - **Networking:**
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro)
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
 - **Security:**
-  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/)
-  - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
-<!--
-- **New Web APIs:**
-  - [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-  - [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
-  - [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
--->
+  - [ ] 💲[Web Security for Developers: Real Threats, Practical Defense](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald-ebook/dp/B07V78WH7V) and the accompanying site [Hacksplaining](https://www.hacksplaining.com/) <!-- https://m.media-amazon.com/images/I/81zGwFVBfNL._SY522_.jpg -->
+  - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics) <!-- https://avatars.githubusercontent.com/u/13749115 -->
 
 ### SQL
 
@@ -138,12 +132,12 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [SQL Practice](https://www.sql-practice.com/) <!-- https://cdn-icons-png.flaticon.com/512/4299/4299956.png -->
   - [x] [PostgreSQL Exercises](https://pgexercises.com/) and [single-page guide](https://ozencb.github.io/postgresql-exercises/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
   - [x] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) <!-- https://velog.velcdn.com/images/zero__/post/71852f7f-bbd2-4f51-9025-590644dec95b/image.jpeg -->
-- **Beyond the basics:**
+- **Patterns and antipatterns:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
-  - [ ] 💲[SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
-  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/)
-  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface)
-  - [ ] [Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) course from Stanford
+  - [ ] 💲[SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/) <!-- https://m.media-amazon.com/images/I/51uqlgPt3+L._SY445_SX342_PQ78_.jpg -->
+  - [ ] 💲[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1/) <!-- https://m.media-amazon.com/images/I/41pvkXRndYL._SX342_SY445_PQ78_.jpg -->
+  - [ ] [Stanford University - Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) <!-- https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png -->
+  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
 
 ### Git
 
@@ -151,7 +145,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) or for more detail, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
-- [ ] [Pro Git](https://git-scm.com/book)
+- [ ] [Pro Git](https://git-scm.com/book) <!-- https://m.media-amazon.com/images/I/417jkTBWA3L._SX342_SY445_PQ78_.jpg -->
 <!-- - **Advanced:**
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git) -->
@@ -200,7 +194,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Rails API docs](https://api.rubyonrails.org/)
 - **Rails internals:**
   - [ ] [The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
-  - [x] 💲[Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
   - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
@@ -333,6 +327,14 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
+
+<!--
+### New Web APIs
+
+- [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
+- [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
+- [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
+-->
 
 ### Hotwire
 
