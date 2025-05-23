@@ -37,7 +37,6 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Blogs](#blogs)
   - ["Let's build" screencasts](#lets-build-screencasts)
   - [Topical screencasts](#topical-screencasts)
-  - [Streams](#streams)
   - [Podcasts](#podcasts)
 - [Rails codebases to study](#rails-codebases-to-study)
 
@@ -454,22 +453,15 @@ These are series using at least Rails 7.
 
 <!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active -->
 <!-- - [Indigo Tech Tutorials](https://www.youtube.com/@indigotechtutorials/videos) --> <!-- maybe add in the future -->
+<!-- - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 --> <!-- completely AI-focused for the past ~year -->
 - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
 - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
 - 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) <!-- https://letslearnruby.com/images/destroy-all-software.png -->
 - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
 - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
-- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://letslearnruby.com/images/webcrunch.svg -->
-
-### Streams
-
-- [ChaelCodes](https://www.twitch.tv/ChaelCodes) <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
-- [CodingWithCaleb](https://www.twitch.tv/codingwithcaleb)  <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/06d54031-97e7-4a0a-bd4c-4f1331ec1650-profile_image-300x300.png -->
 - [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
-- [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-- [thoughtbot on Twitch](https://www.twitch.tv/thoughtbot) <!-- https://avatars.githubusercontent.com/u/6183?s=400 -->
-- [YakAndShears](https://www.twitch.tv/yakandshears) <!-- https://yt3.googleusercontent.com/Bk18JI7d5n7lzVYz_IxY23Ps4lZnrb0pKGCnGErnelalBdGEjkGfKnurVExxvM1RqjZEptL1OA=s160-c-k-c0x00ffffff-no-rj -->
+- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://letslearnruby.com/images/webcrunch.svg -->
 
 ### Podcasts
 
