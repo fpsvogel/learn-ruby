@@ -132,8 +132,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [PostgreSQL Exercises](https://pgexercises.com/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
 - **Patterns and antipatterns:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
-  - [ ] [Stanford University - Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) <!-- https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png -->
-  - [ ] [Markus Winand - Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
+  - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
 
 ### Git
 
