@@ -130,7 +130,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Practice:** These are like SQLZoo but more user-friendly.
   - [x] [SQL Practice](https://www.sql-practice.com/) <!-- https://cdn-icons-png.flaticon.com/512/4299/4299956.png -->
   - [x] [PostgreSQL Exercises](https://pgexercises.com/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
-- **Patterns and antipatterns:**
+- **Patterns:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [ ] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
 
@@ -260,8 +260,8 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
   - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [freeCodeCamp's project-based JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below.
 - **Going deeper:**
+  - [ ] [Eloquent JavaScript](https://eloquentjavascript.net/)
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
-  - [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS). Be sure to read the last three parts after they're finished. #TODO <!-- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/2nd-ed/get-started/images/cover.png -->
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - **TypeScript:**
