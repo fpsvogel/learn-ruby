@@ -383,6 +383,9 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
   - [ ] [Software Design by Example](https://third-bit.com/sdxjs/)
   - [ ] 💲[Learning Domain-Driven Design](https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+- **Software systems:**
+  - [ ] 💲[Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+  - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - **Computer science:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
 - **Linux / command line:**
