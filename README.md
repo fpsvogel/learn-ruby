@@ -140,10 +140,10 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - [x] [Oh Shit, Git!?!](https://ohshitgit.com/) or for more detail, [Git Flight Rules](https://github.com/k88hudson/git-flight-rules) <!-- https://upload.wikimedia.org/wikipedia/commons/5/50/Fxemoji_u2049.svg -->
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
-- [ ] [Pro Git](https://git-scm.com/book) <!-- https://m.media-amazon.com/images/I/417jkTBWA3L._SX342_SY445_PQ78_.jpg -->
-<!-- - **Advanced:**
+<!-- - **Git internals:**
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
-  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git) -->
+  - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
+  - [ ] ["Git Internals" chapter of Pro Git](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) <!-- https://m.media-amazon.com/images/I/417jkTBWA3L._SX342_SY445_PQ78_.jpg -->
 
 ## Advanced Ruby and Rails
 
