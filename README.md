@@ -206,10 +206,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[SQLite on Rails](https://fractaledmind.gumroad.com/l/sqlite-on-rails)
 - **Deployment:**
   - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
   - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
   - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
   - [ ] 💲[The Docker Book](https://dockerbook.com/)
+  - [ ] [Using Kamal 2.0 in Production](https://rubys.github.io/kamal-in-production/)
+  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
 - **Misc.:**
   - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
   - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
