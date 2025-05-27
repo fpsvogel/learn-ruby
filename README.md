@@ -262,7 +262,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) plus [import maps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
-  - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [freeCodeCamp's project-based JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below.
+  - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [a project-based freeCodeCamp course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below. <!-- https://letslearnruby.com/images/js.jpg -->
 - **Going deeper:**
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -361,7 +361,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
 - **Game programming:**
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) has the largest community, e.g. [on Discord](discord.dragonruby.org), [Dragon Riders Community](https://www.dragonriders.community/),  <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+  - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
   - [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
   <!-- Older text-based game libraries:
   <!--     https://github.com/jaywengrow/tuvi
@@ -454,14 +454,14 @@ These are series using at least Rails 7.
 <!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active -->
 <!-- - [Indigo Tech Tutorials](https://www.youtube.com/@indigotechtutorials/videos) --> <!-- maybe add in the future -->
 <!-- - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 --> <!-- completely AI-focused for the past ~year -->
-- [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/maxresdefault.jpg -->
-- [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://yt3.googleusercontent.com/ahPK-LBcDFhQplh2FMWvsXegGUUzoSofq3TWKk42vwO-rR8KZNptp8i6D2eEWjPeHsV7S2e-EAQ=s176-c-k-c0x00ffffff-no-rj -->
+- [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/hq720.jpg -->
+- [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://i.ytimg.com/vi/YWjA6gR_Lr8/hq720.jpg -->
 - 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) <!-- https://letslearnruby.com/images/destroy-all-software.png -->
 - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
 - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
 - [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
-- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://letslearnruby.com/images/webcrunch.svg -->
+- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://i.ytimg.com/vi/Mc19pB784Us/maxresdefault.jpg -->
 
 ### Podcasts
 
@@ -476,9 +476,9 @@ These are series using at least Rails 7.
 - [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
 - [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
 - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
-- [IndieRails](https://www.indierails.com/) <!-- https://images.transistor.fm/images/show/38529/medium_1675794047-artwork.jpg -->
+- [IndieRails](https://www.indierails.com/) <!-- https://letslearnruby.com/images/indie-rails.webp -->
 - [Maintainable](https://maintainable.fm/) <!-- https://maintainable.fm/images/maintainable-cover-robby-mid.jpg -->
-- [Rails Changelog](https://www.railschangelog.com/) <!-- https://images.transistor.fm/images/show/39552/medium_1680188330-artwork.jpg -->
+- [Rails Changelog](https://www.railschangelog.com/) <!-- https://letslearnruby.com/images/rails-changelog.webp -->
 - [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
 - [Rooftop Ruby](https://www.rooftopruby.com) <!-- https://storage.buzzsprout.com/variants/4ln9kmgzd7365e01mek8zsnnoyc7/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
 - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor. <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/e/ed4e373f-21b4-44bb-a2f3-630a56c17f71/cover_small.jpg -->
