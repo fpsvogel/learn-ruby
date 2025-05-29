@@ -132,6 +132,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Beyond the basics:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
+  - [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server). Related: 💲[Build Your Own Database in Go From Scratch](https://leanpub.com/build_your_own_database_from_scratch/)
   - [ ] [Build Your Own Redis](https://rohitpaulk.com/articles/redis-0). Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Redis with C/C++](https://build-your-own.org/redis/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/)
 
 ### Git
