@@ -18,7 +18,7 @@ The "not done" sections (currently "Foundational tools" and below) are somewhat 
   - [Getting hired](#getting-hired)
 - [Foundations](#foundations)
   - [The Web](#the-web)
-  - [SQL](#sql)
+  - [SQL and databases](#sql-and-databases)
   - [Git](#git)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
@@ -112,15 +112,15 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **HTTP:**
   - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
-  - [ ] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), and [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server) <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
+  - [ ] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server) <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
 - **Networking:**
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
 - **Security:**
   - [ ] [Hacksplaining](https://www.hacksplaining.com/) and/or the accompanying book 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) <!-- https://m.media-amazon.com/images/I/81kskbg8BXL.jpg -->
   - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics) <!-- https://avatars.githubusercontent.com/u/13749115 -->
 
-### SQL
+### SQL and databases
 
 - **Basics:**
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
@@ -132,6 +132,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Beyond the basics:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
+  - [ ] [Build Your Own Redis](https://rohitpaulk.com/articles/redis-0). Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Redis with C/C++](https://build-your-own.org/redis/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/)
 
 ### Git
 
