@@ -384,6 +384,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Software systems:**
   - [ ] 💲[Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/)
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+  - [ ] [Google SRE book](https://sre.google/sre-book/table-of-contents/) and [workbook](https://sre.google/workbook/table-of-contents/). Related: 💲[Establishing SRE Foundations](https://www.amazon.com/Establishing-Foundations-Step-Step-Organizations/dp/0137424604), 💲[Real-World SRE](https://www.packtpub.com/en-us/product/real-world-sre-9781788628884), 💲[Brendan Gregg's books](https://www.brendangregg.com/books.html)
 - **Computer science:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
 - **Linux / command line:**
