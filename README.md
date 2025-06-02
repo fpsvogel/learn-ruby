@@ -114,7 +114,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
   - [x] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server) <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
 - **Networking:**
-  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/eighth.htm) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
+  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
   - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
 - **Security:**
   - [ ] [Hacksplaining](https://www.hacksplaining.com/) and/or the accompanying book 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) <!-- https://m.media-amazon.com/images/I/81kskbg8BXL.jpg -->
@@ -354,7 +354,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Mentoring:**
   - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
-- **Text processing:** -->
+- **Text processing:**
   - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
   - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
