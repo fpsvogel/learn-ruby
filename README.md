@@ -122,16 +122,16 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 ### SQL and databases
 
-- **Basics:**
+- **SQL basics:**
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
   - [x] [SQLBolt](https://sqlbolt.com) <!-- https://letslearnruby.com/images/sql-bolt.png -->
   - [x] [Select Star SQL](https://selectstarsql.com) <!-- https://selectstarsql.com/imgs/favicon-256.png -->
-- **Practice:** These are like SQLZoo but more user-friendly.
+- **SQL practice:** These are like SQLZoo but more user-friendly.
   - [x] [SQL Practice](https://www.sql-practice.com/) <!-- https://cdn-icons-png.flaticon.com/512/4299/4299956.png -->
   - [x] [PostgreSQL Exercises](https://pgexercises.com/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
   - [ ] [Advent of SQL](https://adventofsql.com/) <!-- https://letslearnruby.com/images/aoc.png -->
   - [ ] [Hanukkah of Data](https://hanukkah.bluebird.sh/5784/) <!-- https://www.visidata.org/blog/assets/2022-hod.png -->
-- **Beyond the basics:**
+- **Databases:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
   - [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server). Related: 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/) <!-- https://technicaldeft.com/assets/cover-7aeb12d933616519e5c20a12fc8d096773005cff72b0089271ee4eef1512078a.png -->
