@@ -400,11 +400,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
   - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
   - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-- **Code golf:**
+- **Code golf:** <a id="code-golf"></a>
   - [ ] [code.golf](https://code.golf/)
   - [ ] [Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
   - [ ] [CodinGame - Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-- **Coding exercises:** other than Advent of Code, Exercism, and LeetCode, which I mention elsewhere in this and [another](https://github.com/fpsvogel/learn-cs) list.
+- **Coding exercises:** <a id="coding-exercises"></a> other than Advent of Code, Exercism, and LeetCode, which I mention elsewhere in this and [another](https://github.com/fpsvogel/learn-cs) list.
   - [ ] [Synacor Challenge](https://github.com/Aneurysm9/vm_challenge) by the creator of Advent of Code.
   - [ ] [Everybody Codes](https://everybody.codes/home)
   - [ ] [Ruby coding challenges](https://github.com/Arrowsome/ruby-coding-challenges)
