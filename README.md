@@ -117,7 +117,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
   - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
 - **Security:**
-  - [ ] [Hacksplaining](https://www.hacksplaining.com/) and/or the accompanying book 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) <!-- https://m.media-amazon.com/images/I/81kskbg8BXL.jpg -->
+  - [x] 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) and the free accompanying site [Hacksplaining](https://www.hacksplaining.com/) <!-- https://m.media-amazon.com/images/I/81kskbg8BXL.jpg -->
   - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics) <!-- https://avatars.githubusercontent.com/u/13749115 -->
 
 ### SQL and databases
