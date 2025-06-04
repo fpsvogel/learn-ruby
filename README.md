@@ -19,7 +19,6 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Foundations](#foundations)
   - [The Web](#the-web)
   - [SQL and databases](#sql-and-databases)
-  - [Git](#git)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
@@ -112,7 +111,9 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 - **HTTP:**
   - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
-  - [x] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server) <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
+  - [x] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
+  - [ ] 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/)
+  <!-- Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 - **Networking:**
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
   - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
@@ -134,8 +135,11 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Databases:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
-  - [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server). Related: 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/) <!-- https://technicaldeft.com/assets/cover-7aeb12d933616519e5c20a12fc8d096773005cff72b0089271ee4eef1512078a.png -->
-  - [ ] [Build Your Own Redis with C/C++](https://build-your-own.org/redis/). Related: [Build Redis from scratch](https://www.build-redis-from-scratch.dev), [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/) <!-- https://logowik.com/content/uploads/images/redis.jpg -->
+  - [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server) <!-- https://technicaldeft.com/assets/cover-7aeb12d933616519e5c20a12fc8d096773005cff72b0089271ee4eef1512078a.png -->
+  - [ ] 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/)
+  - [ ] [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
+  - [ ] [Build Redis from scratch](https://www.build-redis-from-scratch.dev) <!-- https://logowik.com/content/uploads/images/redis.jpg -->
+  <!-- Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/)
 
 ### Git
 
