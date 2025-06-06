@@ -404,7 +404,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
   - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
   - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-- **Code golf:** <a id="code-golf"></a>
+<!-- - **Code golf:** <a id="code-golf"></a>
   - [ ] [code.golf](https://code.golf/)
   - [ ] [Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
   - [ ] [CodinGame - Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
@@ -417,7 +417,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
   - [ ] [DMOJ](https://dmoj.ca/)
   - [ ] [AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)
-  - [ ] [A list of other online competitive programming platforms](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms)
+  - [ ] [A list of other online competitive programming platforms](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms) -->
 
 <!-- ## Programming games
 
