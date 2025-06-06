@@ -19,6 +19,7 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Foundations](#foundations)
   - [The Web](#the-web)
   - [SQL and databases](#sql-and-databases)
+  - [Git](#git)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
