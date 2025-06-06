@@ -139,7 +139,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [ ] 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/)
   - [ ] [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
   - [ ] [Build Redis from scratch](https://www.build-redis-from-scratch.dev) <!-- https://logowik.com/content/uploads/images/redis.jpg -->
-  <!-- Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/)
+  <!-- Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/) -->
 
 ### Git
 
