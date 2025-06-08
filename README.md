@@ -105,6 +105,12 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [Ruby on Rails Technical Interview Questions](https://github.com/gardeziburhan/rails_interview_questions)
   - [RubyOnRemote](https://rubyonremote.com) <!-- https://styles.redditmedia.com/t5_7xqhrm/styles/communityIcon_pjfyocxjx1ja1.png -->
   - [Welcome to the Jungle](https://www.welcometothejungle.com) <!-- https://letslearnruby.com/images/welcome-to-the-jungle.jpg -->
+  <!-- Of unverified usefulness:
+  - https://railshotwirejobs.com
+  - https://weworkremotely.com/remote-jobs/search?term=ruby
+  - https://remoteok.com/remote-ruby-jobs?order_by=date
+  - for behavioral and system interview prep: https://www.hellointerview.com
+  -->
 
 ## Foundations
 
