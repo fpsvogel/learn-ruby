@@ -131,6 +131,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 ### SQL and databases
 
 - **SQL basics:**
+  <!-- - [ ] [SQL Noir](https://www.sqlnoir.com/) (WIP, only 6 cases so far) -->
   - [x] [SQL Teaching](https://www.sqlteaching.com) <!-- https://www.sqlteaching.com/database.png -->
   - [x] [SQLBolt](https://sqlbolt.com) <!-- https://letslearnruby.com/images/sql-bolt.png -->
   - [x] [Select Star SQL](https://selectstarsql.com) <!-- https://selectstarsql.com/imgs/favicon-256.png -->
