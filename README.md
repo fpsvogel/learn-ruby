@@ -509,6 +509,7 @@ These are series using at least Rails 7.
 - [Fullstack Ruby](https://www.fullstackruby.dev/topics/podcast) <!-- https://www.fullstackruby.dev/images/fullstack_ruby_icon.png -->
 - [IndieRails](https://www.indierails.com/) <!-- https://letslearnruby.com/images/indie-rails.webp -->
 - [Maintainable](https://maintainable.fm/) <!-- https://maintainable.fm/images/maintainable-cover-robby-mid.jpg -->
+- [On Rails](https://onrails.buzzsprout.com/) <!-- https://storage.buzzsprout.com/78557u6tzo0eqjokvc5skiidkveo -->
 - [Rails Changelog](https://www.railschangelog.com/) <!-- https://letslearnruby.com/images/rails-changelog.webp -->
 - [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
 - [Rooftop Ruby](https://www.rooftopruby.com) <!-- https://storage.buzzsprout.com/variants/4ln9kmgzd7365e01mek8zsnnoyc7/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
