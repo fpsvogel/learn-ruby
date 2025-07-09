@@ -403,6 +403,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Computer science:**
   - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
 - **Linux / command line:**
+  - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
   - [ ] [Linux Journey](https://linuxjourney.com/)
   - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
@@ -470,6 +471,7 @@ There are lots more out there; these are just my favorites.
 
 These are series using at least Rails 7.
 
+<!-- - [HigherTheoryDev](https://www.youtube.com/@HigherTheoryDev) --> <!-- maybe add in the future -->
 - [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/watch?v=uuHtuR2FFS4&list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
 - [Conner Jensen - learning management system](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/HDA9QiHgrsI/maxresdefault.jpg -->
 - [Conner Jensen - ecommerce app](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
