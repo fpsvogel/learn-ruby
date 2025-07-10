@@ -545,6 +545,7 @@ Without further ado…
   - [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/). 5k lines. *Self-hosted project/time management app.*
   - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
   - [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator). 9k lines. *Community calendar platform.*
+  - [github.com/rubyevents/rubyevents](https://github.com/rubyevents/rubyevents). 11k lines. *Index of Ruby events and videos.*
   - [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook). 11k lines. *UI development environment for Rails apps.*
   - [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase). 14k lines. *Learning platform for developers.*
   - [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com). 14k lines. *The reverse job board for Ruby on Rails developers.*
