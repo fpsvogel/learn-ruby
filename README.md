@@ -82,7 +82,8 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
 Only books and courses are listed below, but be sure to *build things* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wiki-stumble-wikipedia-explorer), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Basics:**
-  - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) and if you want more along the same lines, [Rails 6 for Beginners](https://gorails.com/series/rails-6-for-beginners) <!-- https://letslearnruby.com/images/gorails.jpg -->
+  - [x] [typecraft - Rails New](https://www.youtube.com/playlist?list=PLHFP2OPUpCeZcPutT9yn4-e0bMmrn5Gd1) <!-- https://i.ytimg.com/pl_c/PLHFP2OPUpCeZcPutT9yn4-e0bMmrn5Gd1/studio_square_thumbnail.jpg?sqp=COjO6sMG-oaymwEICNYGEOADSFqi85f_AwYIkPrewwY=&rs=AOn4CLBrUaluGKis8cA1_P5fGEeAZ2e_yA -->
+  - [x] [GoRails - Build a Blog with Rails 7](https://gorails.com/series/build-a-blog-with-rails-7) <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [The Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
   - [x] [Beginners Guide to Ruby on Rails Performance](https://henry.bearblog.dev/beginners-guide-to-ruby-on-rails-performance-part-1) <!-- https://bear-images.sfo2.cdn.digitaloceanspaces.com/henry/performance.webp -->
 - **Testing:**
