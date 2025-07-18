@@ -342,7 +342,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 ### Hotwire
 
 - **News:**
-  - [Hotwire Weekly](https://hotwireweekly.com/) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
+  - [Hotwire Weekly](https://www.hotwireweekly.com) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
 - **Basics:**
   - [x] [Turbo Rails Tutorial](https://www.hotrails.dev) <!-- https://letslearnruby.com/images/hotrails.png -->
   - [ ] [Hotwire Handbook](https://books.writesoftwarewell.com/10/hotwire-handbook)
