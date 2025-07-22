@@ -345,12 +345,11 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **News:**
   - [Hotwire Weekly](https://www.hotwireweekly.com) <!-- https://assets.buttondown.email/images/1bdac043-d137-4e4f-86ef-4df5c3b34029.png -->
 - **Basics:**
-  - [x] [Turbo Rails Tutorial](https://www.hotrails.dev) <!-- https://letslearnruby.com/images/hotrails.png -->
+  - [ ] 💲[Master Hotwire](https://masterhotwire.com/) <!-- https://letslearnruby.com/images/master-hotwire.png -->
   - [ ] [Hotwire Handbook](https://books.writesoftwarewell.com/10/hotwire-handbook)
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
   - [ ] [Hotwire Cheatsheet](https://cheatsheetshero.com/user/igor-kasyanchuk/930-hotwire-for-ruby-on-rails-developers-cheatsheet?ref=shortruby.com#page-3609)
   - [ ] [Turbo 8 Cheatsheet](https://radanskoric.com/cheatsheet/)
-  - [ ] 💲[Master Hotwire](https://masterhotwire.com/)
 - **Turbo 8:**
   - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
   - [ ] [A happier happy path in Turbo with morphing](https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/)
