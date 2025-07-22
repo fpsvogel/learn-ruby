@@ -350,6 +350,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [30 days of Hotwire tips](https://twitter.com/ilrock__/status/1631315562390519809)
   - [ ] [Hotwire Cheatsheet](https://cheatsheetshero.com/user/igor-kasyanchuk/930-hotwire-for-ruby-on-rails-developers-cheatsheet?ref=shortruby.com#page-3609)
   - [ ] [Turbo 8 Cheatsheet](https://radanskoric.com/cheatsheet/)
+  - [ ] 💲[Hotwire Native for Rails Developers](https://pragprog.com/titles/jmnative/hotwire-native-for-rails-developers/) <!-- https://pragprog.com/titles/jmnative/hotwire-native-for-rails-developers/jmnative-500.jpg -->
 - **Turbo 8:**
   - [ ] [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes)
   - [ ] [A happier happy path in Turbo with morphing](https://dev.37signals.com/a-happier-happy-path-in-turbo-with-morphing/)
