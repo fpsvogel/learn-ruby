@@ -520,6 +520,7 @@ These are series using at least Rails 7.
 - [Rooftop Ruby](https://www.rooftopruby.com) <!-- https://storage.buzzsprout.com/variants/4ln9kmgzd7365e01mek8zsnnoyc7/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
 - [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor. <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/e/ed4e373f-21b4-44bb-a2f3-630a56c17f71/cover_small.jpg -->
 - [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues) <!-- https://topenddevs.us-southeast-1.linodeobjects.com/7tb1xhkypftrpf3dwr83ztyccwte -->
+- [The Ruby Gems Podcast](https://www.buzzsprout.com/2509083) <!-- https://storage.buzzsprout.com/tn40v00w9sd9tw6gpg2m7un3ml09 -->
 
 ## Rails codebases to study
 
