@@ -141,6 +141,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
   - [x] [PostgreSQL Exercises](https://pgexercises.com/) <!-- https://opengraph.githubassets.com/5dc8f962a8ff3a00a68a35d74a38b117b653d05e8891b85360df152f6755b4b9/AlisdairO/pgexercises -->
   - [ ] [Advent of SQL](https://adventofsql.com/) <!-- https://letslearnruby.com/images/aoc.png -->
   - [ ] [Hanukkah of Data](https://hanukkah.bluebird.sh/5784/) <!-- https://www.visidata.org/blog/assets/2022-hod.png -->
+  - [ ] [Database Free Labs](https://labex.io/free-labs/database)
 - **Databases:**
   - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
   - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
@@ -213,6 +214,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
   - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
 - **PostgreSQL:**
+  - [ ] 💲[Learn PostgreSQL with Hands-on Labs](https://labex.io/learn/postgresql)
   - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
   - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
   - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
@@ -407,6 +409,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Linux / command line:**
   - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
   - [ ] [Linux Journey](https://linuxjourney.com/)
+  - [ ] [Linux Commands Cheat Sheet](https://linux-commands.labex.io/)
   - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
   - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
   - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
