@@ -17,7 +17,6 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
   - [Rails basics](#rails-basics)
   - [Getting hired](#getting-hired)
 - [Foundations](#foundations)
-  - [The Web](#the-web)
   - [SQL and databases](#sql-and-databases)
   - [Git](#git)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
@@ -115,19 +114,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 ## Foundations
 
-### The Web
-
-- **HTTP:**
-  - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development. <!-- https://m.media-amazon.com/images/I/812G33tb9aL._AC_UF1000,1000_QL80_.jpg -->
-  - [x] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http). <!-- https://public-files.gumroad.com/jts5dlyxih0sxbxf28iht34mney8 -->
-  - [ ] 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/)
-  <!-- Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
-- **Networking:**
-  - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php) <!-- https://m.media-amazon.com/images/I/517X347vzZL.jpg -->
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) <!-- https://t4.ftcdn.net/jpg/11/99/95/95/360_F_1199959583_gzQxZgCvnoMYNRajL9W5Mn4jROfPqDJg.jpg -->
-- **Security:**
-  - [x] 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) and the free accompanying site [Hacksplaining](https://www.hacksplaining.com/) <!-- https://m.media-amazon.com/images/I/81kskbg8BXL.jpg -->
-  - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics) <!-- https://avatars.githubusercontent.com/u/13749115 -->
+It's also good to know the basic workings of the Internet and Web, but that section is in [my "Learn Computer Science" list](https://github.com/fpsvogel/learn-cs#networking--the-web).
 
 ### SQL and databases
 
@@ -394,7 +381,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
   - [ ] [Google SRE book](https://sre.google/sre-book/table-of-contents/) and [workbook](https://sre.google/workbook/table-of-contents/). Related: 💲[Establishing SRE Foundations](https://www.amazon.com/Establishing-Foundations-Step-Step-Organizations/dp/0137424604), 💲[Real-World SRE](https://www.packtpub.com/en-us/product/real-world-sre-9781788628884), 💲[Brendan Gregg's books](https://www.brendangregg.com/books.html)
 - **Computer science:**
-  - [Learn Computer Science and Low-Level Programming](https://github.com/fpsvogel/learn-cs), my other list.
+  - [Learn Computer Science](https://github.com/fpsvogel/learn-cs), my other list.
 - **Linux / command line:**
   - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
   - [ ] [Linux Journey](https://linuxjourney.com/)
