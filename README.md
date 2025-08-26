@@ -451,10 +451,10 @@ There are lots more out there; these are just my favorites.
 
 These are series using at least Rails 7.
 
-<!-- - [HigherTheoryDev](https://www.youtube.com/@HigherTheoryDev) --> <!-- maybe add in the future -->
 - [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/watch?v=uuHtuR2FFS4&list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
 - [Conner Jensen - learning management system](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/HDA9QiHgrsI/maxresdefault.jpg -->
 - [Conner Jensen - ecommerce app](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
+- [HigherTheoryDev - Klipshow (streamer dashboard)](https://www.youtube.com/@HigherTheoryDev) --> <!-- https://yt3.googleusercontent.com/89gOKUS9a8QvQtNspIDjO2S1ORrsUpg7gmgFpKIiZscS102TCHnBRYSvCR1_qvuynoWg1Qhd=s160-c-k-c0x00ffffff-no-rj -->
 - [Ken Greeff - Luxury Stays (accommodation directory)](https://www.youtube.com/playlist?list=PLCWWDssV3NgzmIO6DBIjA7j8Th-vVMsnI) <!-- https://i.ytimg.com/vi/_S_BqFjpI30/hqdefault.jpg -->
 - [TypeFast - Tinysale (Gumroad clone)](https://www.youtube.com/playlist?list=PLCawOXF4xaJLcYMsWPqEKoOCDsr-xLv5J) <!-- https://i.ytimg.com/vi/SevRvvTkY78/hqdefault.jpg -->
 - [TypeFast - Airbnb clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe) <!-- https://i.ytimg.com/vi/D889P37r3bc/hqdefault.jpg -->
