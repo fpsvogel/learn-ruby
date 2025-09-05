@@ -523,6 +523,7 @@ Without further ado…
   - [github.com/ChaelCodes/MeetAnotherDay](https://github.com/ChaelCodes/MeetAnotherDay). 4k lines. *Helps you find and meet up with your friends at conferences.*
   - [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina). 6k lines. *CMS (Content Management System).*
   - [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/). 5k lines. *Self-hosted project/time management app.*
+  - [github.com/basecamp/once-campfire](https://github.com/basecamp/once-campfire.git). 6k lines. *Self-hosted chat application similar to Slack.*
   - [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage). 6k lines. *Issue tracker for open-source projects.*
   - [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator). 9k lines. *Community calendar platform.*
   - [github.com/rubyevents/rubyevents](https://github.com/rubyevents/rubyevents). 11k lines. *Index of Ruby events and videos.*
