@@ -69,9 +69,8 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
   - [x] 💲[Sandi Metz & Katrina Owen - 99 Bottles of OOP](https://sandimetz.com/99bottles-sample-ruby) <!-- https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg -->
 - **Build stuff with Ruby.** Here are some ideas:
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
-  - A game. A text-based game is the most straightforward option, but [there are Ruby game engines](https://letslearnruby.com#game-programming) for graphical games. <!-- https://letslearnruby.com/images/game.svg -->
+  - A game. A text-based game is the most straightforward option, but [there are Ruby game engines](#game-programming) for graphical games. <!-- https://letslearnruby.com/images/game.svg -->
   - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
-  - More ideas: [Coding Challenges](https://codingchallenges.fyi), [Build your own X](https://github.com/codecrafters-io/build-your-own-x), [Projectbook](https://projectbook.code.brettchalupa.com), [Project-based learning](https://github.com/practical-tutorials/project-based-learning#ruby) <!-- https://letslearnruby.com/images/light-bulb.jpg -->
 - **Reference:**
   - [x] [Ruby API](https://rubyapi.org). Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.4/o/s?q=partition](https://rubyapi.org/3.2/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
 
@@ -239,16 +238,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
   - [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
   - [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
-  - [ ] [CSS games](#programming-games)
-- **CSS games:**
-  - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) <!-- https://d4.alternativeto.net/uJT4WbuIzPvczqpVa8ADBr1th9hAPeL1sdtaKNcqjc8/rs:fill:618:394:1/g:no:0:0/YWJzOi8vZGlzdC9zL2ZsZXhib3gtem9tYmllc18yMDAwMThfZnVsbC5qcGc.jpg -->
-  - [Grid Critters](https://gridcritters.com/) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/SaS7C1ZSeeZUEzvnAl2x -->
-  - [CSS Diner](https://flukeout.github.io/) <!-- https://i.pinimg.com/736x/8a/b1/ad/8ab1ad8128508785f956eb6f58779b47.jpg -->
-  - [Flexbox Froggy](https://flexboxfroggy.com/) <!-- https://flexboxfroggy.com/favicon.ico -->
-  - [Flexbox Defense](http://www.flexboxdefense.com/) <!-- https://velog.velcdn.com/images%2Fdaymoon_%2Fpost%2F7b73b771-50e0-4728-99ec-0dc60f8b7153%2Fimage.png -->
-  - [CSS Grid Garden](https://cssgridgarden.com/) <!-- https://cssgridgarden.com/favicon.ico -->
-  - [CSSBattle](https://cssbattle.dev/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ixvovaxpxyb0ma6w9f6y -->
-  - [Coding Fantasy](https://codingfantasy.com/) <!-- https://pbs.twimg.com/profile_images/1396909500884529157/PdqFWViQ_400x400.jpg -->
 
 ### JavaScript
 
@@ -257,7 +246,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] [Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html) plus [import maps](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap) <!-- https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/3k8M1zI3S9ePNURLZVBI -->
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
-  - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [a project-based freeCodeCamp course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)); see also [programming games](#programming-games) below. <!-- https://letslearnruby.com/images/js.jpg -->
+  - [x] Build something in JS. Or for a more structured approach: [JavaScript30](https://javascript30.com/) and [solutions](https://github.com/search?q=javascript30&type=repositories), [a project-based freeCodeCamp course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), [Frontend Mentor](https://www.frontendmentor.io/), [Frontend Practice](https://www.frontendpractice.com). You may also like JS coding exercises: [Exercism - JavaScript](https://exercism.org/tracks/javascript), [Advent of JavaScript](https://www.adventofjs.com/) and [solutions](https://github.com/search?q=%22advent+of+javascript%22+OR+%22advent+of+js%22&type=repositories), [Advent of Code](https://adventofcode.com/) with JS CLI runner ([1](https://github.com/caderek/aocrunner), [2](https://github.com/t-hugs/advent-of-code)) and solutions ([1](https://github.com/sguest/advent-of-code), [2](https://github.com/shahata/adventofcode-solver/tree/master/src), [3](https://github.com/leyanlo/advent-of-code), [4](https://github.com/niksimon/advent-of-code), [5](https://github.com/romellem/advent-of-code), [6 (TS)](https://github.com/T-Hugs/advent-of-code/tree/main/years), [7 (TS)](https://github.com/AlexAegis/advent-of-code/tree/master/solutions/typescript)). <!-- https://letslearnruby.com/images/js.jpg -->
 - **Going deeper:**
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
@@ -276,12 +265,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern), [Zod](https://github.com/colinhacks/zod), [type-fest](https://github.com/sindresorhus/type-fest)
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
-- **JavaScript/TypeScript games:**
-  - [Kid.js](https://github.com/maissaninc/kidjs) <!-- https://kidjs.io/images/logo.svg -->
-  - [Untrusted](https://untrustedgame.com/) <!-- https://letslearnruby.com/images/untrusted.png -->
-  - [Screeps](https://screeps.com/) <!-- https://avatars.githubusercontent.com/u/9197419?s=400 -->
-  - [BitBurner](https://bitburner-official.github.io/) <!-- https://steamuserimages-a.akamaihd.net/ugc/1816639486142926307/9B3DD06F3021AE6409C848B84052B885A0B287EB/ -->
-  - [Elevator Saga](https://play.elevatorsaga.com/) <!-- https://i1.wp.com/www.404techsupport.com/wp-content/uploads/2015/01/elevator_visual.png -->
 
 ### UI and usability
 
@@ -350,10 +333,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
 - **Music:**
   - [Sonic Pi](https://sonic-pi.net/) <!-- https://avatars.githubusercontent.com/u/67760337 -->
-- **Programming games:**
-  - [SC2AI](https://sc2ai.pages.dev/) <!-- https://cdn.patchbot.io/games/14/starcraft_ii_sm.webp -->
-  - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) or [the online version](https://palkan.github.io/ruby-warrior/). <!-- https://html5gamedevelopment.com/wp-content/uploads//files/7b/3/323/spartacus.png -->
-- **Game programming:**
+- **Game programming:** <a id="game-programming"></a>
   - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) has the largest community, e.g. [on Discord](discord.dragonruby.org), [Dragon Riders Community](https://www.dragonriders.community/),  <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
   <!-- Keep an eye on https://github.com/hadashiA/MRubyCS because it could enable Ruby scripting in any game engine that supports C#, though there may be a wrinkle: https://news.ycombinator.com/item?id=43467382 -->
@@ -392,29 +372,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
   - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
   - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-<!-- - **Code golf:** <a id="code-golf"></a>
-  - [ ] [code.golf](https://code.golf/)
-  - [ ] [Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
-  - [ ] [CodinGame - Clash of Code](https://www.codingame.com/multiplayer/clashofcode)
-- **Coding exercises:** <a id="coding-exercises"></a> other than Advent of Code, Exercism, and LeetCode, which I mention elsewhere in this and [another](https://github.com/fpsvogel/learn-cs) list.
-  - [ ] [Synacor Challenge](https://github.com/Aneurysm9/vm_challenge) by the creator of Advent of Code.
-  - [ ] [Everybody Codes](https://everybody.codes/home)
-  - [ ] [Ruby coding challenges](https://github.com/Arrowsome/ruby-coding-challenges)
-  - [ ] [Kattis Problem Archive](https://open.kattis.com/)
-  - [ ] [Codeforces](https://codeforces.com/)
-  - [ ] [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8)
-  - [ ] [DMOJ](https://dmoj.ca/)
-  - [ ] [AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)
-  - [ ] [A list of other online competitive programming platforms](https://en.wikipedia.org/wiki/Competitive_programming#Online_platforms) -->
-
-<!-- ## Programming games
-
-<!--- **API games (any language):**
-<!--  - [SpaceTraders](https://spacetraders.io/) <!-- https://avatars.githubusercontent.com/u/76577835?s=400 -->
-<!--  - [Artifacts](https://artifactsmmo.com/) <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Rz35KdjPZ2vxmuwlITP5axOXOyx9mrbhHw&s -->
-<!--  - [Battlesnake](https://play.battlesnake.com/) <!-- https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d8p9mzhszirgd4avaqlf -->
-<!--- **Other programming games:**
-<!--  - [Swarm](https://swarm-game.github.io/) <!-- https://external-preview.redd.it/V2h0RvY_Z7-MPs6-34NQBH1oVS0speRWTWbVyIDZDr4.jpg?auto=webp&s=c7fee792a18e40e263026e691d91b2eb12d839bb -->
 
 ## Ruby media
 
