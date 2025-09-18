@@ -124,7 +124,6 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 - [x] [Next-Level Database Techniques for Developers](https://sqlfordevs.com/ebook) <!-- https://sqlfordevs.com/build/assets/ebook.454b5368.png -->
 - [x] [Use the Index, Luke!](https://use-the-index-luke.com/sql/preface) <!-- https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png -->
 - [ ] [Advent of SQL](https://adventofsql.com/) <!-- https://letslearnruby.com/images/aoc.png -->
-- [ ] [Hanukkah of Data](https://hanukkah.bluebird.sh/5784/) <!-- https://www.visidata.org/blog/assets/2022-hod.png -->
 
 ### Git
 
