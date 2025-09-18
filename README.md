@@ -28,8 +28,7 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
-- [Ruby beyond web developement](#ruby-beyond-web-developement)
-- [Beyond Ruby](#beyond-ruby)
+- [Beyond Ruby web development](#beyond-ruby-web-development)
 - [Ruby media](#ruby-media)
   - [Chat / social media](#chat--social-media)
   - [Blogs and newsletters](#blogs-and-newsletters)
@@ -323,29 +322,23 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
   - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
 
-## Ruby beyond web developement
+## Beyond Ruby web development
 
-- **Mentoring:**
-  - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
-  - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
-- **Text processing:**
-  - [x] [Sundeep Agarwal - Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp) <!-- https://learnbyexample.github.io/Ruby_Regexp/images/ruby_regexp.png -->
-  - [x] [Sundeep Agarwal - Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
-  - [x] 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://m.media-amazon.com/images/I/91QfMPAeQZL._AC_UF1000,1000_QL80_.jpg -->
-- **Music:**
-  - [Sonic Pi](https://sonic-pi.net/) <!-- https://avatars.githubusercontent.com/u/67760337 -->
-- **Game programming:** <a id="game-programming"></a>
-  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) has the largest community, e.g. [on Discord](discord.dragonruby.org), [Dragon Riders Community](https://www.dragonriders.community/),  <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-  - Other game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://avatars.githubusercontent.com/u/6291058?s=400 -->
+- **Ruby that is not web development:** <a id="game-programming"></a>
+  - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
   <!-- Keep an eye on https://github.com/hadashiA/MRubyCS because it could enable Ruby scripting in any game engine that supports C#, though there may be a wrinkle: https://news.ycombinator.com/item?id=43467382 -->
   - [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
   <!-- Older text-based game libraries:
   <!--     https://github.com/jaywengrow/tuvi
   <!--     https://github.com/MikeTaylor/scottkit
   <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
-
-## Beyond Ruby
-
+  - [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
+  - [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
+  - [Ronin](https://ronin-rb.dev/) for security development
+  - Scripting and text processing: [Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/), [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp), 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
+- **Mentoring:**
+  - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
+  - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Career advancement:**
   - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/) <!-- https://localghost.dev/img/og-image.png -->
   - [ ] 💲[The Missing README: A Guide for the New Software Engineer](https://nostarch.com/missing-readme)
