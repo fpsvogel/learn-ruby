@@ -184,6 +184,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice) <!-- https://public-files.gumroad.com/3x0fwqyo139zgcyn5bwcdsi9jas0 -->
 - **Performance:**
   - [ ] [BigBinary - Scaling Rails series](https://www.bigbinary.com/blog/scaling-rails-series)
+  - [ ] [RorVsWild blog](https://www.rorvswild.com/blog/) is largely about performance
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
   - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
