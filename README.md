@@ -19,15 +19,15 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Foundations](#foundations)
   - [SQL and databases](#sql-and-databases)
   - [Git](#git)
-- [Advanced Ruby and Rails](#advanced-ruby-and-rails)
-  - [Advanced Ruby](#advanced-ruby)
-  - [Advanced Rails](#advanced-rails)
 - [Front end](#front-end)
   - [HTML and CSS basics](#html-and-css-basics)
   - [JavaScript](#javascript)
   - [UI and usability](#ui-and-usability)
   - [Accessibility](#accessibility)
   - [Hotwire](#hotwire)
+- [Advanced Ruby and Rails](#advanced-ruby-and-rails)
+  - [Advanced Ruby](#advanced-ruby)
+  - [Advanced Rails](#advanced-rails)
 - [Ruby beyond web developement](#ruby-beyond-web-developement)
 - [Beyond Ruby](#beyond-ruby)
 - [Ruby media](#ruby-media)
@@ -135,79 +135,6 @@ It's also good to know the basic workings of the Internet and Web, but that sect
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
   - [ ] ["Git Internals" chapter of Pro Git](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) <!-- https://m.media-amazon.com/images/I/417jkTBWA3L._SX342_SY445_PQ78_.jpg -->
-
-## Advanced Ruby and Rails
-
-See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy Ruby gems.
-
-### Advanced Ruby
-
-- **Reference:**
-  - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
-  - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
-  - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
-- **Concurrency:**
-  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
-  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
-  - [ ] Jesse Storimer - articles: [Threads, Not Just for Optimizations](https://web.archive.org/web/20171112112011/https://www.jstorimer.com/blogs/workingwithcode/7766063-threads-not-just-for-optimizations), [Matz is not a threading guy](https://web.archive.org/web/20180324184633/https://www.jstorimer.com/blogs/workingwithcode/7766069-matz-is-not-a-threading-guy), Nobody Understands the GIL (parts [1](https://web.archive.org/web/20170801134641/https://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil), [2](https://web.archive.org/web/20161024030142/http://www.jstorimer.com/blogs/workingwithcode/8100871-nobody-understands-the-gil-part-2-implementation), [3](https://web.archive.org/web/20160506090126/http://www.jstorimer.com/blogs/workingwithcode/8158971-nobody-understands-the-gil-part-3-thread-safety))
-  - [ ] [Prateek Codes - series on concurrency and parallelism](https://www.prateekcodes.dev/ruby-threads-explained-simple-guide-part-1)
-  - [ ] [JP Camara - series on concurrency, parallelism and asynchronous programming in Ruby](https://jpcamara.com/2024/06/04/your-ruby-programs.html)
-  - [ ] [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/intro.html)
-  - [ ] Articles on threads and processes in Ruby: [1](https://mensfeld.pl/2024/02/the-art-of-forking-unlocking-scalability-in-ruby/), [2](https://thecodest.co/blog/forking-and-threading-in-ruby/), [3](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer), [4](https://www.sitepoint.com/forking-ipc-ruby-part/), [5](https://thoughtbot.com/blog/untangling-ruby-threads)
-  - [ ] [parallel gem](https://github.com/grosser/parallel)
-  - [ ] [concurrent-ruby gem](https://github.com/ruby-concurrency/concurrent-ruby)
-- **Ruby internals:**
-  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/2025/1/28/updating-ruby-under-a-microscope) (WIP)
-  - [ ] 💲[Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
-  - [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
-<!-- - **Miscellaneous:** -->
-  <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
-  <!-- - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt) -->
-
-### Advanced Rails
-
-- **Reference:**
-  - [ ] 💲[The Rails 8 Way](https://leanpub.com/therails8way)
-  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
-  - [ ] [Rails API docs](https://api.rubyonrails.org/)
-- **Rails internals:**
-  - [ ] [The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
-  - [x] 💲[Noah Gibbs - Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
-- **Architecture:**
-  - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
-  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
-  - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications) and [Gusto engineering blog posts on modularity](https://engineering.gusto.com/all?topic=modularization)
-- **Background jobs:**
-  - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
-  - [x] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works) <!-- https://avatars.githubusercontent.com/u/124714131?s=400 -->
-  - [x] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice) <!-- https://public-files.gumroad.com/3x0fwqyo139zgcyn5bwcdsi9jas0 -->
-- **Performance:**
-  - [ ] [BigBinary - Scaling Rails series](https://www.bigbinary.com/blog/scaling-rails-series)
-  - [ ] [RorVsWild blog](https://www.rorvswild.com/blog/) is largely about performance
-  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
-  - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
-- **PostgreSQL:**
-  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-  - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
-  - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
-  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-  - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
-  - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
-  - [ ] [PostgreSQL docs](https://www.postgresql.org/docs/current/)
-- **SQLite:**
-  - [ ] 💲[SQLite on Rails](https://fractaledmind.gumroad.com/l/sqlite-on-rails)
-- **Deployment:**
-  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
-  - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
-  - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
-  - [ ] 💲[The Docker Book](https://dockerbook.com/)
-  - [ ] [Using Kamal 2.0 in Production](https://rubys.github.io/kamal-in-production/)
-  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
-- **Miscellaneous:**
-  - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
-  - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
 
 ## Front end
 
@@ -322,6 +249,79 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [Betterstimulus](https://www.betterstimulus.com) <!-- https://raw.githubusercontent.com/github/explore/b0f7ffc5ee5bc1b6dfc1bbc4d75dd2587a243c14/topics/stimulus/stimulus.png -->
   - [Stimulus-Use](https://stimulus-use.github.io/stimulus-use) <!-- https://avatars.githubusercontent.com/u/65528542?s=400 -->
   - [Stimulus Components](https://www.stimulus-components.com/) <!-- https://avatars.githubusercontent.com/u/72915408?s=400 -->
+
+## Advanced Ruby and Rails
+
+See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy Ruby gems.
+
+### Advanced Ruby
+
+- **Reference:**
+  - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
+  - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
+  - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
+- **Concurrency:**
+  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
+  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+  - [ ] Jesse Storimer - articles: [Threads, Not Just for Optimizations](https://web.archive.org/web/20171112112011/https://www.jstorimer.com/blogs/workingwithcode/7766063-threads-not-just-for-optimizations), [Matz is not a threading guy](https://web.archive.org/web/20180324184633/https://www.jstorimer.com/blogs/workingwithcode/7766069-matz-is-not-a-threading-guy), Nobody Understands the GIL (parts [1](https://web.archive.org/web/20170801134641/https://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil), [2](https://web.archive.org/web/20161024030142/http://www.jstorimer.com/blogs/workingwithcode/8100871-nobody-understands-the-gil-part-2-implementation), [3](https://web.archive.org/web/20160506090126/http://www.jstorimer.com/blogs/workingwithcode/8158971-nobody-understands-the-gil-part-3-thread-safety))
+  - [ ] [Prateek Codes - series on concurrency and parallelism](https://www.prateekcodes.dev/ruby-threads-explained-simple-guide-part-1)
+  - [ ] [JP Camara - series on concurrency, parallelism and asynchronous programming in Ruby](https://jpcamara.com/2024/06/04/your-ruby-programs.html)
+  - [ ] [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/intro.html)
+  - [ ] Articles on threads and processes in Ruby: [1](https://mensfeld.pl/2024/02/the-art-of-forking-unlocking-scalability-in-ruby/), [2](https://thecodest.co/blog/forking-and-threading-in-ruby/), [3](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer), [4](https://www.sitepoint.com/forking-ipc-ruby-part/), [5](https://thoughtbot.com/blog/untangling-ruby-threads)
+  - [ ] [parallel gem](https://github.com/grosser/parallel)
+  - [ ] [concurrent-ruby gem](https://github.com/ruby-concurrency/concurrent-ruby)
+- **Ruby internals:**
+  - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/2025/1/28/updating-ruby-under-a-microscope) (WIP)
+  - [ ] 💲[Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
+  - [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
+<!-- - **Miscellaneous:** -->
+  <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
+  <!-- - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt) -->
+
+### Advanced Rails
+
+- **Reference:**
+  - [ ] 💲[The Rails 8 Way](https://leanpub.com/therails8way)
+  - [ ] [Rails Guides](https://guides.rubyonrails.org/)
+  - [ ] [Rails API docs](https://api.rubyonrails.org/)
+- **Rails internals:**
+  - [ ] [The Rails Companion](https://books.writesoftwarewell.com/8/rails-companion)
+  - [x] 💲[Noah Gibbs - Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
+- **Architecture:**
+  - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
+  - [ ] 💲[Maintainable Rails](https://leanpub.com/maintain-rails)
+  - [ ] 💲[Gradual Modularization for Ruby and Rails](https://leanpub.com/package-based-rails-applications) and [Gusto engineering blog posts on modularity](https://engineering.gusto.com/all?topic=modularization)
+- **Background jobs:**
+  - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
+  - [x] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works) <!-- https://avatars.githubusercontent.com/u/124714131?s=400 -->
+  - [x] 💲[Nate Berkopec - Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice) <!-- https://public-files.gumroad.com/3x0fwqyo139zgcyn5bwcdsi9jas0 -->
+- **Performance:**
+  - [ ] [BigBinary - Scaling Rails series](https://www.bigbinary.com/blog/scaling-rails-series)
+  - [ ] [RorVsWild blog](https://www.rorvswild.com/blog/) is largely about performance
+  - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+  - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
+  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
+  - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
+- **PostgreSQL:**
+  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+  - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
+  - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
+  - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
+  - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
+  - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
+  - [ ] [PostgreSQL docs](https://www.postgresql.org/docs/current/)
+- **SQLite:**
+  - [ ] 💲[SQLite on Rails](https://fractaledmind.gumroad.com/l/sqlite-on-rails)
+- **Deployment:**
+  - [ ] 💲[Josef Strzibny - Deployment from Scratch](https://deploymentfromscratch.com/)
+  - [ ] 💲[Julia Evans - How Containers Work](https://wizardzines.com/zines/containers/)
+  - [ ] [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+  - [ ] 💲[The Docker Book](https://dockerbook.com/)
+  - [ ] [Using Kamal 2.0 in Production](https://rubys.github.io/kamal-in-production/)
+  - [ ] 💲[Josef Strzibny - Kamal Handbook](https://kamalmanual.com/handbook/)
+- **Miscellaneous:**
+  - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
+  - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
 
 ## Ruby beyond web developement
 
