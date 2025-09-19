@@ -20,7 +20,7 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
   - [SQL and databases](#sql-and-databases)
   - [Git](#git)
 - [Front end](#front-end)
-  - [HTML and CSS basics](#html-and-css-basics)
+  - [CSS](#css)
   - [JavaScript](#javascript)
   - [Accessibility and usability](#accessibility-and-usability)
   - [Hotwire](#hotwire)
@@ -49,7 +49,7 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
 
 ### Front-end basics
 
-- [x] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or resources under ["Front end"](#front-end) below. <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
+- [x] Learn some HTML, CSS, and JS: [The Odin Project - Foundations path](https://www.theodinproject.com/paths/foundations/courses/foundations) or [MDN - Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development) or [web.dev - Learn web development](https://web.dev/learn/). <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
 - [x] Build a blog from scratch. [GitHub Pages](https://pages.github.com) is an accessible way to do this. (Choose the option "Project site", then "Start from scratch".) <!-- https://letslearnruby.com/images/html-blog.png -->
 
 ### Ruby basics
@@ -136,33 +136,24 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 
 ## Front end
 
-### HTML and CSS basics
+### CSS
 
-- **HTML:**
-  - [ ] [HTML for people](https://www.htmlforpeople.com/)
-  - [ ] [MDN - Learn web development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
-  - [ ] [MDN - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-  - [ ] [htmlreference.io](https://htmlreference.io/)
-- **Forms:**
-  - [ ] [MDN - Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-  - [ ] [web.dev - Learn Forms](https://web.dev/learn/forms)
-- **CSS:**
-  - [ ] 💲[The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
-  - [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-  - [ ] [cssreference.io](https://cssreference.io/)
-  - [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
-  - [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
-  - [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
-  - [ ] [CUBE CSS](https://cube.fyi)
-  - [ ] [Every Layout](https://every-layout.dev/)
-  - [ ] [Magic of CSS](https://adamschwartz.co/magic-of-css/)
-  - [ ] [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
-  - [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
-  - [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
-  - [ ] [CSS Naked Day](https://css-naked-day.github.io/)
-  - [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
-  - [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
-  - [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
+- [x] [The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
+- [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [ ] [cssreference.io](https://cssreference.io/)
+- [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
+- [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
+- [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
+- [ ] [CUBE CSS](https://cube.fyi)
+- [ ] [Every Layout](https://every-layout.dev/)
+- [ ] [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+- [ ] [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
+- [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
+- [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
+- [ ] [CSS Naked Day](https://css-naked-day.github.io/)
+- [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
+- [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
+- [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
 
 ### JavaScript
 
