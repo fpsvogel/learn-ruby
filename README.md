@@ -248,7 +248,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [concurrent-ruby gem](https://github.com/ruby-concurrency/concurrent-ruby)
 - **Ruby internals:**
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/2025/1/28/updating-ruby-under-a-microscope) (WIP)
-  - [ ] 💲[Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2)
   - [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
 <!-- - **Miscellaneous:** -->
   <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
