@@ -198,19 +198,9 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 - **Learning:**
   - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
   - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-  - [ ] [Growth.Design](https://growth.design/)
-  - [ ] [Roast My Landing Page blog](https://blog.roastmylandingpage.com/)
-  - [x] [Victor Ponamariov - UI/UX newsletter](https://vpon.me/newsletter) <!-- https://files.smashing.media/authors/viktor-ponamarev.jpg -->
-  - [x] [Victor Ponamariov - 50 Tips to Improve User Interface](https://fifty.user-interface.io/50_ui_tips.pdf) <!-- https://fifty.user-interface.io/book.png -->
-  - [ ] [Victor Ponamariov - How to design almost any UI element](https://user-interface.io/articles/how-to-design-almost-any-ui-element)
-  - [ ] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/))
+  - [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/)) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
   - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
-  - [ ] 💲[Master UI Design](https://www.masteruibook.com/)
-  - [ ] 💲[Refactoring UI](https://www.refactoringui.com/book)
   - [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
-- **Libraries:**
-  - [Pico CSS](https://picocss.com/) <!-- https://picocss.com/build/_assets/pico-mark-dark-W5OEFAUA.svg -->
-  - [Shoelace](https://shoelace.style/), soon to be superseded by [Web Awesome](https://www.kickstarter.com/projects/fontawesome/web-awesome). <!-- https://shoelace.style/assets/images/wordmark.svg -->
 
 ### Accessibility
 
