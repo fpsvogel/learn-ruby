@@ -214,6 +214,7 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 
 ### Accessibility
 
+- [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
 - [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
