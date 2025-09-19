@@ -22,8 +22,7 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Front end](#front-end)
   - [HTML and CSS basics](#html-and-css-basics)
   - [JavaScript](#javascript)
-  - [UI and usability](#ui-and-usability)
-  - [Accessibility](#accessibility)
+  - [Accessibility and usability](#accessibility-and-usability)
   - [Hotwire](#hotwire)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
@@ -193,22 +192,18 @@ It's also good to know the basic workings of the Internet and Web, but that sect
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
   - [ ] [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) and [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 
-### UI and usability
-
-- **Learning:**
-  - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
-  - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-  - [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/)) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
-  - [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
-  - [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
-
-### Accessibility
+### Accessibility and usability
 
 - [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
 - [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
 - [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
+- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks](https://akcium.gumroad.com/l/ui-ux-tips) (or on [the landing page](https://hundred.user-interface.io/)) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
+- [ ] 💲[Victor Ponamariov - Re:Form](https://reform.user-interface.io/)
+- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 <!--
 ### New Web APIs
