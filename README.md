@@ -199,9 +199,11 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 <!--
 ### New Web APIs
 
-- [ ] [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-- [ ] [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
-- [ ] [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
+- [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
+- [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
+- [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
+- [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+- [IntersecionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 -->
 
 ### Hotwire
