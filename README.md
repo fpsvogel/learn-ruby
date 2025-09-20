@@ -21,8 +21,8 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
   - [Git](#git)
 - [Front end](#front-end)
   - [CSS](#css)
-  - [JavaScript](#javascript)
   - [Accessibility and usability](#accessibility-and-usability)
+  - [JavaScript](#javascript)
   - [Hotwire](#hotwire)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
@@ -138,22 +138,24 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 
 ### CSS
 
-- [x] [The Spicy Web - CSS Nouveau](https://www.spicyweb.dev/css-nouveau) <!-- https://www.spicyweb.dev/images/spicy-web-avatar-light.png -->
-- [ ] [MDN - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [ ] [cssreference.io](https://cssreference.io/)
-- [ ] [CSS Selectors: A Visual Guide & Reference](https://fffuel.co/css-selectors/)
-- [ ] [The Odin Project - Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
-- [ ] [The Odin Project - Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/advanced-html-and-css)
-- [ ] [CUBE CSS](https://cube.fyi)
-- [ ] [Every Layout](https://every-layout.dev/)
 - [ ] [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+- [ ] 💲[Every Layout](https://every-layout.dev/)
 - [ ] [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
-- [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
 - [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
-- [ ] [CSS Naked Day](https://css-naked-day.github.io/)
-- [ ] 💲[Julia Evans - Hell Yes! CSS!](https://wizardzines.com/zines/css/)
-- [ ] [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
-- [ ] [Type Is Design: Fix Your UI with Better Typography and CSS](https://www.youtube.com/watch?v=1Pe7oGIKkqc)
+- [ ] [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
+
+### Accessibility and usability
+
+- [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
+- [ ] [Laws of UX](https://lawsofux.com/articles/)
+- [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+- [ ] [Responsible Web Applications](https://responsibleweb.app/)
+- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
+- [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
+- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks and Re:Form bundle](https://hundred.user-interface.io/) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
+- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 ### JavaScript
 
@@ -186,19 +188,6 @@ It's also good to know the basic workings of the Internet and Web, but that sect
     - https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system
     - https://mattrickard.com/typescript-type-system-hacks
   -->
-
-### Accessibility and usability
-
-- [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
-- [ ] [Laws of UX](https://lawsofux.com/articles/)
-- [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-- [ ] [Responsible Web Applications](https://responsibleweb.app/)
-- [ ] [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/) (among [their other courses](https://web.dev/learn/))
-- [ ] In Rails: [Accessibility is a Requirement](https://www.youtube.com/watch?v=BF3D_IqOknk), [Accessible by Default](https://www.youtube.com/watch?v=4j2zlvE_Yj8)
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks and Re:Form bundle](https://hundred.user-interface.io/) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
-- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 <!--
 ### New Web APIs
