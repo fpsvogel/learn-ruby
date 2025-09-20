@@ -182,6 +182,10 @@ It's also good to know the basic workings of the Internet and Web, but that sect
   - [ ] 💲[TypeScript Cookbook](https://typescript-cookbook.com/)
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
   - [ ] [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) and [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
+  <!-- curiosities:
+    - https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system
+    - https://mattrickard.com/typescript-type-system-hacks
+  -->
 
 ### Accessibility and usability
 
