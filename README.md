@@ -22,6 +22,7 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 - [Front end](#front-end)
   - [CSS](#css)
   - [Usability](#usability)
+  - [Accessibility](#accessibility)
   - [JavaScript](#javascript)
   - [Hotwire](#hotwire)
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
@@ -148,16 +149,19 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 
 - [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
 - [ ] [Laws of UX](https://lawsofux.com/articles/)
+- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
+- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
+- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks and Re:Form bundle](https://hundred.user-interface.io/) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
+- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
+
+### Accessibility
+
 - [ ] [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 - [ ] [MDN - Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) or [web.dev - Learn Accessibility](https://web.dev/learn/accessibility/)
 - [ ] [Responsible Web Applications](https://responsibleweb.app/)
 - [ ] 💲[Inclusive Components](https://book.inclusive-components.design/)
 - [ ] [RailsConf talks on accessibility](https://www.youtube.com/results?search_query=railsconf+accessibility)
 - [ ] Examples of accessible components: [Deque University Code Library](https://dequeuniversity.com/library/), [Scott O'Hara's Accessible Components](https://github.com/scottaohara/accessible_components)
-- [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
-- [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks and Re:Form bundle](https://hundred.user-interface.io/) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
-- [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 ### JavaScript
 
