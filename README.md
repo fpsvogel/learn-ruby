@@ -174,6 +174,16 @@ It's also good to know the basic workings of the Internet and Web, but that sect
   - [ ] [Plain Vanilla](https://plainvanillaweb.com/index.html)
   - [ ] [Deep JS](https://exploringjs.com/deep-js/toc.html)
   - [ ] [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+- **Build your own front-end framework:**
+  - [ ] General: [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/), [Frontend framework](https://mfrachet.github.io/create-frontend-framework/), 💲[Build a Frontend Web Framework](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch)
+  - [ ] React: [Implementing React From Scratch](https://www.rob.directory/blog/react-from-scratch), [Build your own React](https://pomb.us/build-your-own-react/), [Creating Our Own React From Scratch](https://itnext.io/creating-our-own-react-from-scratch-82dd6356676d), [Let's build a React from scratch](https://geekpaul.medium.com/lets-build-a-react-from-scratch-part-1-virtualdom-and-renderer-14f4f716de62)
+  - [ ] Other frameworks: [Building AlpineJS](https://laracasts.com/series/building-alpinejs), [Create Your Own Vue.js From Scratch](https://dev.to/themarcba/coding-a-vue-js-like-framework-from-scratch-part-1-introduction-3nbf), [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) and [SolidJS: Reactivity to Rendering](https://angular.love/solidjs-reactivity-to-rendering), [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head)
+  <!-- maybe:
+  -	incomplete: [Effectual JS](https://dttw.tech/posts/WPLtwgai6)
+  - incomplete: [how to build your own JS framework](https://mikeguoynes.medium.com/part-1-build-your-own-js-framework-from-scratch-f4e35d0dffa6)
+  - too basic: [Let's Build a Custom JavaScript Framework](https://medium.com/@lfoster49203/lets-build-a-custom-javascript-framework-97a01080d1bb)
+  - too specific?: [Client Side Routing](https://jessedit.netlify.app/blog/client-side-routing), https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch, https://newsletter.unstacked.dev/p/dev-101-custom-javascript-signals
+  -->
 - **TypeScript:**
   - [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
   - [x] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup) <!-- https://res.cloudinary.com/total-typescript/image/upload/v1676015688/core-volume_2x_wt7jnc.png -->
