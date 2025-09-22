@@ -152,7 +152,7 @@ It's also good to know the basic workings of the Internet and Web, but that sect
 - [ ] [Laws of UX](https://lawsofux.com/articles/)
 - [x] 💲[Don't Make Me Think](https://sensible.com/dont-make-me-think/) <!-- https://m.media-amazon.com/images/I/51sdCuqMwWL._AC_UF1000,1000_QL80_.jpg -->
 - [x] 💲[The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) <!-- https://m.media-amazon.com/images/I/416Hql52NCL.jpg -->
-- [x] 💲[Victor Ponamariov - 100 UI/UX Tips & Tricks and Re:Form bundle](https://hundred.user-interface.io/) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
+- [x] [Victor Ponamariov - 100 UI/UX Tips](https://vpon.me/hundred) <!-- https://optim.tildacdn.one/tild6639-3864-4563-a666-623739336438/-/resize/640x/-/format/webp/Group_18_Copy.png.webp -->
 - [ ] 💲[User Interface Design: A Software Engineering Perspective](https://www.amazon.com/dp/0321181433)
 
 ### Accessibility
