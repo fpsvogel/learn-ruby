@@ -101,6 +101,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **The job search:**
   - [RubyOnRemote](https://rubyonremote.com) <!-- https://styles.redditmedia.com/t5_7xqhrm/styles/communityIcon_pjfyocxjx1ja1.png -->
   - [Welcome to the Jungle](https://www.welcometothejungle.com) <!-- https://letslearnruby.com/images/welcome-to-the-jungle.jpg -->
+  - 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   <!-- Of unverified usefulness:
   - https://railshotwirejobs.com
   - https://weworkremotely.com/remote-jobs/search?term=ruby
@@ -323,14 +324,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Mentoring:**
   - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
-- **Career advancement:**
-  - [x] [Engineering progression for humans](https://localghost.dev/blog/engineering-progression-for-humans/) <!-- https://localghost.dev/img/og-image.png -->
-  - [ ] 💲[The Missing README: A Guide for the New Software Engineer](https://nostarch.com/missing-readme)
-  - [ ] [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
-  - [ ] [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes/)
-  - [ ] 💲[The Software Engineer's Guidebook](https://www.engguidebook.com)
-  - [ ] 💲[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
-  - [ ] 💲[The Tech Resume Inside Out](https://thetechresume.com/)
 - **Software systems:**
   - [ ] 💲[Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/)
   - [ ] 💲[Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
