@@ -107,7 +107,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **The job search:**
   - [RubyOnRemote](https://rubyonremote.com) <!-- https://styles.redditmedia.com/t5_7xqhrm/styles/communityIcon_pjfyocxjx1ja1.png -->
   - [Welcome to the Jungle](https://www.welcometothejungle.com) <!-- https://letslearnruby.com/images/welcome-to-the-jungle.jpg -->
-  - 💲[The Tech Resume Inside Out](https://thetechresume.com/)
   <!-- Of unverified usefulness:
   - https://railshotwirejobs.com
   - https://weworkremotely.com/remote-jobs/search?term=ruby
