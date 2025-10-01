@@ -142,7 +142,7 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 ### CSS
 
-- [ ] [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+- [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/)
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 - [ ] [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
 - [ ] [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
