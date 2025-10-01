@@ -3,12 +3,10 @@
 
 Hi! This road map has helped me as a second-career developer who didn't do a bootcamp. I hope it helps you too.
 
-Notice a broken link? Or want to suggest an addition? [Open an issue!](https://github.com/fpsvogel/learn-ruby/issues/new)
+Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/issues/new)
 
 <!-- omit in toc -->
 ## Table of contents
-
-The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somewhat chaotic because I haven't yet seen what's worth keeping there.
 
 - [Preliminaries](#preliminaries)
 - [Basics](#basics)
@@ -40,11 +38,11 @@ The mostly-not-done sections ("Advanced Ruby and Rails" and following) are somew
 ## Preliminaries
 
 - **If you want to keep it simple** and use just *one* resource that can take you from zero to hireable, I suggest the free [Odin Project](https://www.theodinproject.com/paths). If you want more variety and more depth on certain topics, keep reading!
-- **Why did I chose Ruby?** At first I went for full-stack JS, but the JS ecosystem was confusing to me as a solo learner. Ruby was a lot more straightforward to me, and generally more enjoyable too.
+- **Why did I chose Ruby?** At first I went for full-stack JS, but the JS ecosystem was confusing to me as a solo learner. Ruby was a lot more straightforward enjoyable.
 - **Make sure your day job is conducive to part-time studying** if you're a working adult looking to switch careers. I used to be a teacher and spent many of my evenings and weekends grading assignments, which would have made it difficult to learn programming. So I switched to a remote customer support job to free up my schedule.
 - **Take care of yourself!** Exercise and get plenty of sleep, and you'll better retain what you learn. If you develop wrist pain from heavy computer use, get an ergonomic keyboard, [do daily wrist stretches](https://youtube.com/watch?v=fdD7CgN5FGg), and try a break app such as [Stretchly](https://hovancik.net/stretchly).
 
-Resources marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
+Resources below marked with a dollar sign (💲) cost money. You may be able to find books for free (from your local library, interlibrary loan, or more dubious sources) but buy them if/when you can, to support the authors.
 
 ## Basics
 
@@ -70,13 +68,13 @@ Resources marked with a dollar sign (💲) cost money. You may be able to find b
 - **Build stuff with Ruby.** Here are some ideas:
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
   - A game. A text-based game is the most straightforward option, but [there are Ruby game engines](#beyond-web-development) for graphical games. <!-- https://letslearnruby.com/images/game.svg -->
-  - A static site. [Bridgetown](https://github.com/bridgetownrb/bridgetown) is great for (among other things) building static sites, which are simpler than SSR (server-side rendered) sites à la Rails. Maybe [rebuild your blog](https://fpsvogel.com/posts/2021/build-a-blog-with-ruby-bridgetown)? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM)—the maintainers are very welcoming and helpful to newbies. <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
+  - A static site with [Bridgetown](https://github.com/bridgetownrb/bridgetown), which is simpler than building a web app with Rails. Maybe rebuild your blog? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM). <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
 - **Reference:**
   - [x] [Ruby API](https://rubyapi.org). Since its search uses a query param, you can [add a search keyword to your browser](https://nedbatchelder.com/blog/202205/custom_search_keywords.html) so that you can quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.4/o/s?q=partition](https://rubyapi.org/3.4/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
 
 ### Rails basics
 
-Only books and courses are listed below, but be sure to *build things* as you learn. I myself [started building a large-ish Rails app](https://fpsvogel.com/posts/2021/first-rails-app-plain-reading) at first, but then I found it more helpful to build a series of small throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wiki-stumble-wikipedia-explorer), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
+Only books and courses are listed below, but be sure to *build things* as you learn. I found it most helpful to build a bunch of little throwaway apps ([1](https://fpsvogel.com/posts/2021/gpt3-ai-story-writer), [2](https://fpsvogel.com/posts/2021/wiki-stumble-wikipedia-explorer), [3](https://fpsvogel.com/posts/2021/pass-the-story-collaborative-writing-game), [4](https://fpsvogel.com/posts/2022/doctor-lookup-health-provider-search-tool)).
 
 - **Basics:**
   - [x] [Getting started with Rails](https://rails-tutorial.evilmartians.io/), an interactive quick start. <!-- https://avatars.githubusercontent.com/u/46581?s=400 -->
@@ -94,7 +92,6 @@ Only books and courses are listed below, but be sure to *build things* as you le
 - **Miscellaneous:**
   - [x] [Beginners Guide to Ruby on Rails Performance](https://henry.bearblog.dev/beginners-guide-to-ruby-on-rails-performance-part-1) <!-- https://bear-images.sfo2.cdn.digitaloceanspaces.com/henry/performance.webp -->
   - [x] [Style guides](https://ruby.style/) for Ruby, Rails, and RSpec <!-- https://avatars.githubusercontent.com/u/10871348?s=400 -->
-  - [x] [Explore Ruby communities (below)](#chat--social-media) <!-- https://uploads.sitepoint.com/wp-content/uploads/2014/07/1405277526rubygrows.png -->
 
 ### Getting hired
 
@@ -116,7 +113,7 @@ Only books and courses are listed below, but be sure to *build things* as you le
 
 ## Foundations
 
-It's also good to know the basic workings of the Internet and Web, but that section is in [my "Learn Computer Science" list](https://github.com/fpsvogel/learn-cs#networking--the-web).
+In addition to the topics below, it's also good to know the basic workings of the Internet and the Web. Resources for that are listed in [my "Learn Computer Science" list](https://github.com/fpsvogel/learn-cs#networking--the-web).
 
 ### SQL and databases
 
