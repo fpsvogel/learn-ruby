@@ -143,7 +143,7 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 ### CSS
 
-- [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/)
+- [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/) <!-- https://letslearnruby.com/images/spicy-web.png -->
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 
 ### JavaScript
@@ -166,10 +166,10 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] React: [Implementing React From Scratch](https://www.rob.directory/blog/react-from-scratch), [Build your own React](https://pomb.us/build-your-own-react/), [Creating Our Own React From Scratch](https://itnext.io/creating-our-own-react-from-scratch-82dd6356676d), [Let's build a React from scratch](https://geekpaul.medium.com/lets-build-a-react-from-scratch-part-1-virtualdom-and-renderer-14f4f716de62)
   - [ ] Other frameworks: [Building AlpineJS](https://laracasts.com/series/building-alpinejs), [Create Your Own Vue.js From Scratch](https://dev.to/themarcba/coding-a-vue-js-like-framework-from-scratch-part-1-introduction-3nbf), [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) and [SolidJS: Reactivity to Rendering](https://angular.love/solidjs-reactivity-to-rendering), [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head)
   <!-- maybe:
-  -	incomplete: [Effectual JS](https://dttw.tech/posts/WPLtwgai6)
-  - incomplete: [how to build your own JS framework](https://mikeguoynes.medium.com/part-1-build-your-own-js-framework-from-scratch-f4e35d0dffa6)
-  - too basic: [Let's Build a Custom JavaScript Framework](https://medium.com/@lfoster49203/lets-build-a-custom-javascript-framework-97a01080d1bb)
-  - too specific?: [Client Side Routing](https://jessedit.netlify.app/blog/client-side-routing), https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch, https://newsletter.unstacked.dev/p/dev-101-custom-javascript-signals
+    <!-- -	incomplete: [Effectual JS](https://dttw.tech/posts/WPLtwgai6)
+    <!-- - incomplete: [how to build your own JS framework](https://mikeguoynes.medium.com/part-1-build-your-own-js-framework-from-scratch-f4e35d0dffa6)
+    <!-- - too basic: [Let's Build a Custom JavaScript Framework](https://medium.com/@lfoster49203/lets-build-a-custom-javascript-framework-97a01080d1bb)
+    <!-- - too specific?: [Client Side Routing](https://jessedit.netlify.app/blog/client-side-routing), https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch, https://newsletter.unstacked.dev/p/dev-101-custom-javascript-signals
   -->
 - **TypeScript:**
   - [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
@@ -188,11 +188,11 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] 💲[Effective TypeScript](https://effectivetypescript.com/)
   - [ ] [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) and [TypeScript Style Guide](https://mkosir.github.io/typescript-style-guide/)
 - **New web APIs:**
-  - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
-  - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API)
-  - [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor)
-  - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
-  - [IntersecionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+  - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor) <!-- https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg -->
+  - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [IntersecionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 
 <!-- TypeScript curiosities:
   - https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system
@@ -221,10 +221,10 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 References for when you want to stick to native Web technologies and patterns.
 
-- [Plain Vanilla](https://plainvanillaweb.com/index.html)
-- [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html)
-- [Stephanie Eckles - SmolCSS](https://smolcss.dev/)
-- [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/)
+- [Plain Vanilla](https://plainvanillaweb.com/index.html) <!-- https://letslearnruby.com/images/plain-vanilla.png -->
+- [Under-Engineered Patterns](https://adrianroselli.com/2023/05/under-engineered-patterns-for-wcbuf.html) <!-- https://adrianroselli.com/wp-content/uploads/2022/08/cthulhu-selfie-300x300.jpg -->
+- [Stephanie Eckles - SmolCSS](https://smolcss.dev/) <!-- https://smolcss.dev/smolcss.png -->
+- [Stephanie Eckles - Modern CSS Solutions](https://moderncss.dev/) <!-- https://moderncss.dev/img/social/home.jpeg -->
 
 ### Hotwire
 
@@ -332,7 +332,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   <!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
   - [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
   - [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
-  - [Ronin](https://ronin-rb.dev/) for security development
+  - [Ronin](https://ronin-rb.dev/) for security development <!-- https://ronin-rb.dev/images/logo.svg -->
   - Scripting and text processing: [Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/), [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp), 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
 - **Mentoring:**
   - [x] [Exercism](https://exercism.org/mentoring) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
