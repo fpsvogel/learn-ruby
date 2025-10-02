@@ -154,8 +154,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
 - **Web components:**
-  - [x] ["Hello Web Components"](https://eisenbergeffect.medium.com/hello-web-components-795ed1bd108e) <!-- https://miro.medium.com/v2/resize:fit:1050/1*aqIQ5pH0fhW7QBaqQ7PLeg.png -->
-  - [x] [The Modern JavaScript Tutorial - Web Components](https://javascript.info/web-components) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
+  - [ ] [Web Components at Work](https://thomaswilburn.github.io/wc-book/)
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Web Components: Working With Shadow DOM](https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/) and [web.dev - Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom)
   - [ ] [Heartml Reciprocate](https://thathtml.blog/2025/09/reciprocate-reactivity-for-html-web-components/)
