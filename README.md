@@ -159,7 +159,9 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] [Web Components: Working With Shadow DOM](https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/) and [web.dev - Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom)
   - [ ] [Heartml Reciprocate](https://thathtml.blog/2025/09/reciprocate-reactivity-for-html-web-components/)
   - [ ] [Lit docs](https://lit.dev/docs/)
-  - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
+  - [ ] [Lit - Learn](https://lit.dev/learn/)
+  - [ ] [Open Web Components (Lit) - Codelabs](https://open-wc.org/guides/developing-components/codelabs/) and [Code Examples](https://open-wc.org/guides/developing-components/code-examples/)
+  - [ ] [Google - From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path) and [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
   - [ ] Explore source code of [QuietUI](https://quietui.org/), [Web Awesome](https://webawesome.com/)
 - **Build your own front-end framework:**
   - [ ] General: [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/), [Frontend framework](https://mfrachet.github.io/create-frontend-framework/), 💲[Build a Frontend Web Framework](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch)
