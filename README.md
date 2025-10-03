@@ -158,6 +158,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Web Components: Working With Shadow DOM](https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/) and [web.dev - Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom)
   - [ ] [Heartml Reciprocate](https://thathtml.blog/2025/09/reciprocate-reactivity-for-html-web-components/)
+  - [ ] [Lit docs](https://lit.dev/docs/)
   - [ ] [Lit "Learn" resources](https://lit.dev/learn/) and a few code labs ([1](https://codelabs.developers.google.com/codelabs/the-lit-path), [2](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs), [3](https://open-wc.org/codelabs/basics/lit-html), [4](https://open-wc.org/codelabs/intermediate/lit-html))
   - [ ] Explore source code of [QuietUI](https://quietui.org/), [Web Awesome](https://webawesome.com/)
 - **Build your own front-end framework:**
