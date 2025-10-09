@@ -34,6 +34,7 @@ Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/is
   - [Podcasts](#podcasts)
   - ["Let's build" screencasts](#lets-build-screencasts)
   - [Topical screencasts](#topical-screencasts)
+  - [Live streams](#live-streams)
 - [Rails codebases to study](#rails-codebases-to-study)
 
 ## Preliminaries
@@ -408,17 +409,21 @@ These are series using at least Rails 7.
 
 ### Topical screencasts
 
-<!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active -->
+<!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active / too much AI -->
 <!-- - [Indigo Tech Tutorials](https://www.youtube.com/@indigotechtutorials/videos) --> <!-- maybe add in the future -->
-<!-- - [thoughtbot on YouTube](https://www.youtube.com/@thoughtbot/streams) <!-- https://avatars.githubusercontent.com/u/6183?s=400 --> <!-- completely AI-focused for the past ~year -->
-- [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/hq720.jpg -->
 - [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://i.ytimg.com/vi/YWjA6gR_Lr8/hq720.jpg -->
 - 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) <!-- https://letslearnruby.com/images/destroy-all-software.png -->
 - 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
 - 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
 - [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
-- [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
 - [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://i.ytimg.com/vi/Mc19pB784Us/maxresdefault.jpg -->
+
+### Live streams
+
+<!-- - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/hq720.jpg --> <!-- inactive since early 2025 -->
+- [ChaelCodes](https://www.twitch.tv/ChaelCodes): [Meet Another Day](https://github.com/ChaelCodes/MeetAnotherDay) and other open-source development <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
+- [pushcx](https://push.cx/stream): [Lobsters](https://lobste.rs/) development
+- [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
 
 ## Rails codebases to study
 
