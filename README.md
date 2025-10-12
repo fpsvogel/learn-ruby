@@ -30,8 +30,7 @@ Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/is
 - [Beyond web development](#beyond-web-development)
 - [Ruby media](#ruby-media)
   - [Chat / social media](#chat--social-media)
-  - [Blogs and newsletters](#blogs-and-newsletters)
-  - [Podcasts](#podcasts)
+  - [Blogs, newsletters, podcasts](#blogs-newsletters-podcasts)
   - ["Let's build" screencasts](#lets-build-screencasts)
   - [Topical screencasts](#topical-screencasts)
   - [Live streams](#live-streams)
@@ -372,24 +371,9 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
 - [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are of high quality. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
 
-### Blogs and newsletters
+### Blogs, newsletters, podcasts
 
 - [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs)
-
-### Podcasts
-
-- [Bike Shed](https://www.bikeshed.fm/) <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg -->
-- [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) <!-- https://podcast.drbragg.dev/images/podcast.jpeg -->
-- [Code with Jason](https://www.codewithjason.com/podcast) <!-- https://www.codewithjason.com/wp-content/uploads/2023/01/jason-300x300.jpeg -->
-- [IndieRails](https://www.indierails.com/) <!-- https://letslearnruby.com/images/indie-rails.webp -->
-- [Friendly Show](https://www.friendly.show/) <!-- https://storage.buzzsprout.com/zhyzuuam1vptl88kzpj22qnk8naa
-- [Maintainable](https://maintainable.fm/) <!-- https://maintainable.fm/images/maintainable-cover-robby-mid.jpg -->
-- [On Rails](https://onrails.buzzsprout.com/) <!-- https://storage.buzzsprout.com/78557u6tzo0eqjokvc5skiidkveo -->
-- [Remote Ruby](https://www.remoteruby.com/) <!-- https://storage.buzzsprout.com/variants/y355ibk4nfqsqu37yrvz8a6o63z1/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
-- [Rooftop Ruby](https://www.rooftopruby.com) <!-- https://storage.buzzsprout.com/variants/4ln9kmgzd7365e01mek8zsnnoyc7/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg -->
-- [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/), especially starting at [episode 372](https://www.therubyonrailspodcast.com/372) went they went independent, brought on co-hosts, and hired an editor. <!-- https://assets.fireside.fm/file/fireside-images/podcasts/images/e/ed4e373f-21b4-44bb-a2f3-630a56c17f71/cover_small.jpg -->
-- [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues) <!-- https://topenddevs.us-southeast-1.linodeobjects.com/7tb1xhkypftrpf3dwr83ztyccwte -->
-- [The Ruby Gems Podcast](https://www.buzzsprout.com/2509083) <!-- https://storage.buzzsprout.com/tn40v00w9sd9tw6gpg2m7un3ml09 -->
 
 ### "Let's build" screencasts
 
