@@ -70,8 +70,6 @@ Resources below marked with a dollar sign (💲) cost money. You may be able to 
   - A CLI (command-line interface) app. I made [one that gives statistics on a reading log](https://fpsvogel.com/posts/2021/my-first-ruby-app-lessons-learned). <!-- https://miro.medium.com/v2/resize:fit:774/1*PGxvXulYR1Zp3TPx7FjMsQ.png -->
   - A game. A text-based game is the most straightforward option, but [there are Ruby game engines](#beyond-web-development) for graphical games. <!-- https://letslearnruby.com/images/game.svg -->
   - A static site with [Bridgetown](https://github.com/bridgetownrb/bridgetown), which is simpler than building a web app with Rails. Maybe rebuild your blog? Be sure to [join the Bridgetown Discord server](https://discord.gg/Cugms94QFM). <!-- https://www.bridgetownrb.com/images/bridgetown-avatar.png -->
-- **Reference:**
-  - [x] [Ruby API](https://rubyapi.org). Since its search uses a query param, you can [add a search keyword to your browser](https://nedbatchelder.com/blog/202205/custom_search_keywords.html) so that you can quickly search from the address bar, for example `rb partition` would take you to [https://rubyapi.org/3.4/o/s?q=partition](https://rubyapi.org/3.4/o/s?q=partition) <!-- https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg -->
 
 ### Rails basics
 
