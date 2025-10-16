@@ -192,7 +192,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor) <!-- https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg -->
   - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [IntersecionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
+  - [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 
 <!-- TypeScript curiosities:
   - https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system
