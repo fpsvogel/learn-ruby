@@ -141,6 +141,7 @@ In addition to the topics below, it's also good to know the basic workings of th
 
 ### CSS
 
+<!-- https://github.com/micromata/awesome-css-learning -->
 - [x] [CSS Nouveau](https://www.spicyweb.dev/css-nouveau/1-vanilla-has-never-tasted-so-hot/) <!-- https://letslearnruby.com/images/spicy-web.png -->
 - [ ] 💲[Every Layout](https://every-layout.dev/)
 
@@ -152,6 +153,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [x] [What the heck is the event loop anyway?](https://youtube.com/watch?v=8aGhZQkoFbQ) <!-- https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg -->
   - [x] [The Modern JavaScript Tutorial - Browser: Document, Events, Interfaces](https://javascript.info/ui) <!-- https://javascript.info/img/site_preview_en_512x512.png -->
 - **Web components:**
+  <!-- https://github.com/web-padawan/awesome-web-components -->
   - [ ] [Web Components at Work](https://thomaswilburn.github.io/wc-book/)
   - [x] [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [ ] [Web Components: Working With Shadow DOM](https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/) and [web.dev - Declarative Shadow DOM](https://web.dev/articles/declarative-shadow-dom)
@@ -172,6 +174,7 @@ In addition to the topics below, it's also good to know the basic workings of th
     <!-- - too specific?: [Client Side Routing](https://jessedit.netlify.app/blog/client-side-routing), https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch, https://newsletter.unstacked.dev/p/dev-101-custom-javascript-signals
   -->
 - **TypeScript:**
+  <!-- https://github.com/itsdouges/awesome-typescript-ecosystem -->
   - [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
   - [x] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup) <!-- https://res.cloudinary.com/total-typescript/image/upload/v1676015688/core-volume_2x_wt7jnc.png -->
   - [ ] [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
