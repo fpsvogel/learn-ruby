@@ -30,10 +30,6 @@ Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/is
 - [Beyond web development](#beyond-web-development)
 - [Ruby media](#ruby-media)
   - [Chat / social media](#chat--social-media)
-  - [Blogs, newsletters, podcasts](#blogs-newsletters-podcasts)
-  - ["Let's build" screencasts](#lets-build-screencasts)
-  - [Topical screencasts](#topical-screencasts)
-  - [Live streams](#live-streams)
 - [Rails codebases to study](#rails-codebases-to-study)
 
 ## Preliminaries
@@ -371,44 +367,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - [Bluesky starter packs for Ruby developers](https://blueskystarterpack.com/ruby-developers) <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/543px-Bluesky_Logo.svg.png -->
 - [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
 - [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are of high quality. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
-
-### Blogs, newsletters, podcasts
-
-- [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs)
-
-### "Let's build" screencasts
-
-These are series using at least Rails 7.
-
-- [CJ Avilla - CreatorPlatform.xyz](https://www.youtube.com/watch?v=uuHtuR2FFS4&list=PLS6F722u-R6IJfBrIRx3a2SBkAL4vUp2p) <!-- https://i.ytimg.com/vi/uuHtuR2FFS4/maxresdefault.jpg -->
-- [Conner Jensen - learning management system](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/HDA9QiHgrsI/maxresdefault.jpg -->
-- [Conner Jensen - ecommerce app](https://www.youtube.com/watch?v=HDA9QiHgrsI) <!-- https://i.ytimg.com/vi/hURUMwdCWuI/maxresdefault.jpg -->
-- [HigherTheoryDev - Klipshow (streamer dashboard)](https://www.youtube.com/@HigherTheoryDev) <!-- https://yt3.googleusercontent.com/89gOKUS9a8QvQtNspIDjO2S1ORrsUpg7gmgFpKIiZscS102TCHnBRYSvCR1_qvuynoWg1Qhd=s160-c-k-c0x00ffffff-no-rj -->
-- [Ken Greeff - Luxury Stays (accommodation directory)](https://www.youtube.com/playlist?list=PLCWWDssV3NgzmIO6DBIjA7j8Th-vVMsnI) <!-- https://i.ytimg.com/vi/_S_BqFjpI30/hqdefault.jpg -->
-- [TypeFast - Tinysale (Gumroad clone)](https://www.youtube.com/playlist?list=PLCawOXF4xaJLcYMsWPqEKoOCDsr-xLv5J) <!-- https://i.ytimg.com/vi/SevRvvTkY78/hqdefault.jpg -->
-- [TypeFast - Airbnb clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJK1_-KVgXyREULRVy_W_1pe) <!-- https://i.ytimg.com/vi/D889P37r3bc/hqdefault.jpg -->
-- [TypeFast - Trello clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLgAlweneIHqQTUMiVquXaD) <!-- https://i.ytimg.com/vi/vcBdu3zkeV8/hqdefault.jpg -->
-- [TypeFast - Twitter clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJLb9HwPWiizGBNupJszY6bR) <!-- https://i.ytimg.com/vi/XxuPlSW4t6M/hqdefault.jpg -->
-- [TypeFast - Instagram clone](https://www.youtube.com/playlist?list=PLCawOXF4xaJIzmh3y8xxzGGYog9r3npOE) <!-- https://i.ytimg.com/vi/0ghpv0XZ4ZY/hqdefault.jpg -->
-- [Webcrunch - supplement sharing app](https://www.youtube.com/playlist?list=PL01nNIgQ4uxOhHYZd6THGIFVBALJZCcpM) <!-- https://i.ytimg.com/vi/uef6vBXyY0M/hqdefault.jpg -->
-
-### Topical screencasts
-
-<!-- - [Rapid Ruby ](https://www.youtube.com/@rapid-ruby/videos) --> <!-- not very active / too much AI -->
-<!-- - [Indigo Tech Tutorials](https://www.youtube.com/@indigotechtutorials/videos) --> <!-- maybe add in the future -->
-- [Deanin](https://www.youtube.com/@Deanin/videos) <!-- https://i.ytimg.com/vi/YWjA6gR_Lr8/hq720.jpg -->
-- 💲[Destroy All Software](https://www.destroyallsoftware.com/screencasts/catalog) <!-- https://letslearnruby.com/images/destroy-all-software.png -->
-- 💲[Drifting Ruby](https://www.driftingruby.com) <!-- https://letslearnruby.com/images/drifting-ruby.jpg -->
-- 💲[GoRails](https://gorails.com) <!-- https://letslearnruby.com/images/gorails.jpg -->
-- [SupeRails](https://www.youtube.com/@SupeRails/videos) <!-- https://i.ytimg.com/vi/csvaYIaBYpw/maxresdefault.jpg -->
-- [Webcrunch](https://www.youtube.com/@Webcrunch/videos) <!-- https://i.ytimg.com/vi/Mc19pB784Us/maxresdefault.jpg -->
-
-### Live streams
-
-<!-- - [Code with Jason Meetup](https://www.youtube.com/@codewithjason/videos) <!-- https://i.ytimg.com/vi/mWUpIH6wqaI/hq720.jpg --> <!-- inactive since early 2025 -->
-- [ChaelCodes](https://www.twitch.tv/ChaelCodes): [Meet Another Day](https://github.com/ChaelCodes/MeetAnotherDay) and other open-source development <!-- https://static-cdn.jtvnw.net/jtv_user_pictures/7d0747d3-6b95-495e-866f-8b7203a29554-profile_image-300x300.png -->
-- [pushcx](https://push.cx/stream): [Lobsters](https://lobste.rs/) development
-- [TenderlovesCoolStuff](https://www.youtube.com/@TenderlovesCoolStuff/streams) <!-- https://avatars.githubusercontent.com/u/3124?s=400 -->
+- [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs) for blogs, newsletters, podcasts, screencasts, and livestreams
 
 ## Rails codebases to study
 
