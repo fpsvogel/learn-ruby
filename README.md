@@ -339,6 +339,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - **Computer science:**
   - [Learn Computer Science](https://github.com/fpsvogel/learn-cs), my other list.
 - **Linux / command line:**
+  - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
   - [ ] [Linux Journey](https://linuxjourney.com/)
   - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
