@@ -54,7 +54,6 @@ Resources below marked with a dollar sign (💲) cost money. You may be able to 
   - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby), if you like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
   - [ ] [Eloquent Ruby, 2nd ed.](https://www.linkedin.com/posts/russolsen_im-thrilled-to-announce-that-brandon-weaver-activity-7310320740807888897-_w2f/?rcm=ACoAACJ6fHUBRp5BOTO2HiDVkkL1scMPO998sVA) (WIP)
-  - [ ] [Ruby Alchemy](https://alchemists.io/books/ruby_alchemy) (WIP)
 - **Guided practice:**
   - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [x] [Advent of Code](https://adventofcode.com) with other people's Ruby solutions to compare yours to. One way to do this is [my Advent of Ruby gem](https://github.com/fpsvogel/advent_of_ruby). <!-- https://letslearnruby.com/images/aoc.png -->
@@ -247,10 +246,10 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Advanced Ruby
 
-- **Reference:**
+- **Language features:**
+  - [ ] [Blended Ruby](https://alchemists.io/books) (WIP)
   - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
   - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
-  - [ ] [RuboCop security rules](https://docs.rubocop.org/rubocop/cops.html#department-security)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
