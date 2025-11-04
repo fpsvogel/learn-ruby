@@ -191,6 +191,21 @@ In addition to the topics below, it's also good to know the basic workings of th
   - https://mattrickard.com/typescript-type-system-hacks
 -->
 
+<!-- - [Alpine.js](https://alpinejs.dev/). Add [Alpine AJAX](https://alpine-ajax.js.org/) for functionality like i-html/htmx. <!-- https://avatars.githubusercontent.
+com/u/59030169?s=400 -->
+  <!-- Other Alpine plugins:
+        "Plugins" nav section at https://alpinejs.dev/start-here
+        https://github.com/markmead/alpinejs-form-validation
+        https://github.com/0wain/alpinejs-requests
+        https://github.com/ryangjchandler/alpine-clipboard
+        https://github.com/marcreichel/alpine-autosize
+        https://github.com/marcreichel/alpine-auto-animate
+        https://github.com/mvolkmann/alpine-plugins -->
+  <!-- Alpine reads:
+        https://awesomealpine.com
+        https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar#c_gjzjag
+  -->
+
 ### Usability
 
 - [ ] [Vercel - Web Interface Guidelines](https://vercel.com/design/guidelines)
