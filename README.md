@@ -348,7 +348,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] 💲[Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/)
   - [ ] 💲[Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
   - [ ] 💲[Designing Data-Intensive Applications, 2nd ed.](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
-  - [ ] [Google SRE book](https://sre.google/sre-book/table-of-contents/) and [workbook](https://sre.google/workbook/table-of-contents/). Related: 💲[Establishing SRE Foundations](https://www.amazon.com/Establishing-Foundations-Step-Step-Organizations/dp/0137424604), 💲[Real-World SRE](https://www.packtpub.com/en-us/product/real-world-sre-9781788628884), 💲[Brendan Gregg's books](https://www.brendangregg.com/books.html)
   - [ ] [Quastor newsletter](https://blog.quastor.org/). See also [archives](https://blog.quastor.org/archive), [older archives](https://drive.google.com/file/d/1U7EchvgzCjTtF5JzGVVCFgjXC-qw7lIG), [case studies archive](https://quastor.substack.com/archive)
 - **Computer science:**
   - [Learn Computer Science](https://github.com/fpsvogel/learn-cs), my other list.
