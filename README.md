@@ -346,19 +346,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [First Ruby Friend](https://firstrubyfriend.org/mentors)
 - **Computer science:**
   - [Learn Computer Science](https://github.com/fpsvogel/learn-cs), my other list.
-- **Linux / command line:**
-  - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-  - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
-  - [ ] [Linux Journey](https://linuxjourney.com/)
-  - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
-  - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-  - [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  - [ ] [Sundeep Agarwal - "Linux CLI and shell scripting" list](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
-  - [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
-  - [ ] 💲[Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391)
-  - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
-  - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
-  - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 
 ## Community
 
