@@ -152,6 +152,10 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] [Open Web Components (Lit) - Codelabs](https://open-wc.org/guides/developing-components/codelabs/) and [Code Examples](https://open-wc.org/guides/developing-components/code-examples/)
   - [ ] [Google - From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path) and [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
   - [ ] Explore source code of [Heartml Reciprocate](https://thathtml.blog/2025/09/reciprocate-reactivity-for-html-web-components/), [QuietUI](https://quietui.org/), [Web Awesome](https://webawesome.com/)
+- **Other vanilla JS:**
+  - [ ] Signals: [Ryan Carniato explains JavaScript Signals](https://www.youtube.com/watch?v=l-0fKa0w4ps), [alien-signals](https://github.com/stackblitz/alien-signals), [Preact Signals](https://github.com/preactjs/signals)
+  - [ ] [Declarative HTML binding with Signals](https://thathtml.blog/2025/08/declarative-html-binding-with-signals/)
+  - [ ] [nimble-html](https://thathtml.blog/2025/10/nimble-html-adds-great-dx-to-ui-components/)
 - **Build your own front-end framework:**
   - [ ] General: [Let's learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/), [Frontend framework](https://mfrachet.github.io/create-frontend-framework/), 💲[Build a Frontend Web Framework](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch)
   - [ ] React: [Implementing React From Scratch](https://www.rob.directory/blog/react-from-scratch), [Build your own React](https://pomb.us/build-your-own-react/), [Creating Our Own React From Scratch](https://itnext.io/creating-our-own-react-from-scratch-82dd6356676d), [Let's build a React from scratch](https://geekpaul.medium.com/lets-build-a-react-from-scratch-part-1-virtualdom-and-renderer-14f4f716de62)
@@ -182,7 +186,7 @@ In addition to the topics below, it's also good to know the basic workings of th
 - **New web APIs:**
   - [View Transitions](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [Speculation Rules](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
-  - [command and commandfor](https://developer.chrome.com/blog/command-and-commandfor) <!-- https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg -->
+  - [Invoker Commands](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [Popover](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
   - [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) <!-- https://upload.wikimedia.org/wikipedia/commons/9/98/MDN_Web_Docs.svg -->
 
