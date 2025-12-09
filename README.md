@@ -27,9 +27,10 @@ Notice a broken link? [Open an issue!](https://github.com/fpsvogel/learn-ruby/is
 - [Advanced Ruby and Rails](#advanced-ruby-and-rails)
   - [Advanced Ruby](#advanced-ruby)
   - [Advanced Rails](#advanced-rails)
-- [Ruby that is not web development](#ruby-that-is-not-web-development)
-- [Community](#community)
-- [Rails codebases to study](#rails-codebases-to-study)
+- [Miscellaneous](#miscellaneous)
+  - [Community](#community)
+  - [Ruby that is not web development](#ruby-that-is-not-web-development)
+  - [Rails codebases to study](#rails-codebases-to-study)
 
 ## Preliminaries
 
@@ -329,21 +330,9 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [Perfecting Your Rails Forms](https://alexbarret.com/blog/2024/perfecting-your-rails-form-part-1/)
   - [ ] 💲[Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
 
-## Ruby that is not web development
+## Miscellaneous
 
-- 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-<!-- Keep an eye on https://github.com/hadashiA/MRubyCS because it could enable Ruby scripting in any game engine that supports C#, though there may be a wrinkle: https://news.ycombinator.com/item?id=43467382 -->
-- [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
-<!-- Older text-based game libraries:
-<!--     https://github.com/jaywengrow/tuvi
-<!--     https://github.com/MikeTaylor/scottkit
-<!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
-- [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
-- [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
-- [Ronin](https://ronin-rb.dev/) for security development <!-- https://ronin-rb.dev/images/logo.svg -->
-- Scripting and text processing: [Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/), [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp), 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
-
-## Community
+### Community
 
 - [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs) for blogs, newsletters, podcasts, screencasts, and livestreams
 - [Bluesky starter packs for Ruby developers](https://blueskystarterpack.com/ruby-developers) <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/543px-Bluesky_Logo.svg.png -->
@@ -353,7 +342,21 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 - Reddit: [r/ruby](https://www.reddit.com/r/ruby) and [r/rails](https://www.reddit.com/r/rails) <!-- https://letslearnruby.com/images/reddit.svg -->
 - [Slack: Ruby on Rails Link](https://www.rubyonrails.link/) <!-- https://www.rubyonrails.link/assets/railslink-icon-10c1d749590f731efcb92fc4ffb599a6171cfd89e2eb2080b925d247060017db.png -->
 
-## Rails codebases to study
+### Ruby that is not web development
+
+- 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [Gosu](https://www.libgosu.org/), [Raylib Ruby](https://www.raylib-ruby.com/), [MiniGL](https://github.com/victords/minigl), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+- [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
+- [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
+- [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
+- [Ronin](https://ronin-rb.dev/) for security development <!-- https://ronin-rb.dev/images/logo.svg -->
+- Scripting and text processing: [Ruby One-Liners Guide](https://learnbyexample.github.io/learn_ruby_oneliners/), [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp), 💲[Text Processing with Ruby](https://pragprog.com/titles/rmtpruby/text-processing-with-ruby) <!-- https://learnbyexample.github.io/learn_ruby_oneliners/images/ruby_oneliners.png -->
+<!-- Keep an eye on https://github.com/hadashiA/MRubyCS because it could enable Ruby scripting in any game engine that supports C#, though there may be a wrinkle: https://news.ycombinator.com/item?id=43467382 -->
+<!-- Older text-based game libraries:
+<!--     https://github.com/jaywengrow/tuvi
+<!--     https://github.com/MikeTaylor/scottkit
+<!--     + https://github.com/MikeTaylor/scottkit/blob/master/docs/tutorial.md -->
+
+### Rails codebases to study
 
 I've chosen the codebases below based on a these criteria:
 
