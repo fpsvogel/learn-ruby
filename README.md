@@ -267,22 +267,17 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Advanced Ruby
 
-- **Language features:**
-  - [ ] [Blended Ruby](https://alchemists.io/books) (WIP)
-  - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
-  - [ ] [RuboCop performance rules](https://github.com/rubocop/rubocop-performance)
 - **Concurrency:**
   - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
   - [ ] [JP Camara - series on concurrency, parallelism and asynchronous programming in Ruby](https://jpcamara.com/2024/06/04/your-ruby-programs.html)
   - [ ] [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/intro.html)
   - [ ] Explore gems: [async](https://github.com/socketry/async), [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby), [parallel](https://github.com/grosser/parallel)
-- **Ruby internals:**
+- **Miscellaneous:**
+  - [ ] [Blended Ruby](https://alchemists.io/books) (WIP)
+  - [ ] [Victor Shepelev (zverok) - The Ruby Reference](https://rubyreferences.github.io/rubyref/) plus [Ruby Changes](https://rubyreferences.github.io/rubychanges/3.0.html) (covering Ruby 3+). [Ruby Evolution](https://rubyreferences.github.io/rubychanges/evolution.html) is also great.
+  - [ ] [RuboCop performance rules](https://docs.rubocop.org/rubocop-performance/cops.html)
   - [ ] 💲[Ruby Under a Microscope](https://patshaughnessy.net/2025/1/28/updating-ruby-under-a-microscope) (WIP)
-  - [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
-<!-- - **Miscellaneous:** -->
-  <!-- - [x] [Avdi Grimm - Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) <!-- https://pragprog.com/titles/agcr/confident-ruby/agcr_hucf967c33f389130ab619766a81118218_436632_375x0_resize_q75_box.jpg -->
-  <!-- - [ ] Property-based testing with [PropCheck](https://github.com/Qqwy/ruby-prop_check) and [PBT](https://github.com/ohbarye/pbt) -->
 
 ### Advanced Rails
 
