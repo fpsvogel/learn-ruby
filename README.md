@@ -129,7 +129,9 @@ In addition to the topics below, it's also good to know the basic workings of th
 - [x] [Git Katas](https://github.com/eficode-academy/git-katas)
 - [x] [The Git Parable](https://youtube.com/watch?v=ANNboouhNHE) <!-- https://i.ytimg.com/vi/jm7QsI-nNjk/hqdefault.jpg -->
 <!-- - **Git internals:**
+  - [ ] [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
   - [ ] [thoughtbot - Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
+  - [ ] Others: [1](https://wyag.thb.lt), [2](https://www.leshenko.net/p/ugit), [3](https://tonystr.net/blog/git_immitation)
   - [ ] 💲[Building Git](https://shop.jcoglan.com/building-git)
   - [ ] ["Git Internals" chapter of Pro Git](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) <!-- https://m.media-amazon.com/images/I/417jkTBWA3L._SX342_SY445_PQ78_.jpg -->
 
