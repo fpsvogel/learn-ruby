@@ -297,7 +297,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [x] 💲[Noah Gibbs - Rebuilding Rails](https://noahgibbs.gumroad.com/l/rebuilding_rails) <!-- https://public-files.gumroad.com/84806cmcnanyrmtnxfxvruodap1n -->
 - **Architecture:**
   - [x] 💲[Layered Design for Ruby on Rails Applications](https://www.packtpub.com/product/layered-design-for-ruby-on-rails-applications/9781801813785) <!-- https://m.media-amazon.com/images/I/41MAUvi--4L.jpg -->
-  - [ ] 💲[Modular Rails: Architecture for the Long Game](https://davidslv.uk/modular-rails/) <!-- https://m.media-amazon.com/images/I/51204bXr7tL._SY522_.jpg -->
 - **Background jobs:**
   - [x] [Sidekiq wiki](https://github.com/sidekiq/sidekiq/wiki)
   - [x] [How does Sidekiq work?](https://www.mikeperham.com/how-sidekiq-works) <!-- https://avatars.githubusercontent.com/u/124714131?s=400 -->
@@ -345,7 +344,6 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 ### Ruby that is not web development
 
 - 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [GMR](https://github.com/ColdGlassOMilk/GMR), [Gosu](https://www.libgosu.org/), [Hokusai](https://hokusai.skinnyjames.net/)/[Hokusai Pocket](https://github.com/skinnyjames/hokusai-pocket), [MiniGL](https://github.com/victords/minigl), [mruby-cute](https://github.com/pusewicz/mruby-cute), [Raylib Ruby](https://www.raylib-ruby.com/), [Reight](https://github.com/xord/reight), [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
-- [Building Your Own Roguelike](https://davidslv.uk/books/vanilla-roguelike/). See also [PZDC dungeon 2](https://github.com/krillan49/PZDC_dungeon_2), ["Ruby" at RogueBasin](https://www.roguebasin.com/index.php/Ruby). <!-- https://m.media-amazon.com/images/I/81yCiQvErDL._SY522_.jpg -->
 - [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples). <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
 - [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
 - [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
