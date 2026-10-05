@@ -57,7 +57,7 @@ Initially I looked into full-stack JS, but the JS ecosystem was confusing to me 
   - [x] [The Odin Project - Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) <!-- https://avatars.githubusercontent.com/u/4441966?s=400 -->
   - [x] [GoRails - Ruby for Beginners](https://gorails.com/series/ruby-for-beginners) if you prefer videos. <!-- https://letslearnruby.com/images/gorails.jpg -->
   - [x] [Try Ruby](https://try.ruby-lang.org/) and [BigBinary Academy](https://academy.bigbinary.com/learn-ruby), if you like an interactive approach. <!-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2009/08/chunky_bacon.jpg -->
-  - [ ] [Eloquent Ruby, 2nd ed.](https://pragprog.com/titles/eruby2/eloquent-ruby-second-edition) (beta)
+  - [x] [Eloquent Ruby, 2nd ed.](https://pragprog.com/titles/eruby2/eloquent-ruby-second-edition) if you prefer a book.
 - **Guided practice:**
   - [x] [Exercism - Ruby](https://exercism.org/tracks/ruby) <!-- https://avatars.githubusercontent.com/u/5624255?s=400 -->
   - [x] [Advent of Code](https://adventofcode.com) with other people's Ruby solutions to compare yours to. One way to do this is [my Advent of Ruby gem](https://github.com/fpsvogel/advent_of_ruby). <!-- https://letslearnruby.com/images/aoc.png -->
@@ -328,7 +328,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Community
 
-- [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs) for blogs, newsletters, podcasts, screencasts, and livestreams
+- [Awesome Ruby Blogs](https://github.com/Yegorov/awesome-ruby-blogs) for blogs, newsletters, podcasts, screencasts, and livestreams.
 - [Bluesky starter packs for Ruby developers](https://blueskystarterpack.com/ruby-developers) <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/543px-Bluesky_Logo.svg.png -->
 - [Discord: Ruby](https://discord.com/invite/ruby-518658712081268738) <!-- https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png -->
 - [Lobsters](https://lobste.rs/) is not Ruby-specific, but it's a way to widen your horizons and the discussions are of high quality. It's like Hacker News but smaller and more focused on programming. <!-- https://letslearnruby.com/images/lobsters.png -->
