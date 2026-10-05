@@ -307,16 +307,10 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
   - [ ] [RorVsWild blog](https://www.rorvswild.com/blog/) is largely about performance
   - [ ] 💲[Nate Berkopec - The Complete Guide to Rails Performance](https://www.railsspeed.com/)
   - [ ] 💲[Nate Berkopec - The Ruby on Rails Performance Apocrypha](https://www.speedshop.co/2021/01/14/announcing-apocrypha.html)
-  - [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/) (not Rails-specific)
   - [ ] 💲[Rails Scales!](https://pragprog.com/titles/cprpo/rails-scales/)
-- **PostgreSQL:**
-  - [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
-  - [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
+- **PostgreSQL and Rails:**
   - [ ] 💲[High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/)
   - [ ] Blog posts on Rails + Postgres: [lots on Paweł Urbanek's blog](https://pawelurbanek.com/blog), [this one at Honeybadger](https://www.honeybadger.io/blog/rails-postgresql-queries/), [this one at thoughtbot](https://thoughtbot.com/blog/advanced-postgres-performance-tips).
-  - [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
-  - [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
-  - [ ] [PostgreSQL docs](https://www.postgresql.org/docs/current/)
 - **SQLite:**
   - [ ] 💲[SQLite on Rails](https://fractaledmind.gumroad.com/l/sqlite-on-rails)
 - **Deployment:**
