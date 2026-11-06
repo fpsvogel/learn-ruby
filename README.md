@@ -194,6 +194,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   - [ ] [Open Web Components (Lit) - Codelabs](https://open-wc.org/guides/developing-components/codelabs/) and [Code Examples](https://open-wc.org/guides/developing-components/code-examples/)
   - [ ] [Google - From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path) and [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs)
   - [ ] Explore source code of [Heartml Reciprocate](https://thathtml.blog/2025/09/reciprocate-reactivity-for-html-web-components/), [QuietUI](https://quietui.org/), [Web Awesome](https://webawesome.com/)
+  - [ ] 💲[Web Components Demystified](https://scottjehl.com/learn/webcomponentsdemystified/) <!-- own -->
 - **Other vanilla JS:**
   - [ ] Signals: [Ryan Carniato explains JavaScript Signals](https://www.youtube.com/watch?v=l-0fKa0w4ps), [alien-signals](https://github.com/stackblitz/alien-signals), [Preact Signals](https://github.com/preactjs/signals)
   - [ ] [Declarative HTML binding with Signals](https://thathtml.blog/2025/08/declarative-html-binding-with-signals/)
