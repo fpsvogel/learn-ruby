@@ -276,8 +276,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 ### Advanced Ruby
 
 - **Concurrency:**
-  - [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
-  - [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+  - [ ] [Jesse Storimer - Working with Unix Processes, Working with Ruby Threads](https://web.archive.org/web/20260809035820/https://workingwithruby.com) (available for [download](https://web.archive.org/web/20260715044340/https://workingwithruby.com/downloads))
   - [ ] [Ruby Concurrency: What Actually Happens](https://paolino.me/ruby-concurrency-what-actually-happens)
   - [ ] [JP Camara - series on concurrency, parallelism and asynchronous programming in Ruby](https://jpcamara.com/2024/06/04/your-ruby-programs.html)
   - [ ] [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/intro.html)
